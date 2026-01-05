@@ -1,0 +1,6 @@
+
+embeddings/
+models/
+*.gguf
+*.npy
+*.parquet
