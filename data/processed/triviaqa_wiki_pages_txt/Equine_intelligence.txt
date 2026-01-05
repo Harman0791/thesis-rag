@@ -1,0 +1,351 @@
+Equine intelligence, long described in myths and anecdotes, has been the subject of scientific study since the early 20th century. The worldwide fascination for clever horses, such as Clever Hans, gave rise to a long-running controversy over the cognitive abilities of horses. The discovery of the Clever Hans effect, followed by the development of ethological studies, has progressively revealed a high level of social intelligence evident in  horse's behavior. The scientific discipline that studies equine cognition, at the crossroads of ethology and animal psychology, is cognitive ethology.
+Although the existence of consciousness among horses is yet to be proven, their remarkable memory has been recognized for centuries. Because of their wild herd lifestyle, horses also exhibit advanced cognitive abilities related to the theory of mind, enabling them to understand interactions with other individuals. They can recognize a human by their facial features, communicate with them through body language, and learn new skills by observing a person's behavior. Horses are also adept at categorizing and conceptual learning. In terms of working intelligence, horses respond well to habituation, desensitization, classical conditioning, and operant conditioning. They can also improvise and adapt to suit their rider. Understanding how horses' cognitive abilities function has practical applications in the relationship between domesticated horses and humans, particularly in areas such as training, breeding, and day-to-day management, which can ultimately improve their well-being.
+The perception of horse intelligence varies across cultures. This intelligence is often portrayed as human-like in tales and legends about wise, talking horses, such as the Kyrgyz epic Er-Töshtük and the Russian tale of The Little Humpbacked Horse, as well as in novels, films, comics, and series for young people, including The Black Stallion, Jolly Jumper, and Black Beauty.
+
+
+== History ==
+The horse has played an important socio-economic role across various historical periods, serving humans in labor, combat, sports, therapy, consumption, and religious practices. However, the intrinsic qualities of horses have sometimes been overlooked, with a variety of cultural narratives and perceptions surrounding them. Humans have shown interest in horses since prehistoric times, prior to their domestication, and horses have inspired written works since antiquity. Vanina Deneux-le Barh observes a recurring theme in equestrian literature, both technical and literary: humans can train horses to become skilled fighters. This suggests that, in their shared lives with humans, horses are believed to demonstrate situational intelligence.
+Many equestrian authors have expressed a desire for horses to demonstrate intelligence and dedication to work. Despite this, horses have often been subjected to harsh treatment. The oldest known equestrian treatise, written by Kikkuli of the kingdom of Mittani in the 14th century BC, is an instruction manual for the training of chariot horses. This text is characterized by its stringent selection methods.
+
+Xenophon (430-355 B.C.), the first European author whose equestrian writings have survived, frequently discussed horses in his works. He recognized situational intelligence in warhorses of Athens and strongly advocated against using violence in training:
+
+What a horse does by force it does not learn, and that cannot be beautiful, any more than if one wanted to make a man dance with a whip and a goad: ill-treatment will never produce anything but clumsiness and bad grace.
+
+
+=== From the Middle Ages to modern times ===
+
+A significant portion of medieval technical literature consists of treatises on veterinary care. Arab and Muslim scholars made notable contributions to the knowledge of equine medicine, education, and training, in part due to the contributions of the translator Ibn Akhî Hizâm, who wrote around 895, and Ibn al-Awam, who advocated for non-violent training methods and pioneered the application of habituation methods.
+There are historical accounts of horses reported to be extraordinarily intelligent, such as the Catalan knight Giraud de Cabrières' horse, described by the medieval English chronicler Gervais de Tilbury as both refined and invincible in races, capable of dancing, and even advising its knight and helping him in his victories by communicating with him through a secret language. Similarly, the English horse Marocco (c. 1586–1606), nicknamed "The Thinking Horse" or "The Talking Horse," was trained and performed in public shows.
+During the Renaissance, the printing press revolutionized the production and dissemination of equestrian literature. Writings primarily focused on methods to achieve obedience and maneuverability in horses. The Italian horseman Federico Grisone, for instance, promoted the use of physical punishment to control horses he considered difficult to train.
+With the rise of philosophical debates in France, René Descartes' concept of the "animal machine" contrasted with Michel de Montaigne's perspective, which viewed animals as possessing intelligence and virtues. Antoine de Pluvinel, influenced by Xenophon, acknowledged the sensitivity, individuality, and psychology of horses, emphasizing the importance of understanding the brain. François Robichon de La Guérinière (1733) also recognized a form of intelligence in horses, noting that some horses exhibited challenging behaviors or appeared indecisive. According to Sophie Barreau and zootechnician-sociologist Jocelyne Porcher, Guérinière was among the first to reject harsh methods, prioritizing the horse's cooperation over submission.
+
+
+=== In the 19th century ===
+
+From the 19th century onwards, numerous equestrian treatises acknowledged the intelligence of horses. People who interacted with horses daily observed their ability to communicate and their sensitivity. The era's interest in animal intelligence was reflected in the organization of numerous horse-focused performances, which became a common circus feature during the mid-19th century, especially at Victor Franconi's circus, which was inaugurated in Paris in 1845. In 1868, the Spanish writer Carlos Frontaura observed the "great intelligence" (gran inteligencia) of the horses pulling Parisian omnibuses, praising their initiative.
+François Baucher included a detailed discussion of the term "intelligence" where he expressed his firm belief in the horse's intelligence:
+
+The horse has perception as it has sensation, comparison, and memory: therefore it has judgment and memory; therefore it has intelligence [...]
+The structured training system promoted by Baucher emphasized engaging with the horse's intelligence. Similarly, zoologist Ernest Menault also recognized "signs of intelligence" in horses, though his observations were less grounded in scientific evidence. Gustave Le Bon was one of the early researchers in horse psychology, and his 1892 equestrian treatise acknowledged the horse's intellectual abilities.
+According to Jocelyne Porcher, 19th- and 20th-century zootechnicians applied the "animal machine" hypothesis to horses, drawing on the ideas of René Descartes, Nicolas Malebranche, and Francis Bacon. This perspective held that horses could not think, feel pain, or possess consciousness and emotions. Social pressures discouraged researchers from challenging these views, as their findings might not be well received, given that the "animal machine" concept was easier to defend in the context of industrialized farming practices. In 1892, T. B. Redding reported on a societal divide: some attributed intelligence and reason to horses, while others dismissed their actions as purely instinctual.
+Additionally, misconceptions persisted. One of the most widely disputed misconceptions, according to equestrian journalist Maria Franchini, was the belief—circulating since at least 1898—that a horse's obedience stems from seeing humans as seven times taller than they actually are.
+
+
+=== The worldwide popularity of "Learned Horses" ===
+Until the mid-20th century, discussions about animal intelligence were framed through ontological comparison with human cognition. In 1901, French military veterinarian Adolphe Guénon published a comparative psychology study titled L'Âme du cheval, where he characterized the horse's brain as relatively simple compared to that of humans. Starting in the late 19th century, there was a global interest in animals believed to demonstrate intelligence. These horses, described as "calculating," were equipped with specially designed tools—such as cubes, sticks, and boards—and demonstrated patience in performing tasks.
+
+Numerous journalists wrote articles about the intelligence of horses. In 1904, C. Mader questioned the view of the horse as a "living machine". In 1912, Remy de Gourmont commented on the growing fascination with horse intelligence in a society that had previously considered horses to be of average intellect at best. In 1913, a writer for The New York Times published an article asking whether horses were capable of "thinking".
+The case of Clever Hans (German: Kluger Hans) is a notable example of this interest. This black horse, raised in Germany, became an international sensation in the early 20th century due to his supposed ability to solve complex arithmetic problems by tapping his hoof to indicate answers:
+
+Crowds flock daily to the inner courtyard of Griebenow Street in northern Berlin, where his master puts him to work, to witness the extraordinary performance of the one who would henceforth be known as "Clever Hans".
+Belgian philosopher Vinciane Despret notes the prolonged scientific debate sparked by Hans's abilities, questioning whether horses possess conceptual intelligence. German psychologist Oskar Pfungst later revealed that Hans was not actually calculating but was instead highly attuned to human body language, stopping his hoof taps when he detected subtle cues. This discovery contributed to the development of the Clever Hans Effect.
+Another notable example is Beautiful Jim Key, a horse which was trained to perform complex tasks and gained widespread fame in the early 20th century. Similarly, the case of the mare Lady Wonder sparked a debate about whether horses could communicate telepathically with humans. Despite doubts, some individuals continued to believe in equine telepathy well into the 1970s.
+
+
+=== Implications of the Clever Hans case for equine cognition research ===
+
+Dutch primatologist and ethologist Frans de Waal discusses the relevance of Morgan's Canon—a scientific principle stating that animal behavior should not be attributed to higher mental faculties if it can be explained by simpler processes—illustrated by the case of Clever Hans. According to Jocelyne Porcher, Morgan's Canon had a lasting impact on research into animal cognition.
+De Waal also observes that the experiments on Hans were interpreted in ways that undermined his intelligence, even though the experiments demonstrated his ability to read and interpret human body language. Ethologist Léa Lansade emphasizes that, at the time and up until the 1960s, animals were considered "intelligent" only if they demonstrated human-like abilities—such as calculating or learning sign language—even though these skills were not necessarily aligned with their natural behaviors.
+The Clever Hans case had a significant impact on subsequent studies of animal cognition, contributing to the adoption of more rigorous experimental protocols. As Deneux-Le Barh notes, "experimental sciences aim to minimize the influence of the mètis (cunning intelligence) of the individuals being studied."
+In the first half of the 20th century, research was primarily focused on behaviorism. Over time, this field divided into two main currents: ethology and cognitive animal psychology, which later converged into cognitive ethology.
+
+
+=== Highlighting the cognitive faculties of the horse ===
+
+The behaviorist hypothesis that horses are merely "machines" reacting to stimuli has been critically reassessed, partly due to Maurice Hontang's Psychology of the Horse (1954) and subsequent scientific studies.  Early research in equine ethology began with Pearl Gardner in the 1930s, where horses were initially tested under controlled conditions commonly used for laboratory animals, using mechanisms that granted access to food. These experiments were later refined, incorporating visual discrimination tasks and maze tests to evaluate learning abilities.
+Recent studies have shown that horses do not simply follow "pre-programmed routines" but engage in cognitive processes to solve problems, indicating cognitive flexibility. The number of scientific publications on animal intelligence has increased steadily since the 2000s, particularly as cognitive ethology began including horses among its subjects of study.
+
+
+=== Knowledge still incomplete ===
+Despite these advancements, there are still gaps in knowledge about equine mental faculties. In 2022, psychologist and neuroscientist Michel-Antoine Leblanc observed significant gaps in research, noting the relatively small number of scientific publications, particularly before 2005. Many earlier studies were anecdotal or speculative rather than systematic.
+Horses have been the subject of less research compared to other species. While primates have benefited from groundbreaking studies like those of Jane Goodall, and dogs are the primary focus among domestic animals, equine cognition has been less studied by comparison. In 2016, researchers Lauren Brubaker and Monique A.R. Udell noted that studies on rat cognition outnumber those on horse cognition by a factor of seven. The question of whether horses possess consciousness remains unresolved.
+In 2023, Éditions Quæ published the first book dedicated to the intelligence of working horses. Jocelyne Porcher emphasized the potential insights gained from observing animals in work-related contexts, a field long overlooked by researchers despite its potential to reveal complex cognitive abilities.
+
+
+== Definition of equine intelligence ==
+
+Michel-Antoine Leblanc highlights the long-standing debate over equine intelligence, which has generated a range of responses. He notes that there is no singular or unambiguous definition of intelligence, particularly when applied to horses. Historian and journalist Stephen Budiansky discusses the broader question of how intelligence itself is defined, as its meaning has evolved over time. Jocelyne Porcher and Sophie Barreau emphasized the importance of originality in behavioral responses as a characteristic of intelligence, distinguishing it from simple conditioned reactions. Instinctual behaviors in horses, such as fighting biting insects or seeking cooler areas during hot weather, are sometimes interpreted as signs of intelligence.
+Modern interpretations of intelligence focus on the ability to solve problems, establish relationships between elements, and assimilate new information, rather than merely demonstrating good memory. Jocelyne Porcher underscores the subjective nature of these assessments, noting that horses possess "the intelligence that researchers are willing to attribute to them", as it is researchers who define the experimental conditions and cognitive tests. As human evaluators, researchers inherently influence the interpretation of equine cognition, particularly in comparisons with other mammal species.
+To navigate these definitional challenges, some researchers, including Michel-Antoine Leblanc and Léa Lansade, focus on describing horses' cognitive processes without attempting to quantify their intellectual performance. Leblanc rejects efforts to measure an intelligence quotient (IQ) equivalent for horses, as well as attempts to determine whether horses are "more" or "less" intelligent than other species like dogs or cats. Horses, as herbivorous prey animals, exhibit cognition and behavior that present different scientific questions compared to carnivorous domestic species like dogs and cats.
+
+
+=== Intelligence studied through interaction with humans ===
+Among domestic animals, horses hold a unique position. Their modern domestic lifestyle differs significantly from that of their wild ancestors, while their intensive training for roles in sport, work, or companionship involves learning tasks far removed from their natural instincts—for instance, a movie horse learning to simulate death. Beyond suppressing their innate flight responses in frightening situations, horses are trained to communicate and cooperate with humans, a species they might naturally associate with predators. Authors like Alexis L'Hotte, François Baucher, Alois Podhajsky, and Nuno Oliveira suggest that intelligence in equestrian work is closely associated with affectivity and mutual understanding:
+
+Two living beings who are asked to collaborate harmoniously must understand each other to achieve a result.
+A survey conducted in France by sociologist Vanina Deneux-le Barh, involving 800 professionals in the equestrian sector and published in 2021 and 2023, reveals that equestrian professionals often describe their horses as "partners". These professionals highlight situational intelligence in horses, recognizing their ability to adapt and take initiative. Notably, the mental demands placed on horses often correspond to the complexity of their tasks.
+Respondents also stressed the importance of rewarding horses to foster cooperation and nurture their intelligence. Equine intelligence often reflects the skills and methods of their trainers, particularly when conditioning and positive reinforcement align with the horse's natural inclinations.
+
+The outcomes of horse-human collaboration highlight both the physical and cognitive contributions of horses to their activities. Deneux-le Barh describes equestrian disciplines as communities of practices that highlight the recognition of equine subjectivity and intelligence:
+
+Driving, dressage, western riding, and so on, are disciplines that require not only exceptional mastery of each movement but also a synthetic and immediate understanding of the messages of the driver or rider.
+Horses demonstrate intelligence through isopraxis—their ability to subtly perceive and respond to the movements of their riders. Furthermore, studies on equine cognition suggest that familiarity with humans or other partners may influence how a horse's cognitive abilities are expressed.
+
+
+=== Conditions of experience and limits ===
+Like all mammals, horses construct their understanding of the world through sensory information. However, their sensory perception and understanding of the world differ from that of humans. Any evaluation of equine intelligence should consider their unique perceptual capacities.
+
+Horses are sometimes studied under experimental conditions suited to their species. Both Budiansky and Leblanc suggest that comparing the intelligence of different species may reflect cultural biases and may not fully account for differences in sensory perception and physical capabilities. For instance, while horses are sometimes considered "less intelligent" than octopuses or equated with the intelligence of three-year-old children, comparisons with octopuses often overlook the differences in their anatomical adaptations, particularly regarding their ability to manipulate objects:
+Another major limitation in cognitive studies is the insufficient consideration of the horse's emotional state. Stress or discomfort can negatively influence performance in experiments. Ethologist Martine Hausberger and her team highlight the impact of living conditions on cognitive outcomes, noting that horses subjected to poor living conditions tend to exhibit diminished cognitive abilities.
+Earlier studies, especially those conducted before the 2000s, did not always account for the potential influence of prior learning on experimental outcomes.
+Although anthropomorphism has traditionally been viewed as inappropriate, it can occasionally help in understanding horses' cognitive abilities through comparisons with human behavior. However, attributing human-like emotions and reasoning to horses—such as jealousy or premeditated malice—may oversimplify their behaviors.
+
+
+=== Factors influencing cognitive performance in horses ===
+
+Leblanc also points out that expressions of intelligence can vary greatly within the same individual and species, depending on factors such as social preferences or the ability to engage in abstract thinking. There is no evidence to suggest that horses dominant in the social hierarchy are more intelligent than other members of their group. Young horses tend to demonstrate more investigative behavior (curiosity) and interact more with test devices than older horses, which may influence their learning in certain contexts. In addition to age, a lower hierarchical rank may be a factor that promotes learning, potentially due to reduced neophobia.
+
+
+=== Breed differences ===
+
+There are very few comparative studies on equine intelligence by breed, but Budiansky suggests that the American Quarter Horse might perform differently from the Thoroughbred. This hypothesis is consistent with the findings of Lindberg et al., who propose that cold-blooded horses (such as ponies and draft horses) may complete conditioning tasks faster than hot-blooded horses such as the Thoroughbred and the Arabian. In 1933, L. P. Gardner concluded that the Belgian Draft horse, under certain conditions, learned tasks more quickly than the Percheron.
+Many older and more recent studies describe the Arabian as a breed with certain cognitive traits that are sometimes perceived as more 'intelligent' compared to other breeds. This view is expressed in The Illustrated Horse Management by Edward Mayhew, published in 1864:
+
+The Arab horse is undoubtedly the most beautiful and the most intelligent specimen of its race.
+French veterinarian Alexandre-Bernard Vallon (1863) considered oriental horses, such as the Arabian and the Barb, to be more intelligent than those of "common breeds." Maurice Hontang notes that the Arabian and Thoroughbred have been bred for their competitive nature, which might contribute to their psychological differences.
+
+
+== The Horse's Brain ==
+As with other large mammals, the horse's brain regulates its nervous system, processing perceptions to help the animal respond to them. The brain has an ovoid shape, with a length greater than its width, and contains numerous tightly packed gyri. Some studies suggest that the right cerebral hemisphere may be more involved in processing communication signals, while the left cerebral hemisphere may play a greater role in categorization stimuli.
+The brain of an adult horse weighs approximately 510 grams; however, brain size relative to body size is not considered a definitive factor in measuring intelligence. The encephalization quotient (EQ) for horses is 0.9%
+
+
+== Cognitive abilities of horses ==
+As riding instructor Nicolas Blondeau observes, a horse possesses learning and adaptation abilities that enable them to acquire new skills. Training enables horses to acquire specific skills through repeated practice and reinforcement. Horses display intelligence in solving various daily tasks, such as finding food and managing social interactions. Discriminative learning is an important aspect to assess when studying horse cognition, as it provides insights into their abilities and contributes to understanding other cognitive domains.
+
+The ability to learn conspecifically (by observing other horses) was long unknown, until it was demonstrated in 2008.
+
+
+=== Horse problem solving performance ===
+Domestic horses, which live in controlled environments and are trained to perform specific tasks, are often tested in problem-solving contexts, but direct comparisons to  wild horses are limited.
+Budiansky suggests that, compared to some other species, horses may not be as adept at problem-solving. Some studies suggest that carnivores and primates may perform better in certain problem-solving tasks, such as avoiding obstacles. He also hypothesizes that differences between carnivores and herbivores, such as evolutionary adaptations, might influence their performance in these tasks. Herbivores, such as horses, may approach problem-solving differently from carnivores due to their distinct evolutionary behaviors. Veterinarian Robert M. Miller suggests that horses are capable of making decisions when faced with challenging situations.
+Ethnologist María Fernanda de Torres Álvarez suggests that working relationships may allow horses to apply their cognitive abilities to solve practical problems. She cites the example of Camargue horses, which, when used for cattle work, are reported to help manage the situation by responding to their rider's cues and adjusting their actions. According to some observations, horses demonstrate problem-solving abilities in contexts where they need to find solutions to tasks. Budiansky notes that horses tend to perform at an average level in most maze tests. The learning performance of horses in maze tests has been found to be similar to that of other species, including tropical fish, octopuses, and guinea pigs, in some studies. Maria Franchini points out that rats, being subterranean animals, may be better suited to navigating maze-like environments, which could explain some of the differences in performance compared to horses, which naturally inhabit more open spaces.
+
+
+=== Horse performance in maze tests ===
+
+According to Budiansky, horses tend to perform at an average level in most maze tests. These tests typically involve a "T" or "Y" shaped maze with two options: one leading to a dead end and the other leading to food, water, or social contact with other horses. The horse cannot see the end of either branch of the maze in advance. The performance of horses in these tests is generally similar to that of tropical fish, octopuses, and guinea pigs. In the experiment cited by Budiansky, 20% of the horses made errors in finding the exit even after five trials.
+Maria Franchini points out that while rats tend to perform better than horses in maze tests, this may be influenced by the rats' subterranean behavior, as they are accustomed to navigating confined spaces, while wild horses typically inhabit larger, open environments.
+
+
+=== Memory ===
+
+Horses' strong memory is one of the few characteristics commonly acknowledged by both 19th-century horsemen and modern researchers. In 1892, the sociologist Gustave Le Bon wrote:
+
+The fundamental characteristic of the horse's psychology is memory. Not very intelligent, it seems to have a representative memory far superior to that of man.
+In the equestrian world, there are numerous reports of horses recalling individuals who mistreated them, even years later. However, Michel-Antoine Leblanc notes that scientific research on this topic has historically been limited, and the consensus on horses' memory has often been based on anecdotal evidence.
+In 1995, Dr. R. M. Miller suggested that horses possess excellent memory due to their evolutionary history, though he did not provide empirical evidence to support this. In 2009, a study by Evelyn Hanggi and Jerry Hingersol provided the first scientific evidence of long-term memory in horses, showing that they could retain complex memories—such as learning rules and performing mental tasks—for up to ten years. Horses also appear to remember people they interact with, recalling both positive and negative experiences. Ethologist Marthe Kiley-Worthington reported training two horses from a young age to understand approximately two hundred words.
+When horses were exposed daily to an arena with new objects, they demonstrated the ability to recognize and remember objects previously inspected earlier in the day, but would continue to explore them on subsequent days.
+Regarding short-term memory, horses perform similarly to other mammals such as donkeys, cats, and dogs, retaining information for at least 30 seconds. Their short-term memory is particularly strong when exploring new objects. However, their working memory is more limited, lasting about 20 seconds. Lansade suggests that this limitation may be due to the lower demand for extensive working memory in grazing herbivores.
+
+
+=== Spatial visualization ===
+Despite misconceptions about their visual perception, horses have eyesight adapted to open environments. While they do not have sharp and their color perception is dichromatic, horses excel in spatial visualization. This makes sense, as sight plays an important role in their social interactions. Their ability to navigate suggests they rely on a cognitive map of their surroundings.
+Horses perform well on spatial (3D) visual discrimination tasks but struggle more with 2D object discrimination, such as patterns on colored backgrounds. There is no scientific evidence to support the myth that horses need to see an object with both eyes to recognize it, as the optic nerve fibers from each eye are connected to the opposite hemisphere of the brain.
+Hanggi provides examples of horses noticing changes in their surroundings, such as when objects are moved. These reactions highlight their ability to detect alterations in their visual environment. This skill applies to both concrete objects, such as toys or doors, and abstract ones, like patterns or figures. In contrast, experiments on object permanence suggest that horses may struggle to track objects once they are no longer visible.
+Maria Franchini speculates that some horses may be able to perceive small animals or insects in their path, citing the example of a mare which avoided live insects but stepped on dead ones. Additionally, many riders report that horses exhibit a strong sense of direction, which psychologist Sara J. Shettleworth suggests is closely linked to their memory.
+
+
+=== Counting and categorizing ===
+Horses have demonstrated the ability to solve complex cognitive tasks, including categorizing and understanding concepts. Researcher Evelyn Hanggi demonstrated that horses can grasp the relational concept of size by sorting objects of different dimensions. Horses can also distinguish complex patterns, such as certain geometric shapes, and are particularly adept at recognizing triangles.
+Studies on horses' counting abilities often reference the famous case of Clever Hans, though it remains unclear whether horses truly possess the ability to count. Some research indicates that horses can differentiate between quantities, such as one apple and two, or two apples and three, but may not distinguish between larger quantities like four and six. This suggests that horses can "count" up to four.
+These studies also show that horses can form mental representations and perform simple counting tasks.
+
+
+=== An ability to improvise? ===
+
+Based on practical experiences, Doctor of Theatre Studies Charlène Dray suggests that show horses are capable of improvising on stage without expecting a reward, provided they have exploratory objects available. However, some riders who work with show horses agree that these animals are not aware of creating artistic emotions.
+Shelly R. Scott describes a similar practical example, involving a horse race for where neither the horses nor their riders were prepared, requiring both to improvised during the event.
+
+
+== Social intelligence of the horse ==
+
+Many studies have highlighted horses' advanced social intelligence. According to Lansade, scientific research on horses' social cognition toward humans has yielded significant findings, especially in the late 2010s. These studies suggest that horses have a complex representation of the individuals they interact with, which has led to their consideration as potential subjects for research on the theory of mind. These findings contribute to understanding their broader learning capabilities.
+In the wild, horses live in groups and learn from one another within these social structures. Social learning is influenced by hierarchy, with horses more likely to learn from dominant members of their group than from subordinate members or those outside the group. While visual social communication is a key aspect of equine interaction, it is more difficult to study in comparison to species that rely on sound-based communication. Additionally, horses can experience emotional contagion, as seen in their responses to films.
+When working with humans, horses tend to seek cooperation, calmness, and avoidance of conflict. They are capable of interpreting human body language, reading human emotions, and attributing mental states to humans. For example, Maria Franchini describes a situation in which a horse distinguishes between a helpful gesture, such as swatting an insect off its body, and an aggressive gesture, such as an attempt to hit it. In response to the latter, the horse may react by fleeing or resisting. An Icelandic study involving two groups of horses exposed to a peer's visual demonstration in solving spatial maze tasks found that the horses exposed to demonstrations did not perform better than control animals, suggesting that social learning was not effective in this context.
+
+
+=== Recognition of other horses and humans ===
+
+Horses can recognize individual humans and other horses using simple auditory cues, such as a voice, or visual cues, like facial features. Experiments have shown that horses can discriminate between faces in photographs or films and associate these with real individuals. Horses have also demonstrated the ability to differentiate between photographs of identical twins. Additionally, horses can remember familiar faces they have not seen for up to six months and can recognize them in photos. This ability to recognize faces appears to be holistic, similar to how humans perceive faces as a whole, rather than focusing on individual features. Lansade notes the significance of this discovery, drawing a comparison with humans who are accustomed to cows, as they may struggle to differentiate individual cows, while most horses can differentiate human faces with ease in just a few days.
+
+Horses can also differentiate between human voices and associate a voice heard through a speaker with the person when they hear it in real life. They link voices with past experiences, whether positive or negative. Furthermore, horses can recognize emotions expressed through human facial expressions and vocalizations and respond accordingly.
+Finally, horses seem to have an intermodal mental representation of both their peers and humans. They associate faces, smells, voices, and expectations based on past experiences. Horses deprived of one sense are likely to compensate by relying on their remaining senses to recognize individuals.
+
+
+=== Interspecific communication ===
+
+Horses can communicate with humans when they feel the need to do so. They are capable of drawing attention to gain access to a food source, such as through their gaze or, in some cases, by making physical contact. The horse is the second domestic animal species, after the dog, in which this ability has been demonstrated. Horses appear to be more interested in humans when they anticipate being provided with food, the training method used may influence their interspecific learning abilities. Training that incorporates ethological principles tends to yield better results.
+A study has identified a "symbolic communication primer" between humans and horses, which allows horses to express their preference for wearing a blanket or not. According to the 2016 study, horses can learn the meaning of symbols through positive reinforcement (one symbol for putting on a blanket, one for staying as they are, and one for removing the blanket), and can use these symbols to communicate their preferences to humans.
+In interspecific communication, horses can consider a human's perspective. In an experiment where two people are present—one knowing where food is hidden and inaccessible to the horse—the horse will instinctively ask for help from the person who knows where the food is. This ability, once thought to be exclusive to large primates and dogs, is considered complex.
+Experiments on horses' sensitivity to human pointing gestures (e.g., pointing at an object containing food with a finger) have shown that horses value these gestures, though it remains unclear whether they interpret them as communicative signals directed at them.. Four different pointing methods were tested; horses performed well in all tasks except for distal dynamic-momentary pointing, which was significantly more cognitively demanding than the other styles.
+Horses are also sensitive to human attention and are more likely to approach a person who is looking at them while feeding them than one who is not. Young horses do not seem to be inherently predisposed to recognize or respond to human attention, suggesting that they acquire this skill through learning as they age.
+
+
+=== Interspecific learning ===
+Horses can acquire new skills by observing humans.
+In one experiment, humans demonstrated to horses how to press a button to open a feeder, while another group of horses did not witness a demonstration. Some horses learned to open the feeder through observational conditioning, while most learned socially by observing humans, understanding where and how to manipulate the opening mechanism, and then using trial and error to access the food.
+This ability to learn from humans may help explain why domestic horses can figure out how to open their stall doors or even operate the handle of an electric fence.
+
+
+=== Reputation attribution ===
+The horse can associate an emotional valence (a reputation) with a human based on its own experiences, as well as its observations of interactions between an experimenter and another horse. Lansade discusses this ability, noting that many horses respond to the arrival of a veterinarian, even one they have never encountered before. This seems to demonstrate an ability to recognize attributes specific to this profession (such as clothing or a particular smell) and to associate them with past experiences. In Lansade's cited experiments, horses retain memories for up to a year of being groomed by a person who provided either a positive or negative experience. They may even display characteristic facial expressions anticipation before the grooming begins. Horses can also recognize, in a film, a person who provides a positive or negative experience to one of their peers, and they adjust their interactions with these individuals based on the information observed in the films.
+
+
+=== Applications of knowledge of equine cognition ===
+Throughout its life, a horse must learn new skills, whether for survival and adaptation to its environment or for human purposes. From its historical roles in warfare and agriculture to its modern uses in sports and leisure, learning remains important. Breeding and selection practices have not eliminated the need for this learning. The horse industry relies on the animal's ability to learn under human guidance.
+A large body of literature exists on various methods for training horses for riding, as well as on the diversity of training approaches that can be applied. The horse's social intelligence is also utilized in "equicoaching" sessions, which aim to help humans "reconnect with their emotional intelligence."
+Learning is a complex and multifactorial process that requires time and commitment. Horses generally respond best to short, frequent training sessions. Other influential factors include genetics, motivation, and the horse's mood. An individual horse's temperament can also affect its learning abilities, with calmer horses often learning more quickly. Personality may further influence how a horse responds to different experiences.
+Understanding the horse's cognitive abilities allows for practical applications that can better integrate its learning capacity. This can improve relationships between horses and humans and contribute to the horse's well-being, training, breeding, and daily care:
+
+However, many horses still live in conditions that may not meet their cognitive and emotional needs, such as stalls without social contact, darkness, dusty environments, and a lack of mental stimulation. The use of inappropriate punishments remains widespread, as theoretical advancements in understanding horse behavior are not always accompanied by changes in practical training methods.
+
+
+=== Responses to conditioning ===
+
+The concept of "conditioning" refers to the association between a stimulus and a response, which can lead to habitual behavior. It does not imply that the conditioned subject is like a machine. Simple conditioning can be voluntary (for example, training circus horses) or involuntary, such as horses that become agitated and neigh at mealtime because they have associated a specific time or a noise in a food storage room with the impending arrival of their food.
+A series of experiments show that horses respond well to simple forms of learning, such as classical conditioning (or Pavlovian conditioning) and operant conditioning. These techniques, which involve rewarding or removing a constraint after a successful task, are commonly used by humans to train horses to perform expected tasks. Reinforcement can be positive or negative. At the beginning of reinforcement learning, the horse may be unaware of what is expected and give random responses. The consequence of the response (reinforcement or punishment) is what enables learning.
+Examples of positive and negative reinforcement and punishment in horses
+
+In practice, horse professionals tend to use negative reinforcement more frequently than positive reinforcement.
+Chaining can also be useful, for example, in teaching complex movements, such as the curtsy, step by step. Regardless of the reinforcement method used, it is important to apply consistent techniques over the long term and avoid mistakes during the learning process, particularly due to the horse's memory. Lansade cites the example of a horse that learns to avoid its rider by leaping over them, and "will never forget that it has mastered this technique." The only way to extinguish this behavior is for the horse to discover that "it no longer has the desired effect." The conditioning response also implies that "any bad start permanently compromises future success."
+
+
+==== Positive reinforcement learning ====
+Among the operant conditioning techniques used with horses, positive reinforcement is considered highly effective, even when applied to horses that bite. However, its effectiveness largely depends on maintaining a clear link between the desired behavior and the reward: the reward must be given immediately after the successful completion of an exercise. Initially, an incomplete response may be rewarded (e.g., a simple weight transfer onto the hind limbs in a horse learning to back up). Then, increasingly complete responses are required before rewarding (in the case of backing up, this could be one step back, then two steps back).
+Once positive reinforcement learning is mastered, rewards become less frequent, but it is important to continue soliciting this learning from the horse regularly to prevent its extinction.
+Care should be taken not to inadvertently reinforce unwanted behaviors. For example, a horse that taps on the door of its stall out of boredom may have this behavior inadvertently reinforced if a person raises their voice at it until the tapping stops. From the horse's perspective, attracting the attention of a human may be seen as a form of positive reinforcement, increasing the likelihood that it will tap on the door again to seek attention.
+
+
+==== Negative reinforcement learning and punishment ====
+
+Negative reinforcement learning in horses should never involve intentionally inflicting pain but rather temporarily placing them in an uncomfortable situation (e.g., applying pressure behind their ears with a halter) until they voluntarily change their behavior to regain comfort (in this example, by following the movement of the person holding the lead rope of the halter). Negative reinforcement appears to be very effective in training foals, but it can also increase their stress response. When negative reinforcement occurs spontaneously (such as a horse touching an electric fence), it can result in long-term memory of the experience. This may explain why some horses become anxious at the sight of a syringe, associating it with the pain of a subsequent injection. If a horse's defensive behavior is associated with the termination of a request (e.g., a request to remain calm during an injection or clipping), the animal learns that its defense results in the cessation of the request, which may cause it to become uncontrollable by humans. Horses may then develop threatening behaviors toward their veterinarian.
+According to Australian researchers Paul D. McGreevy and Andrew N. McLean, the misuse of negative reinforcement can lead to learned helplessness or neurosis. It can be difficult for horses to make the connection between the behavior being punished and the punishment. For example, if a horse is whipped after refusing to jump an obstacle, it may not associate the punishment with its refusal and might develop an aversion to the show jumping arena, riding, or even to the person who punished it. A horse can also become "jaded" by harsh and inconsistent stimuli, making it insensitive to more subtle cues from a potential rider. Therefore, before using punishment, it is important to ensure that the behavior was clearly understood by the horse.
+
+
+==== Trial and error learning ====
+
+Horses are also capable of learning through trial and error. For instance, they may discover how to use large balls by initiating a gentle push on the side of the ball after initially attempting to jump on them. They may also learn how to operate an automatic waterer or accidentally figure out how to open the door of their stall after playing with the latch. In the latter case, if the horse discovers greater freedom of movement and access to food, positive reinforcement follows, increasing the likelihood that the horse will attempt to open the door again.
+
+
+=== Responses to non-associative learning ===
+Horses also respond well to habituation and desensitization, which are two forms of non-associative learning.
+
+
+==== Habituation ====
+
+Habituation is a common learning process among all animal species. It allows the horse to filter perceptions in its environment by no longer associating them with potential dangers (for example, plastic bags flying or ropes floating above its head). The response to the stimulus gradually diminishes. This type of learning is particularly important for foals or adult horses placed in a new environment, as it helps them adjust to noises, human touch, and the sight of unusual objects. For example, letting the horse hear the sound of clippers during feeding can significantly reduce its fear reaction when the clippers are used on its neck and poll.
+An extreme form of habituation, called "behavioral imprinting", has been tested on foals. This involves intensive handling immediately after birth, including inserting fingers into natural orifices (mouth, ear, and anus), with the goal of producing horses that are easier to train and handle as adults. However, its intrusive nature and mixed results have led many scientists to question its effectiveness and discourage its use. Some breeders use it to accustom foals to the presence of humans and dogs at a young age.
+
+
+==== Desensitization ====
+
+Desensitization involves regularly exposing the horse to a stimulus that triggers a reaction until the response is reduced or extinguished. A classic example is opening an umbrella, which typically triggers a stress reaction, such as an increased heart rate. After about ten repetitions of opening the umbrella, the desensitized horse usually no longer reacts with stress.
+The opposite of desensitization, sensitization, can result from mistreatment, such as a horse developing a strong reaction to a person who has caused it pain in the past.
+
+
+== Controversies and preconceived ideas ==
+PhD in animal behavior biology Evelyn B. Hanggi and sociologist Vanina Deneux-Le Barh emphasize the persistence of beliefs that attribute limited abilities to horses. These beliefs postulate, for instance, that horses react only by instinct or respond solely to conditioning, without demonstrating cognitive abilities. One common fallacy is the argument that intelligence is incompatible with being ridden or mistreated by humans, even though mistreatment also occurs between humans without being linked to reduced intelligence.
+These misconceptions continue to persist in professional equestrian circles. The results of Deneux-Le Barh's 2021 survey reveal significant ambivalence in the perception of intelligence in working horses. Some breeders and users believe that responses to conditioning are merely the reproduction of behavior, despite their statements suggesting the horses' mètis (ingenuity or craftiness). Leblanc cites the example of many riders who "deny any intelligence in the horse" while simultaneously attributing complex mental processes to it, using anthropomorphic phrases such as "he did it on purpose to annoy me." Linda Kohanov shares that, according to the American cowboys she interviewed, horses are not intelligent enough to recognize their own names. Equestrian journalist Maria Franchini also reported in 2009 hearing frequent claims about horses' low intellectual capacities, both in stables and in major media outlets.
+Memory and empathy, however, are more widely recognized in professional circles, as illustrated by stories of horses adapting to work with disabled individuals, such as in equine therapy.
+In an appearance on the show La Tête au carré on October 3, 2007, geneticist Axel Kahn asserted that horses possess much more limited intellectual capacities than octopuses, primates, and cetaceans. He cited the example of a mirror test where horses attacked the mirror placed in front of them. Maria Franchini expressed concern that this statement, made on a popular program, might contribute to misconceptions. Leblanc notes that the mirror test alone (or the Gordon G. Gallup test) may not be sufficient to confirm or deny a species' self-awareness. He refers to a 2017 study by Paul Baragli and his colleagues, in which horses subjected to the mirror test displayed clear signs of distinguishing between the reflection and a real animal. However, there were no indications that they recognized themselves in the mirror.
+
+
+== In culture ==
+
+
+=== Mythology, legends and tales ===
+
+Some stories from mythology, legends, and folktales depict horses as extraordinarily intelligent. The Scythian mythology, many fabulous horses appear, including the kokcwal, aquatic descendants of the sea god's horses, which are capable of understanding human speech. Bucephalus, the horse of Alexander the Great, is described in Greek sources and the Alexander Romance as "very intelligent," much like his young master, particularly because he, too, understands human speech. In the Turkish epic of Er-Töshtük, a folktale from Kyrgyzstan, the horse Tchal-Kouyrouk warns his rider, Töshtük, with these words: "Your chest is broad, but your mind is narrow; you think of nothing. You do not see what I see, you do not know what I know... You have courage, but you lack intelligence." In some stories, the psychopomp powers of the horse are portrayed as superior to those of humans.
+Medieval Christian literature features numerous "extraordinary horses" endowed with intelligence and human-like qualities. Professor of medieval literature Francis Dubost cites examples such as Bayard, the horse from the lai of Lanval, and The Song of the Aliscans. Even the horses of pagans are depicted as possessing formidable intelligence, capable of fighting independently. The medievalist Michel Zink also observes the presence of faithful horses in this literature, which "demonstrate an intelligence that exceeds their nature." Examples include La Chevalerie d'Ogier, the Broiefort d'Ogier, and the Marchegai d'Aiol.
+Italian ethnologist Angelo De Gubernatis identifies a mytheme— the transformation of a fool into an intelligent and wise man—as parallel to the transformation of a worthless nag into a noble horse:
+
+The hero's horse, like the hero himself, begins by being ugly, deformed, and unintelligent, and ends by becoming beautiful, brilliant, heroic, and victorious.
+
+De Gubernatis cites, among other examples, the Russian tale of The Little Humpbacked Horse, in which a small horse gifted with the ability to fly repeatedly saves its rider and wisely advises him.
+The Dogon tale "Why Doesn't the Horse Speak?" explains that in the past, horses spoke with humans, but an ungrateful and deceitful woman exploited the advice of a clever horse without thanking him or informing her family of his help. In retaliation, all horses stopped speaking to humans, choosing instead to neigh.
+The Mahi tale (from central Benin) titled Destiny tells of an orphan abandoned by his brothers who spares three horses destroying his crops and gains their help to win the love of a princess.
+In the Aarne-Thompson-Uther classification, these tales correspond to the ATU 531 type tale, "The Intelligent Horse." This theme is also found in the Norwegian tale Dapplegrim, the Sicilian tale Lu cavadduzzu fidili (The Loyal Horse), the Guatemalan tale of the "Bad Combadre," and the medieval Jewish tale "Joḥanan and the Scorpion," one of the seven stories from the Sefer ha-ma'asim.
+
+
+=== Religious and cultural particularisms ===
+
+Professor of religious studies Judy Skeen emphasizes the importance of questioning the "concept of human domination over nature" to move beyond the view of animals as "mere functions or resources for humans" and to challenge the assumption "that human beings have more value than other creatures." She advocates for evaluating intelligent life using criteria beyond human intelligence. She also highlights a contrast between the perception of the horse's intelligence in Christian tradition, which assigns greater value to humans than to horses, and in other traditions, such as Native Americans beliefs, which readily acknowledge animal intelligence—for example, through observations of prey-predator relationships.
+
+
+==== Christianity ====
+According to historian Éric Baratay, the refusal to recognize animal intelligence was largely adopted by Western Christianity, drawing on Platonist and Aristotelian philosophies to elevate humans while diminishing and devaluing animals.
+Through Germanic pagan beliefs, historian Marc-André Wagner explores a progressive demonization of the horse, aimed at Christian leaders ending the ritualistic reverence once afforded to the animal. He specifically mentions the fight against hippomancy (divination using horses), wherein evangelists countered pagan claims that horses possessed divinatory powers by asserting instead that it was the Christian God speaking through the animal. Wagner cites the example of the 7th-century text Vita de Columba of Iona, in which the Irish saint's horse lays its head on his knees and begins to weep, apparently sensing its imminent death:
+
+To this crude and irrational animal, in the manner he chose, the Creator revealed in a manifest way that his master was going to leave him.
+
+
+==== In Ladakh ====
+According to S. C. Gupta et al., Tibetans in the cold, arid region of Ladakh believe that the intelligence of their small local Zanskari horses enabled warriors to achieve superior performance in regional wars during the 18th century.
+
+
+==== In Mongolia ====
+Anthropology lecturer Gregory Delaplace (2015) notes that the Mongols regard horses as companions and recognize not only their intelligence (uhaan) but also their ability to perceive and feel the invisible—a quality independent of intellect. The Mongolian historian Françoise Aubin provides an example in the Mongolian phrase used to inquire about the best gait for a horse, "ene jamar erdemtej mor' ve," which literally translates as "What is its science?" or "What is its art?"
+
+
+=== Literature, film and television ===
+
+The satirical novel Gulliver's Travels (1721) features noble, rational, and intelligent horses called the Houyhnhnms. According to literature professor Bryan Alkemeyer, its author Jonathan Swift may have intended to prompt a reevaluation of the definition of humans and their supposed superiority over animals. The Mearas imagined by J. R. R. Tolkien, include Grippoil, Gandalf's mount, a type of highly intelligent horse capable of understanding human language. These horses are said to be descended from Nahar, the steed of Oromë.
+Professor Sylvine Pickel-Chevalier and Dr. Gwenaëlle Grefe identify an archetypal model of the horse in children's and youth literature and cinema, which they call "horse-love." Representative examples include the cultural productions surrounding The Black Stallion, White Mane, Black Beauty, Running Free, the novels, films, and series of My Friend Flicka and War Horse, as well as the films Spirit and Windstorm.
+In this type of narrative, which centers on a story of mutual affection between a human protagonist, often a child, and an equine companion, they note that the horse, "elevated to the rank of an epic hero to the point of sometimes becoming the narrator," is distinguished by physical and behavioral traits, including intelligence. However, the portrayal of the horse's abilities often includes a strong dose of anthropomorphism.
+
+After all, maybe the stallion didn't enter the park and is hiding in some corner of the city? ... But no! Black is much too intelligent to stay in the streets!
+In his children's book The Learned Horse (1991), Laurent Cresp tells the story of an intelligent horse living in Istanbul, that wishes to be treated like a sentient being.
+In comics, Lucky Luke's mount, Jolly Jumper (created in 1946), is depicted as the most intelligent horse in the West. He is capable of speaking (and even engaging in philosophical discussions), counting, writing, playing chess, and fishing on his own. Similarly, the American television series of the 1960s Mister Ed features a horse that speaks only to its owner, who has a fondness for drink. The intelligence of the horse actors in the series has often been praised.
+
+
+== See also ==
+
+Horse behavior
+Clever Hans
+Beautiful Jim Key
+Lady Wonder
+Animal cognition
+Cognitive ethology
+
+
+== Notes and references ==
+
+
+=== Notes ===
+
+
+=== References ===
+
+
+==== Academic references ====
+
+
+==== Historical references ====
+
+
+==== Press references ====
+
+
+== Bibliography ==
+Beaver, Bonnie V. (2019). Equine Behavioral Medicine. Academic Press. p. 397. ISBN 978-0-12-812245-7.
+Brubaker, Lauren; Udell, Monique A. R. (2016). "Cognition and learning in horses (Equus caballus): What we know and why we should ask more". Behavioural Processes. 126: 121–131. doi:10.1016/j.beproc.2016.03.017. PMID 27018202.
+Deneux–Le Barh, Vanina (2023). ""Les chevaux sont mes partenaires!" Quand les professionnels parlent du travail de leurs collaborateurs équins" ["Horses are my partners!" When professionals talk about the work of their equine collaborators]. Revue d'anthropologie des connaissances (in French). 17 (1). ISSN 1760-5393.
+Dubost, Francis (2014). "De quelques chevaux extraordinaires dans le récit médiéval: esquisse d'une configuration imaginaire" [Extraordinary horses in medieval narrative: a sketch of an imaginary configuration]. Le cheval dans le monde médiéval [The horse in the medieval world] (in French). Presses universitaires de Provence. pp. 187–208. ISBN 978-2-8218-3606-8.
+Hanggi, Evelyn B. (2005). "The Thinking Horse: Cognition and Perception Reviewed". AAEP Proceedings. 51: 246–255.
+Porcher, Jocelyne; Barreau, Sophie; Deneux-Le Barh, Vanina; Álvarez, María Fernanda de Torres (2023). L'intelligence des chevaux au travail [Horses' intelligence at work] (in French). Éditions Quæ. ISBN 978-2-7592-3641-1.
+Blondeau, Nicolas (2023). "Preface". L'intelligence des chevaux au travail (in French). pp. 5–7. ISBN 978-2-7592-3641-1.
+Porcher, Jocelyne (2023). "Introduction". L'intelligence des chevaux au travail (in French). pp. 9–12. ISBN 978-2-7592-3641-1.
+Deneux-le Barh, Vanina (2023). "Sur les traces de la mètis des chevaux" [In the footsteps of the horse mètis]. L'intelligence des chevaux au travail (in French). ISBN 978-2-7592-3641-1.
+Barreau, Sophie; Porcher, Jocelyne (2023). "Une sublimation par l'amour" [Sublimation through love]. L'intelligence des chevaux au travail (in French). ISBN 978-2-7592-3641-1.
+Álvares, María Fernanda de Torres (2023). "L'expression de la singularité et de l'adaptation aux autres" [Expressing uniqueness and adapting to others]. L'intelligence des chevaux au travail (in French). ISBN 978-2-7592-3641-1.
+Dray, Charlène (2023). "De la présence à l'improvisation: les intelligences scéniques du cheval" [From presence to improvisation: the horse's scenic intelligence]. L'intelligence des chevaux au travail (in French). ISBN 978-2-7592-3641-1.
+Whishaw, Ian Q.; Burke, Candace J. (2020). "What are they thinking? Scientific Horsemanship and the Mind of the Horse". Equine Science. InTechOpen. doi:10.5772/intechopen.91209. ISBN 978-1-83962-316-5. ISSN 2632-0517.
+Budiansky, Stephen (1997). The Nature of Horses: Exploring equine evolution, intelligence, and behavior. Simon & Schuster. ISBN 978-0-684-82768-1.
+Despret, Vinciane (2015). Hans: le cheval qui savait compter [Hans: the horse that could count] (in French). Les Empêcheurs de penser en rond – Seuil. ISBN 978-2-84671-182-1.
+Franchini, Maria (2009). De l'intelligence des chevaux: une exploration de leur vie mentale et émotionnelle [The intelligence of horses: an exploration of their mental and emotional lives] (in French). Paris: Zulma. p. 255. ISBN 978-2-84304-495-3.
+Lansade, Léa (2023). Dans la tête d'un cheval [Inside the head of a horse] (in French). Éditions HumenSciences. p. 224. ISBN 978-2-37931-527-5.
+Leblanc, Michel-Antoine (2019). Comment pensent les chevaux [How horses think] (in French). Vigot. p. 192. ISBN 978-2-7114-5167-8.
+Leblanc, Michel-Antoine (2022). L'esprit du cheval: introduction à l'éthologie cognitive du cheval, intelligence, cerveau, perception [The mind of the horse: introduction to the cognitive ethology of the horse, intelligence, brain, perception] (in French) (2nd ed.). Paris: Vigot. p. 367. ISBN 978-2-7114-2642-3.
+Leblanc, Michel-Antoine; Bouissou, Marie-France (2021). Cheval, qui es-tu? [Horse, who are you?] (in French). Paris: Vigot. ISBN 978-2-7114-2625-6.
+De Waal, Frans (2018). Sommes-nous trop "bêtes" pour comprendre l'intelligence des animaux? [Are we too "stupid" to understand the intelligence of animals?] (in French). Les liens qui libèrent. ISBN 978-2-330-10323-1.

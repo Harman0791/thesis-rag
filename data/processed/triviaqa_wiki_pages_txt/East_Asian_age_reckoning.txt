@@ -1,0 +1,56 @@
+Traditional East Asian age reckoning covers a group of related methods for reckoning human ages practiced in the East Asian cultural sphere, where age is the number of calendar years in which a person has been alive; it starts at 1 at birth and increases at each New Year. Ages calculated this way are always 1 or 2 years greater than ages that start with 0 at birth and increase at each birthday. Historical records from China, Japan, Korea, and Vietnam have usually been based on these methods, whose specific details have varied over time and by place. The South Korean government switched to the international system on June 28, 2023.
+Chinese age reckoning, the first of these methods, originated from the belief in ancient Chinese astrology that one's fate is bound to the stars imagined to be in opposition to the planet Jupiter at the time of one's birth. The importance of this duodecennial cycle is also essential to fengshui geomancy but only survives in popular culture as the 12 animals of the Chinese zodiac, which—like the stars—change each Chinese New Year. In this system, one's age is not a calculation of the number of calendar years (年, nián) since birth but a count of the number of these Jovian stars (simplified Chinese: 岁; traditional Chinese: 歲; pinyin: suì) whose influence one has lived through. By the Song dynasty, this system—and the extra importance of the sixtieth birthday produced by its combination with the sexagenary cycle—had spread throughout the Sinosphere. Japan eliminated their version of this system as part of the Meiji Reforms. The Republic of China partially modernized the system during their own reforms, which were continued by the Communists after the Chinese Civil War. Modern Taiwan now has a mixed system, with very widespread use of traditional ages sometimes accommodated by the government. On the mainland, despite calculating age solely by birthdays for all official purposes, Standard Mandarin continues to exclusively use the word suì for talking about years of age; Japanese similarly uses its equivalent, sai.
+Korean age reckoning began by using the Chinese system but changed to calculating ages using January 1st as the New Year with their adoption of the Gregorian calendar in 1896. In North Korea, the old system was eliminated in the 1980s. In South Korea, medical documents already utilised the international age system, where Korean age was still routinely used until 2023, when the government formally changed the legally recognised age system to bring it into line with international standards and resolve the confusion caused by multiple age systems.
+A third intermediate system has also been used by some South Korean laws. This "year age" is difference between one's birth year and the current year, equivalent to calculating ages using January 1 but starting at 0 instead of 1.
+
+
+== China ==
+
+
+=== Mainland (PRC) ===
+
+In pre-modern times, sui was calculated from the time of birth. A person was one sui as soon as they were born. At the Lunar new year, they turned two sui, and every subsequent new year after that, they were one more sui. Thus, by traditional reckoning, sui does not exactly mean "years old".
+In many Chinese societies around the world, a child's horoscope is calculated at birth and is considered relevant throughout their life. The horoscope is calculated using the traditional sui (虛歲/虚岁 xusui or 毛歲/毛岁 maosui). This becomes important, for example in calculating a person's fan tai sui 反太歲/反太岁, which occurs after every twelve-year zodiac cycle. Thus, for a child born in June of the year 2000, a year of the dragon, the first fan tai sui year would occur in the next dragon year, which would begin on Lunar new year in the year 2012, when the child turns 13 sui. By modern reckoning, the child would be 11 years old at the beginning of the year and turn 12 years old in June. Therefore, the modern way of reckoning age does not correspond to the horoscope. Using the traditional reckoning, the child in the example is 13 sui for the entirety of the fan tai sui year.
+
+
+=== Taiwan (ROC) ===
+East Asian age reckoning, both linguistically and in practice, follows the example of China (see § China) as the vast majority of Taiwanese people are ethnically Chinese. Unlike the Chinese however, the Taiwanese more widely use the East Asian age reckoning in a variety of social contexts and the term sui (歲) less ambiguously refers to one's age according to this system. While birthdays are increasingly celebrated according to the Gregorian calendar, the traditional age reckoning is retained (e.g. Su Beng's centennial was celebrated to honor his November 5, 1918 birth in the Gregorian calendar in 2017, not 2018). Furthermore, Taiwanese, like South Koreans, do not add a year to their age on their birthdays but on New Year's Day (in the case of Taiwan, on the Lunisolar Chinese calendar New Year and not the Gregorian one as in Korea).
+
+
+== Korea ==
+
+Koreans who use the traditional system refer to their age in units called sal (Korean: 살), using Korean numerals in ordinal form. Thus, a person is one sal (han sal [한 살]) during the first calendar year of life, and ten sal during the tenth calendar year. Sal is used for native Korean numerals, while se (Korean: 세; Hanja: 歲) is used for Sino-Korean. For example, seumuldaseot sal (스물다섯 살) and isibo se (이십오 세; 二十五歲) both mean 'twenty-five-year-old'. If the international system is used (man nai [만 나이]), then the age would be man seumuldaseot sal (만 스물다섯 살). South Koreans speaking of age in the colloquial context will almost without question be referring to the traditional system, unless the man qualifier is used.
+The 100th day after a baby was born is called baegil (백일; 百日) which literally means "a hundred days" in Korean, and is given a special celebration, marking the survival of what was once a period of high infant mortality. The first anniversary of birth named dol (돌) is likewise celebrated, and given even greater significance. South Koreans celebrate their birthdays, even though every South Korean gains one sal on New Year's Day. Because the first year comes at birth and the second on the first day of the New Year, children born, for example, on December 31 are considered to become two-year-olds the very next day, New Year's Day (of the Gregorian, not the Korean calendar).
+There are online calculators which can conveniently determine Korean age for any date. Alternatively, since everyone born on the same calendar year effectively have the same age, it can easily be calculated by the formula: Age = (Current Year − Birth Year) + 1.
+In modern South Korea the traditional system is used alongside the international age system which is referred to as man nai (만 나이) in which "man" (만) means 'full' or 'actual', and nai (나이) meaning 'age'. For example, man yeol sal means "full ten years", or "ten years old" in English. The Korean word dol means 'years elapsed', identical to the English "years old", but is only used to refer to the first few birthdays. Cheotdol or simply dol refers to the first Gregorian-equivalent birthday, du dol refers to the second, and so on.
+The international system became promoted over the traditional system in North Korea possibly since around 1986.
+A Korean birthday celebration by the Lunar calendar is called eumnyeok saengil (Korean: 음력 생일; Hanja: 陰曆生日) and yangnyeok saengil (양력 생일; 陽曆生日) is the birthday by the Gregorian calendar. In the past, most people used the Lunar calendar (eumnyeok saengil) to tell their birthdays rather than the Gregorian calendar (yangnyeok saengil), but nowadays Koreans, especially young generations, tend to use yangnyeok saengil for telling their birth dates.
+For official government uses, documents, and legal procedures, the international system is used. Regulations regarding age limits on beginning school, as well as the age of consent, are all based on this system (man nai). The age qualifier for tobacco and alcohol use is actually similar to, but distinct from the East Asian reckoning system. A person is allowed tobacco and alcohol if it is after January 1 of the year one turns 19 (post-birth age). This is the "year age", which is basically (Korean age – 1), or when a person's Korean age is 20.
+Calls to remove the system intensified in early 2022 due to the COVID-19 pandemic, as inconsistent use of the two age systems created conflicts in the eligibility criteria for COVID-19 vaccines and a vaccine passport rule; some residents were being deemed ineligible for vaccination, but at the same time subject to a proof of vaccination requirement for certain establishments. In April 2022, the transition committee of president-elect Yoon Suk Yeol stated that the government planned to amend the Civil Code and other relevant legislation to switch to the international age system. On 8 December 2022, the National Assembly passed a bill that prohibits the usage of traditional ages on official documents. The change went into effect on 28 June 2023. The change is expected to reduce legal disputes, complaints, and general social confusion. Due to how intertwined the previous system was with age hierarchies, it's also predicted that it will help combat the hierarchical and ageist nature of South Korean society. For example, the new system will make sure that students in a single grade are of the same age, rendering the frequent practice of younger students referring to older ones using honorifics obsolete. Despite the conversion, the old system will still be retained for a few aspects, including the year students enter elementary school and the age individuals can purchase alcohol or cigarettes or join mandatory military service.
+
+
+== Japan ==
+The traditional Japanese system of age reckoning, or kazoedoshi (数え年; lit. 'counted years'), which incremented one's age on New Year's Day, was rendered obsolete by law in 1902 when Japan officially adopted the modern age system, known in Japanese as man nenrei (満年齢). However, the traditional system was still commonly used, so in 1950 another law was established to encourage people to use the modern age system.
+Japanese uses the word sai (歳 or vulgarly 才) as a counter word for both the traditional and modern age system.
+
+
+== Vietnam ==
+
+Having been influenced by Chinese culture, the ancient Vietnamese also used this system and, despite not being the official age on papers and in daily usages at the present, the East Asian age is still in limited use by adults, especially old people in rural areas. However, this age system is not really familiar to the younger generation. But, the majority of people calculated by age is almost similar to the East Asian age reckoning (if one was born on 13 May 2000, after this date, regardless of the age system in 2025, one may be considered to have started turning 26). In Vietnam, it is called tuổi mụ ('midwives’ age'), tuổi ta (literally 'our age', contrasting with Western age tuổi Tây) or tuổi âm ('lunar-calendar age').
+
+
+== See also ==
+
+Japanese calendar
+Republic of China calendar
+Vietnamese calendar
+
+
+== Citations ==
+
+
+== General and cited references ==
+
+
+== External links ==
+Japanese kazoedoshi counting

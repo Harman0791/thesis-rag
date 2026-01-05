@@ -1,0 +1,103 @@
+In Classical music theory, a Neapolitan chord (or simply a "Neapolitan") is a major chord built on the lowered (flat) second (supertonic) scale degree. In Schenkerian analysis, it is known as a Phrygian II, since in minor scales the chord is built on the notes of the corresponding Phrygian mode. The Neapolitan is found far more often in minor keys than in major keys.
+Although it is sometimes indicated by an "N6" rather than a "♭II", some analysts prefer the latter because it indicates the relation of this chord to the supertonic. The Neapolitan chord does not fall into the categories of mixture or tonicization. Moreover, even Schenkerians like Carl Schachter do not consider this chord as a sign for a shift to the Phrygian mode. Therefore, like the augmented sixth chords it should be assigned to a separate category of chromatic alteration.
+In European Classical music, the Neapolitan most commonly occurs in first inversion so that it is notated either as ♭II6 or N6 and normally referred to as a Neapolitan sixth chord.  In B major or B minor, for example, a Neapolitan sixth chord in first inversion contains an interval of a minor sixth between E and C.
+
+The Neapolitan sixth chord is an idiom specific to classical music. Other music traditions often feature ♭II harmonies (ex. C major chord in the keys of B major or B minor), but usually in root position. These are sometimes referred to as "Neapolitan" chords, but these rarely follow the classical voice-leading and chord functions described below. For examples and discussion, see Tritone substitution, or the section "In popular music" below.
+
+
+== Origin of the name ==
+Especially in its most common occurrence (as a triad in first inversion), the chord is known as the Neapolitan sixth:
+
+The chord is called "Neapolitan" because it is associated with the Neapolitan School, which included Alessandro Scarlatti, Giovanni Battista Pergolesi, Giovanni Paisiello, Domenico Cimarosa, and other important 18th-century composers of Italian opera. But it seems already to have been an established, if infrequent, harmonic practice by the end of the 17th century, used by Giacomo Carissimi, Arcangelo Corelli, and Henry Purcell.
+It is called a "sixth" because the interval between the bass note and the root of the chord is a minor sixth. For example, in the key of C major or C minor the chord consists of D♭ (the root note), F (the third of the triad), and A♭ (the fifth of the triad) – with the F in the bass, to make it a ♭II6 rather than a root-position ♭II. The interval of a minor sixth is between F and D♭.
+
+
+== Harmonic function ==
+In tonal harmony, the function of the Neapolitan chord is to prepare the dominant, substituting for the IV or ii (particularly ii6) chord.  For example, it often precedes an authentic cadence, where it functions as a type of subdominant (IV). In such circumstances, the Neapolitan sixth is a chromatic alteration of the subdominant, and it has an immediately recognizable and poignant sound.
+
+For example, in B major, the IV (subdominant) triad in root position contains the notes E, G♯, and B.  By lowering the G♯ by a semitone to G and raising the B to C, the Neapolitan sixth chord E–G–C is formed.
+
+In B minor, the resemblance between the subdominant (E-G-B) and the Neapolitan (E-G-C) is even stronger since only one note differs by a half-step. (The Neapolitan is also only a half-step away from the diminished supertonic triad in minor in first inversion, E-G-C♯, and thus lies chromatically between the two primary subdominant function chords.)
+
+The Neapolitan sixth chord is particularly common in minor keys.  As a simple alteration of the subdominant triad (iv) of the minor mode, it provides contrast as a major chord compared to the minor subdominant or the diminished supertonic triad.
+
+
+=== Further harmonic contexts ===
+A common use of the Neapolitan chord is in tonicizations and modulations to different keys. It is the most common means of modulating down a semitone, which is usually done by using the I chord in a major key as a Neapolitan chord (or a flattened major supertonic chord in the new key, a semitone below the original).
+Occasionally, a minor seventh or augmented sixth is added to the Neapolitan chord, which turns it into a potential secondary dominant that can allow tonicization or modulation to the ♭V/♯IV key area relative to the primary tonic.  Whether the added note were notated as a minor seventh or augmented sixth largely depends on how the chord resolves. For example, in B major or B minor, the Neapolitan chord with an augmented sixth (A♯ added to C major chord) very likely resolves in B major or minor, or possibly into some other closely related key such as F♯ major.
+However, if the extra note is considered an added seventh (B♭), this is the best notation if the music is to lead into F major or minor.
+Another such use of the Neapolitan is along with the German augmented sixth chord, which can serve as a pivot chord to tonicize the Neapolitan as a tonic (). In C major/minor, the German augmented sixth chord is an enharmonic A♭7 chord, which could lead as a secondary dominant to D♭, the Neapolitan key area.  As the dominant to ♭II, the A♭7 chord can then be respelled as a German augmented sixth, resolving back to the home key of C major/minor.
+
+
+== Minor Neapolitan chord ==
+Sometimes one encounters a minor triad on the Neapolitan second degree rather than the major: for example, a D♭ minor chord in the key of C major or C minor. Sometimes this is enharmonically respelled as occurring on the sharpened tonic, i.e. a C♯ minor chord in C major or C minor. This has the same function as the major Neapolitan but is considered more expressive.
+
+
+== Voice leading ==
+Because of its close relationship to the subdominant, the Neapolitan sixth resolves to the dominant using similar voice-leading.  In the present example of a C major/minor tonic, the D♭ generally moves down by two steps to the leading tone B♮ (creating the expressive melodic interval of a diminished third, one of the few places this interval is accepted in traditional voice-leading), while the F in the bass moves up by step to the dominant root G. The fifth of the chord (A♭) usually resolves down a semitone to G as well.  In four-part harmony, the bass note F is generally doubled, and this doubled F either resolves down to D or remains as the seventh F of the G-major dominant seventh chord.  In summary, the conventional resolution is for all upper voices to move down against a rising bass.
+Care must be taken to avoid consecutive fifths when moving from the Neapolitan to the cadential 64. The simplest solution is to avoid placing the fifth of the chord in the soprano voice.  If the root or (doubled) third is in the soprano voice, all upper parts simply resolve down by step while the bass rises. According to some theorists, however, such an unusual consecutive fifth (with both parts descending a semitone) is allowable in chromatic harmony, so long as it does not involve the bass voice. (The same allowance is often made more explicitly for the German augmented sixth, except in that case it may involve the bass – or must, if the chord is in its usual root position.)
+
+
+== Inversions ==
+The ♭II chord is sometimes used in root position (in which case there may be even more concessions regarding consecutive fifths, similar to those just discussed).  The use of a root position Neapolitan chord may be appealing to composers who wish for the chord to resolve outwards to the dominant in first inversion; the flattened supertonic moves to the leading tone (in C major, D♭ to B) and the flattened submediant may move down to the dominant or up to the leading tone (A♭ to either G or B).
+
+In very rare cases, the chord occurs in second inversion; for example, in Handel's Messiah, in the aria "Rejoice greatly". This occurs in measure 61, where the Bb in the bass with an E♭ major chord above it is a second-inversion Neapolitan chord within the D-minor key of the aria's B section.
+
+
+== In classical music ==
+From the early 17th century onwards, composers became aware of the expressive power of the Neapolitan chord, especially to convey moments of intense feeling.
+
+
+=== Baroque period ===
+In his oratorio Jephte, Giacomo Carissimi portrays the grief-stricken tears ("lachrimate") of Jephtha’s daughter and her companions at the prospect of her brutal fate.  According to Richard Taruskin, "The daughter's lament... makes especially affective use of the ‘Phrygian’ lowered second degree at cadences, producing what would later be called the Neapolitan (or ‘Neapolitan sixth) harmony." (B♭ in the key of A minor).
+In his opera King Arthur, Henry Purcell features the chord (D♭ in the key of C minor) among a range of "daring chromatic harmonies" and "strange sliding semitones" to evoke the sensation of intense cold in Act 3 Scene 2, when the spirit of Winter, the awe-inspiring "Cold Genius" is aroused from its slumbers. 
+In contrast to Purcell, the opening movement of "Summer" from Vivaldi’s The Four Seasons, "a four-note descent transformed by Neapolitan-sixth harmony" enhances the sensation of weariness and languor under the hot sun (A♭ in the key of G minor). As the sonnet accompanying the music puts it:
+
+Paul Everett describes the above passage as "a set of disarmingly 'slow' gestures, metrically dislocated, that must represent the lethargy of the anxious man as much as the oppressive heat of an airless day."
+
+In J.S. Bach’s St Matthew Passion, No. 19, the episode conveying Christ's agony in the garden of Gethsemane, the Neapolitan chord (G♭ in the key of F minor) is used on the word "Plagen" (torments) in the chorale harmonization sung by the chorus:
+According to John Eliot Gardiner, "The answering soft-voiced chorus... imbues [the music] with a mysterious quality, almost as though a muted drama is taking place at a distance from the main action – Christ's ‘Agony in the Garden’ and his acceptance of his role as Saviour."
+
+
+=== Classical period ===
+The Neapolitan chord was a favourite idiom among composers in the Classical period. In his Piano Sonata in C minor, "a masterpiece of tragic power," Haydn uses the chord (D♭ in the key of C minor) as he brings the opening statement of his first subject to a close: Haydn makes more extended use of this chord in the finale of the sonata to powerful and dramatic effect:
+Ludwig van Beethoven used the Neapolitan chord frequently in some of his best-known works, including the opening of his Moonlight Sonata, Op. 27 No. 2:
+Wilfrid Mellers sees the apparent tranquillity of these bars as "deceptive, since in bar 3 the bass's F sharp is harmonized not as a subdominant but, with the quaver triplet's D flattened as a first inversion of the Neapolitan chord of D major.  The implied progression from D natural to the cadential B sharp delivers a small stab to the nervous system."
+
+Beethoven’s Appassionata Sonata, Op. 57 uses the Neapolitan chord on a broader harmonic canvas. Both the first and last movements of the sonata open with a phrase repeated a semitone higher (G♭ in the key of F minor).
+Other examples of Beethoven's use of the chord occur in the opening bars of String Quartet op. 59 No.2, String Quartet op. 95, and the third movement of the Hammerklavier Sonata.
+
+A powerful example from Schubert comes in his single movement Quartett-Satz (1820).  The opening "has a dramatic intensity... which is all the more powerful because it begins quietly." The passage culminates in a Neapolitan chord (D♭ in the key of C minor): According to Roger Scruton, "It is as though a spirit had arisen out of the turbulent clouds and suddenly burst forth into the light – the clouds formed from the key of C minor, the spirit itself, released at last, being in the negation of C minor, namely D flat major." Scruton sees the "semitone conflict" that recurs in different keys as the movement progresses as a unifying feature that has "penetrated the whole structure of the piece."
+
+
+=== Romantic period ===
+In the fourth scene of Richard Wagner’s opera Das Rheingold, the earth Goddess Erda prophesies the impending doom of the Gods.  Wagner's orchestration here juxtaposes two significant dramatic leitmotifs, the one ascending to represent Erda and the other, "a descending variant of Erda's motive played over a chord of the Neapolitan sixth" with the intention of conveying their ultimate downfall to ominous and chilling effect. (D in the key of C♯ minor):
+
+
+== In popular music ==
+In rock and pop music, ♭II chords often occur in root position and with non-classical voice-leading. Examples include:
+
+Alexander Rybak's and Paula Seling's "I'll Show You"
+Badfinger's "Come and Get It"
+The Beatles' "Do You Want to Know a Secret"
+The Beatles' "Because"
+Jacques Brel's "Ne me quitte pas" (later adapted into English as "If You Go Away" and covered by various artists)
+Livin' Joy's "Don't Stop Movin'"
+Robin Thicke's "Fall Again"
+The Rolling Stones' "Mother's Little Helper"
+Joanna Newsom's "Colleen" on the line "surf a-pounding" and other places
+In Brazilian popular music as in Noel Rosa's Último desejo and in several Chico Buarque's songs
+
+
+== See also ==
+Neapolitan scale
+Augmented sixth chord
+Sixth chord
+Subtonic
+Tritone substitution
+
+
+== Notes ==
+
+
+== Bibliography ==

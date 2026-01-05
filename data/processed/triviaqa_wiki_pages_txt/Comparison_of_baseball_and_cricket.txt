@@ -1,0 +1,653 @@
+Baseball and cricket are the best-known members of a family of related bat-and-ball games. Both have fields that are 400 feet (120 m) or more in diameter between their furthest endpoints, offensive players who can hit a thrown/"bowled" ball out of the field and run between safe areas to score runs (points) at the risk of being gotten out (forced off the field of play by the opposing team and thus left unable to score further runs during that play), and have a major game format lasting about 3 hours.
+Despite their similarities, the two sports also have many differences in play and in strategy; for example, far more runs are scored in a cricket match compared to a baseball game. A comparison between baseball and cricket can be instructive to followers of either sport, since the differences help to highlight nuances particular to each game.
+
+
+== Bat-and-ball games ==
+
+Bat-and-ball games, in general, are sports in which one team (the fielding team) has possession of the ball and delivers it to a member of the other team (the batting team), who tries to hit it. The two opposing teams take turns playing these two distinct roles, which are continuous during a specified interval.
+
+This contrasts with "goal-oriented" games, such as all forms of football, hockey, and basketball, in which possession of the ball or puck can change in an instant, and thus "attackers" and the "defenders" frequently reverse roles during the course of the game.
+In both cricket and baseball, the players of one team attempt to score points known as runs by hitting a ball with a bat and running, while the members of the other team field the ball in an attempt to prevent scoring and to put batting players out.
+
+In both games, runs can either be scored by running between safe havens (around the bases in baseball and between the wickets in cricket), or by hitting the ball out of the field.
+Outs can be gotten either by fielders catching a batted ball, batters not hitting a ball thrown at the strike zone/wicket, or getting a batter/runner out as they are running between safe havens, often by getting the ball to the safe haven the runner is running towards before the runner gets there.
+Once a certain number of batting players are out (different in the two sports), the teams swap roles. 
+
+This sequence of each team taking each role once is called an inning (plural innings) in baseball, while one team taking its turn to bat is called an innings (both singular and plural) in cricket. The single and plural usage in cricket is comparable to the baseball slang term for a single inning as the hitting team's "ups".
+A baseball game consists of nine innings per team (each team having nine "half innings" to bat in, and nine half innings to field in), while a cricket match may have either one or two innings per team.
+The team with the most runs wins after the team with fewer runs has completed all of its turns to bat.
+Each team may play one or more extra innings in the case of a tie. These innings may be full-length (as in baseball) or shortened (as in the case of cricket's Super Over).
+How the safe havens and end of the innings work:
+
+In cricket, there are two safe havens, with each required to be occupied by one player from the batting team. The two players are batting partners, with one of them hitting the ball for any given delivery, and the two scoring one run for each time they swap safe havens; the partner who ends up at the "striker's end" safe haven once the ball is dead becomes the hitter for the next delivery. Once one of the partners is out, that player can no longer participate for the remainder of the innings, and a new player from the batting team occupies the now-empty safe haven.
+Within each safe haven is a wicket; the batsman can be out if the ball is delivered to him and hits the wicket, or if a fielder hits the wicket with the ball while the batsman is not grounded in the safe haven of the wicket.
+A team that doesn't have the two players necessary to occupy the safe havens is said to be "all out" or "bowled out", and thus its turn to bat ends.
+In limited overs cricket, another way a team's turn to bat can end is when the fielding team has legally delivered the ball a maximum number of times to its opponent's batters. In a Super Over tiebreaker, this number is 6.
+In baseball, there are four safe havens, and a batter must run to the first of the safe havens (first base) when he hits the ball into fair territory, to avoid being put out. Once a batter is running, he becomes a baserunner, whose goal is to make it around all the bases back to home plate.
+A fielder with the ball can get a runner out by touching either a base (if the runner is forced to advance to it) or the runner, either before the runner reaches the base (if forced to advance), or while the runner is not touching a base.
+Three outs ends the half-inning.
+Other present-day bat-and-ball games include softball, stickball, rounders (both English and Irish forms), stoolball, pesäpallo or Finnish baseball, punchball, kickball, and British baseball. 
+
+Earlier forms include The Massachusetts Game of baseball, which was similar to rounders, and Old Cat.
+
+
+== Field ==
+
+Both sports have fields with large outfields (though baseball's distinction between infield and outfield is more naturally derived, being based on the separation of the base-running area of the field from the rest of the field). In cricket, the bowling, batting, and running may all take place on the cricket pitch, which is the area where the ball travels through as it is delivered before being hit by the batter, while in baseball, the running happens separately around the bases.
+The baseball warning track and the boundary rope in cricket (which is generally pulled in a few feet away from the wall bounding the field of play from the spectators) serve similar purposes: to ensure outfielders don't crash into the wall/fence while trying to get to the ball.
+
+
+=== Baseball ===
+Baseball is played in a quadrant of fair territory between foul lines, with most play only occurring from balls hit into the fair territory. 
+
+The official minimum distance (in fair territory) from home plate to the nearest fence, stand or other obstruction is 250 feet (76.2 m), and the recommended distances are at least 325 feet (99 m) along the foul lines and 400 feet (120 m) in center field.
+This produces a recommended fair territory field area just over 100,000 square feet (9,300 m2).
+Most Major League Baseball parks have fair territory areas in the range of 110,000 to 120,000 square feet (10,000 to 11,000 m2).
+
+
+=== Cricket ===
+In contrast, Test and limited overs cricket is played on a field with no foul areas. 
+
+There is a minimum width of 420 feet (128.0 m) and length 426 feet (129.8 m), giving a minimum area of 140,500 square feet (13,050 m2), assuming an elliptical shape.
+However the shape of a cricket ground is not fixed. Test grounds around the world are typically 450 by 500 feet (140 by 150 m), an area of about 175,000 square feet (16,300 m2), ranging up to 479 by 561 feet (146 by 171 m) or 270,000 square feet (25,000 m2) at a venue such as the MCG.
+
+
+=== Bowling/pitching distance ===
+ 
+The area from which the ball is thrown:
+
+In cricket, the pitch is a prepared rectangular area between two wickets. Its length is the distance between the wickets, 22 yards (20.1 m). While its width is 12 feet or 3.66 metres in length, the width of the playing area on that pitch is distance between two return creases, which are 8 feet 8 inches or 2.44 metres apart. The popping creases at each end of the pitch, from which the bowler bowls and the batsman plays, are 4 feet or 1.22 metres in front of the wickets. The bowling, popping and return creases are defined by contrasting lines, generally white in color.
+In baseball, the pitcher must deliver from a rubber slab (typically referred to as "the rubber") that lies atop a raised area of the infield called the "pitcher's mound". The front of the rubber is 60.5 feet (18.4 m) from the rear point of home plate (officially called "home base" and often simply "home"). Before the advent of the pitcher's mound and the rubber, the pitcher threw from within a rectangular "pitcher's box". There was a large rectangular dirt area, between the pitcher's box and the batting areas around home, which resembled the cricket pitch.
+The release point of the ball and where it reaches the batter:
+
+The bowler at the moment of delivery must have part of the front foot behind the popping crease and be within the return crease. The rules do not prohibit delivery of the ball from behind the popping crease, and the ball may be released from well behind the crease. The ball must be "bowled," not thrown. The batsmen "take guard" or "block" in front of the wicket, and they may choose to do so in front of or behind the popping crease. That nets to a typical distance of about 58 feet (17.7 m) between the delivery point and batsman.
+In baseball, the pitcher's release point could be about 55 feet (16.8 m) depending on his delivery style, but the batter also tends to stand back or "deep" in the batter's box, to maximise his time to "look the ball over", up to 2 feet (0.61 m) further from the pitching rubber than the point of home plate is.
+Thus the horizontal distance, from release of the ball by the pitcher/bowler to its arrival at the batter/batsman, is similar in both sports. 
+
+However, the ball usually travels further in cricket as it normally bounces off the ground first, adding a significant vertical component to the total distance travelled. In addition, though the distance between batsman and bowler is 58 feet, the batsman's wicket is 4 feet (1.2 m) from the batting crease, meaning the ball must travel 62 feet (19 m) in order to bowl the batsman.
+
+
+== Equipment ==
+
+Baseball players use thin, round bats and wear gloves to field (with the catcher wearing a special, more protective glove)
+Note that while baseball fielders' gloves do provide modest protection against impact, they are used primarily to extend reach and are generally not padded (except for the catcher's glove).
+The only required protective gear for baseball batters is an unsecured helmet (as required in major league baseball rule 1.16); many batters also use elbow, shin, ankle, or hand protectors, and most wear a cup (A.K.A. a box) and use batting gloves (similar to golf gloves) to aid grip.
+Cricketers use wide, flat bats and field barehanded (except for the wicket-keeper, who wears gloves and protective leg pads).
+In cricket a batsman wears protective gear such as pads, gloves, thigh pads, helmet, a chest guard, an arm pad and a box (A.K.A. a cup).
+Another difference between the two sports involves the condition and replacement of the ball as a match progresses. 
+
+In cricket, if a ball is hit into the stands, the spectators must return it to the field. Also, a ball that is scuffed or scratched will continue in use; a ball must be used for a minimum number of overs (currently 80 in Test cricket and 25 in One-Day-International cricket with a different ball being used from each end) before it can be replaced. If a ball is damaged, lost, or illegally modified, it is replaced by a used ball of similar condition to the old one. Finally, cricketers are allowed sparingly to modify the ball, though this is highly restricted. The ball may be polished (usually on a player's uniform) without the use of an artificial substance, may be dried with a towel if it is wet, and may have mud removed from it under supervision; all other actions which alter the condition of the ball are illegal.
+In Major League Baseball (MLB), a ball that is hit into the stands is never returned to play and spectators are free to keep any balls that come into their possession (although local tradition may provide for a ball to be thrown back, specifically in the case of home-run balls hit against the Chicago Cubs when playing at Wrigley Field).
+Moreover, baseballs are replaced on a regular interval during the course of a game. Major League Baseball requires the home team to supply the baseballs that will be used during that day's games. MLB further require that the home team make available at least 90 new baseballs to the umpires prior to the start of the game. Generally, a baseball is replaced every time it either is hit by a batter or touches the ground. In a typical Major League Baseball game, baseballs are replaced every five pitches or so with a total game average of around 70 baseballs being used.
+Because baseball hitting is difficult, baseball rules prohibit the deliberate scratching or scuffing of a ball, or the application of any foreign substance that could conceivably affect the flight or visibility of a ball.
+Balls that are deliberately made more difficult to hit by applying foreign substances are often known as spitballs, regardless of the specific substance applied (such as Vaseline). Both spitballs and those that become scuffed or scratched through normal game play are immediately removed from play and never reused. The current rules regarding the condition of baseballs did not come into effect until 1920, after the death of Ray Chapman from being hit with a Carl Mays spitball. Before that point, the rules were similar to those still present in cricket. However, the new rules were not consistently enforced for several decades afterwards, and several pitchers (most notably Gaylord Perry) built careers around skirting these rules, doing such things as hiding nail files in their gloves or putting Vaseline on the underside of the peaks of their caps. In modern baseball, however, the prohibition against modifying the baseball in almost any way is strictly enforced and players found to be in violation of this rule are not only ejected from the game in which the infraction occurred, but are also subject to a suspension, with his team unable to replace him on the roster during the suspension.
+The only substance applied to a baseball is the Delaware River mud formula that umpires rub in before a game to remove the "shine" from the ball and improve its grip. The pitcher is also allowed to use rosin on his hands (via a rosin bag) to improve his grip, and to blow on his hands in cold weather.
+
+
+== Gameplay ==
+Theoretically, in baseball, a single pitcher can throw every pitch for his team, while in cricket, a single batsman (so long as they get their batting partner to consent to running at the end of every over) can face every delivery for his team. However, the opposite (a bowler bowling every ball/a baseball batter facing every pitch) isn't possible.
+The distance between the two batsmen's grounds, which are the areas the batsmen run between to score runs in cricket, is 58 feet (18 m). In baseball, each base is 90 feet (27 m) from the next base, meaning one run is equivalent to running 360 feet (110 m).
+
+
+=== Fielding team ===
+A significant difference between baseball and cricket is that in baseball, because the batting team's players are forced to advance around the bases, the fielding team must make outs in order to prevent scoring. A batter who hits the ball into fair territory, which is the main part of the field, is obligated to run to the first base, and since players are obligated to abandon the base they are on to run to the next base whenever there is a player forced to run to their base, any player from the batting team who is on a base will eventually either reach home plate to score or be put out, unless the half inning ends sooner because three offensive players are put out. By contrast, cricket players are never forced by rule to run or try to score.
+A significant difference between the fielding team in baseball and limited overs (one-day) cricket is that in one-day forms of cricket, the fielding team does not have to get anyone on the batting team out in order to switch sides or win the game, since a team's turn to bat automatically ends after they receive a maximum number of legal deliveries (a baseball team must make three outs in each of the nine regulation innings, and can potentially play extra innings in the case of a tie, meaning they must make at least 27 outs to win). Because of this, cricket fielding teams can use strategies unavailable to baseball teams that involve focusing more on minimizing the number of runs they concede per delivery (known as lowering the batting team's run rate) than on trying to get anyone out.
+
+
+==== Fielding ====
+
+A ball that has touched the bat and been caught by a fielder without bouncing on the ground results in the batter being out; see Catch (baseball) and Catch (cricket). (A caveat to this in baseball is if the batter has either 0 or 1 strikes, caught "foul tips" only count as one strike [but if the batter has 2 strikes, a caught foul tip counts as an out].)
+Fielders try to stop the ball from leaving the field (since this generally nets the batting team more runs than running), and attempt to throw the ball to wherever the batting team's players are running to prevent them from scoring runs and get them out.
+In baseball, a fielder with the ball in hand may tag a runner, and in some situations, the base the runner is forced to run towards, to get a runner out, while in cricket, a ball that has been touched by a fielder may be used to put down the wicket of a batsman's ground if neither batsman is in it.
+Baseball fielders specialize to play in one position (with this being mentioned in their lineup card), whereas cricket fielders generally rotate through various positions in a game; some cricket fielders are especially known for fielding in certain positions (such as the slips) or areas of the field (infield, outfield, etc.) most of the time.
+
+The main difference in fielding in the two sports is that even though a cricket ball is harder and heavier than a baseball, generally fielders in cricket are not permitted to use gloves (except in exceptional circumstances, and when approved by both umpires) or external leg guards. 
+
+The only fielders who wear protective gear are the wicket-keeper, who is allowed to wear padded gloves as well as leg guards and an abdominal protector or box; and fielders in potentially dangerous close-in positions such as silly point and short leg may wear leg protection underneath their clothing, boxes and helmets but are still not allowed any gloves.
+In baseball, catchers and first basemen normally wear mitts, which have no fingers and are specially designed for each respective position. The other fielders wear gloves with fingers. (Early baseball was also played bare-handed; gloves were adopted in the later 19th century.)
+This means that the risk of hand injury due to the impact of the ball is far higher in cricket. Also, especially in Test cricket, it is common for several fielders to be stationed close to the bat (slips, short leg, silly point, and similar positions) since the likelihood and value of dismissing a batsman by a catch in a close fielding position is higher.
+Importance of runs in both sports:
+
+Baseball games have far lower scores than cricket matches. The largest combined runs total in a single game in the history of Major League Baseball is 49, whereas first-class cricket matches, including Tests, have produced combined totals from all four innings of over 1000 runs.
+For a more direct comparison, matches in Twenty20 cricket, a form of limited overs cricket in which games last about the same time as a regulation baseball game, frequently produce combined run totals of 300 or more, with the all-time record being 489. Each run in a baseball game is roughly 75 times as important as a run in a Test cricket match (or 10–20 times the value of a cricketer scoring 4 or 6 runs off a single ball); therefore moments of poor pitching and individual fielding mistakes are much more costly. A baseball player who is a great hitter will start games regularly regardless of how good his fielding is, but a player who is merely an above average hitter, but who is not a competent fielder, may not play regularly, or may be used only in the designated hitter position in leagues that use it.
+
+Baseball players often need to throw immediately after catching a struck or thrown ball (for example, the double play), while this is unnecessary in cricket as the ball is deemed "dead" when a dismissal takes place (An exception occurs when there is a free hit ball: catches do not get batsmen out in these scenarios, so fielders may have to attempt run outs after catching the ball). 
+
+Hence, fielders in cricket have a greater incentive to dive and take a catch because a run out is generally much harder to achieve than it is for a baseball batter-runner to be thrown out.
+Left-handers and right-handers in fielding:
+
+The configuration of the baseball diamond effectively bars left-handers from the fielding positions that make throwing to first base a primary responsibility. Right-handers can throw to their left – i.e., toward first base – with much greater ease than can left-handers. So in practical terms, all second basemen, shortstops, and third basemen are right-handed. Left-handed catchers are also exceedingly rare; while the reasons appear to be primarily cultural, handling bunts up the third-base line and throws on plays at home pose particular obstacles to left-handed catchers.
+While most throws a first baseman must make go to the right, which a left-hander can generally accomplish with greater speed and fluency, this is a relatively small factor to the advantage of a left-handed first baseman. More important advantages are related to the position of a left-handed first baseman with respect to the base.
+First, a left-handed first baseman has an advantage over his right-handed counterpart when catching a pickoff throw from the pitcher—when a first baseman is in pickoff position, standing in front of the bag, the left-hander can catch the ball and make a tag without having to move his arm across his body. (See the picture in the Strategy over the course of the game section below for the standard pickoff position with a right-handed first baseman.)
+Second, because the first baseman starts most plays with his left leg closer to the base, the left-hander does not have to make a half-pivot to get into the correct position to stretch out for a throw. For these reasons, left-handed throwers are far more common at first base than in the general population of baseball players.
+In contrast, cricket is fielded in the round: The handedness of the fielder in any given position is of far less consequence because catching is more important than throwing; also, the batsmen run in opposite directions, and both left-handed and right-handed throwers are in all parts of the field. Still, it is common for right-handers to field at point and cover, and for left-handers to field at mid-wicket (to a right-handed batsman). In each case, this gives the fielder a better aim at the bowler's end stumps when the batsmen run, which is usually the preferred target as the non-striker will normally reach the opposite crease first (because batsmen normally back up).
+
+Body contact between runner and fielder is frequent in baseball, particularly at home plate. This is driven to a large extent by the manner in which a runner is put out. In both sports, rules prohibit interfering with runners. 
+
+However, in baseball, the runner himself (or the base he is advancing to, if forced) must be tagged by a fielder holding the ball to be put out. The catcher awaiting a throw will often stand between the plate and the runner. Once he catches it, the runner might try to go around the catcher, or he might simply bowl the catcher over, if he thinks he can dislodge the ball by such contact; and if the catcher does not have the ball, the runner may still bowl the catcher over, which is considered fair because by rule a fielder without a ball cannot impede a runner.
+Violent contact between players was once even greater in baseball, as before the Knickerbocker Rules it was permitted in some versions of the game to literally "throw out" a runner by hitting him (or "soaking"/"plugging" him) with a thrown ball (in lieu of hitting a base or stake that would equate to cricket's wickets).
+This rule still exists in some versions of the baseball variant called kickball, which is played with a soccer ball and thus is much less injurious. Except when played batting in a hands-down position, kickball also calls for literal "bowling" of the ball, underhand, as with the old rules of both cricket and baseball. "All 'round hands down" kickball leagues exist, but in most of these, the ball is pitched with the face or shoulders.
+By contrast, in cricket, the stumps are the target for "tagging" rather than the runner. No contact with the runners is either necessary or allowed. Contact between opposing sides is rare, and is usually not deliberate.
+Rules around "fake fielding":
+
+In baseball, the pitcher can be penalized with a balk for not delivering the ball, which in some instances involves not throwing to a baseman when the pitcher made a motion to do so.
+In cricket, a fielder can be punished for fake fielding.
+Fielders choosing which players they want to try to get out:
+
+In baseball, runners can often advance on a fielder's choice, which is when the fielder prioritizes putting out other runners.
+In cricket, fielders have a choice in who to get out when both batsmen are out of their grounds; when this occurs, they can hit either wicket with the ball, with the batsman who is nearest to the end of the pitch which that wicket is in being runout.
+How fielders behave near the field boundary, and how they deal with deliveries that get past the fielder behind the batter:
+
+In cricket, because the field boundary is treated the same as the area outside of the field, fielders must be careful not to touch the boundary as they are handling the ball, because it will be treated as if they had stepped out-of-bounds with the ball, resulting in 4 or 6 runs for the batting team.
+The wicketkeeper must be especially careful not to let the bowled ball get past them, since with every ball being in play in cricket, a ball that gets past the batter and wicketkeeper (such as a wide) can go to the boundary and score 4 runs for the batting side.
+Fielders can let the ball bounce "off the wall" that acts as the outfield boundary in baseball before fielding it.
+In general, baseball catchers do not have to worry if a pitch gets past them while the bases are empty, because the batter can not run in such a situation; the exceptions are when the pitch that gets past them is the fourth ball or third strike.
+
+
+===== Fielding positions =====
+
+Fielding position naming scheme:
+
+Baseball's fielding positions are fixed and based on places in the field or areas relative to home plate i.e. "center field" is a position in the center of the outfield.
+Cricket fielding positions are named in relation to the handedness of the batter, and there are significantly more positions (some of which aren't filled, since there are only 9 fielders to cover the large area) with names that loosely follow a polar coordinate system (i.e. words in the name of the fielding position give clues as to what angle and how far away the fielder is relative to the batter).
+
+
+==== Bowling/pitching ====
+
+The ball may be thrown within a given area to get a batter out if the batter fails to hit the ball (In baseball, the strike zone if the ball is unhit a maximum of 3 times, and in cricket, the wickets).
+Baseball pitchers may legally throw the ball such that it reaches the batter at any height (though it may be called a ball), but are more limited in whether they can make the ball bounce before it reaches the batter. Cricket bowlers may throw the ball so that it bounces on the ground before reaching the batter at any height, which can make the ball deviate sharply, but they may not throw the ball directly to the batter above waist height unless it bounces first.
+A baseball batter who swings at an "unfairly" delivered ball can be out in most of the usual ways, whereas a cricket batter can't get out in almost any way when swinging at a no-ball, though they can be against a wide.
+The different ways of making the ball move unpredictably:
+
+Cricket bowlers, since they are not restricted to a small strike zone as their target, also use a wide variety of approaches which are not available to baseball pitchers. These involve varying the line and length of deliveries and using unpredictable movement caused by the ball bouncing on the pitch before it reaches the batsman.
+Baseball pitchers, by contrast, must use changes in ball speed and movement (in cricket bowlers also vary ball speed) caused only by air friction and spin to deceive batters, as most pitches which come near touching the ground are ineffectively allowed to pass as balls.
+The ways in which the ball's design itself interacts with the movement:
+
+The raised undulating stitching on a baseball allows an accomplished pitcher to create a huge variety of motions in the air; even fastballs are thrown in such a way as to create certain kinds of movement.
+The cricket ball also moves in the air, swinging both inward and outward and even in reverse when the shine comes off the ball; but it achieves its most pronounced movement on the bounce, with seamers (fast bowlers) landing the ball on the seam to create slight but unpredictable turn, and spinners using spin to create significant turn and bounce variation.
+From where and how the ball is delivered:
+
+Furthermore, pitchers must begin their throw from a stationary position, while bowlers may run up to their delivery. (In the early days of baseball, the pitcher pitched from anywhere within a "box" and so had more flexibility as to where to stand when releasing the ball, before the 1880s.)
+Baseball pitchers also throw from an elevated mound (10 in or 25 cm above the level of home plate), while cricket bowlers are at the same height as the batsman (because every 6 deliveries which end of the pitch is used for bowling and batting switches) and must bowl with an overarm (or roundarm, a style rarely seen today) rotation of the arm during which the arm must not straighten by more than 15 degrees. (This was also a restriction on pitchers in the early days of baseball, abolished in the 1880s; today, baseball pitchers use a variety of delivery motions discussed below.)
+Speed of the ball:
+
+While both sports can and have exceeded pitch speeds that exceed 100 mph / 161 kmph, it is far more common to see such high speeds thrown more regularly in baseball. The fastest recorded cricket delivery is 100.2 mph (161.26 km/h) with baseball's record quicker at 105.8 mph (170.3 km/h).
+It is the case, however, that baseball pitches near or at 100 mph are considerably more common than bowled balls of comparable velocity in cricket. The bowler in cricket is much more restricted with respect to how much he can straighten his arm in delivering the ball, and this is one significant reason why baseball pitchers can deliver the ball faster with more frequency.
+One main difference, however, is that the ball in cricket is harder and heavier in weight. 
+
+The legal weight for the ball in baseball is from 5 to 5.25 ounces (142 to 149 g)
+The ball in cricket must weigh between 5.5 and 5.75 ounces (156 and 163 g).
+
+Categorization of bowlers and pitchers:
+
+Cricket's bowlers are grouped into different categories based on their bowling style—pacemen, seamers, off-spinners (or finger-spinners), leg-spinners (or wrist-spinners)—though a bowler may fall into more than one category (pace and seam bowling, for instance, largely overlap).
+The faster bowlers usually open the bowling, when the ball is at its hardest and smoothest. Spin bowlers generally bowl later, when the ball has begun to deteriorate and become rough.
+Baseball's pitchers are classified primarily by their throwing hand (left or right, with left-handed pitchers often called "southpaws") and their usual role in games.
+A starting pitcher begins games, typically not more than one game in five, in a rotation with four teammates who are also starters who will start games in a sequential cycle, and usually pitch five or more innings. Starters rarely appear as substitutes in games started by others.
+A relief pitcher enters games later, sometimes on short notice in crisis situations when there are runners on base or the opponent's best hitters are due to bat, and usually pitches fewer innings in any given game. But relievers may be called upon to pitch in several games consecutively. Some relievers even specialise further strictly as closers brought in just to pitch the last inning of a game in which his team leads by a narrow margin. Perhaps the most specialised group of relievers is left-handed specialists—left-handed pitchers who pitch almost exclusively to left-handed batters (sometimes to switch hitters who are weaker batters right-handed). Such pitchers frequently faced only one batter in a given game before 2020, when Major League Baseball required that pitchers who enter a game must face at least three batters, or record the final out of a half-inning, before being replaced.
+Pitchers are sometimes secondarily grouped according to pitching style, type of pitch most often used, or velocity. This is especially common when pitching technique is rare or unusual.
+For example, there are many different variations on how the pitch is delivered, including the conventional overhand in which the ball is thrown from the 12 o'clock position, 3/4 styles (with the arm moving towards the plate between 12 and 3 o'clock), as well as the less common sidearm (3 o'clock arm angle, compare roundarm bowling in cricket) and 'submarine' (below 3 o'clock, compare underarm bowling in cricket) deliveries. The submarine pitch is rare, and a pitcher who throws in this way usually has a 'submariner' attached to his name or description. Similarly, there are many kinds of pitches thrown, including the fastball, curve ball, slider, and knuckleball. Capable knuckleballers are extremely rare and are usually described by this skill first.
+Matchups between left-handed batters and right-handed pitchers, or vice versa:
+
+For reasons that continue to spur debate, it is historically the case that most right-handed pitchers succeed at higher rates against right-handed hitters than against left-handers, and that most left-handed pitchers succeed at higher rates against left-handed hitters than right-handers.
+One substantial strategic element to baseball is to use this phenomenon as much as possible. Defenses try to force a match between pitcher and hitter by side, and offences attempt to mismatch them; both teams use substitutions at times to accomplish the desired outcome. One response to this phenomenon is that many hitters, among them a number of the finest and most powerful to play the game, such as Mickey Mantle, Eddie Murray, and Chipper Jones, became adept as youngsters to hitting both left-handed and right-handed to prevent defences from using that advantage against them. Many professional clubs employ as many as two or three switch hitters so as to neutralise the advantage of side selection. However, only one switch pitcher has played in the major leagues in modern times.
+A similar phenomenon in cricket is where the two opening batsmen are selected to be one left-hander and one right-hander, so as to make it difficult for the opposition to select a bowler who can specialize against either type of handedness. This can apply even to other batting partnerships.
+
+The prevalence of balls thrown at the batter's body:
+
+In addition, if a baseball batter is struck with a pitch, he is awarded first base; "hitting" the batter includes hitting loose parts of his uniform without hitting his body (baseball rules specify that a player's person includes his uniform and equipment except for his bat).
+Pitchers may throw close to the batters, and a "brushback" is often used as an intimidation tactic. Deliberately hitting a batter is fairly uncommon, however, chiefly because it is punished severely. If the umpire believes a batter was intentionally hit, the umpire has his discretion on a first offence to warn both benches that the pitcher for either team will be expelled from the game if there are any further hit batsmen (the one baseball term in which "batsman" is used). The warning—and the power to expel if it is contravened—is intended not only to protect batters but to avert fighting; being hit by a fastball is taken seriously by batters, and bench-clearing brawls occasionally result when one team decides the other is deliberately throwing at its batters.
+Amazingly, in the history of the major league game, only one player has ever been killed by a pitched ball striking him in the head (Ray Chapman of the Cleveland Indians in 1920). This occurred before the invention of the batting helmet and was the principal cause for introducing this piece of equipment into the game as well as replacing dirty balls and outlawing the spitball. Baseball batters wear helmets, but they are unsecured and lack the "cage" of cricket helmets since only one side of the head/face is exposed. Catchers typically wear a helmet with a cage or protective bars.
+In cricket, bowlers consider the right to hit a batsman as part of their armoury; indeed, one of the most common methods of dismissal (leg before wicket) requires the bowler to hit the batsman's body rather than his bat. (However, to cause dismissal, the ball must be adjudged to be going onto hit the wicket, and therefore generally be relatively low, where batsmen are mostly protected by padding.)
+A fast bowler will punctuate his overs with deliveries intended to bounce up toward the batsman's head, either to induce a poor shot (which can be either defensive or attacking) which may result in the batsman being caught out, or to intimidate the batsman, making him less likely to play forward to the next few deliveries for fear of injury. These tactics have long been an accepted part of cricket.
+In the modern game, batsmen usually wear helmets and heavy padding, so that being struck by the ball only rarely results in significant injury—though it is nevertheless often painful, sometimes causing concussion or fractures (although it can also have fatal consequences: Phillip Hughes died after being struck in the head/neck area by a Sean Abbott bouncer during a Sheffield Shield match in 2014).
+An equivalent to a batter being hit by a pitch in baseball, where the ball hits the batter without bouncing first, would be a beamer in cricket. These are rare and usually caused by the ball slipping out of the top of the bowler's hand. The even rarer intentional beamer provokes strong reaction from batter and crowd alike. The umpire is authorised to take disciplinary action in such instances. The bowler is generally given a first warning, and is dismissed from the game if the offence is repeated.
+A notable such case was between Waqar Younis and Andrew Symonds: Younis was banned from bowling by umpire David Shepherd for delivering a beamer to Symonds in a match between Pakistan and Australia at the 2003 World Cup; it was the first of only two times it's ever happened during an international match.
+What height the ball may reach the batter at, and how this plays into the possible deliveries:
+
+In cricket, a no-ball is called if the ball reaches the batter above waist-height without first bouncing.
+In baseball, there is no such limitation, so a pitcher could throw a sinker that is thrown towards above the batter's waist height, with the batter believing and setting up to hit the ball as if it will legally reach him at that height, but then sinks below the waist height upon reaching the batter.
+There is a major difference in the way in which different bowlers or pitchers contribute to a single game. 
+
+In baseball, a single pitcher starts the game, and makes every pitch until the manager replaces the tiring pitcher with a relief pitcher. Replaced pitchers cannot return to pitch again in the same game (unless they are shuttled to another position in the field and thus stay in the line-up, a move rarely seen in the major leagues), and a succession of pitchers may come into the game in sequence until it ends.
+Although moving a pitcher to a fielding position and returning him to pitch later in the game is legal in baseball, it is a rarely used and potentially risky strategy, as the pitcher may be unprepared to play another position.
+In cricket, two bowlers begin the game, with those not actively bowling spending time as fielders. Every player in the team, including the wicket-keeper but excluding the 12th man, is available to be used as a bowler. Bowlers alternate bowling overs of six balls each. A bowler will usually bowl for a 'spell' of several (alternate) overs, and will generally bowl the entire spell from the same end of the pitch. A second bowler will bowl the overs missed by the first, from the other end of the pitch, for his own spell, with the two bowlers said to be "bowling in tandem". After a bowler is taken off, he may be, and often is, asked to bowl another spell later in the same innings.
+The terms "bowling" and "pitching", as words, both denote underarm deliveries, as were once required in both games. The rules for delivery were also initially similar. Once overhand deliveries were permitted in the respective sports, and pitchers were compelled to toe the pitching rubber instead of throwing from anywhere within the "pitcher's box", the actions of bowling and pitching diverged significantly.
+Penalties for bad or unfair delivery:
+
+The "wide" in cricket and the "ball" in baseball both derive from the concept of a "fair" delivery, i.e., a delivery that the batter or batsman has a fair chance of making contact with his bat. While there is no sharply defined "strike zone" in cricket as there is in baseball (but there are lines known as the return creases perpendicular to the other crease lines which the umpires can use as a guide, and in limited overs cricket specific wide lines are painted on the pitch 17 inches (43.2 cm) inside the return creases), in both cases the umpire must judge whether the ball was delivered fairly. Both the "wide" and the "ball" result in a "penalty".
+In cricket, like a no-ball, a single run is awarded to the batting team and it does not count as a legal delivery. However, a batsman may still be run out.
+A no-ball is a delivery in which the bowler or the fielders violate the rules in other ways; it can often occur when the bowler bowls from too close to the batter. It is a delivery in which a batsman can't be dismissed in any of the usual ways other than run out.
+In baseball, a ball is called, and if a pitcher gives up four balls the batter is awarded first base, which is called a "base on balls" or a "walk".
+A walk will only score a run directly if the bases are already loaded, forcing the runner at third base to advance to home (known as "walking in a run"); otherwise the threat is merely of another runner reaching base instead of making an out. However, since runs are scored so much more frequently in cricket, the occasional wide, scoring a run directly, is not taken too seriously, although the extra delivery can be of vital significance toward the end of a match. In both games, a wide or a ball can be the decisive factor in winning a match or a game.
+The number of pitchers/bowlers on a team:
+
+In limited overs cricket, teams are required to have at least five of their players bowl.
+In baseball, only one of the active players on a team has to be a pitcher, with the other players all being good batters and/or fielders. While allowed, it is quite rare for the pitcher to switch positions with another fielder in the way that occurs in cricket. However, because substitution is allowed, multiple pitchers may participate in a game without changing who the other fielders are, with each departing pitcher being permanently removed from the game,
+The prevalence of batters occasionally doing some pitching, even when they are weak at it:
+
+Cricket batsmen are sometimes asked to bowl for short periods of time, as this can help rest the bowlers. In certain cases, a batter's unorthodox style can flummox the opposition batters in a way that regular bowlers can't.
+Except for blowout games where the likely-to-win team doesn't want to have its pitchers get unnecessarily injured, "position players" (fielders) don't pitch.
+The way that each delivery has an impact in advancing the game:
+
+In baseball, every single pitch (with the exception of most foul balls with only one strike remaining) contributes to the batter either getting out or getting to first base, because every pitch is either put into play (in which case the batter can be forced out), or is adjudged as either a ball or strike (with 3 strikes getting the batter out).
+In cricket, only deliveries aimed at the wicket put the batsman at risk of being dismissed directly by the bowled ball, and only deliveries out of the batter's reach (or that are otherwise illegally delivered) result in automatic runs for the batting team. Thus, it is possible for a ball to be bowled away from the wicket, but still within the striker's reach, so that it does not contribute either to getting the batting players out or to the batting team scoring runs (for example, if the ball is not struck and the batsmen choose not to run.) The main impact of this type of delivery (dot ball) is that it reduces the number of deliveries left for the batting team to score off of (as there will either be a limited number of deliveries the batting team can face in their innings, or a time limit for the overall game, which doubles as a de facto limit on the number of deliveries in the overall game.)
+
+
+=== Batting team ===
+
+
+==== Batting ====
+
+The further the ball is hit away from any fielders, the more time for running and thus runs the batting team can score, or is likely to score in future plays.
+The ball may be hit out of the field to automatically score runs. (In baseball, a batter must run around all of the bases on a home run hit out of the park, but is under no risk of being out while doing so. In cricket, the batsman scores a six, which while not technically being the maximum number of runs scoreable off a single ball, is almost always so).
+Batters can play defensively to avoid getting out ("fouling off" pitches in baseball or the defensive strokes in cricket) while putting less of a focus on scoring, or can play more aggressively ("power hitting" or "batting positively" in cricket) to score runs more quickly while putting themselves at a higher risk of getting out.
+A cricket batter has significantly fewer restrictions than a baseball batter. They may swing and miss, or not swing, as many times as they like (so long as the ball isn't going toward the wicket), don't have to run if they hit the ball, may face as many deliveries (pitches) as they want to even after scoring runs (until they get out), and they have much more room between fielders to hit the ball to, given that there are no foul areas and the fielding team only has 2 more fielders to cover the significantly larger area of a cricket field than they would have in baseball.
+However, unlike a baseball batter who may have several at-bats (opportunities to bat) in an inning, a cricket batter can only bat once in an innings, with their opportunity to bat itself being called the "batsman's innings".
+
+One of the main differences between baseball and Test cricket is the primary intent of the batsman. 
+
+Usually, in Test/First Class cricket, wickets come at a far higher premium, since survival is of primary importance. While nine innings per side are played in a baseball game within a few hours, only two per side are played in Test cricket over five days (thirty hours), so the cost of a dismissal is far higher in cricket. It should be kept in mind that a batsman in cricket is not obligated to take a run after striking the ball, nor is there any penalty for swinging at the ball and missing unless it hits the stumps (i.e., the wicket) (or, as often happens, makes a glancing contact with the bat and is caught) and there is no limit to the number of deliveries a batsman can face; a batsman with the required concentration, determination and technical ability often bats for several hours (occasionally days) without being dismissed.
+Many of these characteristics are reversed in limited overs cricket, as batsmen have a limited number of legal deliveries to score from, and in the shortest formats of the game (such as T10 cricket), it may be possible to lose one wicket every couple of overs without the team becoming all out.
+By contrast, in baseball a batter takes a serious penalty (a "strike") if he swings and misses: three strikes result in an out, and if the batter hits the ball inside fair territory he must run.
+Defensive technique and area for legal deliveries in cricket:
+
+This contrast means that in cricket, unlike baseball, the quality of a batsman's defensive game and footwork are of the utmost importance. The nuances of batting technique are also greater in cricket, since the interplays between bowling variations, field placements and scoring strengths are more dynamic. Since cricket is played over an extended duration, the bowler and the fielding captain have time to "work over" a batsman (e.g., trying several different bowlers). Thus, cricket batting requires a  tight technique and the ability to withstand sustained examinations.
+The area for legal deliveries is much larger in cricket than it is in baseball, overlapping the batsman's entire body. Deliveries that reach the batsmen at rib or shoulder height are legal, and quite common. Depending on the form of the game, more or fewer deliveries can be bowled to reach the batsmen at throat or head level. Any fear or hesitation can lead to a batsman playing a poor shot which may result in him giving away his wicket (being dismissed).
+The amount of "place hitting" in both games:
+
+Since the cricket bat is wide and flat, while the baseball bat is narrow and round, on the whole cricket batsmen find it easier to hit and direct the ball than baseball batters, resulting in many more runs being scored in a cricket match. While bowlers can influence the ability of the batsmen to do so, perhaps the most famous episode being the Bodyline tactic, cricket batsmen can use a wider variety of batting strokes to direct the ball in many directions into a field which provides much more open space than in baseball. Keeping in mind, cricket batsmen are under no obligation to attempt to score a run after any stroke, but must strike balls to prevent them from hitting the wicket or their pads. Many strokes are in fact defensive in nature against a well-bowled ball and the quality of defensive batting is often the determining factor of a batsman's success over his career, especially in the longer forms of the game.
+By contrast, the balance of power is largely reversed in baseball. While particularly skilled batters have some ability to place hit and direct the ball to desired locations, the pitcher's influence is much more dramatic. Pitchers induce more ground outs, fly outs, or strikeouts, depending on the style of pitch. Thus particular pitchers are known for causing batters to make certain kinds of outs, depending on their mastered pitches.
+Also in contrast to cricket, baseball batters must attempt to take first base on any ball put into fair territory, and failing to do so will result in an out, but the size of the strike zone more strictly limits the set of deliveries that must be swung at compared to cricket.
+Like cricket, baseball batters do have a defensive tactic available; many batters will often attempt to deliberately foul off pitches that are strikes yet difficult to hit well, by hitting them into foul territory, awaiting an easier delivery later in the at-bat. Since an uncaught foul ball cannot be a third strike (unless it was a bunt attempt), this tactic allows the batter to receive more pitches.
+Because foul balls require runners to return to their bases, a foul ball on two strikes means that the game situation does not change whatsoever; this is in contrast to cricket, wherein the time/delivery limits in the game mean that legal deliveries that are not struck with the intent to score can hurt the batting team, as they are left with fewer deliveries in the remainder of the game to try to score off of.
+In the early generations of baseball, the emphasis was mostly on bat control, place hitting, bunting, etc. But, starting in 1919, several factors resulted in a dramatic expansion of strategic orientation, supplementing traditional "small ball" with the "power game": a "livelier" ball, because of better materials and a tighter weave; more frequent substitutions of new balls; lighter, more flexible bats; the outlawing of the spitball; and the increase in attendance which drove owners to build more outfield seating, thus reducing the outfield area significantly. The power game has been encouraged further in recent years, by the construction of new ballparks with smaller outfields than previously, and even the reduction of field size at "classic" ballparks known for spacious outfields; for example, the distance to the fence in deep left field at the original Yankee Stadium was reduced from 430 to 399 feet (131 to 122 m) between 1984 and 1988 (the post-1988 dimensions were maintained at the current Yankee Stadium). Still, it is generally agreed that no one can hit a home run at will, and every successful batter knows never to go to the plate intending to hit a home run. Rather, he should attempt a level swing, try to pull only the ball on the inside of the plate, go the other way with balls low and outside, and otherwise start each at bat intending to drive the ball up the middle, which is the most vulnerable part of the infield (especially if the pitcher is not particularly good at fielding his position).
+Which directions a batter may be incentivized to hit the ball in:
+
+In cricket, the boundary behind the striker's wicket is generally a shorter distance away than the boundary in front of it. In addition, fewer fielders are generally positioned behind the wicket. So batsmen have some incentive to aim hits to behind their wicket.
+In baseball, various game situations can dictate whether the ball should be hit to the left or right side of the field. For example, if the batting team has a runner on second base that they are intent on advancing, they will want to hit the ball to right field, as this gives the runner more time to advance to third base - positioned on the left side of the field - as the right fielder's throw arrives.
+The games emphasise power hitting to different degrees. 
+
+Cricket requires the accumulation of large numbers of runs; and placement of the ball between the fielders produces runs efficiently and is generally accepted as a better strategy than "swinging for sixes". In cricket situations can arise in a match where power hitting, also called "slogging", is required. This typically occurs towards the final overs of a limited overs game and can also be an option to get runs for batsmen even earlier in the innings. It is still quite risky.
+A batsman generally must hit the ball about 60 metres (200 ft) or more to get it to the boundary. Whereas in baseball the batter needs to hit up to an excess of 450 feet (if center field) to get the ball outside the boundary. 
+In baseball, power hitting can produce runs quickly and frequently in many situations, as well as force pitching changes and other fielding moves; but it can also result (because of the great difficulty of driving a ball off a cylindrical bat) in a great many strike outs, fly outs, and ground outs.
+Facing a delivery just outside the batter's reach:
+
+In cricket, bowlers can bowl in the corridor of uncertainty, which is just a small distance away from the stumps. This forces the batter to consider swinging (to keep the ball away from his stumps) while putting him at risk of mishitting the ball and it flying behind him to the slip fielders for a catch.
+Pitchers can attempt to make a batter swing at a ball by making it seem like it will go in the strike zone, in which case the batter may have to make contact to foul off the ball in order to avoid a third strike, or hit into fair territory.
+Batter's ability to move around before and as they hit:
+
+In cricket, batters occasionally "stand outside the crease" (closer to the bowler) to counter the effects of swing or spin on the ball, though this can get them stumped.
+Baseball batters are restricted to staying in the batter's box.
+How the field boundary in each sport influences the way in which batters try to hit the ball out of the field:
+
+In cricket, the boundary is simply a line or relatively flat object (like a rope) that stretches around the field. Balls that touch the boundary in any way are considered to be outside of the field, and so batters can get significant scoring value on shots along the ground that can pierce a gap between fielders and reach the boundary.
+Baseball has an outfield fence which is considered to be within the field of play. This means the only way a hit ball can leave the field is for it to bounce or clear the fence in the air; thus, batters get less value from hitting the ball directly across the ground.
+Whether a player who got out can participate further in the game:
+
+Cricket batters can not bat again for the rest of the innings once they're out. This has significant strategic implications, as once the good batters on the team are out, the bowlers, who tend to score fewer runs, are the only players left to bat.
+A baseball player, after getting out, can bat again one or more times in subsequent innings when it is his turn in the line-up, or even in the same inning, if all his teammates come to bat and the team has not made three outs and it is his turn again.
+
+
+===== Running =====
+
+A runner may be out when not at a safe haven. This can occur when a fielder gets the ball to the safe haven the runner is running towards before they get there. (In cricket, this is through run outs. In baseball, forceouts are most similar to runouts). In baseball, other types of outs can be made against runners, such as tag outs.
+At most one runner can occupy a safe haven.
+Runners must coordinate to some degree, and must decide how much to run; running too much risks a runner getting out (particularly if a fielder is about to throw the ball to wherever they are running towards), but can also help them score more runs.
+The safe havens:
+
+In baseball, the bases are the safe havens.
+In cricket, the popping creases and the area of the field between them are what separate the rest of the field into two separate safe havens, known as the batsmen's grounds.
+What counts as contact with the safe haven, for the purposes of making a player "safe":
+
+In cricket, either the batsman or his bat (that he is holding) must touch the ground.
+When sliding, batsmen almost always slide head-first into their ground with their bat outstretched in front of them.
+Practically speaking, the allowance of the use of the bat to be safe allows the nonstriker to more quickly be ready to face the next delivery if he becomes the striker after taking a single, and ensures the striker's bat need not be moved out of the way or retrieved.
+Batsmen may leave their ground to avoid injury and remain safe. A 2017 modification to the Law also allowed a batsman who was safe to remain so if their bat or body went airborne, so long as they were trying to get into their ground.
+In baseball, only the runner's body can be used to get on base; batters frequently drop the bat when setting off for first base, and can be called for interference if they carry it.
+Runners slide into base either head-first or feet-first.
+A runner is not safe at any point in which he is not in contact with the base. However, an exception is made for batter-runners who overrun first base.
+How the ball is used to get a runner out:
+
+In cricket, the ball can be used to put down the wicket, with this being considered a discrete instance. In other words, if a batsman is in the ground of a wicket that has been put down, he is not out, and may leave that ground and continue to score runs, though the wicket may be remade and put down again.
+In baseball, if a fielder with the ball is tagging the runner, then the ball is "live" and the runner is out if at any moment he is not in contact with the base.
+The "current" rule of street cricket emulates this aspect of baseball.
+How runs are scored through running:
+
+In cricket, two batters (one of whom is known as the nonstriker, akin to a baserunner) start out at opposing grounds, which are areas of the field behind lines drawn on the ground just in front of each wicket. Any time the two swap grounds, one run is scored.
+There is no limit on the number of runs that can be scored off a single delivery in this way, so long as neither batter gets out.
+Running counter-clockwise around the bases while making contact with each one with one's body counts as a run in baseball.
+A single player from the batting team can only score one run from each of their turns at bat by doing this.
+When a player of the batting team is legally allowed to run in the attempt of scoring:
+
+In baseball, a batter must remain within the batter's box, and may not advance around the bases on a live ball, unless they have either hit a fair ball, or the catcher has failed to cleanly catch the third strike of their at-bat. Runners may advance anytime during a live ball, even before the pitcher has pitched.
+In cricket, the batsmen may run at any time after the ball in play has been bowled, regardless of whether or where to the ball was struck by one of them. The striking batsman may also bat out of his ground in a bid to shorten the distance they must run to score the first run, and the nonstriking batsman may begin running before the ball has been bowled.
+Running plays a much larger role in baseball because of the low scoring; also, players on the batting team must run much further to score a run, because runners may remain in play (that is, on the bases) without scoring, and because baserunners can advance to the next base before the ball is hit again (steal the base) as soon as the ball is live. Base stealing often requires sliding, in which the runner throws himself to the ground to avoid being tagged or overrunning the base. The runner may also deliberately slide into the fielder at the base he is trying to steal to keep him from catching the ball or to disrupt a double play. At home plate the runner often will simply, and legally, run into a catcher who is blocking the baseline but who does not have the ball (a defensive player may not impede the runner unless he has the ball or is in the process of catching it).
+The equivalent in cricket is almost impossible because the bowler is next to the non-striker, and in fact is able to mankad him if he strayed out of his crease (or simply cancel his runup, rendering the ball dead); in addition, it is legally considered unfair play for the batsmen to steal runs during the bowler's runup. Tactical running in cricket rarely strays beyond the consideration of "can I make it to the other end before the ball does". One exception of this is towards the end of a closely fought limited overs game, where a batsman (normally a tail-ender) would sacrifice his wicket to allow the better batsman to remain on strike, usually in the last few balls. While in baseball, steals, sacrificial running, forces, double plays, intimidation, and physical contact enter into the equation.
+
+Making contact with a fielder, as baserunners often do, would be unsportsmanlike in cricket, and unnecessary, as play stops when a single wicket is taken.
+Occasionally a cricket runner will dive over the crease, but in baseball this is a regular occurrence, as players are frequently forced to run even when their chances are slim.
+Since a team almost always scores fewer runs in a baseball game than its number of outs, a baserunner will frequently take risks attempting to advance an extra base or to score a run, resulting in close plays at a base. 
+
+In cricket, since the number of runs scored is much greater than the number of wickets taken in a match, a batsman would be foolish to risk getting run out in an attempt to score an extra run without a high expected chance of success. In general, cricket batsmen are run out due to exceptional fielding, poor judgment/communication, indecision, or a combination of said factors.
+In baseball, runners are often out not of their own accord – they are simply forced out.
+In baseball, there is an ambiguity as to whether a tie goes to the runner or not; that is, if the fielding team executes an action meant to put the runner out at the same moment that the runner reaches a safe haven, is the runner out or not? 
+
+In cricket, ties do go to the batsman; both a run out and a stumping require that a batsman be "out of his/her ground", meaning that a batsman who makes their ground at the same time that the wicket is put down will be safe.
+
+
+=== Umpiring ===
+
+In both sports, there is one umpire per safe haven, and additional umpire(s) to handle technology replays. In baseball, the umpire nearest the pitcher stands behind the batter, whereas in cricket they stand behind the bowler.
+Cricket uses the Umpire Decision Review System (DRS for short), while there is Instant replay in Major League Baseball. One major difference is that, ignoring the umpires, DRS can only be invoked by players, while instant replay can only be invoked by the team managers.
+
+
+=== Game length ===
+A direct comparison is difficult since: 
+
+Cricket is predominantly played in three different formats: Test (and other first-class matches), One Day International (and other List A matches which last 50 overs, i.e. 300 legal deliveries, per innings) and Twenty20 matches (which last 20 overs, i.e. 120 legal deliveries, per innings). Of these, the Twenty20 format takes much the same time as a baseball game: around three to three-and-a-half hours.
+Baseball games are generally much shorter than Test and One Day cricket games. Most Major League Baseball games last between two-and-a-half and four-and-a-half hours.
+Because the Major League playing season is 6 months long (183 days, between April and October with spring training in February and March), with 81 games played at home and 81 away (162 in all, not counting the postseason or the All-Star Game), baseball teams often find themselves playing double-headers and series games. A doubleheader entails two games, played back to back, in one day. This usually occurs when a game needed to be rescheduled, and is a common occurrence at the beginning of the Major League season, which coincides with the rainy spring season. Although they were once common, double-headers are rarely scheduled any more by teams, but are part of the culture of baseball, with Ernie Banks' "Let's play two" a famous refrain. A series occurs when two teams play on several consecutive days. This is a part of the regular schedule in baseball because of the number of games required in a season, and because there are large distances between stadiums in the US and Canada, thus conserving time and resources by allowing the teams to spend several days in a single location. In Major League Baseball there is a maximum of 20 days consecutively played before a break in games must be observed.
+In cricket, test matches and certain domestic first class matches can last up to five days, with scheduled breaks each day for lunch and tea, giving three sessions of play each day. Full length games, for example between English counties or between Australian states, have a similar format to Test matches, but either three or four days are allowed. 
+The limited overs versions of the sport usually last up to 7 hours. Twenty20 has innings of twenty overs per team and generally takes around 3 hours.
+One Day Internationals and Twenty20 cricket, with their inherent limit on the number of fair deliveries, do not have an exact equivalent in baseball. The closest comparison would be games that have a pre-set number of innings shorter than the standard 9 (as with the second game of a doubleheader at some levels) or a pre-set time limit of some kind, such as a curfew restriction, or in the case of one of baseball's cousins, recreational softball, a pre-set length of the game, such as one hour. In winter ball Caribbean leagues (and the MLB during the coronavirus) doubleheaders are commonly pre-set to last 7 innings instead of 9, except if they are necessary as tiebreakers; 100-ball cricket can be thought of as a similar shortening relative to T20 cricket's game length.
+
+
+==== Result ====
+
+In both sports, when one team has completed all of their turns at bat, this entitles the other team (if they are currently batting) to automatically win at the moment that their score total surpasses the initial team's total. (This is known as the winning team having chased down their "target" number of runs in cricket, and as the winning team having achieved a walk-off in baseball.)
+The possibility of a result:
+
+Cricket:
+In Test cricket, it is possible neither team wins or ties; this is known as a draw.
+The original form of Test cricket, Timeless Test cricket, prevented this so long as teams had the time to play to a result.
+In the entire history of Test cricket, there have only been two tied Tests, with there being no tiebreaker rule for multi-day cricket.
+In limited-overs cricket, if a Super Over is used with the provision that additional Super Overs will be played if the tie fails to be broken, then a result is guaranteed.
+In baseball, if teams are tied, then they play as many extra innings as necessary to get a result.
+Ability to predict result before end of game:
+
+In all forms of cricket other than the Timeless Test, it is sometimes possible to predict the match result well before the end of the game during the final innings, simply because it is almost impossible for a team to score more than 6 runs off a delivery, without either significant fielding errors or illegal deliveries being bowled.
+Whereas in baseball, the lack of time or delivery limits means a batting team that still has outs remaining can always come back (though certain competitions limit this possibility by instituting run-ahead rules to terminate blowout games).
+
+
+== Strategy ==
+A wide array of factors affect both games (from composition of the pitch or field soil to weather conditions, wind, and moisture) and multiple strategies in both games can be employed to exploit these factors. 
+
+Other than the bowler, cricket places few restrictions on fielding placement, even for the wicket-keeper, and its variety of bowling styles, 360 degrees of open field, wide bowling area (target zone), and so on give scope for strategic play. Notable exceptions include the limit of two fielders in the leg side quadrant, introduced to prevent the use of Bodyline tactics, and limiting outfield players in the early stages of limited overs matches and the subsequent introduction of powerplays.
+In baseball, there are specific rules about the positions of the pitcher and the catcher at the start of each play. The positioning of the other seven fielders is as flexible as cricket, except that each one must start the play positioned in fair territory. The fielders are otherwise free to position themselves anywhere on the playing field, based on the game situation.
+
+
+=== Condition of the ball ===
+A major element of strategy in these sports is the condition of the ball. 
+
+Since bowling in cricket has more variations (such as bounce, swing, seam movement, off-spin, leg-spin and so on), the condition of the ball also affects play to a great degree. In Test cricket, the same ball must be used for at least 80 overs unless it is lost, damaged or illegally modified at which point it must be replaced with a used ball in a similar condition. After the 80 overs, obtaining a new ball is at the discretion of the fielding captain – who will often ask for a new ball immediately, since a new ball is harder, smoother, bounces higher and has an intact seam, which produces greater conventional swing. But when a captain feels that a spin bowling attack is more likely to be successful, he will persist with the old ball, which is rougher and better grips the surface as well the bowler's fingers.
+In baseball the ball is replaced a number of times during a game to ensure it is in optimum condition.
+Various factors affecting the movement of a cricket ball:
+
+The aerodynamics of swing in cricket are different from baseball. Once a particular hemisphere of the cricket ball is more rough or scratched than the other, the fielding team meticulously works to preserve the shine on the other half by rubbing it on their clothes or by applying saliva (no "external" substances can be applied to alter the condition of the ball). Bowlers can then utilise both the asymmetrical aerodynamics of the surface combined with the effects the seam can have through the air to cause the ball to swing (curve through the air). Moreover, the raised seam also causes movement off the pitch in cricket, which is an important part of medium pace bowling.
+The old ball in cricket also tends to generate greater amounts of reverse swing, which is swing towards the polished side. This can be exploited by genuinely fast bowlers (usually, those who can bowl over 90 mph or 140 km/h). Especially on pitches in the Indian subcontinent, which tend to have abrasive surfaces, bowlers might resort to bowling across the seam as early as the tenth over, so as to quickly scruff up the ball and generate reverse swing early on. Strategies that rely on early reverse swing also need the backup of effective spin bowlers to be able to exploit the roughed up ball.
+Due to these factors, a batsman in cricket needs to watch carefully how the bowler grips the ball even during his run-up, as well as the type of revolutions on the ball as it approaches. Master spin bowlers like Shane Warne and Muttiah Muralitharan, who were able to dramatically vary the trajectory, direction and extent of spin, frequently bowled deliveries with a scrambled seam to disguise the type of ball actually bowled.
+
+
+=== Batting first or last ===
+In cricket, since the strategies are greatly influenced by factors such as soil characteristics of the pitch, condition of the ball, time of the day, weather and atmospheric conditions, the decision to bat first or last is of great tactical importance.
+The team that wins the coin toss has the choice of batting first or last. This choice can be crucial to success; particularly in Test cricket. As the pitch is used for up to five consecutive days with little maintenance, the deterioration of the pitch with wear can have a major influence on the result of the match (e.g., typically the ability of spin bowlers to "turn" the ball increases toward the end of a Test match, whereas fast bowlers often prefer a harder and bouncier pitch often found at the start of a match). It is usual for some amount of grass to be left on the pitch on the first day of a Test, since it helps bind the surface. The presence of grass on the pitch is conducive for pace bowling, so a grassy pitch may also tempt a captain to field first. Sometimes, weather conditions also influence the decision, since a cloud (especially overcast cloud) cover has been found to assist swing bowling. Aggressive captains such as Allan Border of Australia have been known to bat first in Test cricket regardless of the conditions.
+In One Day International cricket, the time of day is also a crucial factor in determining the captain's decision at the toss. In some parts of the world, dew on the ground can be significant. In a day-night game, grounds in some countries like India or South Africa become wet due to dew, which makes it difficult for a spinner to grip the ball. The captain must balance this against a consideration for bowling becoming more effective under lights, since the ball might skid off any dew on the pitch or get assistance in swing from the cooler night-time air. Even for a day game, the captain might be inclined to exploit early morning dew on the pitch.
+In baseball, on the other hand, the "home" team always bats last.
+At a "neutral" site, such as the College World Series, the "home" team may be decided by coin toss, but that "home" team must bat last.
+This was not originally the case. In the early years, the winner of a coin toss could decide whether to bat first or last. The more offence-oriented aspect of the early game might influence a team's decision to bat first and hope to get a quick lead. This led to the occasional unfortunate situation where the home town crowd would have to watch their team lose a game in the last of the ninth inning, in "sudden victory" fashion by the visiting team. By the late 1800s, the rule was changed to compel the home team to bat last.
+
+
+=== Fielding strategy ===
+
+In cricket, since the batsmen can hit the ball with greater variation and different objectives, the field placements are more important and varied. 
+
+Modern-day coaches and captains have intricate knowledge of the strengths of opposition batsmen, so they try to plug the dominant scoring areas for each batsman. Moreover, since the bowling attack has greater variety in cricket, the field placements required for each type and line of attack also vary greatly.
+Depending on the scoring strengths of the batsman (off-side, leg-side, straight, square, front foot, back foot, power hitter, "finds the gap", "clears the field" and so on), the captain must make adjustments to the field each time the batting pair score a run and change ends, which can possibly happen after every ball in an over. To meet the demands of a speedy over-rate (typically, about 15 overs an hour), the captain must arrange the fielders in a way that they can swiftly interchange positions for the two batsmen. This is especially important if one batsman is right-handed, while the other is left-handed. And also in limited overs cricket if the umpires deem the over rate of the team fielding first is too slow they can dock them overs so they may have less than 20/50 overs to reach their target score when it is their turn to bat.
+Fielders in cricket can field in all positions, but modern players have specialised field positions.
+In particular, slip positions require special skills since the slip fielder is placed behind the batsman and the ball comes directly off the edge of the bat.
+Close catching positions such as forward short leg and silly point, as well as positions for the cut shot such as gully and point, require fast reflexes and canny anticipation, so they are also specialist positions.
+Conversely outfielders also can be specialist positions due to the need for a strong throwing arm. (Often fast bowlers are well-suited for this.)
+
+In baseball, although only the positions of pitcher and catcher are prescribed by the rules, fielders' positions are dictated closely by custom, and shifts in fielders' positions according to circumstance are less dramatic; the strike zone and smaller angle of fair territory limit the usefulness of some strategies which cricket makes available to batsmen. 
+
+The chief occasion on which fielding placement differs markedly from the usual is the presence of a pull, or dead-pull, hitter at bat (such hitters almost never, except on the rare occasion of a fluke or mishit, hit the ball in any direction except towards the same side of the field as they stand at the plate, i.e., a right-handed pull hitter hits everything toward left field). In such case the fielders will move so far in the direction of the pull that one half of the field is almost completely unprotected. This is called an infield shift or overshift. A six-man infield has also been used when circumstances warrant.
+For the great majority of batters, however, the traditional fielding arrangement is used, with minor changes in position to accommodate the batter's power or bat-handling ability, the location of runners, or the number of outs. (For example, with a base runner on third with less than two out, the importance of fielders being able to throw quickly to home plate on a bunt is increased, and the infielders will play closer to home plate.)
+However, baseball has no equivalent of cricket's close-in fielders, because it is impractical to have fielders so close to the bat as they would have virtually no chance of latching onto a ball travelling so fast. It is possible to place a close-in fielder to catch a bunt, but this practice is almost never followed except in specialised circumstances such as a pitcher being forced to bat late in a game, with less than two outs and the opportunity to drive in a run. The team's best chance to score in such a situation may be to sacrifice bunt and may warrant the first or third baseman playing halfway up the line to cut off the run at home.
+
+
+=== Use of signals, commands, and discussion ===
+
+
+==== Coaching strategy and tactics ====
+In cricket, coaches cannot intervene or direct gameplay; the captain must make all the calls once the players are out on the field. However, the coach may convey messages to the captain or the players at any time, since there is no restriction on signalling or speaking to players on the field. In dynamic situations, like a run chase with an imminent possibility of rain, it is quite common for coaches to update tactics using signals. Hansie Cronje, the former cricket captain of South Africa, once took the field with a wireless link to the coach, Bob Woolmer. Subsequently, the use of gadgets to transmit messages was banned by the International Cricket Council. Regardless, the coach is merely an adviser; it is almost always the case that the cricket captain has complete authority over the team once play starts.
+In baseball, by contrast, managers and coaches will often direct the players (through hand signals) to carry out a play (such as a stolen base or hit and run), or to field at a particular depth. In fact, "stealing signs" can play an important part in baseball strategy when a player on an opposing team tries to interpret hand signals between pitcher and catcher or between runner and base coach, and possibly then relay this information to another player without being themselves detected.
+
+
+==== On-field players and captains ====
+In cricket, the captain, bowler, and wicketkeeper may all confer over where to place fielders, and what type of ball to bowl. Non-active bowlers may offer advice to the current bowler.
+The catcher has an outsized role in baseball, having to make many signals to the pitcher on what type of pitch to throw. Sign stealing is an issue.
+The closest example of a wicketkeeper advising his bowler would be MS Dhoni advising Joginder Sharma in the 2007 ICC World Twenty20 Final in the final over, and this was likely influenced by Dhoni being the captain.
+
+
+=== Strategy over the course of the game ===
+
+In both sports, strategy varies with the game situation. 
+
+In baseball, pitcher, batter, and fielders all play far differently in the late innings of a close game (e.g., waiting for walks, trying for stolen bases or the squeeze play to score a decisive run) than they do early, or when one team has already scored many more runs than the other (where batters will be likely to swing at many more pitches and try for extra-base hits and even home runs).
+The number, speed, and position of baserunners, which have no equivalent in cricket, all dramatically change the strategies used by pitcher and batter.
+A runner on first base must decide how large a lead to take off the base—the larger the lead, the greater the chance of advancing on a stolen base or batted ball, but also the greater the risk of being picked off by the pitcher.
+In leagues which do not allow designated hitters, strategic thinking also enters into substitutions. For example, in the double switch, the substitution of a relief pitcher is combined with the substitution of a pinch hitter who takes the pitcher's spot in the batting order so that the new pitcher will come to bat later (as almost all pitchers are poor hitters much like most specialist bowlers are poor batsmen). Since players may not return to the game after being substituted for, a manager cannot take lightly the decision when and if to substitute a better-fielding but worse-hitting player if his team is ahead.
+Another difference between baseball and cricket strategy is the importance of sacrifice plays in baseball. These are plays in which a batter deliberately hits in a particular way or in a particular direction to advance runner(s) at the expense of himself getting out. 
+
+For example, a poor batter may deliberately bunt (hit a low slow ball) a ball towards first base so that he will be easily put out, to ensure that a runner on second base will end up safe on third. A stronger batter may deliberately hit a long "sacrifice fly" that he knows will be caught (resulting in an out) so that a runner can make it home to score a run.
+This strategy results from the relative cheapness of individual outs in baseball and the relative importance of individual runs in baseball.
+In cricket, such a strategy would be foolish as runs cannot be scored when a wicket has fallen except in the case of a run-out (although if a batsman is caught and if he and the non-striker attempt a run and cross each other the new batsman must assume the non-striker's position).
+The essential action in baseball is either (for the offence) to advance runners around the bases or (for the defence) to halt that advance. 
+
+As simple as this is in principle, in practice it generates a remarkably large range of strategies. Any given situation—the number of runners on base, the bases they occupy, their skills as runners or base-stealers, the count on the hitter, the number of outs, the specialties of the pitcher and the batter, the catcher's skill at throwing out runners, the positioning of fielders, which inning is being played, and so on—allows for a considerable variety of possible plays, on either side of the ball.
+At any moment, one manager may be calculating how to advance his runners (whether to call for the steal, the hit-and-run, sacrifice bunt, sacrifice fly, a double steal, the squeeze, and so on) while the opposing manager is calculating how best to thwart his opponent (not only through the pitching approach and positioning of fielders, but by, say, calling for a pitch-out when a steal is anticipated, and so on).
+Since the variables that determine which strategies are possible or advisable change from pitch to pitch, and according to all the varieties of play situation that may come about in any game, the game played between the two managers is the most intricate aspect of the game, and for many followers of the sport is considered the true 'inner game'.
+Regarding the role of time in the result:
+
+First-class cricket also has a number of strategic elements not found in baseball, simply because the maximum time duration of the game is fixed (which can be up to five days for Test cricket) and a match not completed by the end of the time duration results in a draw regardless of the relative score (Although, in domestic competitions and the World Test Championship a 1st innings lead is beneficial to a team's final standings).
+By contrast, baseball games are played to completion regardless of the time duration and there is no possibility for a tie or draw (with the exception of certain exhibition games such as the MLB All-Star Game, or in the case of Japan, where games are declared ties after 12 innings). There are no equivalents in baseball of, for example, deciding when to declare or whether or not to make your opponent follow on.
+
+
+=== Strategy based on the playing surface ===
+The condition of the playing strip (the pitch) in cricket is of vital significance as, unlike baseball, the ball more often than not is deliberately bounced on the pitch before reaching the batsman. While in baseball, playing conditions between different stadia are much the same (except for perhaps small differences in the dimensions of the field, whether the outfield is fast or slow, and if the field is grass or artificial turf), the physical characteristics of the cricket pitch can vary over the course of the game, or from one field to another, or from one part of the world to another. 
+
+On the Indian subcontinent, for instance, pitches tend to be dry, dusty, rough and soft which tends to wear down the ball more. These pitches offer less assistance to fast bowlers because the ball tends to bounce slower and lower, where most fast bowlers rely on bounce and speed to defeat the batsman. On the other hand, spin bowlers prefer this surface because it gives greater traction to the ball and will result in the ball breaking or turning more when it hits the surface. When such a delivery is bowled, the ball is said to have "turned".
+Conversely, pitches in places such as Australia, England, South Africa and the West Indies tend to be hard, true surfaces, called "batting wickets" or "roads" because the ball bounces uniformly and thus batsman find it easier to score runs, although these wickets suit fast bowlers more than spinners.
+Accordingly, teams are generally much harder to beat in their own country, where both their batsmen and bowlers are presumably suited to the types of pitches encountered there. On any given pitch, however, conditions will become more suitable for spinners as time progresses as the pitch becomes softer and worn through use, making the spin bowler something of a cricketing "closer". The pitch can be cleaned of debris and rolled between innings, and should be mowed before each day's play at the discretion of the umpires. But the pitch cannot be watered once the match has started (unless it rains which can happen at a time when nobody can cover the pitch). Its characteristics can therefore change during the game, and can be a major factor in deciding whether to bat or field first.
+Baseball parks are also not completely uniform, however many of the variations in playing conditions in baseball also arise in cricket. 
+
+Stadiums with retractable roofs, for example, usually play differently with and without the roof. For example, with the roof open the wind will affect how far the ball carries.
+Against a running team the basepaths may be heavily watered.
+Many stadiums have idiosyncratic features – for example, the short right field and high left field wall (called the Green Monster) at Fenway Park, the former hill and flagpole in the outfield (Tal's Hill) at Daikin Park, or multiple "porches" (parts of the grandstands hanging over the outfield, such as the "Short Porch in Right" at Yankee Stadium) which allow short home runs. There is an equivalent for this in cricket, where the placement of the pitch may render one perpendicular boundary significantly shorter than the other. For example, in a particular game, the leg-side boundary may be 15 feet closer to the batsman than the off-side boundary. Such a boundary can then be targeted by batmen in search of quick runs.
+The baseball behaves differently in those stadiums with artificial turf as well. 
+
+Artificial surfaces are harder and more uniform than grass, and the ball tends to roll farther and straighter, and to bounce truer and more highly on these fields. Teams built to play the majority of their games on this field tend to place a higher premium on defence (since it is more likely to get an infield out) and speed (since it is more important to be able to beat out a throw) than on power hitting.
+The altitude of the stadium (most notably Coors Field) can also impact the distance a batted ball travels and the amount of ball movement a pitcher can generate with his deliveries, although recently balls have begun being placed in humidors at high-altitude parks to negate these effects.
+The amount of moisture in the dirt on the basepaths can also affect the behaviour of ground balls and the ease with which players may steal bases; some teams are known to alter the amount of watering done to the dirt depending on the skills of the home and visiting team.
+The amount of foul territory is also an important variable, since foul pop-ups that would be outs in some parks (e.g., the Oakland Coliseum) may end up in the stands in other parks, thereby allowing the batter to remain at the plate (e.g., Fenway Park and Coors Field).
+On the whole, though, these variations do not produce effects as great as variations in cricket pitches, with one arguable exception being Coors Field.
+In general, the condition of the pitch is a much greater factor in cricket than in baseball, while at the professional level stadium shape and quirks permanently built into the playing surface are greater factors in baseball than in cricket. Note that in amateur cricket pitches may have considerable variation in shape and may even incorporate obstacles (like tree roots), but this is not considered desirable or ideal. In baseball, familiarity with distinct field layout is considered to be an important part of having home-field advantage.
+
+
+=== Strategy based on batting order ===
+The batting order in baseball must be declared before the game begins, and can only be changed if a substitution occurs.
+Batting out of turn is a rule violation resulting in a penalty. When a manager makes a substitution, the new player must occupy the same place in the batting order as the old one. To allow more complicated changes in batting order, managers may use the double switch, substituting for two players simultaneously. This is typically used to replace the pitcher but put the new pitcher in a spot in the batting order that will not come up to bat soon, previously occupied by another fielder (pitchers are almost uniformly poor hitters much like most specialist bowlers are poor batsmen). However, the rule remains that no individual player can ever change his position in the batting order within the same game.
+Unlike baseball, the batting order in cricket is not fixed, and can be changed at any time, provided each player bats at most once per innings.
+This gives rise to the "pinch hitter" in cricket– a non-specialist/lower order batsman promoted up the order to get quick runs– and the Nightwatchman. This latter is typically a lower-order batsman put in to bat near the end of the day to avoid a better batsman having to make two cold starts, a particular risk. In addition, there may be a "finisher" who is sent in near the end of the final innings in a one-day game to try to chase down a total.
+If a batsman is not ready to bat at the fall of a wicket, another batsman, typically the player who occupies the next spot in the batting order, will go out to bat in his place, to eliminate the risk of the original batsman being timed out.
+The roles of individual players in the batting order are strikingly similar. 
+
+In both sports, the players near the top of the batting order are considered superior batters or batsmen.
+The initial batters or batsmen generally specialise in avoiding making outs/losing their wicket, while the third through fifth batters and batsmen are considered their team's best at providing runs.
+After that, the talent generally drops off, with the pitchers and bowlers generally being the worst at batting.
+Sacrifice plays:
+
+Because outs are less important in baseball than in cricket, poorer batters are sometimes asked to attempt a "sacrifice" play in which they deliberately get themselves out in baseball to achieve a bigger team goal.
+This only occasionally happens in cricket, at the end of a limited-overs game, when a poorer batsman may sacrifice himself so that his partner will be on-strike for the next delivery.
+How the fielding team can negate the influence of a skilled batter:
+
+Also, since in baseball a batter who puts the ball in play does not get another at-bat until the entire batting order is cycled through, the opposing team may pitch around a skilled batter, deliberately walking him so that another batter comes to the plate.
+In cricket, a batsman remains at the pitch until he is out, his team is all out, his captain declares or the set number of overs have been bowled, and the other team must bowl to him until he is out or one of the other above mentioned situations occur. The only way captains can negate the influence of superior batters similar to pitching around is to try to keep the more skilled batsman off-strike. This can be seen at the end of closely fought matches, where a captain might try to maximise the number of deliveries his bowlers can bowl at a non-specialist batsman. The exception is if the player is injured and has to leave the field for treatment: the next batsman in the order will then take his place. If the original batsman is able to continue later on, he can join the game again when one of his team's batsmen is out provided his injury time has expired or after 5 wickets have fallen, whichever comes first provided the rest of the team is not bowled out before either of these situations arises.
+
+
+== Evaluation and presentation ==
+
+
+=== Scoreboard and scorekeeping ===
+
+Here are two examples of the scoreboard from one of the sports transferred to the other, to demonstrate what types of information both convey (the examples are designed for situations where there is greater ambiguity):
+Notation: "xxx" means that a piece of information isn't transferred to the other sport, while "?" indicates that a piece of information can't be retrieved.
+
+Cricket to baseball:
+Cricket score (as would be seen on TV in a Test match): NED 100-2 | Overs xxx | Trail by 7 | Neil 20* (xxx) xxx | Abbott xxx-xxx (3.5)
+Baseball score (assuming one knows who the fielding team is): Abbott [P:23+?] | ?.Neil [>0 (probably >3) in ?] | [???] [NED y=100+?] [IND z=y+7] | [? (either "↓ 1" or "↑ 2")] 2 outs
+Notes:
+Many of cricket's scoreboard stats only shown stats pertaining to the current innings, rather than previous innings; baseball stats tend to show performance across the whole game.
+Thus, the pitcher/bowler, Abbott, is known to have thrown at least 23 legal pitches in the current innings, which is derived as (3*6)+5.
+Baseball sometimes shows hits and at-bats, which in cricket would most closely correspond to the number of scoring shots and batsmen's innings. Since 6 runs is almost always the most runs one can score from a delivery in cricket, it is possible to guess that Neil's 20 runs were earned from at least 4 scoring shots (3 sixes and 2 more runs) or more.
+Cricket scoreboards don't always show the number of a batter in the batting order.
+In a 2-innings cricket match, it is not always possible to know which team batted first or second, or even which inning it is; since NED was said to "Trail by 7", this means that IND have batted exactly once (since if IND had not batted yet, then there would be no need to describe how many runs NED were ahead or behind of them, since NED would simply have a lead of however many runs they had scored so far, and if IND had batted the maximal number of times, which is two in this case, then NED would instead be described as "chasing" a "target" of however many runs they needed to score in their final inning to win, or "needing" 7 "more" runs to win); however, NED may have batted once or twice during the game.
+Baseball to cricket:
+Baseball score (as typically seen): Peter P:30 | xxx.Bieber [1 in xxx] | [OAK 4] [SD 5] | [↓ 3] 2 outs | xxx xxx
+Cricket score: SD [[<6]-2] | Overs ? | Lead by 1 | Bieber ?* (?) ? | Peter [<5 (5.0)]
+
+
+=== Statistics ===
+
+Both games focus on batters, bowlers/pitchers, and fielders. Cricket emphasizes the number of balls (pitches) a batter has faced while batting, particularly in relation to the number of runs they scored, as well as how this relation varied over the course of their inning (at-bat). Baseball puts a heavier emphasis on the number of times a batter has gotten on-base and how many bases they advanced, as well as what type of hit got them there; the closest equivalent in cricket is measuring the number of balls a batter scored a certain number of runs from (with "4s" and "6s" being most common and showing how many balls a batter scored 4 or 6 runs from respectively, and "Scoring Shots" encapsulating all such balls.) Baseball stats are generally more comprehensive, though the advent of T20 cricket has led to more cricket stats being developed (similar to sabermetrics), and more in-game information collected.
+Both games have a long history of using a vast array of statistics. The scorers are directed by the hand signals of an umpire. Every play or delivery is logged, and from the log, or scoresheet, is derived a summary report. 
+
+Baseball commonly uses times at bat, base hits, RBIs, stolen bases, errors, strikeouts and other occurrences. These are then often used to rate the player.
+In cricket, commonly used individual player statistics for batsman include batting average, strike rate (mainly used in limited overs cricket), and number of 50 and 100 run scores made during an innings. For bowlers, bowling average, economy rate (most relevant to limited overs cricket), career wickets taken and number of five wicket hauls are commonly cited. Although cricket uses detailed statistics as a guide, owing to the variety of situations in cricket, they are not always considered a true reflection of the player. Ian Botham is an example of a player who, despite relatively poor averages, was particularly noted as one of England's greatest cricketers for his ability to dominate games.
+
+Rather than evaluate innings pitched, cricket tends to look at how many runs a bowler concedes over a certain number of pitches, or how many runs they concede for every out they get.
+Baseball maintains certain statistics for when a pitcher pitches an entire game without allowing runs, while cricket's most similar such measurement is the number of maiden overs bowled.
+Henry Chadwick (1824–1908) was an English-born American sportswriter, pioneer baseball statistician and historian, often called the "father of baseball". Before he first came across organised baseball in 1856, he was a cricket reporter for The New York Times and player of cricket and similar ball games such as rounders.
+In baseball, questioning of the validity and utility of conventional baseball statistics has led to the creation of the field of sabermetrics, which assesses alternatives to conventional statistics. Conclusions are sometimes drawn from inadequate samples – for example, an assertion that a batter has done poorly against a specific pitcher, when they have only faced each other a handful of times, or that a player is "clutch" due to having more success with runners in scoring position or during the late innings with rather small sample sizes.
+
+
+=== Presentation and broadcast ===
+Both sports generally have broadcasts where the camera starts by looking towards the batter from behind the pitcher as the ball is delivered. 
+
+In cricket, the camera stays like this, but often quickly cuts to a view that is more zoomed out and focused on wherever the batter has hit the ball.
+However, in baseball, the visual switches to a view that is high up and behind the batter when the ball is hit.
+The two ways of portraying the action (one from in front of the batter, the other from behind) are reflected in the way that their field position diagrams are drawn, with both usually putting the "viewer"/camera (or where they can be thought of as "looking from, but zoomed in") at the bottom of the diagram, and what is seen as "further away" at the top (see the diagrams in #Fielding strategy).
+With baseball, one advantage of showing the fielding action from behind the batter is that "Left/Right Field" are to the left and right respectively of the camera's view.
+Both sports tend to use the lulls in the game which are common to bat-and-ball games (such as breaks between outs, or overs in cricket) to present statistics.
+
+
+== Competitions ==
+
+Cricket:
+
+The twelve Test-playing nations regularly participate in tours of other nations to play usually both a Test and One Day International series. Twenty20 is becoming more popular in international competition. The amateur game has also been spread further afield by expatriates from the Test-playing nations. Many of these minor cricketing nations (including the US and Canada and other nations, such as the Netherlands, which do not have a British heritage) compete to qualify for the Cricket World Cup. The very first international cricket match was played between the US and Canada in 1844, and their rivalry till today is known as the KA Auty Cup.
+Cricket's international programme allows the weaker cricketing nations to play against the best in the world, and the players have the chance to become national heroes. On the other hand, the dominance of national teams also means that a great many talented cricketers in nations such as Australia and India will never receive recognition or prestige unless they make it into the national team.
+India's Indian Premier League, Australia's Big Bash League and English T20 Blast are the most popular domestic T20 leagues, attracting huge crowds and popular players. Other countries with franchise based leagues include South Africa (SA20), West Indies (Caribbean Premier League), Bangladesh (Bangladesh Premier League), Pakistan (Pakistan Super League), Sri Lanka (Lankan Premier League) and Afghanistan.
+Baseball:
+
+Baseball in a similar way has also been spread around the world, most notably in Central America and East Asia. Canadian baseball developed as a minor league sport in parallel to the US major leagues before eventually joining them.
+Serious domestic leagues are found in many nations including Japan, South Korea, Cuba, Venezuela, Mexico, and the Dominican Republic, and players routinely move across countries to join professional baseball teams.
+However, baseball does not have a robust tradition of national teams or professional international competition, although this is slowly becoming more popular around the world with the emergence of competitions like the World Baseball Classic.
+There have been several Australian Major League Baseball players, a country where cricket is more popular by far.
+
+
+=== International competitions ===
+
+International cricket has three main formats, with one major tournament per format. The International Cricket Council has indicated a preference for the T20 World Cup to be the event for globalizing the game, while the longer-format tournaments will likely remain exclusive to the top 10 countries in the world.
+International baseball has dozens of countries compete in its tournaments (such as the World Baseball Classic and Premier12 created by the World Baseball Softball Confederation), with several countries winning trophies over the years.
+
+
+=== Domestic competitions ===
+Difference in domestic league structure:
+
+T20 leagues in cricket generally have 8 teams, and follow the Page–McIntyre system for the playoffs, with about 50 games total occurring over a month or two (Minor League Cricket is one significant exception).
+Baseball domestic leagues have dozens of teams who are split into two "leagues" (akin to pools). Each team plays about 100 to 200 games over the course of about half a year, with the "final" being a series of 7 games (like the World Series and Nippon Series) to determine the winner of the top team in each league.
+The USA's Minor League Cricket T20 event is more akin to the baseball structure, with "regional conferences", but retains the single-match final common to cricket leagues.
+
+
+== Sportsmanship ==
+
+Standards of sportsmanship differ. 
+
+In cricket, the standard of sportsmanship has historically been considered so high that the phrase "It's just not cricket" was coined in the 19th century to describe unfair or underhanded behaviour in any walk of life. In the last few decades though, top-level cricket has become increasingly fast-paced and competitive, increasing the use of appealing and sledging, although players are still expected to abide by the umpires' rulings without argument, and for the most part they do.
+Even in the modern game fielders are known to signal to the umpire that a boundary was hit, despite what could have been a spectacular save (though they may well be found out by the TV umpire anyway) and also signal if they did not take a catch even if it appeared that they did.
+In addition, many cricket batsmen "walk" when they think they are out, even if the umpire does not declare them out. This is considered a very high level of sportsmanship, as a batsman might easily take advantage of incorrect umpiring decisions; but with the introduction of the decision review system this has become more difficult (in games when the system is in use).
+The "Spirit of Cricket" was added as a preamble to the Laws in 2000, declaring that "Cricket is a game that owes much of its unique appeal to the fact that it should be played not only within its Laws but also within the Spirit of the Game. Any action which is seen to abuse this Spirit causes injury to the game itself".
+Baseball:
+In baseball, a player correcting an umpire's call to his own team's detriment is unheard of, at least at the professional level.
+Individual responsibility and vigilance are part of the game's tradition. It is the umpire's responsibility to make the right call, and matters of judgment are final. Similarly, when a runner misses a base or leaves too early on a caught fly ball, the umpire keeps silent, as it is the fielder's responsibility to know where the runners are and to make an appeal. When a fielder pretends not to know where the ball is (the "hidden ball trick"), the umpire keeps silent, as it is the runner's responsibility to know where the ball is.
+In baseball, celebrating an out, stealing bases when well ahead, or smiling on the field when well ahead are considered serious breaches of sportsmanship. Possibly the most serious breach of sportsmanship is the pitcher's throwing behind the batter, since batters often react to a pitch that may hit them by backing up.
+
+
+== Comparison of concepts and terms ==
+
+
+=== Words used in both sports ===
+
+
+=== Analogous concepts and similar terms ===
+
+
+== History ==
+
+
+=== Early history in the United States ===
+The history of baseball's formation and rise in popularity took place in the originally more cricket-supporting societies of England and America. Predecessors of baseball were brought to America during the colonial era by immigrants from England who played games similar to rounders; at the time, cricket was significantly more popular in the United States, since it was one of the primary sports played by Anglo-American colonists. At the time, the main format of cricket was first-class cricket, in which games lasted multiple days; baseball by comparison was a game that lasted less than two hours. Because of the vast difference in the duration of the two sports and for other reasons, such as Americans' desire to have some type of national game distinct from England's games, baseball began to grow in America, especially among some of the non-English sections of society, such as among the Irish and German immigrants. Some attempts were made to nativize cricket in a way that would reduce its length and other perceived disadvantages relative to baseball; one example of this was wicket, an American variation of cricket which could be played in an afternoon, and which George Washington is known to have played with his troops during the Revolutionary War.
+By the time of the Civil War, baseball had begun to overtake cricket in popularity; one reason for this was that troops during the Civil War preferred to play baseball, as it did not require a specialized playing surface like the cricket pitch. However, cricket had still been popular enough that President Abraham Lincoln had watched two American cities play each other in the sport in the years before the war. After the Civil War, baseball became a much more organized sport than cricket in America, with more money and competition available to baseball players across the country; thus, several professional cricket players switched to playing baseball, and cricket faded away in America.
+
+
+=== Later history ===
+In other countries that were part of the British Empire, cricket slowly emerged as the game of choice for the colonizers to spread their culture and values among the colonized. Some of the colonized people adapted to playing cricket in order to win the favor of the British, while in other cases, colonized peoples played cricket as a way of beating the British at their own sports, and thus proving themselves as equals. This helped to cement cricket as part of the national culture of several countries that later won their independence from the British.
+In 2003, a new format of cricket called T20 cricket emerged which was designed to last only about three hours. By this time, the average MLB game had gone from being two hours long to about three hours long, so the two sports now had formats that were of a comparable duration. Later on, the T10 format of cricket, in which games last less than two hours, emerged at a domestic level, with leagues being started for it in several major cricket-playing countries.
+
+
+=== Exchanges between the sports ===
+Don Bradman was a famous cricket batsman who was known for his childhood drill of hitting a golf ball with a stump, which many consider to have significantly improved his hand-eye coordination. His batting average of 99.94 stands leagues above all other batsmen.
+Babe Ruth is considered to be one of the best baseball batters. Babe Ruth and Don Bradman once met to discuss baseball and cricket, with Babe Ruth later trying out cricket in London, but saying he wouldn't play it professionally as it didn't pay well enough.
+The South Korean national cricket team has received coaching from a former baseball player.
+
+
+=== Popularity and cultural impact ===
+
+Both sports play an important part in the cultures of the societies in which they are popular. 
+
+Baseball is deeply ingrained in the American psyche, and is known in the United States as "the national pastime". It is one of the sports most readily identified with the United States. Baseball references abound in American English, and the sport is represented in American cinema in multiple baseball movies. Baseball also plays an important cultural role in many parts of Latin America, (specifically Cuba, Dominican Republic, Mexico, and Venezuela), as well as in East Asia. Many terms and expressions from the sport have entered the English lexicon. Examples are "getting to first base," "out of left field", "having two strikes against him/her", "swinging for the fences", "he struck out", "that's a home run", and "southpaw" (baseball diamonds are traditionally built with home plate to the west so hitters do not have to fight the setting sun as well as the pitch, a pitcher's left arm is always to the south).
+Cricket has an equally strong influence on the culture of many nations, mainly Commonwealth nations, including England, Australia, New Zealand, South Africa, Kenya, Zimbabwe, the English-speaking Caribbean and especially in the Indian-subcontinent where it is often said to be followed like a religion. Canada has seen a marked increase in domestic, as well as interest in international cricket, over the past decade. This can be attributed, in large part, to the growing subcontinental diaspora in Canada. Cricket is the most popular sport or a major sport in most former British Colonies. Like baseball, cricket has had an influence on the lexicon of these nations with such phrases as "that's not cricket" (unfair), "had a good innings", "sticky wicket", "hitting for six", "played with a straight bat" and "bowled over".
+
+
+== Informal versions of the games ==
+
+Both sports are often played in the streets or in other circumstances with modified/simpler rules, and with more makeshift equipment.
+The basics that are retained are:
+
+Informal versions of cricket retain running between the wickets, as well as most forms of dismissals (except sometimes LBW)
+Informal versions of baseball retain running around and being safe on bases, as well as some kind of foul area and strikeouts.
+Both cricket and baseball have street versions that are passionately played in parts of the Americas, such as bete-ombro and plaquita for cricket or streetball and Vitilla for baseball. In addition, both have a variation where players kick the ball, rather than batting it: kickball and leg cricket.
+
+
+== See also ==
+History of cricket
+Origins of baseball
+Baseball5, an international variation of baseball which involves barehanded catching, as in cricket
+Baseball in India#Million Dollar Arm, scouting of Indian cricketers for baseball
+Comparison of baseball and softball
+
+
+== References ==
+
+
+== Further reading ==
+Right Off the Bat: Baseball, Cricket, Literature, & Life
+Sundaram, Venkat (2003). Cricket Coaching Handbook. Sun Protecs Private Limited. ISBN 81-88746-00-2.
+
+
+== External links ==
+Swinging Away: How Cricket and Baseball Connect, slideshow of an exhibition at Lord's in 2010
+Cricket and baseball: Common ground The Economist* As American as...Cricket The American Magazine
+Baseball and Cricket 'Right Off the Bat' Forbes

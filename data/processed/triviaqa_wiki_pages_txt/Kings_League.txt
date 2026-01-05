@@ -1,0 +1,322 @@
+The Kings League is a seven-a-side football format established in 2022 by former player Gerard Piqué. The format, originally introduced in Spain, features rules that differ from traditional football regulations, such as a tie-breaker penalty shootout, unlimited substitutions, and the implementation of secret weapons, to add an element of dynamism and entertainment to the games. 
+As of 2025, Kings League has expanded with leagues in Hispanic America (Kings League Américas), Italy (Kings League Italy), Brazil (Kings League Brazil), France (Kings League France) and Germany (Kings League Germany), the Middle East and North Africa region (Kings League MENA) and with plans to expand into the United States (Kings League USA).
+
+
+== Format ==
+
+
+=== 2023-2025 ===
+The Kings League follows an Apertura and Clausura-style format in which each season is divided into two splits: the Winter Split and the Summer Split. Both splits have their league stage and playoffs. During the league stage, the teams, which may vary in each league from eight to twelve, face every other team once for anywhere between seven and eleven matchdays. Based on their rankings at the end of the league stage, the top seven or ten teams, depending on league size, advance to the playoffs. Each matchday features four to six forty-minute matches, divided into two twenty-minute halves, played consecutively on the same ground. The top teams in each league, either via winning one of the splits, an aggregate table, or the top finishers in the playoffs of the most recent split (for leagues that only operated during one split that season), qualify for the Kings World Cup Clubs at the end of the campaign, officially acting as the world championship for all Kings League teams.
+
+
+=== 2025-now ===
+Starting from the 2025/26 season. The two splits format have been replaced with a Cup tournament in the winter (October-December), named the Kings Cup, and the League in summer (February-May).
+Each of the active leagues will have their own Kings Cup, starting with a Group stage, followed with a knockout stage, and the winners of the national cups advance to the continental Kings Cup finals (except Kings Cup MENA), Kings Cup Europe (Spain, Italy, and Germany) and Kings Cup America (Mexico, and Brazil), and the winners of the continental Kings Cup qualify to the Kings World Cup Clubs
+
+
+=== Draft and market ===
+The Kings League and Queens League have a draft and trade system based on North American sports. For the inaugural season of Kings League Spain, players were given the opportunity to apply and were selected through a draft process. Prospective players underwent physical and skill testing before the top prospects were drafted. Each team can have twelve players on the roster: the draft involved selecting ten players, with the two additional roster slots reserved for guest players. These players are known as the 11th and 12th Players, usually footballers or streamers. The 12th player can change on each match day, while the 11th player was meant to stay with the team for the entire season. Additional drafts are held at the start of each season for each league to add new players.
+The trading system uses a virtual economy in which the league supplies teams a fixed amount of "Euros" (100 million). Players can be exchanged for "Euros" (in player swaps, for draft picks, or a combination), but no real currency is involved. The drafts and markets are held over a similar period. The first Kings League Spain transfer window in April 2023 consisted of buyout clauses and bidding options (with the player then choosing). It was held in a one-day live event. The combined Kings and Queens League Spain market ahead of the 2024 season, held as a one-week transfer window, instead used simple asset exchanges as the means of trade. For the 2025/26 season, The transfer season length will span  for a month in February 2026, with each player will have a market value, and teams will able to buy and sell players with real money, ending the virtual economy.
+
+
+== Rules ==
+The Kings League's rules were created through a social media voting process. Fans were given the opportunity to contribute and vote on the rules.
+The unconventional rules include a tie-breaker penalty shootout from the center of the field, the use of offsides, the allowance of handballs for throw-ins, unlimited substitutions, yellow cards resulting in a 2-minute exclusion, and red cards resulting in a 5-minute exclusion until a substitute can enter. The game starts with the ball in the center of the field and players starting from the back line. Games are divided into two 20-minute halves, and special "secret weapons" (otherwise known as Secret Cards) are included that each team can use once per game from halftime up until the end. These secret weapons include the following:
+
+Penalty – An automatic penalty kick.
+Shoot-out – A penalty scenario where the player starts from midfield and has a one-on-one breakaway with the opposing goalkeeper. The player must shoot within five seconds but can make as many moves as possible in up to five seconds between starting that breakaway and taking the shot. As mentioned, penalty shootouts to break ties also use this format. This variation originated in the United States and was used in first the North American Soccer League (NASL) in the 1970s and 1980s and then in Major League Soccer (MLS) for its first four seasons (1996–1999).
+Double Goal—The team playing the card has its goals count double for the next 4 minutes, excluding President Penalties.
+Suspension – The team playing the card can remove an opposing player from the field for 4 minutes.
+Star Player – The team playing the card can designate a player as their Star Player, signified by an armband similar to a captain's armband—all goals from this player up until the 39th-minute count double.
+Reverse Penalty - when the card is used, the opposing team gets a penalty, if they score, the goal doesn't count, but if they miss, it counts as a goal for the team that played the card
+Joker – The team can activate one of the other cards or alternately cancel or steal the opposing team's card.
+Each team is also given an opportunity for their chairman to take a penalty kick, known as a President Penalty. These can be used once per team at any time during the match from the 6th minute up until the end (like the secret weapons). If a team's chairman is not present or declines to take the penalty, the President Penalty instead turns into a shoot-out taken by one of the players.
+Player numbers can also range from 0 to 99.
+Late in the 2023 Winter Split, the "league cards" were introduced, reducing the number of players on the pitch for the last two minutes of the first half, temporarily turning the match into a one-on-one, two-a-side, three-a-side, four-a-side, five-a-side or six-a-side game. The cards would later be replaced by a giant dice, which was rolled onto the pitch at the 18-minute mark. The six-a-side option was replaced with a variation of the one-on-one game featuring an outfield player and a goalkeeper who is not allowed to leave the box. This would be changed in the 2025 Winter split, as the five-a-side, four-a-side and one-on-one options would be eliminated; the three-a-side, two-a-side and one-on-one with goalkeeper spots would each get two faces.
+Starting with the 2023 Summer Split, it was decided that goals would have double worth for both teams beginning in the 39th minute. It was amended for the Kings Cup so that if the score were tied at the end of the 38th minute, the game would switch to a golden goal instead of the double goal rule: if either team scores in that period, the match ends immediately; otherwise, the teams have to proceed to the penalty shoot-out. The double-goal rule applies in any scenario other than a tied score in the 38th minute.
+
+
+=== 2025/26 new rules ===
+
+
+==== Match structure change ====
+On 12 October 2025, the match structure have been changed for the first time in 2 years, and the following changes are :
+
+from the 5th minute onwards, the secret cards are enabled
+The double goal period now moves for the final 3 minutes of the first half
+The dice period moves to the start of the second half, and it lasts for 3 minutes, by the 23th minute, the remaining players return for the 7v7 match up
+By reaching the 36th minute, if the match is a tie, it goes straight to penalties shootout. If it's not, it goes to Matchball mode, a 5v5 descalator mode, where a player from each team is eliminated every minute, until reaching the 1v1 with goalies by the 40th minute onwards. If the leading team scores, the game ends, the losing team have the opportunity to turn the score and take the win without conceding.
+
+
+==== New secret card ====
+On 7 October 2025, Kings League announced a voting poll on social media on which additional secret card to be included for the new season, the following options were :
+
+Goalkeeper without hands : where for 2 minutes, the goalkeeper can't use his hand and plays like an outfield player
+Reverse penalty : when the card is used, the opposing team gets a penalty, if they score, the goal doesn't count, but if they miss, it counts as a goal for the team that played the card
+No Offside : the team that can activate this card can attack with no offisde calls for 4 minutes
+Corner challenge : when the card is used, the team gets a chance to score from a corner kick with no opposing players and an empty net
+By 12 October, fans voted on the reverse penalty as the new secret card, becoming the 7th new card in the Kings League universe
+
+
+== Draft and market ==
+The Kings League and Queens League have a draft and trade system based on North American sports. The trading system uses a virtual economy in which the league supplies teams a fixed amount of "Euros" (100 million). Players can be exchanged for "Euros" (in player swaps, for draft picks, or a combination), but no real currency is involved. The drafts and markets are held over a similar period. The first Kings League transfer window in April 2023 consisted of buyout clauses and bidding options (with the player then choosing). It was held in a one-day live event. The combined Kings and Queens League market ahead of the 2024 season, held as a one-week transfer window, instead used simple asset exchanges as the means of trade.
+
+
+== Broadcast ==
+Kings League matches are available to watch for free through live streaming on the league's official Twitch, YouTube and TikTok channels, as well as on the individual channels of the team chairpersons.
+The first Kings League Spain tournament achieved an average audience of 450,000 viewers in the first round, peaking at 780,000 viewers. In subsequent rounds, the viewership continued to grow significantly: in the second round, the average audience was 558,200 viewers, with a peak of 945,000 viewers; in the third round, a match was viewed by more than 1.3 million people.
+On 13 March 2023, it was announced that Catalan public broadcaster Televisió de Catalunya would air the Spain Winter Split playoffs final, held on 26 March, live on its main channel TV3.
+On 3 May 2023, Gerard Piqué announced an agreement with Mediaset España that would see the 8 p.m. game of each match day of both the Kings and Queens League Spain air on Cuatro, starting with the opening match day of the Summer Split later that week.
+
+
+== Competitions ==
+
+
+=== International ===
+Kings World Cup Clubs
+Kings World Cup Nations
+
+
+=== Leagues ===
+Kings League Spain
+Kings League Mexico
+Kings League Italy
+Kings League Brazil
+Kings League France
+Kings League Germany
+Kings League MENA
+Kings League USA
+Kings League Japan
+
+
+=== Cups ===
+Kings Europe Cup
+Kings Americas Cup
+Kings Cup Spain
+Kings Cup Italy
+Kings Cup Germany
+Kings Cup Mexico
+Kings Cup Brazil
+Kings Cup MENA
+
+
+=== Other related competitions ===
+
+
+==== Queens League ====
+
+The Kings League has a sister competition for female players, which is called the Queens League. Shortly after the inaugural season of the Kings League started, Oriol Querol, CEO of Kings League and Kosmos Holding director, announced the Queens League, a competition for women. From May 2023, Queens League matches will be played on Saturdays, ahead of Kings League matches on Sundays. Former Spanish players like Priscila Borja and Willy offered themselves to join the Queens League. Ibai Llanos of Porcinos, was the first Kings League chairperson to confirm the creation of his women's team, Porcinas. Former player Borja Fernández offered to coach the team.
+The Queens League was officially launched on 24 February 2023, with all of the Kings League teams taking part in the new tournament; some have changed branding for the women's team, and some have introduced female streamers as chairpersons.
+
+
+==== Prince Cup ====
+On 10 February, the creation of a small tournament for kids during August and December was announced on ChupChup, with Piqué comparing this tournament to LaLiga Promises.
+The inaugural edition of the Prince Cup started on 31 August 2023, and culminated on 3 September with Los Troncos FC defeating Jijantes FC in the final.
+The inaugural tournament concluded on 25 November 2023, with Porcinos FC defeating Ultimate Móstoles in the final.
+
+
+==== Fantasy League ====
+Kings League has an official fantasy league, sponsored by Kolex.
+
+
+== Teams organisation ==
+
+
+=== Kings League Spain ===
+
+
+=== Kings League Mexico ===
+
+
+=== Kings League Italy ===
+
+
+=== Kings League Brazil ===
+
+
+=== Kings League France ===
+
+
+=== Kings League Germany ===
+
+
+=== Kings League MENA ===
+
+
+=== Kings League USA ===
+
+
+=== Kings League Japan ===
+
+
+=== Other teams ===
+The following teams have participated in the Kings World Cup Clubs via Wildcard spots, but are yet to feature in any league.
+
+
+=== Defunct clubs ===
+
+A Previously appeared at the Kings World Cup Clubs before entering their respective leagues.
+B Debuted in the Kings League Spain, relocated afterwards.
+C Debuted in the Kings League Americas, relocated afterwards.
+
+
+== Performance by team ==
+
+
+=== Kings World Cup Nations ===
+
+
+=== Kings World Cup Clubs ===
+
+
+=== Kings League Spain ===
+
+
+=== Kings League Américas ===
+
+
+=== Kings League Italy ===
+
+
+=== Kings League Brazil ===
+
+
+=== Kings League France ===
+
+
+=== Kings League Germany ===
+
+The 2025 Winter split was known as the "Road to Paris" tournament, and did not operate like a traditional Kings League split.
+
+
+=== Kings League MENA ===
+
+
+== Expansion ==
+
+
+=== 2024 ===
+
+
+==== Kings League Américas ====
+In March 2023, Oriol Querol stated that the goal was to expand the Kings League format to multiple countries, hoping to organize a Kings League world championship featuring the best teams from each region by autumn 2024. An international competition was realized ahead of this schedule, with the inaugural Kings World Cup set to take place from May to June 2024 in USA.
+During the ChupChup live stream on 14 July 2023, Querol announced the creation of the Américas Kings League (later rebranded to Kings League Américas), a competition with teams from Spanish-speaking countries across the American continent, which began play in 2024 in Mexico City. During the Kings & Queens Finals event on 29 July, it was revealed that Mexican footballer Javier Hernández would be chairman of a team in the league.
+
+
+==== Kings World Cup 2024 ====
+On 7 November 2023, a new tournament was announced, tentatively named the Kings League World Cup. It was announced as featuring 20 teams from the Kings League, with 10 teams from Spain and 10 from the Americas, along with teams from other countries, totaling 32 teams. It was held in Mexico from 26 May to 8 June 2024.
+Following the announcement, it was confirmed that former Sweden striker Zlatan Ibrahimović would preside over the competition.
+The first two teams external to the existing competitions in Hispanic America and Spain were two Brazilian teams on 9 March 2024: G3nerationX FC (G3X FC for short) led by streamer Gaules and FURIA FC, headed by streamer O Estagiario of Esports organization Furia Esports and former futsal player Alessandro Rosa Vieira (Falcão) in collaboration with Brazilian international Neymar.
+More entries were later added: 
+
+18 March 2024 – Two additional European teams were announced: Team Amine (later named Foot2Rue) from France led by streamer AmineMaTue and Youniors FC of Germany led by streamer Younes Zarou and Mario Götze, the goalscorer of the winning goal in the 2014 World Cup final for Germany.
+25 March 2024 – Two more European teams were announced: English team FIVE FC, led by retired Manchester United and England defender Rio Ferdinand and Jeremy Lynch of the F2Freestylers, and Belgian team Deptostra FC led by TikToker Céline Dept and retired Lille, Chelsea, Real Madrid and Belgium winger Eden Hazard.
+1 April 2024 – Two Asian teams were announced: Murash FC, led by Japanese YouTuber Junichi Kato, and SXB FC, led by Saudi YouTuber SHoNgxBоNg and retired Al-Hilal and Saudi Arabia forward Yasser Al-Qahtani.
+8 April 2024 – Italian team Stallions was announced, led by Italian streamer Blur (Tumblurr) and retired AS Roma player Francesco Totti, a 2006 World Cup winner with Italy.
+15 April 2024 – Turkish team Limon FC was announced, led by streamer Elraenn.
+22 April 2024 – The penultimate team was announced: Ukrainian team UA Steel, led by Ukrainian streamer Mykhailo Lebiha (Leb1ga) and retired AC Milan and Ukraine striker and 2004 Ballon d'Or winner Andriy Shevchenko.
+6 May 2024 – During the initial tournament draw, the last invited president was revealed as Columbian singer and rapper Maluma with his team  Medallo City.
+The Kings World Cup officially began on Sunday, 26 May 2024, with Saiyans FC beating Youniors FC 2–0 in the opening match. The tournament was played in its initial phase in Mexico City. The so called 'Final Four' changed its location and was held at the Estadio BBVA in Monterrey, where Porcinos FC became the champion after defeating G3X FC 5–3 in the final. 
+
+
+=== 2024/25 ===
+
+
+==== Kings League Italy ====
+Before Stallions' opening match in the Kings World Cup against Medallo City, Blur presented a trailer revealing that Italy would host the third incarnation of the Kings League after the original in Spain and the second in Hispanic America. Ibrahimović, who played for Juventus, Inter Milan and AC Milan, was also announced as the league president, and a 2024 date was given. On 18 November 2024 in Turin, the 12 clubs that would participate in the new national competition were announced
+Lottomatica.Sport is the league's first principal sponsor, and the league's current regular venue is the Fonzies Arena in Milan, which first hosted the Kings World Cup Nations.
+
+
+==== Kings League Brazil ====
+Retired Barcelona, AC Milan and Paris Saint-Germain player Ronaldinho, the 2005 Ballon d'Or winner and 2002 World Cup winner with Brazil, featured as a 12th player for Porcinos in Week 8 of the Season 1 Winter Split. On 26 February, shortly before his appearance, Gerard Piqué announced him as the chairman of one of the teams for the upcoming Brazilian version of the league. While Ronaldinho's chairman role never materialized (he would be one of the founding managers in Baller League USA in 2025), the Kings League Brazil would launch in March 2025 with 10 teams and retired São Paulo, AC Milan and Real Madrid player Kaká, another 2002 World Cup winner and the 2007 Ballon d'Or winner, as league president.
+Teams in Kings League Brazil include their two returning Kings World Cup Clubs – G3nerationX FC (G3X FC), now co-chaired by Gaules and G3X and Porcinos FC player and 2025 Kings World Cup Nations winner and MVP Kelvin Olivera, plus FURIA FC, with streamer Cris Guedes and Brazil international Neymar da Silva as its co-chairmen.
+
+
+==== Kings League France ====
+France was announced as the host of the fifth version of the Kings League on 9 March 2025 with a launch the following month. The teams that participated in the inaugural season were revealed on 24 March 2025, which was also the day of the draft, with competitive League of Legends French and English presenter Laure "Bulii" Valée as co-host.
+Play began on 6 April 2025. The league's regular venue is a new Cupra Arena at the Parc des Expositions de Villepinte in Villepinte, Seine-Saint-Denis in the northeastern suburbs of Paris near Charles de Gaulle Airport.
+
+
+==== Kings League Germany ====
+On 25 March 2025, the sixth Kings League, Kings League Germany, was announced with a launch date of 12 April 2025. Retired Bayern Munich player and 2014 World Cup winner Bastian Schweinsteiger was announced as their league president. Due to the already-existing six-a-side Baller League and five-a-side Icon League, both sharing the same blend of football and social-media focused entertainment as Kings League, the German branch was only able to initially announce six out of its planned eight teams for the inaugural campaign, including Younes Zarou's Youniors FC and a separate side from Mario Götze named Vice Versa FC. The seventh team, owned by German esports club G2 Esports and named "G2 Football Club", was announced on 2 April 2025. The final team, Futbolistas Locos FC, was revealed on 11 April. The league has a 20% minority ownership from RTL Group subsidiary We Are Era, with games broadcast on streaming service RTL+ as well as on other platforms.
+The German Kings League regular venue is a Cupra Arena at the MMC Studios in Cologne, which has historically been the filming location for RTL programming.
+
+
+==== Kings World Cup Nations ====
+A second international tournament, the Kings World Cup Nations, was announced for 2025, this time with players forming national teams to represent their countries. At the Kings League Italia launch on 18 November, it was announced that Italy would host the tournament, with the final to be held at Juventus Stadium in Turin.
+
+
+==== Kings World Cup Clubs 2025 ====
+Before the start of the 2024-2025 season, in an introductory video for the campaign uploaded on 7 September 2024, the 2025 edition of the Kings World Cup, renamed to the Kings World Cup Clubs due to the announcement of Kings World Cup Nations, was announced to happen at the end of the season. Spain would send Porcinos FC, the defending champions of the competition, automatically, alongside four teams from Kings League Spain. They were to be joined by four teams from the Americas Kings League and teams from four then-unknown Kings Leagues, as well as "wildcard" teams from other countries, for a 32-team tournament. The first wildcard team to be announced was on 16 February 2025, being Moroccan side Ultra Chmicha (led by content creator Ilyas El Maliki) after the country's semi-final performance at the 2025 Kings World Cup Nations. France would be announced as the hosts for the competition on 24 March 2025 during the Kings League France team introduction and draft.
+On 31 March 2025, more information was known about the 2025 Kings World Cup Clubs. The official team allocations were as follows:
+
+Kings League Spain (5 teams) - Porcinos FC (defending KWC champions), Jijantes FC (2024 Summer champions), Ultimate Móstoles (2025 Winter champions), Los Troncos FC and xBuyer Team (the 2 best non-qualified teams from aggregate regular season points accumulated from 2024 Summer and 2025 Winter).
+Américas Kings League (4 teams) - Olimpo United (2024 Summer champions), Los Chamos FC (2025 Winter champions), Galácticos del Caribe and Persas FC (the 2 best non-qualified teams from aggregate regular season points accumulated from 2024 Summer and 2025 Winter).
+Kings League Italia (4 teams): TRM FC (2025 Winter champions), FC Zeta (2025 Winter runners-up), GEAR7 and Boomers (Split 1's playoff semi-finalists).
+Kings League Brazil (4 teams): Furia FC (2025 Winter champions), Dendele FC (2025 Winter runners-up), Desimpedidos Goti and Fluxo (Split 1's playoff semi-finalists).
+Kings League France (4 teams) - Panam All Starz (2025 Winter Champions), KARASU (2025 Winter runners-up, Foot2Rue (F2R) and Unit3d (Split 1's playoff semi-finalists).
+Kings League Germany (3 teams) - Futbolistas Locos FC (Winner of the "Road to Paris" qualifying tournament), ERA Colonia (runners-up of "Road to Paris") and G2 FC (invited by Kings League on 15 May after initially missing out in 3rd place).
+Wildcards - 8 teams total: The already-announced Ultra Chmicha, as well as Kunisports (moving from Kings League Spain to Américas Kings League), La Capital CF (chaired by Lamine Yamal and Lautaro del Campo, aka La Cobra, and will replace Kunisports in Kings League Spain) and Miami 7 (an American team with Jake Paul and Adin Ross as chairpersons) were announced on that day. Returning team Murash and new team Jynxzi FC (another American team with Jynxzi as chairperson) were announced on 15 May, while the returning SXB FC and new club Zaytouna FC (chaired by Congolese artist Gims) were revealed as the final Wildcards before the draw on 26 May.
+
+
+=== 2025/26 ===
+
+
+==== Kings Cups ====
+In an introductory video for the 2025/26 season uploaded on 11 October 2025, An new competition was announced, the Kings Cups, played in October to November, meaning that the splits format have been removed to a single league split in March-April. All Cups will have a group stage, where teams are divided to two groups, advancing to the knockout stage. The additional formats are as follows :
+
+Kings Cup Europe : featuring the winners of Kings Cups of Spain, Italy, and Germany.
+Kings Cup Spain : 12 teams divided to 2 groups of six, Group winners advance to the semi finals, Group runners up advance to the quarter finals, and 3rd and 4th placed teams advance to the last chance round
+Kings Cup Italy : 12 teams divided to 2 groups of six, Group winners advance to the semi finals, Group runners up advance to the quarter finals, and 3rd and 4th placed teams advance to the last chance round
+Kings Cup Germany : 8 teams divided to 2 groups of four, Group winners advance to the semi finals, Group runners up advance to the quarter finals, and the bottom two teams advance to the last chance round
+Kings Cup America : a match between winners of Kings Cups of Brazil and Mexico
+Kings Cup Mexico : 12 teams divided to 2 groups of six, Group winners advance to the semi finals, Group runners up advance to the quarter finals, and 3rd and 4th placed teams advance to the last chance round
+Kings Cup Brazil : 10 teams divided to 2 groups of five, addition to the group matches, teams from opposing groups face each other in "Challenger mode". the group that gets the most wins the extra spot to the knockout stage, where the group winners advance to the semi finals, while teams finished from 2nd to 4th advance to the quarter finals, while the losing group in challenger mode, the top 3 teams advance to the quarter finals
+Kings Cup MENA : 8 teams divided to 2 groups of four, Group winners advance to the semi finals, 2nd and 3rd placed teams advance to the quarter finals.
+The winners of the Kings Cups of Europe, America, and MENA qualify to the Kings World Cup Clubs
+
+
+==== Kings League MENA ====
+On 27 May 2025, SURJ Sports Investment, the sports arm of the Public Investment Fund of Saudi Arabia, and Kings League announced a partnership to launch a new Kings League in the Middle East and North Africa region, which would be officially known as the Kings League MENA. The league is expected to begin play in late 2025 in Saudi Arabia.
+
+
+==== Kings World Cup Nations 2026 ====
+On 11 June 2025, after the Kings World Cup Clubs Round of 16 match between Dendele and Desimpedidos Goti, it was announced in a video featuring Kings League Brazil chairmen that the 2nd edition of the Kings World Cup Nations will be held in Brazil in January 2026..On 11 October 2025 during the Kings League Kickoff Day livestream, the tournament was revealed, expanding from 16 to 20 nations, and the format changed to a group stage, where teams are divided to five groups of four. The Group winners advance to the quarter finals, while the group runners up and the best third placed team advance to the last chance round. It will take place from 3 to 17 January 2026, with the final match to be held in Allianz Parque, São Paulo
+
+
+==== Kings League USA and future expansions ====
+On 14 June 2025, during a briefing before the 2025 Kings World Cup Clubs final, Kings League CEO Djamel Agaoua announced that the Kings League would expand into the United States, likely sometime towards the end of 2025 or the beginning of 2026. The first split of the new league would be held on the east coast of the country for logistics reasons. Future expansions into the United Kingdom and China were ruled out due to an underdeveloped Twitch culture and regulatory challenges respectively.
+
+
+== Criticism ==
+
+
+=== Format ===
+One of the most controversial aspects of the league is its use of secret card rules, which allow teams to draw bonuses such as penalties, goal multipliers, and head-starts before the match begins. The community has decided most of the rules through social media polls.
+The second matchday featured a mysterious player for the xBuyer Team wearing a lucha libre mask and outfit, known only as "Enigma". There has been speculation that the player could be a famous professional; the identity of Enigma is unknown, with most speculation thinking he may be former Cádiz forward Nano Mesa, a free agent at the time.
+La Liga president Javier Tebas has criticized the Kings League, calling it a "circus." Piqué did not rebut this, but defended the league, saying that in order to attract a younger audience, football must create shorter and more entertaining content.
+
+
+=== Use of Camp Nou ===
+FC Barcelona permitting the Kings League to use its flagship stadium, Camp Nou, for the 2023 Final Four event was criticized, as the Final Four was scheduled to take place on the same weekend as a women's Clásico between FC Barcelona Femení and Real Madrid Femenino. The Kings League prevented the women's Clásico from being able to be played at Camp Nou, something which had sold out the stadium before and which instead had to be played at the much smaller Johan Cruyff Stadium. Criticism of the decision targeted FC Barcelona for prioritizing the Kings League over one of its own teams.
+
+
+=== Corruption allegations ===
+Referee Manuel Titos quit the Kings League after the conclusion of the 2023 Winter Split, posting a statement in which he accused the league's organisers of trying to influence referees' decisions. During a livestream, he presented as evidence for these allegations a clip from a match in which he apparently already knew which secret weapon a team had before it was shown to him.
+In response, Kunisports chairman Sergio Agüero defended the league during a live chat with Porcinos FC chairman Ibai Llanos, claiming that Titos had issues behind the scenes with unnamed people from the league organization.
+
+
+=== Player buyouts ===
+Exclusivity became a requisite for Kings League players after the conclusion of the second split of the 2023 season, which resulted in some players voluntarily leaving the competition to continue 11-a-side careers, with others choosing to stay. In August 2023, Tercera Federación side FE Grama called for the Kings League to be subjected to formal regulations after Porcinos FC and xBuyer Team triggered the buyout clause of two Grama players, Nadir Louah and Adri Gimeno, who had previously featured in the league, so that they would leave Grama and continue to play exclusively in the Kings League.
+
+
+== See also ==
+Baller League, a seven-a-side competition in Germany, United Kingdom and United States.
+
+
+== References ==
+
+
+== External links ==
+Official website
+Official Twitch chanel

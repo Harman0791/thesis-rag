@@ -1,0 +1,28 @@
+{
+  "type": "faiss.IndexHNSWFlat + IndexIDMap2",
+  "model": "intfloat/e5-small-v2",
+  "embeddings_path": "C:\\Users\\Harman\\Documents\\GISMA\\Term_4\\Thesis_Redo\\Thesis_Implementation\\rag_env\\Project\\rag-laptop\\embeddings\\intfloat_e5-small-v2\\chunk_w512_ov0.0\\emb.npy",
+  "ids_path": "C:\\Users\\Harman\\Documents\\GISMA\\Term_4\\Thesis_Redo\\Thesis_Implementation\\rag_env\\Project\\rag-laptop\\embeddings\\intfloat_e5-small-v2\\chunk_w512_ov0.0\\ids.npy",
+  "n_vecs": 8372,
+  "dim": 384,
+  "normalized": true,
+  "metric": "inner_product",
+  "hnsw": {
+    "M": 32,
+    "efConstruction": 200,
+    "efSearch": 64
+  },
+  "build": {
+    "time_sec": 0.45,
+    "throughput_vecs_per_sec": 18464.9,
+    "peak_rss_mb": 2344.2,
+    "faiss_threads": 8
+  },
+  "artifacts": {
+    "index_path": "C:\\Users\\Harman\\Documents\\GISMA\\Term_4\\Thesis_Redo\\Thesis_Implementation\\rag_env\\Project\\rag-laptop\\indexes\\intfloat_e5-small-v2\\chunk_w512_ov0.0\\hnsw_M32_efC200_efS64\\index.faiss",
+    "index_disk_size_mb": 14.5,
+    "index_dir": "C:\\Users\\Harman\\Documents\\GISMA\\Term_4\\Thesis_Redo\\Thesis_Implementation\\rag_env\\Project\\rag-laptop\\indexes\\intfloat_e5-small-v2\\chunk_w512_ov0.0\\hnsw_M32_efC200_efS64",
+    "meta_path": "C:\\Users\\Harman\\Documents\\GISMA\\Term_4\\Thesis_Redo\\Thesis_Implementation\\rag_env\\Project\\rag-laptop\\indexes\\intfloat_e5-small-v2\\chunk_w512_ov0.0\\hnsw_M32_efC200_efS64\\meta.json"
+  },
+  "created_utc": "2025-12-29T12:54:04Z"
+}

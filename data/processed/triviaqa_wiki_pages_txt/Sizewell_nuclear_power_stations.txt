@@ -1,0 +1,121 @@
+The Sizewell nuclear site consists of two nuclear power stations, one of which is still operational, located near the small fishing village of Sizewell in Suffolk, England. Sizewell A, with two Magnox reactors, is now in the process of being decommissioned. Sizewell B has a single pressurised water reactor (PWR) and is the UK's newest nuclear power station. A third power station, to consist of twin EPR reactors, is planned to be built as Sizewell C.
+Sizewell B is due to close in 2035, although EDF has announced that it is planning a 20 year life extension until 2055.
+
+
+== Sizewell A ==
+
+
+=== Site ===
+The site of Sizewell A occupies 245 acres (99 ha) north of Sizewell.  It is on a low plateau above flood level. The geological foundation comprises Norwich Crag Formation and Red Crag Formation bedrock of Pleistocene age above Eocene London Clay.  The Crag deposits predominantly consist of medium dense and dense sands with thin layers of clay and silt and fossiliferous shelly horizons. The Crag strata extend to a depth of 200 feet (61 m) below ground level. In 1972/73, Sizewell A was awarded the Christopher Hinton trophy in recognition of good housekeeping.
+
+The site is reached by road, with the nearest railhead about one mile inland at Sizewell Halt. Sidings were installed at the railhead primarily to transport irradiated elements to the United Kingdom Atomic Energy Authority plant at Sellafield, Cumbria. Nuclear fuel was handled by a crane loading facility at the end of the 5-mile (8.0 km) Leiston/Sizewell branch railway. This is connected to the East Suffolk line via a south-facing junction to the north of Saxmundham station. The line was extended and used for the delivery of construction materials for Sizewell B power station in the 1980s. The line is now only rarely used for transportation of spent fuels from Sizewell B since the completion of decommissioning of Sizewell A in 2006. A new branch line off the Leiston branch has been proposed for rail terminals for the construction of Sizewell C power station to the north of the existing B power station.
+
+
+=== Construction ===
+In March 1958, East Suffolk County Council selected the Sizewell site from shortlist to be earmarked for a nuclear power station, and in September the Central Electricity Generating Board announced it would apply for consent to build one there. The following February 1959, the planning committee of Suffolk County Council recommended approval of the plans, and that no public inquiry was necessary. They received two objections (from the headmaster of Sizewell Hall girls school who feared pupils would be subject to "annoying remarks" from workmen, and from Ipswich Natural History Society). In January 1960 the Minister of Power gave consent for the project to proceed. 
+The main construction contract was awarded to British Nuclear Design and Construction Ltd ('BNDC'), a consortium of English Electric, Babcock & Wilcox and Taylor Woodrow Construction, in November 1960. The initial budget was £56 million, but due to inflation this figure rose to £65 million. During its 40-year operational lifetime, it had produced 110 TWh (400 PJ) of electricity, which would have been sufficient to meet the domestic needs of England and Wales for six months.  Unit 1 was commissioned on 21 March 1966, and Unit 2 on 15 September. The station was officially opened on 7 April 1967 by the Lord Lieutenant of Suffolk, the Earl of Stradbroke.
+
+
+=== Design ===
+The designed net electrical output of the station was 652 MWe. The power station originally had a single 324.75 MW turbo-alternator, and a gross generating capability of 327.7 MW. In 1967 a second turbo-alternator was commissioned with a rating of 275 MW. The total generating capacity was reduced to 490 MW in 1969, and then 420 MWe in 1973, to arrest the rate of oxidation of internal reactor-core components. At full load, 70 MWe were used in providing works power from the gross electrical output of 490 MWe.
+The main plant consisted of two 1,010 MW (thermal) Magnox reactors, which were natural uranium, carbon dioxide gas cooled, graphite moderated units. These supplied heat to eight boiler units, four associated with each reactor. The steam produced by the boilers was fed to two turbo-generators each rated at 325 MW, but which operated at a reduced capacity of 250 MW from 1969.
+The reactors and turbines were both supplied by English Electric.
+
+
+=== Building specification ===
+The foundations for the reactors and associated boilers are provided by a reinforced concrete raft 8 feet (2.4 m) thick, founded on the sand with a designed net bearing pressure of 3.5 tons per square foot. The biological shields are 100 feet (30 m) high and vary between 10 and 14 feet (3.0 and 4.3 m) thick. The composite steel and reinforced concrete cap above each reactor is 12 feet (3.7 m) thick. Both reactors were housed in a single building to achieve savings in building costs.
+The turbine house is a steel-framed, aluminium clad building 380 feet (120 m) long, 160 feet (49 m) wide and 90 feet (27 m) high, with a reinforced concrete basement 26 feet (7.9 m) deep. The foundations are provided by isolated bases and strip footings with a designed maximum bearing pressure of 3 tons per square foot.
+The pumphouse which supplied the main turbines with 27,000,000 imperial gallons (120,000,000 L; 32,000,000 US gal) of cooling water per hour drew sea water from an intake structure about 1,350 feet (410 m) offshore via twin 10-foot (3.0 m) diameter tunnels. This water was returned to the sea through similar tunnels discharging 350 feet (110 m) offshore.
+
+
+=== Electricity output ===
+Electricity output from Sizewell A power station over the period 1966-84 was as follows.
+
+Sizewell A annual electricity output GWh.
+
+
+=== Decommissioning ===
+The power station was shut down on 31 December 2006. The Nuclear Decommissioning Authority (NDA) subsidiary Nuclear Restoration Services, formerly Magnox Ltd, is responsible for placing contracts for the decommissioning of Sizewell A, at a budgeted cost of £1.2 billion. Defuelling was completed in 2014.
+The turbine hall was demolished in 2025.
+Removal of most buildings is expected to take until 2034, followed by a care and maintenance phase from 2034 to 2092. Demolition of reactor buildings and final site clearance is planned for 2088 to 2098.
+On 7 January 2007, a contractor working on the decommissioning of the station noticed water leaking on to the floor of the laundry where he was washing his clothes. The water was found to be cooling water from the pond that holds the reactor's spent nuclear fuel which had dropped more than 1 foot (0.30 m) without activating any of the alarms. It is estimated that up to 40,000 imperial gallons (180,000 L; 48,000 US gal) of radioactive water had leaked from a 15-foot (4.6 m) split in a pipe, with some spilling into the North Sea. According to the HM Nuclear Installation Inspectorate's report of the incident, without the chance intervention of the contractor, the pond could have drained before the next scheduled plant inspection. If the exposed irradiated fuel had caught fire, it would have resulted in an airborne off-site release of radiation.
+
+
+== Sizewell B ==
+
+Sizewell B is the UK's only commercial pressurised water reactor (PWR) power station. Its single reactor was built and commissioned between 1987 and 1995, and first synchronised with the national grid on 14 February 1995. The main civil engineering contractor was John Laing. The power station is operated by EDF Energy. The architectural design was carried out by Yorke Rosenberg Mardall.
+EDF's strategic target is for a 20-year life extension for Sizewell B PWR, beyond the current accounting closure date of 2035. This would mean the plant remaining in operation until 2055. EDF reaffirmed this plan in December 2024. As of 2022, the power station is still planned to close in 2035. However, a government official is cited stating that "it probably will be extended", while EDF intends to take a final decision on the estimated investment of £500–£700 million in 2024.
+
+
+=== Design ===
+The nuclear island at Sizewell B is based on a Westinghouse 4-loop plant known as SNUPPS (Standard Nuclear Unit Power Plant System) initially designed in the 1970s and used at Wolf Creek and Callaway but with additional redundancy and diversity in the safety systems, and other modifications such as the addition of a passive Emergency Boration System. The containment design was not based on SNUPPS however, but was designed by NNC (National Nuclear Corporation – bought by Amec Foster Wheeler in 2005) in conjunction with Bechtel.
+The Wolf Creek and Callaway plants each have single half speed, 1,800 RPM (60 Hz), steam turbine-alternator sets which use the steam produced from the heat generated in the reactor to produce about 1,200 MW of electricity at the US grid frequency of 60 Hz. Such large turbo-alternator sets were not available in the UK at the time Sizewell B was designed. So that orders could be given to UK manufacturers, and to avoid project risk in dealing with what were at the time newly designed very large turbo-alternator sets, Sizewell B uses two full-speed, 3,000 RPM (50 Hz), nominal 660 MW turbo-alternator sets similar to those used at the AGR power stations Hinkley Point B, Heysham 1, Hartlepool and Torness, and at some fossil-fuel power stations elsewhere, but adapted to cope with the wetter steam conditions produced by the PWR steam supply system. PWR steam supply systems produce saturated steam at lower temperature and pressure than the dry superheated steam produced by AGR reactors or fossil-fuel power stations, and the high- and intermediate-pressure stages of the steam turbines have to be designed cope with this. Sizewell B can run at half power using one turbo-alternator.
+The major components were supplied by:
+
+Reactor system: Westinghouse
+Reactor vessel: Framatome (main shell: Japan Steel Works, domes and other components: Le Creusot Forge)
+Core internals: Westinghouse
+Steam raising: Doosan Babcock
+Turbines: GEC-Alsthom
+Civil works: John Laing
+Fuel: Springfields Nuclear Fuel
+Architect: Yorke Rosenberg Mardall
+A distinctive white hemisphere envelopes the outer shell of the twin-walled containment building that protects the pressurised water reactor and its steam generators.
+
+
+=== History ===
+First announced in 1969 as an advanced gas-cooled reactor (AGR) based power station, and then in 1974 as a steam-generating heavy water reactor (SGHWR), Sizewell B was eventually announced as a PWR power station in 1980. The initial design submissions to the CEGB and the  Nuclear Installations Inspectorate (NII) were based on the design of the Trojan plant at Portland, Oregon. Designed by Westinghouse, construction of Trojan began in 1970 and was completed in 1975. Westinghouse continued to develop the design they had used for the Trojan plant into the SNUPPS design, built first at Callaway, and SNUPPS was adopted as the basis for the design approved by the CEGB in October 1981.
+Before construction commenced, the design of Sizewell B was subjected to a detailed safety review by the NII, and a lengthy public inquiry. The Pre-Construction Safety Case was submitted to the NII in August 1981. The public inquiry was held between 1982 and 1985, and took over 16 million words of evidence, a record at the time. The chairman of the inquiry, Sir Frank Layfield, reported in early 1987 that, subject to a satisfactory safety case, there were no substantive reasons why the project should not proceed. The Nuclear Installations Inspectorate accepted the Pre-Construction Safety Case and issued a licence to proceed with construction in August 1987.
+Sizewell B was calculated to be economically viable at a 5% discount rate and was approved financially on that basis. The project cost was revised upwards three times to 135% of the original cost, providing a cost-performance of £2,250/kW (2000 prices) not including first of a kind costs and £3,000/kW including them. A post-startup evaluation estimated generating cost were about 6p/kWh (2000 prices, equivalent to £128/MWh in 2023), excluding first-of-kind costs but using an 8% discount rate for the cost of capital, much higher than the expected cost in 1995 of 3.5p/kWh (2000 prices, equivalent to £74/MWh in 2023).
+
+Sizewell B was built and commissioned between 1987 and 1995, and first synchronised with the National Grid on 14 February 1995.  The cost of Sizewell B has been quoted as £2 billion (1987 prices) with a quarter of that cost being related to civil engineering works.
+The original rating was for a thermal power of 3,444 MW and gross electrical output of 1,250 MW, which after house load of 62 MW gave a net output to the grid of 1,188 MWe, equivalent to 8.7 TWh (31 PJ) in the year of 2005. It was uprated by 1% in 2013 with a thermal power of 3,479 MW and an electrical output of 1,195 MWe, though this is dependent on seawater temperature.
+As with many other PWRs, Sizewell B operates on an 18-month operating cycle, i.e. at or near 100% output continuously for around 18 months, followed by a month's shutdown for maintenance and refuelling. Sizewell B was designed for a commercial life of 40 years (i.e. to around 2035) but similar stations elsewhere have been granted extensions to 60 years.
+On 27 May 2008, Sizewell B had an unplanned shutdown, cutting off its supply to the National Grid. A British Energy spokesman said that the fault involved conventional equipment at the plant rather than any part of the nuclear reactor.
+On 17 March 2010, Sizewell B was taken offline for an extended period because of high moisture levels in the containment building due to a pressuriser electrical heater fault, requiring difficult repairs. On 2 July 2010, just before 21:00, while still offline, a minor fire broke out on the second floor of the building housing the charcoal adsorber at Sizewell B. Numerous emergency services were called to the scene and the fire was brought under control by 3:30 the following day when the charcoal adsorber was flooded.
+On 2 March 2012, Sizewell B had an unplanned shutdown due to an electrical fault. One and a half weeks later it was restarted at half capacity. As of June 2012, conditions improved and Sizewell B continued under carefully controlled operation.
+In 2013, a new remote Emergency Response Centre was inaugurated near the power station, following recommendations made after the Fukushima Daiichi nuclear disaster. The centre provides remote controls and a back-up plant.
+In January 2014, the building of a dry spent nuclear fuel store began. The existing spent fuel pool, which stores spent fuel under water, was expected to reach full capacity in 2015. In April 2016, the building was inaugurated. This will enable spent nuclear fuel produced from autumn 2016 until at least 2035 to be stored until a deep geological repository is available. In March 2017, the first cask containing spent nuclear fuel was installed.
+In 2021, Sizewell B had an extended outage for maintenance and safety related issues. The Times reported that excessive wear on some stainless steel "thermal sleeves" in the control rod mechanisms had been discovered.  The maintenance period was extended to over four months to evaluate the cause and extent of the wear to decide how many to replace.
+
+
+== Sizewell C ==
+
+Since the sale of British Energy to Électricité de France (EDF) in February 2009, plans for a further twin-unit reactor to be built at Sizewell have looked increasingly likely. Sizewell already has a connection agreement in place for a new nuclear power plant to be built. The government revealed that the 1,600 MW projected units, to be called Sizewell C, would, together with the planned units at Hinkley Point C, contribute 13% of UK electricity in the early 2020s. EDF plans to use Framatome's EPR design for any new-build reactors in the UK, this being the design of reactors currently being built in Olkiluoto, Finland, Flamanville, France and Taishan, China.
+On 18 October 2010, the British government announced that Sizewell was one of the eight sites which it considered suitable for future nuclear power stations.
+On 21 October 2015, it was reported that Britain and China had reached Strategic Investment Agreements for three nuclear power plants, including one at Sizewell, though no specific financing plans for Sizewell are agreed.  The final investment decision for Sizewell C is only likely to take place after the Hinkley Point C build has started.
+In May 2020, the NGO Energy for Humanity issued an open letter calling for the Department of Business, Energy and Industrial Strategy to support the project as without nuclear the "action on climate will be more difficult, more expensive, and more likely to fail". It also called for lessons to be drawn from Hinkley Point C as well as the UK's offshore wind programme to ensure a timely procurement schedule.
+Concerns have been expressed regarding one of the shareholders in the consortium, 
+China General Nuclear Power Group. CGN is owned by the Chinese government and has been blacklisted by the US Department of Commerce for attempting to acquire advanced US nuclear technology and material for diversion to military use.
+EDF submitted its planning application in May 2020, declaring 25,000 job opportunities and 70% of investment being spent in UK. The plant will largely replicate Hinkley Point C design to reuse experience, lower cost and ensure high levels of safety. The proposal was welcomed by Unite the Union.
+On 27 May 2020, EDF Energy announced that it had submitted a development consent order application. However EDF have yet to organise financing, and cannot take on more construction risk in the UK. EDF is looking to the UK government to assist on financing either by offering a regulated asset base (RAB) model used on less risky infrastructure, though that puts an immediate cost burden on end consumers or through other approaches such as a government equity stake in the development.
+On 30 June 2020, EDF Energy announced that it had applied to the Office for Nuclear Regulation (ONR) for a licence to build and operate Sizewell C. The ONR is responsible for the safe operation of nuclear sites in the UK and for permitting new nuclear site licences – one of the key regulatory requirements for building and operating a new power station.
+In March 2022, it was announced that the UK government and EDF would each take a 20% stake in the project, with infrastructure investors and pension funds expected to take up the remaining 60%.
+
+
+== See also ==
+
+Nuclear power in the United Kingdom
+Energy policy of the United Kingdom
+Energy in the United Kingdom
+List of nuclear reactors#United Kingdom
+Hilda Murrell
+Proposed nuclear power stations in the United Kingdom
+
+
+== References ==
+
+
+== Further reading ==
+Wall, Christine (2019). "'Nuclear prospects': the siting and construction of Sizewell A power station 1957–1966". Contemporary British History. 33 (2): 246–273. doi:10.1080/13619462.2018.1519424. S2CID 150174829.
+"Gallery: Sizewell B". BBC Suffolk.
+Kettlewell, Julianna (6 October 2005). "In pictures: Living with Sizewell B". BBC News.
+"Sizewell B given 10 more years". BBC News.
+
+
+== External links ==
+
+Magnox Limited, Sizewell A
+EDF Energy – Sizewell B
+International Atomic Energy Agency power station performance data: Sizewell A1, Sizewell A2, Sizewell B
+Sizewell B, Nuclear Engineering International wall chart, December 1982

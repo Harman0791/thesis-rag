@@ -1,0 +1,323 @@
+This article is about the phonology and phonetics of the Spanish language. Unless otherwise noted, statements refer to Castilian Spanish, the standard dialect used in Spain on radio and television. For historical development of the sound system, see History of Spanish. For details of geographical variation, see Spanish dialects and varieties.
+Phonemic representations are written inside slashes (/ /), while phonetic representations are written in brackets ([ ]).
+
+
+== Consonants ==
+
+The phonemes /b/, /d/, and /ɡ/ are pronounced as voiced stops only after a pause, after a nasal consonant, or—in the case of /d/—after a lateral consonant; in all other contexts, they are realized as approximants (namely [β̞, ð̞, ɣ̞], hereafter represented without the downtacks) or fricatives.
+The phoneme /ʎ/ is distinguished from /ʝ/ only in some areas of Spain (mostly northern and rural) and South America (mostly highland). Other accents of Spanish, comprising the majority of speakers, have lost the palatal lateral as a distinct phoneme and have merged historical /ʎ/ into /ʝ/: this is called yeísmo.
+The realization of the phoneme /ʝ/ varies greatly by dialect. In Castilian Spanish, its allophones in word-initial position include the palatal approximant [j], the palatal fricative [ʝ], the palatal affricate [ɟʝ] and the palatal stop [ɟ]. After a pause, a nasal, or a lateral, it may be realized as an affricate ([ɟʝ]); in other contexts, /ʝ/ is generally realized as an approximant [ʝ˕]. In Rioplatense Spanish, spoken across Argentina and Uruguay, the voiced palato-alveolar fricative [ʒ] is used in place of [ʝ] and [ʎ], a feature called "zheísmo". In the last few decades, it has further become popular, particularly among younger speakers in Argentina and Uruguay, to de-voice /ʒ/ to [ʃ] ("sheísmo"). 
+The phone [ʃ] occurs as a deaffricated pronunciation of /tʃ/ in some other dialects (most notably, Northern Mexican Spanish, informal Chilean Spanish, and some Caribbean and Andalusian accents). Otherwise, /ʃ/ is a marginal phoneme that occurs only in loanwords or certain dialects; many speakers have difficulty with this sound, tending to replace it with /tʃ/ or /s/.
+Many young Argentinians have no distinct /ɲ/ phoneme and use the [nj] sequence instead, thus making no distinction between huraño and uranio (both [uˈɾanjo]).
+Most varieties spoken in Spain, including those prevalent on radio and television, have a phonemic contrast between /s/ and /θ/. Speakers with this contrast (which is called distinción) use /s/ in words spelled with ⟨s⟩, such as casa 'house' [ˈkasa], and /θ/ in words spelled with ⟨z⟩ or ⟨c⟩ (when it occurs before ⟨i⟩ or ⟨e⟩), such as caza 'hunt' [ˈkaθa]. However, speakers in parts of southern Spain, the Canary Islands, and all of Latin America lack this distinction, merging both consonants as /s/. The use of [s] in place of [θ] is called seseo. Some speakers in southernmost Spain (especially coastal Andalusia) merge both consonants as [s̄]: this is called ceceo, since [s̄] sounds similar to /θ/.  This "ceceo" is not entirely unknown in the Americas, especially in coastal Peru.
+The exact pronunciation of /s/ varies widely by dialect: it may be pronounced as [h] or omitted entirely ([∅]), especially at the end of a syllable.
+The phonemes /t/ and /d/ are laminal denti-alveolar ([t̪, d̪]). The phoneme /s/ becomes dental [s̪] before denti-alveolar consonants, while /θ/ remains interdental [θ̟] in all contexts.
+Before front vowels /i, e/, the velar consonants /k, ɡ, x/ (including the lenited allophone of /ɡ/) are realized as post-palatal [k̟, ɡ˖, x̟, ɣ˕˖].
+According to some authors, /x/ is post-velar or uvular in the Spanish of northern and central Spain. Others describe /x/ as velar in European Spanish, with a uvular allophone ([χ]) appearing before /o/ and /u/ (including when /u/ is in the syllable onset as [w]).
+A common pronunciation of /f/ in nonstandard speech is the voiceless bilabial fricative [ɸ], so that fuera is pronounced [ˈɸweɾa] rather than [ˈfweɾa]. In some Extremaduran, western Andalusian, and American varieties, this softened realization of /f/, when it occurs before the non-syllabic allophone of /u/ ([w]), is subject to merger with /x/; in some areas the homophony of fuego/juego is resolved by replacing fuego with lumbre or candela.
+
+
+=== Consonant neutralizations and assimilations ===
+Some of the phonemic contrasts between consonants in Spanish are lost in certain phonological environments, especially at the end of a syllable. In these cases, the phonemic contrast is said to be neutralized.
+
+
+==== Sonorants ====
+
+
+===== Nasals and laterals =====
+At the start of a syllable, there is a contrast between three nasal consonants: /m/, /n/, and /ɲ/ (as in cama 'bed', cana 'grey hair', caña 'sugar cane'), but at the end of a syllable, this contrast is generally neutralized, as nasals assimilate to the place of articulation of the following consonant—even across a word boundary.
+Within a morpheme, a syllable-final nasal is obligatorily pronounced with the same place of articulation as a following stop consonant, as in banco [baŋ.ko]. An exception to coda nasal place assimilation is the sequence /mn/ that can be found in the middle of words such as alumno, columna, himno.
+Only one nasal consonant, /n/, can occur at the end of words in native vocabulary. When followed by a pause, /n/ is pronounced by most speakers as alveolar [n] (though in Caribbean varieties, it may be pronounced instead as [ŋ], or omitted with nasalization of the preceding vowel). When followed by another consonant, morpheme-final /n/ shows variable place assimilation depending on speech rate and style.
+Word-final /m/ and /ɲ/ in stand-alone loanwords or proper nouns may be adapted to [n].
+Similarly, /l/ assimilates to the place of articulation of a following coronal consonant, i.e. a consonant that is interdental, dental, alveolar, or palatal. In dialects that maintain the use of /ʎ/, there is no contrast between /ʎ/ and /l/ in coda position, and syllable-final [ʎ] appears only as an allophone of /l/ in rapid speech.
+
+
+===== Rhotics =====
+The alveolar trill [r] and the alveolar tap [ɾ] are in phonemic contrast word-internally between vowels (as in carro 'car' vs. caro 'expensive'), but are otherwise in complementary distribution, as long as syllable division is taken into account: the tap occurs after any syllable-initial consonant, while the trill occurs after any syllable-final consonant.
+Only the trill can occur at the start of a word (e.g. el rey 'the king', la reina 'the queen') or after a syllable-final (coda) consonant (e.g. alrededor, enriquecer, desratizar).
+Only the tap can occur after a word-initial obstruent consonant (e.g. tres 'three', frío 'cold').
+Either a trill or a tap can occur word-medially after /b/, /d/, /t/ depending on whether the rhotic consonant is pronounced in the same syllable as the preceding obstruent (forming a complex onset cluster) or in a separate syllable (with the obstruent forming the coda of the preceding syllable). The tap is found in words where no morpheme boundary separates the obstruent from the following rhotic consonant, such as sobre 'over', madre 'mother', ministro 'minister'. The trill is only found in words where the rhotic consonant is preceded by a morpheme boundary and thus a syllable boundary, such as subrayar, ciudadrealeño, postromántico; compare the corresponding word-initial trills in raya 'line', Ciudad Real "Ciudad Real", and romántico "Romantic".
+In syllable-final position before consonants inside a word, the tap is more frequent, but the trill can also occur (especially in emphatic or oratorical style) with no semantic difference—thus arma ('weapon') may be either [ˈaɾma] (tap) or [ˈarma] (trill).
+In word-final position the rhotic is usually:
+
+either a tap or a trill when followed by a consonant or a pause, as in amo[ɾ ~ r] paterno ('paternal love'), the former being more common;
+a tap when followed by a vowel-initial word, as in amo[ɾ] eterno ('eternal love').
+Morphologically, a word-final rhotic always corresponds to the tapped [ɾ] in related words. Thus the word olor 'smell' is related to olores, oloroso 'smells, smelly' and not to *olorres, *olorroso.
+When two rhotics occur consecutively across a word or prefix boundary, they result in one trill, so that da rocas ('they (sg.) give rocks') and dar rocas ('to give rocks') are either neutralized or distinguished by a longer trill in the latter phrase.
+The tap/trill alternation has prompted a number of authors to postulate a single underlying rhotic; the intervocalic contrast then results from gemination (e.g. tierra /ˈtieɾɾa/ > [ˈtjera] 'earth').
+
+
+==== Obstruents ====
+The phonemes /θ/, /s/, and /f/ may be voiced before voiced consonants, as in jazmín ('jasmine') [xaðˈmin], rasgo ('feature') [ˈrazɣo], and Afganistán ('Afghanistan') [avɣanisˈtan]. There is a certain amount of free variation in this, so jazmín can be pronounced [xaθˈmin] or [xaðˈmin]. Such voicing may occur across word boundaries, causing feliz navidad ('merry Christmas') /feˈliθ nabiˈdad/ to be pronounced [feˈlið naβ̞iˈð̞að̞]. In one region of Spain, the area around Madrid, word-final /d/ is sometimes pronounced [θ], especially in a colloquial pronunciation of the city's name, which results being pronounced as . More so, in some words now spelled with -z- before a voiced consonant, the phoneme /θ/ is in fact diachronically derived from original [ð] or /d/. For example, yezgo comes from Old Spanish yedgo, and juzgar comes from Old Spanish judgar, from Latin jūdicāre.
+Both in casual and formal speech, there is no phonemic contrast between voiced and voiceless consonants placed in syllable-final position. The merged phoneme is typically pronounced as a relaxed, voiced fricative or approximant, although a variety of other realizations are also possible. So the clusters -bt- and -pt- in the words obtener and optimista are pronounced exactly the same way:
+
+obtener /obteˈneɾ/ > [oβteˈneɾ]
+optimista /obtiˈmista/ > [oβtiˈmista]
+Similarly, the spellings -dm- and -tm- are often merged in pronunciation, as well as -gd- and -cd-:
+
+adminículo 
+atmosférico 
+amígdala 
+anécdota 
+
+
+== Semivowels ==
+Traditionally, the palatal consonant phoneme /ʝ/ is considered to occur only as a syllable onset, whereas the palatal glide [j] that can be found after an onset consonant in words like bien is analyzed as a non-syllabic version of the vowel phoneme /i/ (which forms part of the syllable nucleus, being pronounced with the following vowel as a rising diphthong). The approximant allophone of /ʝ/, which can be transcribed as [ʝ˕], differs phonetically from [j] in the following respects: [ʝ˕] has a lower F2 amplitude, is longer, can be replaced by a palatal fricative [ʝ] in emphatic pronunciations, and is unspecified for rounding (e.g. viuda  'widow' vs. ayuda  'help').
+After a consonant, the surface contrast between [ʝ] and [j] depends on syllabification, which in turn is largely predictable from morphology: the syllable boundary before [ʝ] corresponds to the morphological boundary after a prefix. A contrast is therefore possible after any consonant that can end a syllable, as illustrated by the following minimal or near-minimal pairs: after /l/ (italiano [itaˈljano] 'Italian' vs. y tal llano [italˈɟʝano] 'and such a plain'), after /n/ (enyesar  'to plaster' vs. aniego  'flood') after /s/ (desierto /deˈsieɾto/ 'desert' vs. deshielo /desˈʝelo/ 'thawing'), after /b/ (abierto /aˈbieɾto/ 'open' vs. abyecto /abˈʝeɡto/ 'abject').
+Although there is dialectal and idiolectal variation, speakers may also exhibit a contrast in phrase-initial position. In Argentine Spanish, the change of /ʝ/ to a fricative realized as [ʒ ~ ʃ] has resulted in clear contrast between this consonant and the glide [j]; the latter occurs as a result of spelling pronunciation in words spelled with ⟨hi⟩, such as hierba [ˈjeɾβa] 'grass' (which thus forms a minimal pair in Argentine Spanish with the doublet yerba [ˈʒeɾβa] 'maté leaves').
+There are some alternations between the two, prompting scholars like Alarcos Llorach (1950) to postulate an archiphoneme /I/, so that ley  would be transcribed phonemically as /ˈleI/ and leyes  as /ˈleIes/.
+In a number of varieties, including some American ones, there is a similar distinction between the non-syllabic version of the vowel /u/ and a rare consonantal /w̝/. Near-minimal pairs include deshuesar  ('to debone') vs. desuello  ('skinning'), son huevos  ('they are eggs') vs. son nuevos  ('they are new'), and huaca  ('Indian grave') vs. u oca  ('or goose').
+
+
+== Vowels ==
+
+Spanish has five vowel phonemes, /i/, /u/, /e/, /o/ and /a/ (the same as Asturian-Leonese, Aragonese, and also Basque). Each of the five vowels occurs in both stressed and unstressed syllables:
+
+Nevertheless, there are some distributional gaps or rarities. For instance, the close vowels /i, u/ are rare in unstressed word-final syllables.
+There is no surface phonemic distinction between close-mid and open-mid vowels, unlike in Catalan, Galician, French, Italian and Portuguese. In the historical development of Spanish, former open-mid vowels /ɛ, ɔ/ were replaced with diphthongs /ie, ue/ in stressed syllables, and merged with the close-mid /e, o/ in unstressed syllables (Note, in word-initial position, /ʝe/ occurs instead of /ie/). The diphthongs /ie, ue/ regularly correspond to open /ɛ, ɔ/ in Portuguese cognates; compare siete /ˈsiete/ 'seven' and fuerte /ˈfueɾte/ 'strong' with the Portuguese cognates sete /ˈsɛtɨ/ and forte /ˈfɔɾtɨ/, meaning the same.
+There are some synchronic alternations between the diphthongs /ie, ue/ in stressed syllables and the monophthongs /e, o/ in unstressed syllables: compare heló /eˈlo/ 'it froze' and tostó /tosˈto/ 'he toasted' with hiela /ˈʝela/ 'it freezes' and tuesto /ˈtuesto/ 'I toast'. It has thus been argued that the historically open-mid vowels remain underlyingly, giving Spanish seven vowel phonemes.
+Because of substratal Quechua, at least some speakers from southern Colombia down through Peru can be analyzed to have only three vowel phonemes /i, u, a/, as the close [i, u] are continually confused with the mid [e, o], resulting in pronunciations such as [dolˈsoɾa] for dulzura ('sweetness'). When Quechua-dominant bilinguals have /e, o/ in their phonemic inventory, they realize them as [ɪ, ʊ], which are heard by outsiders as variants of /i, u/. Both of those features are viewed as strongly non-standard by other speakers.
+
+
+=== Allophones ===
+Vowels are phonetically nasalized between nasal consonants or before a syllable-final nasal, e.g. cinco [ˈθĩŋko] ('five') and mano [ˈmãno] ('hand').
+Arguably, Eastern Andalusian and Murcian Spanish have ten phonemic vowels, with each of the above vowels paired by a lowered or fronted and lengthened version, e.g. la madre [la ˈmaðɾe] ('the mother') vs. las madres [læː ˈmæːðɾɛː] ('the mothers'). However, these are more commonly analyzed as allophones triggered by an underlying /s/ that is subsequently deleted.
+
+
+==== Exact number of allophones ====
+There is no agreement among scholars on how many vowel allophones Spanish has; an often postulated number is five [i, u, e̞, o̞, a̠].
+Some scholars, however, state that Spanish has eleven allophones: the close and mid vowels have close [i, u, e, o] and open [ɪ, ʊ, ɛ, ɔ] allophones, whereas /a/ appears in front [a], central [a̠] and back [ɑ] variants. These symbols appear only in the narrowest variant of phonetic transcription; in broader variants, only the symbols ⟨i, u, e, o, a⟩ are used, and that is the convention adopted in the rest of this article.
+Tomás Navarro Tomás describes the distribution of said eleven allophones as follows:
+
+Close vowels /i, u/
+The close allophones [i, u] appear in open syllables, e.g. in the words libre [ˈliβɾe] 'free' and subir [suˈβɪɾ] 'to raise'
+The open allophones are phonetically near-close [ɪ, ʊ], and appear:
+In closed syllables, e.g. in the word fin [fɪn] 'end'
+In both open and closed syllables when in contact with /r/, e.g. in the words rico [ˈrɪko] 'rich' and rubio [ˈrʊβjo] 'blond'
+In both open and closed syllables when before /x/, e.g. in the words hijo [ˈɪxo] 'son' and pujó [pʊˈxo] 'they (sg.) bid'
+Mid front vowel /e/
+The close allophone is phonetically close-mid [e], and appears:
+In open syllables, e.g. in the word dedo [ˈdeðo] 'finger'
+In closed syllables when before /m, n, t, θ, s/, e.g. in the word Valencia [ba̠ˈlenθja̠] 'Valencia'
+The open allophone is phonetically open-mid [ɛ], and appears:
+In open syllables when in contact with /r/, e.g. in the words guerra [ˈɡɛra̠] 'war' and reto [ˈrɛto] 'challenge'
+In closed syllables when not followed by /m, n, t, θ, s/, e.g. in the word belga [ˈbɛlɣa̠] 'Belgian'
+In the diphthong [ej], e.g. in the words peine [ˈpɛjne] 'comb' and rey [ˈrɛj] king
+Mid back vowel /o/
+The close allophone is phonetically close-mid [o], and appears in open syllables, e.g. in the word como [ˈkomo] 'how'
+The open allophone is phonetically open-mid [ɔ], and appears:
+In closed syllables, e.g. in the word con [kɔn] 'with'
+In both open and closed syllables when in contact with /r/, e.g. in the words corro [ˈkɔrɔ] 'I run', barro [ˈba̠rɔ] 'mud', and roble [ˈrɔβle] 'oak'
+In both open and closed syllables when before /x/, e.g. in the word ojo [ˈɔxo] 'eye'
+In the diphthong [oj], e.g. in the word hoy [ɔj] 'today'
+In stressed position when preceded by /a/ and followed by either /ɾ/ or /l/, e.g. in the word ahora [ɑˈɔɾa̠] 'now'
+Open vowel /a/
+The front allophone [a] appears:
+Before palatal consonants, e.g. in the word despacho [desˈpatʃo] 'office'
+In the diphthong [aj], e.g. in the word aire [ˈajɾe] 'air'
+The back allophone [ɑ] appears:
+In the diphthong [aw], e.g. in the word flauta [ˈflɑwta̠] 'flute'
+Before /o/
+In closed syllables before /l/, e.g. in the word sal [sɑl] 'salt'
+In both open and closed syllables when before /x/, e.g. in the word tajada [tɑˈxa̠ða̠] 'chop'
+The central allophone [a̠] appears in all other cases, e.g. in the word casa [ˈka̠sa̠]
+According to Eugenio Martínez Celdrán, however, systematic classification of Spanish allophones is impossible since their occurrence varies from speaker to speaker and from region to region. According to him, the exact degree of openness of Spanish vowels depends not so much on the phonetic environment but rather on various external factors accompanying speech.
+
+
+=== Diphthongs and triphthongs ===
+
+Spanish has six falling diphthongs and eight rising diphthongs. While many diphthongs are historically the result of a recategorization of vowel sequences (hiatus) as diphthongs, there is still lexical contrast between diphthongs and hiatus. Some lexical items vary by speaker or dialect between hiatus and diphthong. Words like biólogo ('biologist') with a potential diphthong in the first syllable and words like diálogo with a stressed or pretonic sequence of /i/ and a vowel vary between a diphthong and hiatus. Chițoran & Hualde (2007) hypothesize that this is caused by vocalic sequences being longer in those positions.
+In addition to synalepha across word boundaries, sequences of vowels in hiatus become diphthongs in fast speech. When this happens, one vowel becomes non-syllabic (unless they are the same vowel in which case they fuse together) as in poeta [ˈpo̯eta] ('poet') and maestro [ˈmae̯stɾo] ('teacher'). Similarly, the relatively rare diphthong /eu/ may be reduced to [u] in certain unstressed contexts, as in Eufemia, [uˈfemja]. In the case of verbs like aliviar ('relieve'), diphthongs result from the suffixation of normal verbal morphology onto a stem-final /j/ (that is, aliviar would be |alibj| + |ar|). This contrasts with verbs like ampliar ('to extend') which, by their verbal morphology, seem to have stems ending in /i/.
+Non-syllabic /e/ and /o/ can be reduced to [j], [w], as in beatitud [bjatiˈtuð] ('beatitude') and poetisa [pweˈtisa] ('poetess'), respectively; similarly, non-syllabic /a/ can be completely elided, as in (ahorita [oˈɾita] 'right away'). The frequency (though not the presence) of this phenomenon varies by dialect: in a number it rarely occurs, while others always exhibit it.
+Spanish also possesses triphthongs like /uei/ and, in dialects that use a second-person plural conjugation, /iai/, /iei/, and /uai/ (e.g. buey, 'ox'; cambiáis, 'you change'; cambiéis, '(that) you may change'; and averiguáis, 'you ascertain').
+
+
+== Prosody ==
+Spanish is usually considered a syllable-timed language. Even so, stressed syllables may be up to 50% longer in duration than non-stressed syllables. Although pitch, duration, and loudness contribute to the perception of stress, pitch is the most important in isolation.
+Primary stress falls on the penultima (second-last syllable) 80% of the time. The other 20% of the time, stress falls on the ultima (last syllable) or on the antepenultima (third-last syllable). There are numerous minimal pairs that contrast solely in stress, such as [ˈsaβana] sábana ('sheet') and [saˈβana] sabana ('savannah'), as well as [ˈlimite] límite ('boundary'), [liˈmite] limite ('[that] they (sg.) limit') and [limiˈte] limité ('I limited').
+Nonverbs are generally stressed on the penultimate syllable if they end in a vowel, and on the final syllable if they end in a consonant. Exceptions are marked orthographically (see below), and regular words are underlyingly phonologically marked with a stress feature [+stress]. There are exceptions to these tendencies, particularly learned words from Greek and Latin that feature antepenultimate stress. 
+In writing, stress is marked in certain circumstances with an acute accent (ácido, distinción, etc.). This is done according to the mandatory stress rules of Spanish orthography, which parallel the tendencies above (differing with words like distinción) and are defined so as to unequivocally indicate where the stress lies in a given written word. An acute accent may also be used to differentiate homophones, such as mi ('my') and mí ('me'). In such cases, the accent is used on the homophone that normally receives greater stress when it is used in a sentence.
+Lexical stress patterns are different between words carrying verbal and nominal inflection: in addition to the occurrence of verbal affixes with stress (something absent in nominal inflection), underlying stress also differs in that it falls on the last syllable of the inflectional stem in verbal words, while the stem of nominal words may have ultimate or penultimate stress. In addition, in sequences of clitics suffixed to a verb, the rightmost clitic may receive secondary stress: búscalo /ˈbuskaˌlo/ ('look for it').
+
+
+== Phonotactics ==
+
+
+=== Syllable structure ===
+Spanish syllable structure consists of an optional syllable onset, consisting of one or two consonants; an obligatory syllable nucleus, consisting of a vowel optionally preceded by and/or followed by a semivowel; and an optional syllable coda, consisting of one or two consonants. This can be summarized as follows (parentheses enclose optional components):
+
+(C1 (C2)) (S1) V (S2) (C3 (C4))
+The following restrictions apply:
+
+Onset
+First consonant (C1): Can be any consonant. Either /ɾ/ or /r/ is possible as a word-internal onset after a vowel, but as discussed above, the contrast between the two rhotic consonants is neutralized at the start of a word or when the preceding syllable ends in a consonant: only /r/ is possible in those positions.
+Second consonant (C2): Can be /l/ or /ɾ/. Permitted only if the first consonant is a stop /p, t, k, b, d, ɡ/, a voiceless labiodental fricative /f/, or marginally the nonstandard /v/. /tl/ is prohibited as an onset cluster in most of Peninsular Spanish, while /tl/ sequences such as in atleta 'athlete' are usually treated as an onset cluster in Latin America and the Canaries. The sequence /dl/ is also avoided as an onset, seemingly to a greater degree than /tl/.
+Nucleus
+Semivowel (S1): Can be [j] or [w], normally analyzed phonemically as allophones of non-syllabic /i, u/. Cannot be identical to the following vowel (*[ji] and *[wu] do not occur within a syllable).
+Vowel (V): Can be any of /a, e, i, o, u/.
+Semivowel (S2):  Can be [j] or [w], normally analyzed phonemically as allophones of non-syllabic /i, u/. The sequences *[ij], *[iw] and *[uw] do not occur within a syllable. Some linguists consider postvocalic glides to be part of the coda rather than the nucleus.
+Coda
+First consonant (C3): Can be any consonant except /ɲ/, /ʝ/ or /ʎ/.
+Second consonant (C4): Always /s/ in native Spanish words. Other consonants, except /ɲ/, /ʝ/ and /ʎ/, are tolerated as long as they are less sonorous than the first consonant in the coda, such as in York or the Catalan last name Brucart, but the final element is sometimes deleted in colloquial speech. A coda of two consonants never appears in words inherited from Vulgar Latin.
+In many dialects, a coda cannot be more than one consonant (one of n, r, l or s) in informal speech. Realizations like /tɾasˈpoɾ.te/, /is.taˈlar/, /pes.peɡˈti.ba/ are very common, and in many cases, they are allowed even in formal speech.
+Maximal onsets include transporte /tɾansˈpoɾ.te/, flaco /ˈfla.ko/, clave /ˈkla.be/.
+Maximal nuclei include buey /buei/, Uruguay /u.ɾuˈɡuai/.
+Maximal codas include instalar /ins.taˈlaɾ/, perspectiva /peɾs.peɡˈti.ba/.
+Spanish syllable structure is phrasal, resulting in syllables consisting of phonemes from neighboring words in combination, sometimes even resulting in elision. The phenomenon is known in Spanish as enlace. For a brief discussion contrasting Spanish and English syllable structure, see Whitley (2002:32–35).
+
+
+=== Other phonotactic tendencies ===
+The palatal sonorants /ʎ, ɲ/ are rare in certain positions, although this may be a consequence of their diachronic origins (being derived often, though not exclusively, from Latin geminate consonants) rather than a matter of synchronic constraints.
+Per Baker 2004, the palatal sonorants /ʎ, ɲ/ are not found as word-internal onsets when the preceding syllable ends in a coda consonant or glide. A number of exceptions to this generalization exist, however, including  prefixed or compound words (such as conllevar, bienllegada, panllevar), borrowed words (such as huaiño, aillu, aclla, from Quechua), and forms that originate from non-Castilian Romance varieties (such as Asturian piesllo). The sequence [au̯ɲ] occurs in some proper names, such as the toponym Auñón (from Latin alneus) and Auñamendi (a publishing house name taken from the Basque name of the Pic d'Anie); [au̯ʎ] occurs in some words, such as aullar and maullar.
+Although word-initial /ɲ/ is not forbidden (for example, it occurs in borrowed words such as ñandú and ñu and in dialectal forms such as ñudo) it is relatively rare and so may be described as having restricted distribution in this position.
+In native Spanish words, the trill /r/ does not appear after a glide. That said, it does appear after [w] in some Basque loans, such as Aurrerá, a grocery store, Abaurrea Alta and Abaurrea Baja, towns in Navarre, aurresku, a type of dance, and aurragado, an adjective referring to poorly tilled land.
+When the final syllable of a word begins with any of /ʎ ɲ ʝ tʃ r/, the word typically does not display antepenultimate stress.
+
+
+=== Epenthesis ===
+Because of the phonotactic constraints, an epenthetic /e/ is inserted before word-initial clusters beginning with /s/ (e.g. escribir 'to write') but not word-internally (transcribir 'to transcribe'), thereby moving the initial /s/ to a separate syllable. Except in careful pronunciation, the epenthetic /e/ is pronounced even when it is not reflected in spelling (e.g. the surname of Carlos Slim is pronounced /esˈlim/). While Spanish words undergo word-initial epenthesis, cognates in Latin and Italian do not:
+
+Lat. status /ˈsta.tus/ ('state') ~ It. stato /ˈsta.to/ ~ Sp. estado /esˈta.do/
+Lat. splendidus /ˈsplen.di.dus/ ('splendid') ~ It. splendido /ˈsplen.di.do/ ~ Sp. espléndido /esˈplen.di.do/
+Fr. slave /slav/ ('Slav') ~ It. slavo /ˈzla.vo/ ~ Sp. eslavo /esˈla.bo/
+In addition, Spanish adopts foreign words starting with pre-nasalized consonants with an epenthetic /e/. Nguema, a prominent last name from Equatorial Guinea, is pronounced as [eŋˈɡema].
+When adapting word-final complex codas that show rising sonority, an epenthetic /e/ is inserted between the two consonants. For example, al Sadr is typically pronounced [al.sa.ðeɾ].
+Occasionally Spanish speakers are faced with onset clusters containing elements of equal or near-equal sonority, such as Knoll (a German last name that is common in parts of South America). Assimilated borrowings usually delete the first element in such clusters, as in (p)sicología 'psychology'. When attempting to pronounce such words for the first time without deleting the first consonant, Spanish speakers insert a short, often devoiced, schwa-like vowel between the two consonants.
+
+
+== Alternations ==
+Some alternations exist in Spanish that reflect diachronic changes in the language and arguably reflect morphophonological processes rather than strictly phonological ones. For instance, some words alternate between /k/ and /θ/ or /ɡ/ and /x/, with the latter in each pair appearing before a front vowel:
+
+Note that the conjugation of most verbs with a stem ending in /k/ or /ɡ/ does not show this alternation; these segments do not turn into /θ/ or /x/ before a front vowel:
+
+There are also alternations between unstressed /e/ and /o/ and stressed /ie/ (or /ʝe/, when initial) and /ue/ respectively:
+
+Likewise, in a very small number of words, alternations occur between the palatal sonorants /ʎ ɲ/ and their corresponding alveolar sonorants /l n/ (doncella/doncel 'maiden'/'youth', desdeñar/desdén 'to scorn'/'scorn'). This alternation does not appear in verbal or nominal inflection (that is, the plural of doncel is donceles, not *doncelles). This is the result of geminated /ll/ and /nn/ of Vulgar Latin (the origin of /ʎ/ and /ɲ/, respectively) degeminating and then depalatalizing in coda position. Words without any palatal-alveolar allomorphy are the result of historical borrowings.
+Other alternations include /ɡs/ ~ /x/ (anexo vs. anejo), /ɡt/ ~ /tʃ/ (nocturno vs. noche). Here the forms with /ɡs/ and /ɡt/ are historical borrowings and the forms with /x/ and /tʃ/ forms are inherited from Vulgar Latin.
+There are also pairs that show antepenultimate stress in nouns and adjectives but penultimate stress in synonymous verbs (vómito 'vomit' vs. vomito 'I vomit').
+
+
+== Acquisition as first language ==
+
+
+=== Phonology ===
+Phonological development varies greatly by individual for both those developing regularly and those with delays. However, a general pattern of acquisition of phonemes can be inferred by the level of complexity of their features, i.e. by sound classes. A hierarchy may be constructed, and if a child is capable of producing discrimination on one level, they will also be capable of making the discriminations of all prior levels.
+
+The first level consists of stops (without a voicing distinction), nasals, [l], and optionally a non-lateral approximant. This includes a labial/coronal place difference ([b] vs. [t] and [l] vs. [β]).
+The second level includes voicing distinction for oral stops and a coronal/dorsal place difference. This allows for a distinction between [p], [t], and [k], along with their voiced counterparts, as well as a distinction between [l] and the approximant [j].
+The third level includes fricatives and/or affricates.
+The fourth level introduces liquids other than [l], [ɹ] and [ɾ]. It also introduces [θ].
+The fifth level introduces the trill [r].
+This hierarchy is based on production only and is a representation of a child's capacity to produce a sound, whether that sound is the correct target in adult speech or not. Thus, it may contain some sounds that are not included in adult phonology but are produced as a result of error.
+Spanish-speaking children will accurately produce most segments at a relatively early age. By around three-and-a-half years, they will no longer productively use phonological processes the majority of the time. Some common error patterns (found 10% or more of the time) are cluster reduction, liquid simplification, and stopping. Less common patterns (evidenced less than 10% of the time) include palatal fronting, assimilation, and final consonant deletion.
+Typical phonological analyses of Spanish consider the consonants /b/, /d/, and /ɡ/ the underlying phonemes and their corresponding approximants [β], [ð], and [ɣ] allophonic and derivable by phonological rules. However, approximants may be the more basic form because monolingual Spanish-learning children learn to produce the continuant contrast between [p t k] and [β ð ɣ] before they produce the lead voicing contrast between [p t k] and [b d ɡ]. (In comparison, English-learning children are able to produce adult-like voicing contrasts for these stops well before age three.) The allophonic distribution of [b d ɡ] and [β ð ɣ] produced in adult speech is not learned until after age two and not fully mastered even at age four.
+The alveolar trill [r] is one of the most difficult sounds to produce in Spanish and is acquired later in development. Research suggests that the alveolar trill is acquired and developed between the ages of three and six years. Some children acquire an adult-like trill within this period, and some fail to properly acquire the trill. The attempted trill sound of the poor trillers is often perceived as a series of taps owing to hyperactive tongue movement during production. The trill is also often very difficult for those learning Spanish as a second language, sometimes taking over a year to be produced properly.
+
+
+=== Codas ===
+One study found that children acquire medial codas before final codas, and stressed codas before unstressed codas. Since medial codas are often stressed and must undergo place assimilation, greater importance is accorded to their acquisition. Liquid and nasal codas occur word-medially and at the ends of frequently-used function words and so they are often acquired first.
+
+
+=== Prosody ===
+Research suggests that children overgeneralize stress rules when they are reproducing novel Spanish words and that they have a tendency to stress the penultimate syllables of antepenultimately stressed words to avoid a violation of nonverb stress rules that they have acquired. Many of the most frequent words heard by children have irregular stress patterns or are verbs, which violate nonverb stress rules. This complicates stress rules until ages three to four, when stress acquisition is essentially complete, and children begin to apply these rules to novel irregular situations.
+
+
+== Dialectal variation ==
+Some features, such as the pronunciation of voiceless stops /p t k/, have no dialectal variation. However, there are numerous other features of pronunciation that differ from dialect to dialect.
+
+
+=== Yeísmo ===
+
+One notable dialectal feature is the merging of the voiced palatal approximant [ʝ] (as in ayer) with the palatal lateral approximant [ʎ] (as in calle) into one phoneme (yeísmo), with /ʎ/ losing its laterality. While the distinction between these two sounds has traditionally been a feature of Castilian Spanish, this merger has spread throughout most of Spain in recent generations, particularly outside of regions in close linguistic contact with Catalan and Basque. In Spanish America, most dialects are characterized by this merger, with the distinction persisting mostly in parts of Peru, Bolivia, Paraguay, and northwestern Argentina. In the other parts of Argentina, the phoneme resulting from the merger is realized as [ʒ], and in Buenos Aires. the sound has recently been devoiced to [ʃ] for the younger population, a change that is spreading throughout Argentina.
+
+
+=== Seseo, ceceo and distinción ===
+
+Speakers in northern and central Spain, including the variety prevalent on radio and television, have both /θ/ and /s/ (distinción, 'distinction'). However, speakers in Latin America, the Canary Islands and some parts of southern Spain have only /s/ (seseo), which in southernmost Spain is pronounced [θ], not [s] (ceceo).
+
+
+==== Realization of /s/ ====
+
+The phoneme /s/ has three different pronunciations depending on the dialect area:
+
+An apical alveolar retracted fricative (or "apico-alveolar" fricative) [s̺], which sounds similar to English /ʃ/ and is characteristic of the northern and central parts of Spain and is also used by many speakers in Colombia's Antioquia Department.
+A laminal alveolar grooved fricative [s], much like the most common pronunciation of English /s/, is characteristic of western Andalusia (e.g. Málaga, Seville, and Cádiz), the Canary Islands, and Latin America.
+An apical dental grooved fricative [s̄] (ad hoc symbol), which has a lisping quality and sounds something like a cross between English /s/ and /θ/ but is different from the /θ/ occurring in dialects that distinguish /s/ and /θ/. It occurs only in dialects with ceceo, mostly in Granada, in parts of Jaén, in the southern part of Sevilla and the mountainous areas shared between Cádiz and Málaga.
+Obaid describes the apico-alveolar sound as follows:
+
+There is a Castilian s, which is a voiceless, concave, apicoalveolar fricative: the tip of the tongue turned upward forms a narrow opening against the alveoli of the upper incisors. It resembles a faint /ʃ/ and is found throughout much of the northern half of Spain.
+Dalbor describes the apico-dental sound as follows:
+
+[s̄] is a voiceless, corono-dentoalveolar groove fricative, the so-called s coronal or s plana because of the relatively flat shape of the tongue body ... To this writer, the coronal [s̄], heard throughout Andalusia, should be characterized by such terms as "soft," "fuzzy," or "imprecise," which, as we shall see, brings it quite close to one variety of /θ/ ... Canfield has referred, quite correctly, in our opinion, to this [s̄] as "the lisping coronal-dental," and Amado Alonso remarks how close it is to the post-dental [θ̦], suggesting a combined symbol ⟨θˢ̣⟩ to represent it.
+In some dialects, /s/ may become the approximant [ɹ] in the syllable coda (e.g. doscientos [doɹˈθjentos] 'two hundred'). In southern dialects in Spain, most lowland dialects in the Americas, and in the Canary Islands, it debuccalizes to [h] in final position (e.g. niños [ˈniɲoh] 'children'), or before another consonant (e.g. fósforo [ˈfohfoɾo] 'match') and so the change occurs in the coda position in a syllable. In Spain, this was originally a southern feature, but is now expanding rapidly to the north.
+From an autosegmental point of view, the /s/ phoneme in Madrid is defined only by its voiceless and fricative features. Thus, the point of articulation is not defined and is determined from the sounds after it in a word or sentence. In Madrid, the following realizations are found: /pesˈkado/ > [pexˈkao] and /ˈfosfoɾo/ > [ˈfofːoɾo]. In parts of southern Spain, the only feature defined for /s/ appears to be voiceless; it may lose its oral articulation entirely to become [h] or even a geminate with the following consonant ([ˈmihmo] or [ˈmimːo] from /ˈmismo/ 'same'). In Eastern Andalusian and Murcian Spanish, word-final /s/, /θ/ and /x/ regularly weaken, and the preceding vowel is lowered and lengthened:
+
+/is/ > [ɪː] e.g. mis [mɪː] ('my' pl)
+/es/ > [ɛː] e.g. mes [mɛː] ('month')
+/as/ > [æː] e.g. más [mæː] ('plus')
+/os/ > [ɔː] e.g. tos [tɔː] ('cough')
+/us/ > [ʊː] e.g. tus [tʊː] ('your' pl)
+A subsequent process of vowel harmony takes place and so lejos ('far') is [ˈlɛxɔ], tenéis ('you [plural] have') is [tɛˈnɛj] and tréboles ('clovers') is [ˈtɾɛβɔlɛ] or [ˈtɾɛβolɛ].
+
+
+=== Coda simplification ===
+Southern European Spanish (Andalusian Spanish, Murcian Spanish, etc.) and several lowland dialects in Latin America (such as those from the Caribbean, Panama, and the Atlantic coast of Colombia) exhibit more extreme forms of simplification of coda consonants:
+
+word-final dropping of /s/ (e.g. compás [komˈpa] 'musical beat' or 'compass')
+word-final dropping of nasals with nasalization of the preceding vowel (e.g. ven [bẽ] 'come')
+dropping of /ɾ/ in the infinitival morpheme (e.g. comer [koˈme] 'to eat')
+the occasional dropping of coda consonants word-internally (e.g. doctor [doˈto(ɾ)] 'doctor').
+The dropped consonants appear when additional suffixation occurs (e.g. compases [komˈpase] 'beats', venían [beˈni.ã] 'they were coming', comeremos [komeˈɾemo] 'we will eat'). Similarly, a number of coda assimilations occur:
+
+/l/ and /r/ may neutralize to [j] (e.g. Cibaeño Dominican celda/cerda [ˈsejða] 'cell'/'bristle'), to [l] (e.g. Caribbean Spanish alma/arma [ˈalma] 'soul'/'weapon', Andalusian Spanish sartén [salˈtẽ] 'pan'), to [r] (e.g. Andalusian Spanish alma/arma [ˈarma]) or, by complete regressive assimilation, to a copy of the following consonant (e.g. pulga/purga [ˈpuɡːa] 'flea'/'purge', carne [ˈkanːe] 'meat').
+/s/, /x/, (and /θ/ in southern Peninsular Spanish) and /f/ may be debuccalized or elided in the coda (e.g. los amigos [lo(h) aˈmiɣo(h)] 'the friends').
+Stops and nasals may be realized as velar (e.g. Cuban and Venezuelan étnico [ˈeɡniko] 'ethnic', himno [ˈiŋno] 'anthem').
+Final /d/ dropping (e.g. mitad [miˈta] 'half') is general in most dialects of Spanish, even in formal speech.
+The neutralization of syllable-final /p/, /t/, and /k/ is widespread in most dialects (with e.g. Pepsi being pronounced [ˈpeksi]). It does not face as much stigma as other neutralizations and may go unnoticed.
+The deletions and neutralizations show variability in their occurrence, even with the same speaker in the same utterance, so non-deleted forms exist in the underlying structure. The dialects may not be on the path to eliminating coda consonants since deletion processes have been existing for more than four centuries. Guitart (1997) argues that it is the result of speakers acquiring multiple phonological systems with uneven control like that of second language learners.
+In Standard European Spanish, the voiced obstruents /b, d, ɡ/ before a pause are devoiced and laxed to [β̥˕, ð̥˕, ɣ̊˕] ([ɸ, θ, x]), as in club [kluβ̥˕] ('[social] club'), sed [seð̥] ('thirst'), zigzag [θiɣˈθaɣ̊˕]. However, word-final /b/ is rare, and /ɡ/ is even more so. They are restricted mostly to loanwords and foreign names, such as the first name of the former Real Madrid sports director Predrag Mijatović, which is pronounced [ˈpɾeð̞ɾaɣ̊˕], and after another consonant, the voiced obstruent may even be deleted, as in iceberg, pronounced [iθeˈβeɾ]. In Madrid and its environs, sed is alternatively pronounced [seθ], and the aforementioned alternative pronunciation of word-final /d/ as [θ] co-exists with the standard realization, but is otherwise nonstandard.
+
+
+=== Loan sounds ===
+The fricative /ʃ/ may also appear in borrowings from other languages, such as Nahuatl and English. In addition, the affricates /t͡s/ and /t͡ɬ/ also occur in Nahuatl borrowings. That said, the onset cluster /tl/ is permitted in most of Latin America, the Canaries, and the northwest of Spain, and the fact that it is pronounced in the same amount of time as the other voiceless stop + lateral clusters /pl/ and /kl/ support an analysis of the /tl/ sequence as a cluster, rather than an affricate, in Mexican Spanish.
+
+
+== Sample ==
+
+This sample is an adaptation of Aesop's "El Viento del Norte y el Sol" (The North Wind and the Sun) read by a man from Northern Mexico born in the late 1980s. As usual in Mexican Spanish, /θ/ and /ʎ/ are not present.
+
+
+=== Orthographic version ===
+El Viento del Norte y el Sol discutían por saber quién era el más fuerte de los dos. Mientras discutían, se acercó un viajero cubierto en un cálido abrigo. Entonces decidieron que el más fuerte sería quien lograse despojar al viajero de su abrigo. El Viento del Norte empezó, soplando tan fuerte como podía, pero entre más fuerte soplaba, el viajero más se arropaba. Entonces, el Viento desistió. Se llegó el turno del Sol, quien comenzó a brillar con fuerza. Esto hizo que el viajero sintiera calor y por ello se quitó su abrigo. Entonces el Viento del Norte tuvo que reconocer que el Sol era el más fuerte de los dos.
+
+
+=== Phonemic transcription ===
+/el ˈbiento del ˈnoɾte i el ˈsol diskuˈti.an poɾ saˈbeɾ ˈkien ˈeɾa el ˈmas ˈfueɾte de los ˈdos ‖ mientɾas diskuˈti.an se aseɾˈko un biaˈxeɾo kuˈbieɾto en un ˈkalido aˈbɾiɡo | enˈtonses desiˈdieɾon ke el ˈmas ˈfueɾte seˈɾi.a kien loˈɡɾase despoˈxaɾ al biaˈxeɾo de su aˈbɾiɡo ‖ el ˈbiento del ˈnoɾte empeˈso soˈplando tan ˈfueɾte komo poˈdi.a | peɾo entɾe ˈmas ˈfueɾte soˈplaba el biaˈxeɾo ˈmas se aroˈpaba | enˈtonses el ˈbiento desisˈtio | se ʝeˈɡo el ˈtuɾno del ˈsol kien komenˈso a bɾiˈʝaɾ kon ˈfueɾsa | ˈesto ˈiso ke el biaˈxeɾo sinˈtieɾa kaˈloɾ i poɾ ˈeʝo se kiˈto su aˈbɾiɡo ‖ enˈtonses el ˈbiento del ˈnoɾte ˈtubo ke rekonoˈseɾ ke el ˈsol ˈeɾa el ˈmas ˈfueɾte de los ˈdos/
+
+
+=== Phonetic transcription ===
+[el ˈβjento ðel ˈnoɾte j‿el ˈsol diskuˈti.am poɾ saˈβeɾ ˈkjen eɾa‿e̯l ˈmas ˈfweɾte ðe loz ˈðos ‖ ˈmjentɾaz ðiskuˈti.an ˌse̯‿aseɾˈko‿wm bjaˈxeɾo kuˈβjeɾto̯‿en uŋ ˈkaliðo̯‿aˈβɾiɣo | enˈtonsez ðesiˈðjeɾoŋ k‿el ˈmas ˈfweɾte seˈɾi.a kjen loˈɣɾase ðespoˈxaɾ al βjaˈxeɾo ðe swaˈβɾiɣo ‖ el ˈβjento ðel ˌnoɾt‿empeˈso soˈplando taɱ ˈfweɾte ˌkomo poˈði.a | ˈpeɾo̯‿entɾe ˈmas ˈfweɾte soˈplaβa el βjaˈxeɾo ˈmas ˌse̯‿aroˈpaβa | enˈtonses el ˈβjento ðesisˈtjo | se ʝeˈɣo̯‿el ˈtuɾno ðel sol ˌkjeŋ komenˈso̯‿a βɾiˈʝaɾ koɱ ˈfweɾsa | ˈesto‿jso k‿el βjaxeɾo sinˈtjeɾa kaˈloɾ i poɾ eʝo se kiˈto swaˈβɾiɣo ‖ enˈtonses el ˈβjento ðel ˈnoɾte ˈtuβo ke rekonoˈseɾ ˌkel ˈsol ˈeɾa‿e̯l ˈmas ˈfweɾte ðe loz ˈðos]
+
+
+== See also ==
+History of the Spanish language
+List of phonetics topics
+Spanish dialects and varieties
+Stress in Spanish
+RFE Phonetic Alphabet
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+
+
+== External links ==
+Handbook of the International Phonetic Association: Castilian Spanish – audio samples

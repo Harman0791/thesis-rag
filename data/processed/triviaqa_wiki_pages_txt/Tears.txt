@@ -1,0 +1,78 @@
+Tears (tear film) are a transparent fluid secreted primarily by the lacrimal glands (tear gland) found in the eyes of all land mammals. According to the mode of production, tears are classified into four types: basal, closed eye, emotional, and reflex. The basal rate of tear secretion is ~0.5–2.2 µL/min, and irritation can increase secretion by up to ~100-fold, reaching ~300 µL/min. Tears are made up of water, electrolytes, proteins, lipids, and mucins that form layers on the surface of eyes. The four types of tears differ significantly in their composition. 
+
+ Some of the functions of tears include lubricating the eyes (basal tears), removing irritants (reflex tears), and also aiding the immune system. Tears also occur as a part of the body's natural pain response. Emotional secretion of tears may serve a biological function by excreting stress-inducing hormones built up through times of emotional distress. Tears have symbolic significance among humans.
+
+
+== Physiology ==
+
+
+=== Chemical composition ===
+Tear film was described in 1946 by Wolff using a slit lamp to have a three-layered structure: lipid, aqueous, and mucous. Tears are composed of water, salts, antibodies, and lysozymes (antibacterial enzymes). The composition of each layer determines its function. For example, the diverse lipid classes in the tear film lipid layer (TFLL) confer unique physicochemical properties that support roles such as enabling thin film formation and preventing its collapse onto the ocular surface. More recently, Mazyar Yazdani at Oslo University Hospital proposed that the TFLL may also contribute to corneal oxygenation, based on its composition-driven properties.
+The composition varies among different tear types. The composition of tears caused by an emotional reaction differs from that of tears as a reaction to irritants, such as onion fumes, dust, or allergens. Emotional tears contain higher concentrations of stress hormones such as adrenocorticotropic hormone and leucine enkephalin (a natural pain killer), which suggests that emotional tears play a biological role in balancing stress hormone levels. 
+
+
+=== Drainage of tear film ===
+The lacrimal glands secrete lacrimal fluid, which flows through the main excretory ducts into the space between the eyeball and the lids. When the eyes blink, the lacrimal fluid is spread across the surface of the eye. Lacrimal fluid gathers in the lacrimal lake which is found in the medial part of the eye. The lacrimal papilla is an elevation in the inner side of the eyelid, at the edge of the lacrimal lake. The lacrimal canaliculi open into the papilla. The opening of each canaliculus is the lacrimal punctum. From the punctum, tears will enter the lacrimal sac, then on to the nasolacrimal duct, and finally into the nasal cavity. An excess of tears, as caused by strong emotion, can cause the nose to run. Quality of vision is affected by the stability of the tear film.
+
+
+=== Types ===
+There are three basic types of tears: basal, reflex and emotional.
+
+
+=== Nictitating membrane ===
+Some mammals, such as cats, camels, polar bears, seals and aardvarks, have a full translucent third eyelid called a nictitating membrane, while others have a vestigial nictitating membrane. The membrane works to protect and moisten the eyelid while maintaining visibility. It also contributes to the aqueous portion of the tear film and possibly immunoglobulins. Humans and some primates have a much smaller nictitating membrane; this may be because they do not capture prey or root vegetation with their teeth, so that there is no evolutionary advantage of the third eyelid.
+
+
+=== Neurology ===
+The trigeminal V1 (fifth cranial) nerve bears the sensory pathway of the tear reflexes. When the trigeminal nerve is cut, tears from reflexes will stop, while emotional tears will not. The great (superficial) petrosal nerve from cranial nerve VII provides autonomic innervation to the lacrimal gland. It is responsible for the production of much of the aqueous portion of the tear film.
+
+
+== Human culture ==
+
+In nearly all human cultures, crying is associated with tears, active tear ducts and abrupt  strong respiration, due to strong emotional impetuses. Triggers of crying can vary from sadness and grief to intense anger, happiness, fear, mirth, frustration, confusion, and any form of overwhelming stimuli. Emotional tears can also be triggered by social and personal experiences, like listening to music, reading social media content, sharing thoughts, and communicating.
+Crying is often associated with babies and children. The infants that are unable to vocally communicate have many alternating tones in their crying, attracting the attention of the caregiver and specifically their biological mothers. Blood-related mothers go through physiological changes upon exposure to the crying, with a deceleration in heart rate, followed by a quick acceleration, as well as understanding the vocalizations of the baby's crying. This is a mother-specific case, as the other caregivers, like biological father or adoptive parents, are not able to decode the sound.
+Some cultures consider crying to be undignified and infantile, casting aspersions on those who cry in public settings, excluding circumstances which concerns loss of a relative or a loved one. In most Western cultures, it is more socially acceptable for women and children to cry than men, reflecting masculine sex-role stereotypes. In some Latin regions, crying among men is more acceptable. There is evidence for an interpersonal function of crying as tears express a need for help and foster willingness to help in an observer.
+Some modern psychotherapy movements such as Re-evaluation Counseling encourage crying as beneficial to health and mental well-being. An insincere display of grief or dishonest remorse is sometimes called crocodile tears in reference to an Ancient Greek anecdote that crocodiles would pretend to weep while luring or devouring their prey. In addition, "crocodile tears syndrome" is a colloquialism for Bogorad's syndrome, an uncommon consequence of recovery from Bell's palsy in which faulty regeneration of the facial nerve causes people to shed tears while eating.
+
+
+== Pathology ==
+
+
+=== Bogorad's syndrome ===
+Bogorad's syndrome, also known as "crocodile tears syndrome", is an uncommon consequence of nerve regeneration subsequent to Bell's palsy or other damage to the facial nerve. Efferent fibers from the superior salivary nucleus become improperly connected to nerve axons projecting to the lacrimal glands, causing one to shed tears (lacrimate) on the side of the palsy during salivation while smelling foods or eating. It is presumed that this would cause salivation while crying due to the inverse improper connection of the lacrimal nucleus to the salivary glands, but this would be less noticeable. The condition was first described in 1926 by its namesake, Russian neuropathologist F. A. Bogorad, in an article titled "Syndrome of the Crocodile Tears" (alternatively, "The Symptom of the Crocodile Tears") that argued the tears were caused by the act of salivation.
+
+
+=== Keratoconjunctivitis sicca (dry eye) ===
+Keratoconjunctivitis sicca, known in the vernacular as dry eye, is a very common disorder of the tear film. Despite the eyes being dry, those affected can still experience watering of the eyes, which is, in fact, a response to irritation caused by the original tear film deficiency. Lack of Meibomian gland secretion can mean that the tears are not enveloped in a hydrophobic film coat, leading to tears spilling onto the face.
+Treatment for dry eyes to compensate for the loss of tear film include eye-drops composed of methyl cellulose or carboxy- methyl cellulose or hemi-cellulose in strengths of either 0.5% or 1% depending upon the severity of drying up of the cornea.
+For meibomian gland dysfunction (MGD), one of the treatments is intense pulsed light (IPL). It is a therapeutic modality that was originally developed for dermatological applications and later adopted in ophthalmology.
+
+
+=== Familial dysautonomia ===
+Familial dysautonomia is a genetic condition that can be associated with a lack of overflow tears (alacrima) during emotional crying.
+Obstruction of the punctum, nasolacrimal canal, or nasolacrimal duct can cause even normal levels of the basal tear to overflow onto the face (epiphora), giving the appearance of constant psychic tearing. This can have significant social consequences.
+
+
+=== Pseudobulbar affect ===
+Pseudobulbar affect (PBA) is a condition involving episodic uncontrollable laughter or crying. PBA mostly occurs in people with neurological injuries affecting how the brain controls emotions. Scientists believe PBA results from prefrontal cortex damage. PBA often involves crying. Hence, PBA is mistakable for depression. But PBA is neurological; depression is psychological. Patients with PBA do not experience typical depression symptoms like sleep disturbances or appetite loss.
+
+
+== See also ==
+
+Artificial tears
+Dacryocystocele
+Epiphora
+Eye
+Eyelid
+Professional mourning
+Sadness
+Harderian gland
+
+
+== References ==
+
+
+== External links ==
+
+Nasolacrimal System Anatomy at eMedicine
+Brody, Jane E. (1984-02-22). "It's O.K. to cry". The New York Times. Personal Health. p. C10.

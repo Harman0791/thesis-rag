@@ -1,0 +1,512 @@
+An ordinal date is a calendar date typically consisting of a year and an ordinal number, ranging between 1 and 366 (starting on January 1), representing the multiples of a day, called day of the year or ordinal day number (also known as ordinal day or day number). The two parts of the date can be formatted as "YYYY-DDD" to comply with the ISO 8601 ordinal date format. The year may sometimes be omitted, if it is implied by the context; the day may be generalized from integers to include a decimal part representing a fraction of a day.
+
+
+== Nomenclature ==
+Ordinal date is the preferred name for what was formerly called the "Julian date" or JD, or JDATE, which still seen in old programming languages and spreadsheet software. The older names are deprecated because they are easily confused with the earlier dating system called 'Julian day number' or JDN, which was in prior use and which remains ubiquitous in astronomical and some historical calculations.
+The U.S. military sometimes uses a system they call the "Julian date format", which indicates the year and the day number (out of the 365 or 366 days of the year). For example, "11 December 1999" can be written as "1999345" or "99345", for the 345th day of 1999.
+
+
+== Calculation ==
+
+Computation of the ordinal day within a year is part of calculating the ordinal day throughout the years from a reference date, such as the Julian date. It is also part of calculating the day of the week, though for this purpose modulo 7 simplifications can be made.
+In the following text, several algorithms for calculating the ordinal day O are presented. The inputs taken are integers y, m and d, for the year, month, and day numbers of the Gregorian or Julian calendar date.
+
+
+=== Trivial methods ===
+The most trivial method of calculating the ordinal day involves counting up all days that have elapsed per the definition:
+
+Let O be 0.
+From  i = 1 .. m - 1, add the length of month i to O, taking care of leap year according to the calendar used.
+Add d to O.
+Similarly trivial is the use of a lookup table, such as the one referenced.
+
+
+=== Zeller-like ===
+The table of month lengths can be replaced following the method of encoding the month-length variation in Zeller's congruence. As in Zeller, the m is changed to m + 12 if  m ≤ 2. It can be shown (see below) that for a month-number m, the total days of the preceding months is equal to ⌊(153 * (m − 3) + 2) / 5⌋. As a result, the March 1-based ordinal day number is OMar = ⌊(153 × (m − 3) + 2) / 5⌋ + d.
+The formula reflects the fact that any five consecutive months in the range March–January have a total length of 153 days, due to a fixed pattern 31–30–31–30–31 repeating itself twice. This is similar to encoding of the month offset (which would be the same sequence modulo 7) in Zeller's congruence. As ⁠153/5⁠ is 30.6, the sequence oscillates in the desired pattern with the desired period 5. 
+To go from the March 1 based ordinal day to a January 1 based ordinal day:
+
+For m ≤ 12 (March through December),  O = OMar + 59 + isLeap(y) , where isLeap is a function returning 0 or 1 depending whether the input is a leap year.
+For January and February, two methods can be used:
+The trivial method is to skip the calculation of OMar and go straight for  O = d for January and  O = d + 31 for February.
+The less redundant method is to use  O = OMar − 306, where 306 is the number of dates in March through December. This makes use of the fact that the formula correctly gives a month-length of 31 for January.
+"Doomsday" properties:
+With 
+  
+    
+      
+        m
+        =
+        2
+        n
+      
+    
+    {\displaystyle m=2n}
+  
+ and 
+  
+    
+      
+        d
+        =
+        m
+      
+    
+    {\displaystyle d=m}
+  
+ gives
+
+  
+    
+      
+        O
+        =
+        
+          ⌊
+          
+            63.2
+            n
+            −
+            91.4
+          
+          ⌋
+        
+      
+    
+    {\displaystyle O=\left\lfloor 63.2n-91.4\right\rfloor }
+  
+
+giving consecutive differences of 63 (9 weeks) for n = 2, 3, 4, 5, and 6, i.e., between 4/4, 6/6, 8/8, 10/10, and 12/12.
+
+  
+    
+      
+        m
+        =
+        2
+        n
+        +
+        1
+      
+    
+    {\displaystyle m=2n+1}
+  
+ and 
+  
+    
+      
+        d
+        =
+        m
+        +
+        4
+      
+    
+    {\displaystyle d=m+4}
+  
+ gives
+
+  
+    
+      
+        O
+        =
+        
+          ⌊
+          
+            63.2
+            n
+            −
+            56
+            +
+            0.2
+          
+          ⌋
+        
+      
+    
+    {\displaystyle O=\left\lfloor 63.2n-56+0.2\right\rfloor }
+  
+
+and with m and d interchanged
+
+  
+    
+      
+        O
+        =
+        
+          ⌊
+          
+            63.2
+            n
+            −
+            56
+            +
+            119
+            −
+            0.4
+          
+          ⌋
+        
+      
+    
+    {\displaystyle O=\left\lfloor 63.2n-56+119-0.4\right\rfloor }
+  
+
+giving a difference of 119 (17 weeks) for n = 2 (difference between 5/9 and 9/5), and also for n = 3 (difference between 7/11 and 11/7).
+
+
+== Table ==
+
+For example, the ordinal date of April 15 is 90 + 15 = 105 in a common year, and 91 + 15 = 106 in a leap year.
+
+
+== Month–day ==
+
+The number of the month and date is given by
+
+  
+    
+      
+        m
+        =
+        
+          ⌊
+          
+            o
+            d
+            
+              /
+            
+            30
+          
+          ⌋
+        
+        +
+        1
+      
+    
+    {\displaystyle m=\left\lfloor od/30\right\rfloor +1}
+  
+
+  
+    
+      
+        d
+        =
+        
+          mod
+          
+            
+          
+        
+        
+        (
+        o
+        d
+        ,
+        30
+        )
+        +
+        i
+        −
+        
+          ⌊
+          
+            0.6
+            (
+            m
+            +
+            1
+            )
+          
+          ⌋
+        
+      
+    
+    {\displaystyle d={\bmod {\!}}\!(od,30)+i-\left\lfloor 0.6(m+1)\right\rfloor }
+  
+
+the term 
+  
+    
+      
+        
+          mod
+          
+            
+          
+        
+        
+        (
+        o
+        d
+        ,
+        30
+        )
+      
+    
+    {\displaystyle {\bmod {\!}}\!(od,30)}
+  
+ can also be replaced by 
+  
+    
+      
+        o
+        d
+        −
+        30
+        (
+        m
+        −
+        1
+        )
+      
+    
+    {\displaystyle od-30(m-1)}
+  
+ with 
+  
+    
+      
+        o
+        d
+      
+    
+    {\displaystyle od}
+  
+ the ordinal date.
+
+Day 100 of a common year:
+
+  
+    
+      
+        m
+        =
+        
+          ⌊
+          
+            100
+            
+              /
+            
+            30
+          
+          ⌋
+        
+        +
+        1
+        =
+        4
+      
+    
+    {\displaystyle m=\left\lfloor 100/30\right\rfloor +1=4}
+  
+
+  
+    
+      
+        d
+        =
+        
+          mod
+          
+            
+          
+        
+        
+        (
+        100
+        ,
+        30
+        )
+        +
+        3
+        −
+        
+          ⌊
+          
+            0.6
+            (
+            4
+            +
+            1
+            )
+          
+          ⌋
+        
+        =
+        10
+        +
+        3
+        −
+        3
+        =
+        10
+      
+    
+    {\displaystyle d={\bmod {\!}}\!(100,30)+3-\left\lfloor 0.6(4+1)\right\rfloor =10+3-3=10}
+  
+
+April 10.
+Day 200 of a common year:
+
+  
+    
+      
+        m
+        =
+        
+          ⌊
+          
+            200
+            
+              /
+            
+            30
+          
+          ⌋
+        
+        +
+        1
+        =
+        7
+      
+    
+    {\displaystyle m=\left\lfloor 200/30\right\rfloor +1=7}
+  
+
+  
+    
+      
+        d
+        =
+        
+          mod
+          
+            
+          
+        
+        
+        (
+        200
+        ,
+        30
+        )
+        +
+        3
+        −
+        
+          ⌊
+          
+            0.6
+            (
+            7
+            +
+            1
+            )
+          
+          ⌋
+        
+        =
+        20
+        +
+        3
+        −
+        4
+        =
+        19
+      
+    
+    {\displaystyle d={\bmod {\!}}\!(200,30)+3-\left\lfloor 0.6(7+1)\right\rfloor =20+3-4=19}
+  
+
+July 19.
+Day 300 of a leap year:
+
+  
+    
+      
+        m
+        =
+        
+          ⌊
+          
+            300
+            
+              /
+            
+            30
+          
+          ⌋
+        
+        +
+        1
+        =
+        11
+      
+    
+    {\displaystyle m=\left\lfloor 300/30\right\rfloor +1=11}
+  
+
+  
+    
+      
+        d
+        =
+        
+          mod
+          
+            
+          
+        
+        
+        (
+        300
+        ,
+        30
+        )
+        +
+        2
+        −
+        
+          ⌊
+          
+            0.6
+            (
+            11
+            +
+            1
+            )
+          
+          ⌋
+        
+        =
+        0
+        +
+        2
+        −
+        7
+        =
+        −
+        5
+      
+    
+    {\displaystyle d={\bmod {\!}}\!(300,30)+2-\left\lfloor 0.6(11+1)\right\rfloor =0+2-7=-5}
+  
+
+November - 5 = October 26 (31 - 5).
+
+
+== Helper conversion table ==
+
+
+== See also ==
+Julian day
+Zeller's congruence
+ISO week date
+
+
+== References ==

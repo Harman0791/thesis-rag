@@ -1,0 +1,598 @@
+The syntax of JavaScript is the set of rules that define a correctly structured JavaScript program.
+The examples below make use of the console.log() function present in most browsers for standard text output.
+The JavaScript standard library lacks an official standard text output function (with the exception of document.write). Given that JavaScript is mainly used for client-side scripting within modern web browsers, and that almost all Web browsers provide the alert function, alert can also be used, but is not commonly used.
+TypeScript, which extends JavaScript with type annotations and additional features, has the same syntax as well as its own additional features.
+
+
+== Origins ==
+
+Brendan Eich summarized the ancestry of the syntax in the first paragraph of the JavaScript 1.1 specification as follows:
+
+JavaScript borrows most of its syntax from Java, but also inherits from Awk and Perl, with some indirect influence from Self in its object prototype system.
+JavaScript syntax is mostly derived from Java syntax, which in turn is derived from C syntax and C++ syntax.
+
+
+== Basics ==
+
+
+=== Keywords ===
+
+
+==== Keywords ====
+The following words are keywords and cannot be used as identifiers under any circumstances.
+
+
+==== Reserved words for literal values ====
+The following words refer to literal values used by the language.
+
+JavaScript also defines the following global constants, which are not keywords.
+
+
+==== Removed keywords ====
+The following words, primarily associated with Java, were removed from the ECMAScript 5/6 standard:
+
+
+==== TypeScript keywords ====
+The following words are keywords exclusive to TypeScript.
+
+
+=== Case sensitivity ===
+JavaScript is case sensitive. It is common to start the name of a constructor with a capitalized letter, and the name of a function or variable with a lower-case letter.
+Example:
+
+
+=== Whitespace and semicolons ===
+Unlike in C, whitespace in JavaScript source can directly impact semantics. Semicolons end statements in JavaScript. Because of automatic semicolon insertion (ASI), some statements that are well formed when a newline is parsed will be considered complete, as if a semicolon were inserted just prior to the newline. Some authorities advise supplying statement-terminating semicolons explicitly, because it may lessen unintended effects of the automatic semicolon insertion.
+There are two issues: five tokens can either begin a statement or be the extension of a complete statement; and five restricted productions, where line breaks are not allowed in certain positions, potentially yielding incorrect parsing.
+The five problematic tokens are the open parenthesis "(", open bracket "[", slash "/", plus "+", and minus "-". Of these, the open parenthesis is common in the immediately invoked function expression pattern, and open bracket occurs sometimes, while others are quite rare. An example:
+
+with the suggestion that the preceding statement be terminated with a semicolon.
+Some suggest instead the use of leading semicolons on lines starting with '(' or '[', so the line is not accidentally joined with the previous one. This is known as a defensive semicolon, and is employed because code may otherwise become ambiguous when it is rearranged. For example:
+
+Initial semicolons are also sometimes used at the start of JavaScript libraries, in case they are appended to another library that omits a trailing semicolon, as this can result in ambiguity of the initial statement. In such a case where perhaps unusual semicolon placement occurs, it may just be better to manually place semicolons at the end of statements.
+The five restricted productions are return, throw, break, continue, and post-increment/decrement. In all cases, inserting semicolons does not fix the problem, but makes the parsed syntax clear, making the error easier to detect. return and throw take an optional value, while break and continue take an optional label. In all cases, the advice is to keep the value or label on the same line as the statement. This most often shows up in the return statement, where one might return a large object literal, which might be accidentally placed starting on a new line. For post-increment/decrement, there is potential ambiguity with pre-increment/decrement, and again it is recommended to simply keep these on the same line.
+
+
+=== Comments ===
+Comment syntax is the same as in C++, Swift and other programming languages.
+Single-line comments begin with // and continue until the end of the line. A second type of comments can also be made; these start with /* and end with */ and can be used for multi-line comments.
+A third type of comment, the hashbang comment, starts with #! and continues until the end of the line. They are only valid at the start of files and are intended for use in CLI environments.
+
+
+== Variables ==
+
+Variables in standard JavaScript have no type attached, so any value (each value has a type) can be stored in any variable. Starting with ES6, the 6th version of the language, variables could be declared with var for function scoped variables, and let or const which are for block level variables. Before ES6, variables could only be declared with a var statement.  Values assigned to variables declared with const cannot be changed, but their properties can. var should no longer be used since let and const are supported by modern browsers. A variable's identifier must start with a letter, underscore (_), or dollar sign ($), while subsequent characters can also be digits (0-9). JavaScript is case sensitive, so the uppercase characters "A" through "Z" are different from the lowercase characters "a" through "z".
+Starting with JavaScript 1.5, ISO 8859-1 or Unicode letters (or \uXXXX Unicode escape sequences) can be used in identifiers. In certain JavaScript implementations, the at sign (@) can be used in an identifier, but this is contrary to the specifications and not supported in newer implementations. 
+
+
+=== Scoping and hoisting ===
+Variables declared with var are lexically scoped at a function level, while ones with let or const have a block level scope. Since declarations are processed before any code is executed, a variable can be assigned to and used prior to being declared in the code. This is referred to as hoisting, and it is equivalent to variables being forward declared at the top of the function or block.
+With var, let, and const statements, only the declaration is hoisted; assignments are not hoisted. Thus a var x = 1 statement in the middle of the function is equivalent to a var x declaration statement at the top of the function, and an x = 1 assignment statement at that point in the middle of the function. This means that values cannot be accessed before they are declared; forward reference is not possible. With var a variable's value is undefined until it is initialized. Variables declared with let or const cannot be accessed until they have been initialized, so referencing such variables before will cause an error.
+Function declarations, which declare a variable and assign a function to it, are similar to variable statements, but in addition to hoisting the declaration, they also hoist the assignment – as if the entire statement appeared at the top of the containing function – and thus forward reference is also possible: the location of a function statement within an enclosing function is irrelevant. This is different from a function expression being assigned to a variable in a  var, let, or const statement.
+So, for example, 
+
+Block scoping can be produced by wrapping the entire block in a function and then executing it – this is known as the immediately-invoked function expression pattern – or by declaring the variable using the let keyword. 
+
+
+=== Declaration and assignment ===
+Variables declared outside a scope are global. If a variable is declared in a higher scope, it can be accessed by child scopes.
+When JavaScript tries to resolve an identifier, it looks in the local scope. If this identifier is not found, it looks in the next outer scope, and so on along the scope chain until it reaches the global scope where global variables reside. If it is still not found, JavaScript will raise a ReferenceError exception.
+When assigning an identifier, JavaScript goes through exactly the same process to retrieve this identifier, except that if it is not found in the global scope, it will create the "variable" in the scope where it was created. As a consequence, a variable never declared will be global, if assigned. Declaring a variable (with the keyword var) in the global scope (i.e. outside of any function body (or block in the case of let/const)), assigning a never declared identifier or adding a property to the global object (usually window) will also create a new global variable.
+Note that JavaScript's strict mode forbids the assignment of an undeclared variable, which avoids global namespace pollution. 
+
+
+=== Examples ===
+Here are some examples of variable declarations and scope:
+
+
+== Primitive data types ==
+
+The JavaScript language provides six primitive data types:
+
+Undefined
+Number
+BigInt
+String
+Boolean
+Symbol
+Some of the primitive data types also provide a set of named values that represent the extents of the type boundaries. These named values are described within the appropriate sections below.
+
+
+=== Undefined ===
+
+The value of "undefined" is assigned to all uninitialized variables, and is also returned when checking for object properties that do not exist. In a Boolean context, the undefined value is considered a false value.
+Note: undefined is considered a genuine primitive type. Unless explicitly converted, the undefined value may behave unexpectedly in comparison to other types that evaluate to false in a logical context.
+
+Note: There is no built-in language literal for undefined. Thus (x === undefined) is not a foolproof way to check whether a variable is undefined, because in versions before ECMAScript 5, it is legal for someone to write var undefined = "I'm defined now";. A more robust approach is to compare using (typeof x === 'undefined').
+Functions like this will not work as expected:
+
+Here, calling isUndefined(my_var) raises a ReferenceError if my_var is an unknown identifier, whereas typeof my_var === 'undefined' does not.
+
+
+=== Number ===
+Numbers are represented in binary as IEEE 754 floating point doubles. Although this format provides an accuracy of nearly 16 significant digits, it cannot always exactly represent real numbers, including fractions.
+This becomes an issue when comparing or formatting numbers. For example:
+
+As a result, a routine such as the toFixed() method should be used to round numbers whenever they are formatted for output.
+Numbers may be specified in any of these notations:
+
+There is also a numeric separator, _ (the underscore), introduced in ES2021:
+
+The extents +∞, −∞ and NaN (Not a Number) of the number type may be obtained by two program expressions:
+
+Infinity and NaN are numbers:
+
+These three special values correspond and behave as the IEEE-754 describes them.
+The Number constructor (used as a function), or a unary + or -, may be used to perform explicit numeric conversion:
+
+When used as a constructor, a numeric wrapper object is created (though it is of little use):
+
+However, NaN is not equal to itself:
+
+
+=== BigInt ===
+In JavaScript, regular numbers are represented with the IEEE 754 floating point type, meaning integers can only safely be stored if the value falls between Number.MIN_SAFE_INTEGER and Number.MAX_SAFE_INTEGER. BigInts instead represent integers of any size, allowing programmers to store integers too high or low to be represented with the IEEE 754 format.
+There are two ways to declare a BigInt value. An n can be appended to an integer, or the BigInt function can be used:
+
+
+=== String ===
+A string in JavaScript is a sequence of characters. In JavaScript, strings can be created directly (as literals) by placing the series of characters between double (") or single (') quotes. Such strings must be written on a single line, but may include escaped newline characters (such as \n). The JavaScript standard allows the backquote character (`, a.k.a. grave accent or backtick) to quote multiline literal strings, as well as embedded expressions using the syntax ${expression}.
+
+Individual characters within a string can be accessed using the charAt method (provided by String.prototype). This is the preferred way when accessing individual characters within a string, because it also works in non-modern browsers:
+
+In modern browsers, individual characters within a string can be accessed (as strings with only a single character) through the same notation as arrays:
+
+However, JavaScript strings are immutable:
+
+Applying the equality operator ("==") to two strings returns true, if the strings have the same contents, which means: of the same length and containing the same sequence of characters (case is significant for alphabets). Thus:
+
+Quotes of the same type cannot be nested unless they are escaped.
+
+The String constructor creates a string object (an object wrapping a string):
+
+These objects have a valueOf method returning the primitive string wrapped within them:
+
+Equality between two String objects does not behave as with string primitives:
+
+
+=== Boolean ===
+JavaScript provides a Boolean data type with true and false literals. The typeof operator returns the string "boolean" for these primitive types. When used in a logical context, 0, -0, null, NaN, undefined, and the empty string ("") evaluate as false due to automatic type conversion. All other values (the complement of the previous list) evaluate as true, including the strings "0", "false" and any object.
+
+
+=== Type conversion ===
+Automatic type coercion by the equality comparison operators (== and !=) can be avoided by using the type checked comparison operators (=== and !==).
+When type conversion is required, JavaScript converts Boolean, Number, String, or Object operands as follows:
+
+Number and String
+The string is converted to a number value. JavaScript attempts to convert the string numeric literal to a Number type value. First, a mathematical value is derived from the string numeric literal. Next, this value is rounded to nearest Number type value.
+Boolean
+If one of the operands is a Boolean, the Boolean operand is converted to 1 if it is true, or to 0 if it is false.
+Object
+If an object is compared with a number or string, JavaScript attempts to return the default value for the object. An object is converted to a primitive String or Number value, using the .valueOf() or .toString() methods of the object. If this fails, a runtime error is generated.
+
+
+==== Boolean type conversion ====
+
+Douglas Crockford advocates the terms "truthy" and "falsy" to describe how values of various types behave when evaluated in a logical context, especially in regard to edge cases.
+The binary logical operators returned a Boolean value in early versions of JavaScript, but now they return one of the operands instead. The left–operand is returned, if it can be evaluated as : false, in the case of conjunction: (a && b), or true, in the case of disjunction: (a || b); otherwise the right–operand is returned. Automatic type coercion by the comparison operators may differ for cases of mixed Boolean and number-compatible operands (including strings that can be evaluated as a number, or objects that can be evaluated as such a string), because the Boolean operand will be compared as a numeric value. This may be unexpected. An expression can be explicitly cast to a Boolean primitive by doubling the logical negation operator: (!!), using the Boolean() function, or using the conditional operator: (c ? t : f).
+
+The new operator can be used to create an object wrapper for a Boolean primitive. However, the typeof operator does not return boolean for the object wrapper, it returns object. Because all objects evaluate as true, a method such as .valueOf(), or .toString(), must be used to retrieve the wrapped value. For explicit coercion to the Boolean type, Mozilla recommends that the Boolean() function (without new) be used in preference to the Boolean object.
+
+
+=== Symbol ===
+Symbols are a feature introduced in ES6. Each symbol is guaranteed to be a unique value, and they can be used for encapsulation.
+Example:
+
+There are also well known symbols. 
+One of which is Symbol.iterator; if something implements Symbol.iterator, it is iterable:
+
+
+== Native objects ==
+The JavaScript language provides a handful of native objects. JavaScript native objects are considered part of the JavaScript specification. JavaScript environment notwithstanding, this set of objects should always be available.
+
+
+=== Array ===
+
+An Array is a JavaScript object prototyped from the Array constructor specifically designed to store data values indexed by integer keys. Arrays, unlike the basic Object type, are prototyped with methods and properties to aid the programmer in routine tasks (for example, join, slice, and push).
+As in the C family, arrays use a zero-based indexing scheme: A value that is inserted into an empty array by means of the push method occupies the 0th index of the array.
+
+Arrays have a length property that is guaranteed to always be larger than the largest integer index used in the array. It is automatically updated, if one creates a property with an even larger index. Writing a smaller number to the length property will remove larger indices.
+Elements of Arrays may be accessed using normal object property access notation:
+
+The above two are equivalent. It is not possible to use the "dot"-notation or strings with alternative representations of the number:
+
+Declaration of an array can use either an Array literal or the Array constructor:
+
+Arrays are implemented so that only the defined elements use memory; they are "sparse arrays". Setting myArray[10] = 'someThing' and myArray[57] = 'somethingOther' only uses space for these two elements, just like any other object. The length of the array will still be reported as 58. The maximum length of an array is 4,294,967,295 which corresponds to 32-bit binary number (11111111111111111111111111111111)2.
+One can use the object declaration literal to create objects that behave much like associative arrays in other languages:
+
+One can use the object and array declaration literals to quickly create arrays that are associative, multidimensional, or both. (Technically, JavaScript does not support multidimensional arrays, but one can mimic them with arrays-of-arrays.)
+
+
+=== Date ===
+A Date object stores a signed millisecond count with zero representing 1970-01-01 00:00:00 UT and a range of ±108 days. There are several ways of providing arguments to the Date constructor. Note that months are zero-based.
+
+Methods to extract fields are provided, as well as a useful toString:
+
+
+=== Error ===
+Custom error messages can be created using the Error class:
+
+These can be caught by try...catch...finally blocks as described in the section on exception handling.
+
+
+=== Math ===
+The Math object contains various math-related constants (for example, π) and functions (for example, cosine). (Note that the Math object has no constructor, unlike Array or Date. All its methods are "static", that is "class" methods.) All the trigonometric functions use angles expressed in radians, not degrees or grads.
+
+
+=== Regular expression ===
+
+
+==== Character classes ====
+
+
+==== Character matching ====
+
+
+==== Repeaters ====
+
+
+==== Anchors ====
+
+
+==== Subexpression ====
+
+
+==== Flags ====
+
+
+==== Advanced methods ====
+
+
+==== Capturing groups ====
+
+
+=== Function ===
+Every function in JavaScript is an instance of the Function constructor:
+
+The add function above may also be defined using a function expression:
+
+In ES6, arrow function syntax was added, allowing functions that return a value to be more concise. They also retain the this of the global object instead of inheriting it from where it was called / what it was called on, unlike the function() {} expression.
+
+For functions that need to be hoisted, there is a separate expression:
+
+Hoisting allows users to use the function before it is "declared":
+
+A function instance has properties and methods.
+
+
+== Operators ==
+The '+' operator is overloaded: it is used for string concatenation and arithmetic addition. This may cause problems when inadvertently mixing strings and numbers. As a unary operator, it can convert a numeric string to a number.
+
+Similarly, the '*' operator is overloaded: it can convert a string into a number.
+
+
+=== Arithmetic ===
+JavaScript supports the following binary arithmetic operators:
+
+JavaScript supports the following unary arithmetic operators:
+
+The modulo operator displays the remainder after division by the modulus. If negative numbers are involved, the returned value depends on the operand.
+
+To always return a non-negative number, users can re-add the modulus and apply the modulo operator again:
+
+Users could also do:
+
+
+=== Assignment ===
+
+Assignment of primitive types
+
+Assignment of object types
+
+
+==== Destructuring assignment ====
+In Mozilla's JavaScript, since version 1.7, destructuring assignment allows the assignment of parts of data structures to several variables at once. The left hand side of an assignment is a pattern that resembles an arbitrarily nested object/array literal containing l-lvalues at its leaves that are to receive the substructures of the assigned value.
+
+
+==== Spread/rest operator ====
+The ECMAScript 2015 standard introduced the "..." array operator, for the related concepts of "spread syntax" and "rest parameters". Object spreading was added in ECMAScript 2018.
+Spread syntax provides another way to destructure arrays and objects. For arrays, it indicates that the elements should be used as the parameters in a function call or the items in an array literal. For objects, it can be used for merging objects together or overriding properties.
+In other words, "..." transforms "[...foo]" into "[foo[0], foo[1], foo[2]]", and "this.bar(...foo);" into "this.bar(foo[0], foo[1], foo[2]);", and "{ ...bar }" into { prop: bar.prop, prop2: bar.prop2 }.
+
+When ... is used in a function declaration, it indicates a rest parameter. The rest parameter must be the final named parameter in the function's parameter list. It will be assigned an Array containing any arguments passed to the function in excess of the other named parameters. In other words, it gets "the rest" of the arguments passed to the function (hence the name).
+
+Rest parameters are similar to Javascript's arguments object, which is an array-like object that contains all of the parameters (named and unnamed) in the current function call. Unlike arguments, however, rest parameters are true Array objects, so methods such as .slice() and .sort() can be used on them directly.
+
+
+=== Comparison ===
+
+Variables referencing objects are equal or identical only if they reference the same object:
+
+See also String.
+
+
+=== Logical ===
+JavaScript provides four logical operators:
+
+unary negation (NOT = !a)
+binary disjunction (OR = a || b) and conjunction (AND = a && b)
+ternary conditional (c ? t : f)
+In the context of a logical operation, any expression evaluates to true except the following:
+
+Strings: "", '',
+Numbers: 0, -0, NaN,
+Special: null, undefined,
+Boolean: false.
+The Boolean function can be used to explicitly convert to a primitive of type Boolean:
+
+The NOT operator evaluates its operand as a Boolean and returns the negation. Using the operator twice in a row, as a double negative, explicitly converts an expression to a primitive of type Boolean:
+
+The ternary operator can also be used for explicit conversion:
+
+Expressions that use features such as post–incrementation (i++) have an anticipated side effect. JavaScript provides short-circuit evaluation of expressions; the right operand is only executed if the left operand does not suffice to determine the value of the expression.
+
+In early versions of JavaScript and JScript, the binary logical operators returned a Boolean value (like most C-derived programming languages). However, all contemporary implementations return one of their operands instead:
+
+Programmers who are more familiar with the behavior in C might find this feature surprising, but it allows for a more concise expression of patterns like null coalescing:
+
+
+=== Logical assignment ===
+
+
+=== Bitwise ===
+JavaScript supports the following binary bitwise operators:
+
+Examples:
+
+JavaScript supports the following unary bitwise operator:
+
+
+=== Bitwise Assignment ===
+JavaScript supports the following binary assignment operators:
+
+Examples:
+
+
+=== String ===
+
+Examples:
+
+
+=== ?? ===
+
+
+== Control structures ==
+
+
+=== Compound statements ===
+A pair of curly brackets { } and an enclosed sequence of statements constitute a compound statement, which can be used wherever a statement can be used.
+
+
+=== If ... else ===
+
+
+=== Conditional (ternary) operator ===
+The conditional operator creates an expression that evaluates as one of two expressions depending on a condition. This is similar to the if statement that selects one of two statements to execute depending on a condition. I.e., the conditional operator is to expressions what if is to statements.
+
+is the same as:
+
+Unlike the if statement, the conditional operator cannot omit its "else-branch".
+
+
+=== Switch statement ===
+The syntax of the JavaScript switch statement is as follows:
+
+break; is optional; however, it is usually needed, since otherwise code execution will continue to the body of the next case block. This fall through behavior can be used when the same set of statements apply in several cases, effectively creating a disjunction between those cases.
+Add a break statement to the end of the last case as a precautionary measure, in case additional cases are added later.
+String literal values can also be used for the case values.
+Expressions can be used instead of values.
+The default case (optional) is executed when the expression does not match any other specified cases.
+Braces are required.
+
+
+=== For loop ===
+The syntax of the JavaScript for loop is as follows:
+
+or
+
+
+=== For ... in loop ===
+The syntax of the JavaScript for ... in loop is as follows:
+
+Iterates through all enumerable properties of an object.
+Iterates through all used indices of array including all user-defined properties of array object, if any. Thus it may be better to use a traditional for loop with a numeric index when iterating over arrays.
+There are differences between the various Web browsers with regard to which properties will be reflected with the for...in loop statement. In theory, this is controlled by an internal state property defined by the ECMAscript standard called "DontEnum", but in practice, each browser returns a slightly different set of properties during introspection. It is useful to test for a given property using if (some_object.hasOwnProperty(property_name)) { ... }. Thus, adding a method to the array prototype with Array.prototype.newMethod = function() {...} may cause for ... in loops to loop over the method's name.
+
+
+=== While loop ===
+The syntax of the JavaScript while loop is as follows:
+
+
+=== Do ... while loop ===
+The syntax of the JavaScript do ... while loop is as follows:
+
+
+=== With ===
+The with statement adds all of the given object's properties and methods into the following block's scope, letting them be referenced as if they were local variables.
+
+Note the absence of document. before each getElementById() invocation.
+The semantics are similar to the with statement of Pascal.
+Because the availability of with statements hinders program performance and is believed to reduce code clarity (since any given variable could actually be a property from an enclosing with), this statement is not allowed in strict mode.
+
+
+=== Labels ===
+JavaScript supports nested labels in most implementations. Loops or blocks can be labeled for the break statement, and loops for continue. Although goto is a reserved word, goto is not implemented in JavaScript.
+
+
+== Functions ==
+
+A function is a block with a (possibly empty) parameter list that is normally given a name. A function may use local variables. If a user exits the function without a return statement, the value undefined is returned.
+
+Functions are first class objects and may be assigned to other variables.
+The number of arguments given when calling a function may not necessarily correspond to the number of arguments in the function definition; a named argument in the definition that does not have a matching argument in the call will have the value undefined (that can be implicitly cast to false). Within the function, the arguments may also be accessed through the arguments object; this provides access to all arguments using indices (e.g. arguments[0], arguments[1], ... arguments[n]), including those beyond the number of named arguments. (While the arguments list has a .length property, it is not an instance of Array; it does not have methods such as .slice(), .sort(), etc.)
+
+Primitive values (number, boolean, string) are passed by value. For objects, it is the reference to the object that is passed.
+
+Functions can be declared inside other functions, and access the outer function's local variables. Furthermore, they implement full closures by remembering the outer function's local variables even after the outer function has exited.
+
+An anonymous function is simply a function without a name and can be written either using function or arrow notation.  In these equivalent examples an anonymous function is passed to the  map function and is applied to each of the elements of the array.
+
+A generator function is signified placing an * after the keyword function and contains one or more yield statements. The effect is to return a value and pause execution at the current state. Declaring an generator function returns an iterator.  Subsequent calls to iterator.next() resumes execution until the next yield.  When the iterator returns without using a yield statement there are no more values and the done property of the iterator is set to true.
+With the exception of iOS devices from Apple, generators are not implemented for browsers on mobile devices.
+
+
+=== Async/await ===
+
+
+== Objects ==
+For convenience, types are normally subdivided into primitives and objects. Objects are entities that have an identity (they are only equal to themselves) and that map property names to values ("slots" in prototype-based programming terminology). Objects may be thought of as associative arrays or hashes, and are often implemented using these data structures. However, objects have additional features, such as a prototype chain, which ordinary associative arrays do not have.
+JavaScript has several kinds of built-in objects, namely Array, Boolean, Date, Function, Math, Number, Object, RegExp and String. Other objects are "host objects", defined not by the language, but by the runtime environment. For example, in a browser, typical host objects belong to the DOM (window, form, links, etc.).
+
+
+=== Creating objects ===
+Objects can be created using a constructor or an object literal. The constructor can use either a built-in Object function or a custom function. It is a convention that constructor functions are given a name that starts with a capital letter:
+
+Object literals and array literals allow one to easily create flexible data structures:
+
+This is the basis for JSON, which is a simple notation that uses JavaScript-like syntax for data exchange.
+
+
+=== Methods ===
+A method is simply a function that has been assigned to a property name of an object. Unlike many object-oriented languages, there is no distinction between a function definition and a method definition in object-related JavaScript. Rather, the distinction occurs during function calling; a function can be called as a method.
+When called as a method, the standard local variable this is just automatically set to the object instance to the left of the ".". (There are also call and apply methods that can set this explicitly—some packages such as jQuery do unusual things with this.)
+In the example below, Foo is being used as a constructor. There is nothing special about a constructor - it is just a plain function that initializes an object. When used with the new keyword, as is the norm, this is set to a newly created blank object.
+Note that in the example below, Foo is simply assigning values to slots, some of which are functions. Thus it can assign different functions to different instances. There is no prototyping in this example.
+
+
+=== Constructors ===
+Constructor functions simply assign values to slots of a newly created object. The values may be data or other functions.
+Example: Manipulating an object:
+
+The constructor itself is referenced in the object's prototype's constructor slot. So,
+
+Functions are objects themselves, which can be used to produce an effect similar to "static properties" (using C++/Java terminology) as shown below. (The function object also has a special prototype property, as discussed in the "Inheritance" section below.)
+Object deletion is rarely used as the scripting engine will garbage collect objects that are no longer being referenced.
+
+
+=== Inheritance ===
+JavaScript supports inheritance hierarchies through prototyping in the manner of Self.
+In the following example, the Derived class inherits from the Base class.
+When d is created as Derived, the reference to the base instance of Base is copied to d.base.
+Derive does not contain a value for aBaseFunction, so it is retrieved from aBaseFunction when aBaseFunction is accessed. This is made clear by changing the value of base.aBaseFunction, which is reflected in the value of d.aBaseFunction.
+Some implementations allow the prototype to be accessed or set explicitly using the __proto__ slot as shown below.
+
+The following shows clearly how references to prototypes are copied on instance creation, but that changes to a prototype can affect all instances that refer to it.
+
+In practice many variations of these themes are used, and it can be both powerful and confusing.
+
+
+== Exception handling ==
+JavaScript includes a try ... catch ... finally exception handling statement to handle run-time errors.
+The try ... catch ... finally statement catches exceptions resulting from an error or a throw statement. Its syntax is as follows:
+
+Initially, the statements within the try block execute. If an exception is thrown, the script's control flow immediately transfers to the statements in the catch block, with the exception available as the error argument. Otherwise the catch block is skipped. The catch block can throw(errorValue), if it does not want to handle a specific error.
+In any case the statements in the finally block are always executed. Although memory is automatically garbage collected, this can be used to manually perform cleanup of resources (such as closing files or connections).
+Either the catch or the finally clause may be omitted. The catch argument is required.
+The Mozilla implementation allows for multiple catch statements, as an extension to the ECMAScript standard. They follow a syntax similar to that used in Java:
+
+In a browser, the onerror event is more commonly used to trap exceptions.
+
+
+== Native functions and methods ==
+
+
+=== eval (expression) ===
+Evaluates the first parameter as an expression, which can include assignment statements. Variables local to functions can be referenced by the expression. However, eval represents a major security risk, as it allows a bad actor to execute arbitrary code, so its use is discouraged.
+
+
+== TypeScript-specific features ==
+TypeScript, a superset of JavaScript developed by Microsoft, adds the following syntax extensions to JavaScript:
+
+Type signatures (annotations) and compile-time type checking
+Type inference
+Interfaces
+Enumerated types
+Generics
+Namespaces
+Tuples
+Explicit resource management
+Syntactically, TypeScript is very similar to JScript .NET, another Microsoft implementation of the ECMA-262 language standard that added support for static typing and classical object-oriented language features such as classes, inheritance, interfaces, and namespaces. Other inspirations include Java and C#.
+
+
+=== Type annotations ===
+TypeScript provides static typing through type annotations to enable type checking at compile time.
+
+Primitive types are annotated using all-lowercase types, such as number, boolean, bigint, and string. These types are distinct from their boxed counterparts (Number, Boolean, etc.), which cannot have operations performed from values directly (a Number and number cannot be added). There are additionally undefined and null types for their respective values.
+All other non-primitive types are annotated using their class name, such as Error. Arrays can be written in two different ways which are both syntactically the same: the generic-based syntax Array<T> and a shorthand with T[].
+Additional built-in data types are tuples, unions, never, unknown, void, and any:
+
+An array with predefined data types at each index is a tuple, represented as [type1, type2, ..., typeN].
+A variable that can hold more than one type of data is a union, represented using the logical OR | symbol (string | number).
+The never type is used when a given type should be impossible to create, which is useful for filtering mapped types.
+The unknown type is used when dealing with data of an unpredictable shape. Unlike any, an unknown-typed variable will throw compilation errors when attempting to access properties or methods on that variable without first narrowing the type to something known. This type is often used for catching Errors, handling API responses, or user input.
+The void type is used to represent the lack of a type, e.g. from a function with no return statement.
+A value of type any supports the same operations as a value in JavaScript and minimal static type checking is performed, which makes it suitable for weakly or dynamically typed structures. This is generally discouraged practice and should be avoided when possible.
+Type annotations can be exported to a separate declarations file to make type information available for TypeScript scripts using types already compiled into JavaScript. Annotations can be declared for an existing JavaScript library, as has been done for Node.js and jQuery.
+The TypeScript compiler makes use of type inference when types are not given. For example, the add method in the code above would be inferred as returning a number even if no return type annotation had been provided. This is based on the static types of left and right being numbers, and the compiler's knowledge that the result of adding two numbers is always a number.
+If no type can be inferred because of lack of declarations (such as in a JavaScript module without types), then it defaults to the dynamic any type. Additional module types can be provided using a .d.ts declaration file using the declare module "moduleName" syntax.
+
+
+=== Declaration files ===
+When a TypeScript script gets compiled, there is an option to generate a declaration file (with the extension .d.ts) that functions as an interface to the components in the compiled JavaScript. In the process, the compiler strips away all function and method bodies and preserves only the signatures of the types that are exported. The resulting declaration file can then be used to describe the exported virtual TypeScript types of a JavaScript library or module when a third-party developer consumes it from TypeScript.
+The concept of declaration files is analogous to the concept of header files found in C/C++.
+
+Type declaration files can be written by hand for existing JavaScript libraries, as has been done for jQuery and Node.js.
+Large collections of declaration files for popular JavaScript libraries are hosted on GitHub in DefinitelyTyped.
+
+
+=== Generics ===
+
+TypeScript supports generic programming using a syntax similar to Java. The following is an example of the identity function.
+
+
+=== Classes ===
+TypeScript uses the same annotation style for class methods and fields as for functions and variables respectively. Compared with vanilla JavaScript classes, a TypeScript class can also implement an interface through the implements keyword, use generic parameters similarly to Java, and specify public and private fields.
+
+
+=== Union types ===
+
+
+=== Enumerated types ===
+
+
+=== Modules and namespaces ===
+TypeScript distinguishes between modules and namespaces, similar to C++ modules. Both features in TypeScript support encapsulation of classes, interfaces, functions and variables into containers. Namespaces (formerly internal modules) use JavaScript immediately-invoked function expressions to encapsulate code, whereas modules (formerly external modules) use existing JavaScript library patterns (CommonJS or ES Modules).
+
+
+=== Resource management ===
+Although TypeScript does not have manual memory management, it has resource management similar to using-with-resource blocks in C# or try-with-resources blocks in Java, or C++ resource acquisition is initialization, that automatically close resources without need for finally blocks. In TypeScript, to automatically close an object, it must implement a global interface Disposable, and implement a method Symbol.dispose(). This will automatically be called at the end of scope.
+
+
+== See also ==
+JavaScript
+Java syntax
+C syntax
+C++ syntax
+
+
+== References ==
+
+
+== Further reading ==
+Danny Goodman: JavaScript Bible, Wiley, John & Sons, ISBN 0-7645-3342-8.
+David Flanagan, Paula Ferguson: JavaScript: The Definitive Guide, O'Reilly & Associates, ISBN 0-596-10199-6.
+Thomas A. Powell, Fritz Schneider: JavaScript: The Complete Reference, McGraw-Hill Companies, ISBN 0-07-219127-9.
+Axel Rauschmayer: Speaking JavaScript: An In-Depth Guide for Programmers, 460 pages, O'Reilly Media, 25 February 2014, ISBN 978-1449365035. (free online edition)
+Emily Vander Veer: JavaScript For Dummies, 4th Edition, Wiley, ISBN 0-7645-7659-3.
+
+
+== External links ==
+
+A re-introduction to JavaScript - Mozilla Developer Center
+JavaScript Loops
+ECMAScript standard references: ECMA-262
+Interactive JavaScript Lessons - example-based
+JavaScript Training
+Mozilla Developer Center Core References for JavaScript versions 1.5, 1.4, 1.3 and 1.2
+Mozilla JavaScript Language Documentation

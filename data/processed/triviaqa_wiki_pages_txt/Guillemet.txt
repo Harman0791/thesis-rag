@@ -1,0 +1,109 @@
+Guillemets (, also UK: , US: , French: [ɡij(ə)mɛ]) are a pair of punctuation marks in the form of sideways double chevrons, « and », used as quotation marks in some languages. In some of these languages, "single" guillemets, ‹ and ›, are used for a quotation inside another quotation. Guillemets are not conventionally used in English. 
+
+
+== Terminology ==
+Guillemets may also be called angle, Latin, Castilian, Spanish,  or French quotes/quotation marks.
+Guillemet is a diminutive of the French name Guillaume, apparently after the French printer and punchcutter Guillaume Le Bé (1525–1598), though he did not invent the symbols: they first appear in a 1527 book printed by Josse Bade. 
+In Adobe software, its file format specifications, and in all fonts derived from these that contain the characters, the glyph names are incorrectly spelled guillemotleft and guillemotright (a malapropism: guillemot is actually a species of seabird). Adobe has acknowledged the error. Likewise, X11 mistakenly uses XK_guillemotleft and XK_guillemotright to name keys producing the characters.
+
+
+== Shape ==
+Guillemets are smaller than less-than and greater-than signs, which in turn are smaller than angle brackets. 
+
+
+== Uses ==
+
+
+=== As quotation marks ===
+
+Guillemets are used pointing outwards («like this») to indicate speech in these languages and regions:
+
+Albanian
+Arabic
+Armenian
+Azerbaijani (mostly in the Cyrillic script)
+Belarusian
+Breton
+Bulgarian (used before 1990, now rarely used; „...“ is official)
+Catalan
+Esperanto (usage varies)
+Estonian (marked usage; „...“ prevails)
+Franco-Provençal
+French (spaced out by thin spaces « like this », except no spaces in Switzerland)
+Galician
+Greek
+Italian
+Khmer
+Northern Korean (in Southern Korean, “...” is used)
+Kurdish
+Latvian (stūrainās pēdiņas)
+Norwegian
+Persian
+Portuguese (used mostly in European Portuguese, due to its presence in typical computer keyboards; considered obsolete in Brazilian Portuguese)
+Romanian; only to indicate a quotation within a quotation
+Russian, and some languages of the former Soviet Union using Cyrillic script („...“ is also used for nested quotes and in hand-written text.)
+Spanish (uncommon in daily usage, but commonly used in publishing)
+Swiss languages
+Turkish (dated usage; almost entirely replaced with “...” by late 20th century)
+Uyghur
+Ukrainian
+Uzbek (mostly in the Cyrillic script)
+Vietnamese (previously, now “...” is official)
+Guillemets are used pointing inwards (»like this«) to indicate speech in these languages:
+
+Croatian (preferred by typographers, alternate pair „...“ is in common use)
+Czech (traditional but declining usage; „...“ prevails)
+Danish (“...” is also used)
+Esperanto (very uncommon)
+German (guillemets are preferred for books, while „...“ is preferred in newspapers and handwriting; see above for usage in Swiss German)
+Hungarian (only used „inside a section »as a secondary quote« marked by the usual quotes” like this)
+Polish (used to indicate a quote inside a quote as defined by dictionaries; more common usage in practice. See also: Polish orthography)
+Serbian (marked usage; „...“ prevails)
+Slovak (traditional but declining usage; „...“ prevails)
+Slovene („...“ and “...” also used)
+Swedish (this style, and »...» are considered typographically fancy; ”...” is the common form of quotation)
+Guillemets are used pointing right (»like this») to indicate speech in these languages:
+
+Finnish (”...” is the common and correct form)
+Swedish (this style, and »...« are considered typographically fancy; ”...” is the common form of quotation)
+
+
+=== Ditto mark ===
+In Quebec, the right-hand guillemet, », called a guillemet itératif, is used as a ditto mark.
+
+
+=== UML ===
+Guillemets are used in Unified Modeling Language to indicate a stereotype of a standard element.
+
+
+=== Mail merge ===
+Microsoft Word uses guillemets when creating mail merges. Microsoft use these punctuation marks to denote a mail merge "field", such as «Title», «AddressBlock» or «GreetingLine». On the final printout, the guillemet-marked tags are replaced by each instance of the corresponding data item intended for that field by the user.
+
+
+== Encoding ==
+Double guillemets are present in many 8-bit extended ASCII character sets. They were at 0xAE and 0xAF (174 and 175) in CP437 on the IBM PC, and 0xC7 and 0xC8 in Mac OS Roman, and placed in several of ISO 8859 code pages (namely: -1, -7, -8, -9, -13, -15, -16) at 0xAB and 0xBB (171 and 187).
+Microsoft added the single guillemets to CP1252 and similar sets used in Windows at 0x8B and 0x9B (139 and 155) (where the ISO standard placed C1 control codes).
+
+
+=== Unicode ===
+The ISO 8859 locations were inherited by Unicode, which added the single guillemets at new locations:
+
+U+00AB « LEFT-POINTING DOUBLE ANGLE QUOTATION MARK (&laquo;)
+U+00BB » RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK (&raquo;)
+U+2039 ‹ SINGLE LEFT-POINTING ANGLE QUOTATION MARK (&lsaquo;)
+U+203A › SINGLE RIGHT-POINTING ANGLE QUOTATION MARK (&rsaquo;)
+Despite their names, the characters are mirrored when used in right-to-left contexts.
+
+
+== See also ==
+Similar-looking punctuation marks:
+Angle brackets, ⟨ and ⟩, are a type of brackets that are mainly used in specialist settings, such as mathematics and linguistics
+Title marks, typically 《 and 》 but also 〈 and 〉, are used in Chinese to denote the name of a book, film, newspaper, and other types of works
+Chevron – V-shaped or inverted-V-shaped symbol (as an insignia)
+Unicode input – Input characters using their Unicode code points
+
+
+== References ==
+
+
+== External links ==

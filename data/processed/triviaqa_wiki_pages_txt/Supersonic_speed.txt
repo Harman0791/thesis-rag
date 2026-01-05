@@ -1,0 +1,53 @@
+Supersonic speed is the speed of an object that exceeds the speed of sound (Mach 1). For objects traveling in dry air of a temperature of 20 °C (68 °F) at sea level, this speed is approximately 343.2 m/s (1,126 ft/s; 768 mph; 667.1 kn; 1,236 km/h). Speeds greater than five times the speed of sound (Mach 5) are often referred to as hypersonic. Flights during which only some parts of the air surrounding an object, such as the ends of rotor blades, reach supersonic speeds are called transonic. This occurs typically somewhere between Mach 0.8 and Mach 1.2.
+Sounds are traveling vibrations in the form of pressure waves in an elastic medium. Objects move at supersonic speed when the objects move faster than the speed at which sound propagates through the medium. In gases, sound travels longitudinally at different speeds, mostly depending on the molecular mass and temperature of the gas, and pressure has little effect. Since air temperature and composition varies significantly with altitude, the speed of sound, and Mach numbers for a steadily moving object may change. In water at room temperature, supersonic speed means any speed greater than 1,440 m/s (4,724 ft/s). In solids, sound waves can be polarized longitudinally or transversely and have higher velocities.
+Supersonic fracture is crack formation faster than the speed of sound in a brittle material.
+
+
+== Early meaning ==
+The word supersonic comes from two Latin derived words; 1) super: above and 2) sonus: sound, which together mean above sound, or faster than sound.
+At the beginning of the 20th century, the term "supersonic" was used as an adjective to describe sound whose frequency is above the range of normal human hearing. The modern term for this meaning is "ultrasonic", but the older meaning sometimes still lives on, as in the word superheterodyne
+
+
+== Supersonic objects ==
+
+The tip of a bullwhip is generally seen as the first object designed to reach the speed of sound. This action results in its telltale "crack", which is actually just a sonic boom. The first human-made supersonic boom was likely caused by a piece of common cloth, leading to the whip's eventual development. It is the wave motion travelling through the bullwhip that makes it capable of achieving supersonic speeds. 
+Most modern firearm bullets are supersonic, with rifle projectiles often travelling at speeds approaching and in some cases well exceeding Mach 3.
+Most spacecraft are supersonic at least during portions of their reentry, though the effects on the spacecraft are reduced by low air densities. During ascent, launch vehicles generally avoid going supersonic below 30 km (~98,400 feet) to reduce air drag.
+The speed of sound decreases somewhat with altitude, due to lower temperatures found there (typically up to 25 km). At even higher altitudes the temperature starts increasing, with the corresponding increase in the speed of sound.
+When an inflated balloon is burst, the torn pieces of latex contract at supersonic speed, which contributes to the sharp and loud popping noise.
+
+
+=== Supersonic land vehicles ===
+To date, only one land vehicle has officially travelled at supersonic speed, the ThrustSSC. The vehicle, driven by Andy Green, holds the world land speed record, having achieved an average speed on its bi-directional run of 1,228 km/h (763 mph) in the Black Rock Desert on 15 October 1997.
+The Bloodhound LSR project planned an attempt on the record in 2020 at Hakskeenpan in South Africa with a combination jet and hybrid rocket propelled car. The aim was to break the existing record, then make further attempts during which (the members of) the team hoped to reach speeds of up to 1,600 km/h (1,000 mph). The effort was originally run by Richard Noble who was the leader of the ThrustSSC project, however following funding issues in 2018, the team was bought by Ian Warhurst and renamed Bloodhound LSR. Later the project was indefinitely delayed due to the COVID-19 pandemic and the vehicle was put up for sale.
+
+
+=== Supersonic flight ===
+
+Most modern fighter aircraft are supersonic aircraft. No modern-day passenger aircraft are capable of supersonic speed, but there have been supersonic passenger aircraft, namely Concorde and the Tupolev Tu-144. Both of these passenger aircraft and some modern fighters are also capable of supercruise, a condition of sustained supersonic flight without the use of an afterburner. Due to its ability to supercruise for several hours and the relatively high frequency of flight over several decades, Concorde spent more time flying supersonically than all other aircraft combined by a considerable margin. Since Concorde's final retirement flight on November 26, 2003, there are no supersonic passenger aircraft left in service, though the Boom Overture may reintroduce supersonic flight in the future once complete. Some large bombers, such as the Tupolev Tu-160 and Rockwell B-1 Lancer are also supersonic-capable.
+The aerodynamics of supersonic aircraft is simpler than subsonic aerodynamics because the airsheets at different points along the plane often cannot affect each other. Supersonic jets and rocket vehicles require several times greater thrust to push through the extra aerodynamic drag experienced within the transonic region (around Mach 0.85–1.2). At these speeds aerospace engineers can gently guide air around the fuselage of the aircraft without producing new shock waves, but any change in cross area farther down the vehicle leads to shock waves along the body. Designers use the Supersonic area rule and the Whitcomb area rule to minimize sudden changes in size.
+
+However, in practical applications, a supersonic aircraft must operate stably in both subsonic and supersonic profiles, hence aerodynamic design is more complex.
+The main key to having low supersonic drag is to properly shape the overall aircraft to be long and thin, and close to a "perfect" shape, the von Karman ogive or Sears-Haack body. This has led to almost every supersonic cruising aircraft looking very similar to every other, with a very long and slender fuselage and large delta wings, cf. SR-71, Concorde, etc. Although not ideal for passenger aircraft, this shaping is quite adaptable for bomber use.
+
+
+== See also ==
+Area rule
+Hypersonic speed
+Sonic boom
+Supersonic aircraft
+Supersonic airfoils
+Transonic speed
+Vapor cone
+Prandtl–Glauert singularity
+Supersonic (Oasis song)
+
+
+== References ==
+
+
+== External links ==
+"Can We Ever Fly Faster Speed of Sound", October 1944, Popular Science one of the earliest articles on shock waves and flying the speed of sound
+"Britain Goes Supersonic", January 1946, Popular Science 1946 article trying to explain supersonic flight to the general public
+MathPages – The Speed of Sound
+Supersonic sound pressure levels

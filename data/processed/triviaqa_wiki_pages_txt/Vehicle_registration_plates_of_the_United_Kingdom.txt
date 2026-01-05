@@ -1,0 +1,270 @@
+Vehicle registration plates (commonly referred to as "number plates" in British English) are the alphanumeric plates used to display the registration mark of a vehicle, and have existed in the United Kingdom since 1904. It is compulsory for motor vehicles used on public roads to display vehicle registration plates, with the exception of vehicles of the reigning monarch used on official business.
+The Motor Car Act 1903, which came into force on 1 January 1904, required all motor vehicles to be entered on an official vehicle register, and to carry alphanumeric plates. The Act was passed in order that vehicles could be easily traced in the event of an accident, contravention of the law or any other incident. Vehicle registration alphanumeric plates in the UK are rectangular or square in shape, with the exact permitted dimensions of the plate and its lettering set down in law. Front plates are white, rear plates are yellow.
+Within the UK itself, there are two systems: one for Great Britain, whose current format dates from 2001, and another for Northern Ireland, which is similar to the original 1904 system. Both systems are administered by the Driver and Vehicle Licensing Agency (DVLA) in Swansea. Until July 2014, Northern Ireland's system was administered by the Driver and Vehicle Agency (DVA) in Coleraine, which had the same status as the DVLA. Other schemes relating to the UK are also listed below. The international vehicle registration code for the United Kingdom is UK. Prior to 28 September 2021, it was GB. The specification of plates incorporating the UK code was created by the British Number Plate Manufacturers Association, and is seen as the default design by the Department for Transport.
+
+
+== Standard requirements ==
+
+Number plates must be displayed in accordance with the Road Vehicles (Display of Registration Marks) Regulations 2001.
+Number plates must be made of reflex-reflecting material, white at the front and yellow at the rear, with black characters. This was first required on all vehicles manufactured after 1 January 1973, having been optional before then. Subsequently, the requirement was modified by the Finance Act 2014, to allow any vehicles registered within the "historic vehicles" tax class to use the older style pre-1973 black number plates. This rule applied on a 40-year exemption basis, and until 2021 rolled forward automatically each year on 1 April to include vehicles manufactured before the first of January forty years prior. A change was introduced on 1 January 2021 that will permit only vehicles dating prior to 1 January 1980 to use the old style pre-1973 black and silver number plates.
+The post-1973 type of reflecting plate were permitted as an option from 1968: many older vehicles may therefore carry the white/yellow reflective plates and, where they were first registered during or after 1968, they may have carried such plates since new. Many buses delivered to London Transport between 1973 and the mid-1980s continued to bear white-on-black plates. This was also true of some other bus operators, though only on the rear end in most instances; Reading Transport was one other operator which persisted with black front plates into the 1980s.
+Characters on number plates purchased from 1 September 2001 do not use a specific named typeface, but must use what is known as the "prescribed font" within legislation set out in The Road Vehicles (Display of Registration Marks) Regulations 2001. One such example of a typeface adhering to this prescribed font is Mandatory, a variation of the frequently used Charles Wright typeface. However, the wording in the legislation designates that slight variations in typeface are legal providing they are "substantially similar" to the prescribed font.
+Characters must also conform to set specifications as to width, height, stroke, spacing and margins. The physical characteristics of the number plates are set out in British Standard BS AU 145e (formerly BS AU 145d until 31 August 2021), which specifies visibility, strength, and reflectivity.
+Number plates with smaller characters meeting standards for motorcycles are only permitted on imported vehicles, and then only if they do not have European Community Whole Vehicle Type Approval and their construction/design cannot accommodate standard-size number plates; for example, vehicles made for the US or Japanese market may only have a 305 mm × 152 mm (12.0 in × 6.0 in) area to affix a number plate, in which a standard one-line plate is too long (460 mm) to fit, while a two-line plate is too tall (199 mm).
+The industry-standard-size front number plate is 520 mm × 111 mm (20+1⁄2 in × 4+3⁄8 in). Rear plates are either the same size, or 285 mm × 203 mm (11+1⁄4 in × 8 in) or 533 mm × 152 mm (21 in × 6 in). There is no specified legal size other than an absolute minimum margin of 11 mm producing a minimum height of 101 mm (one-line) and 199 mm (two-line) on cars, and 86 mm for one-line import vehicles and 164 mm for a two-line motorcycle or import vehicles, with the overall length being based on the registration number itself. The material of UK number plates must either comply with British Standard BS AU 145e, which states that BSI number plates must be marked on the plate with the BSI logo and the name and postcode of the manufacturer and the supplier of the plates; or with
+
+(b) any other relevant standard or specification recognised for use in an EEA State and which, when in use, offers a performance equivalent to that offered by a plate complying with the British Standard specification, and which, in either case, is marked with the number (or such other information as is necessary to permit identification) of that standard or specification.
+Older British plates had white, grey or silver characters on a black background. This style of plate was phased out in 1972 and, until 2012, legal to be carried only on vehicles first registered before 1 January 1973. A vehicle which was first registered on or after 1 January 1973 shall be treated as if it was first registered before that date if it was constructed before 1 January 1973. However, the Finance Bill 2014 and subsequent Finance Acts extended the Historic Vehicle class cut-off year from 1973 to 1974 and subsequently, a rolling forty years. This had the effect of linking eligibility to display old-style plates with "Tax Exempt" vehicle status, provided that an application had been made to the DVLA to have the vehicle included in the historic vehicle class. However, this exemption was rescinded in 2021, with a new qualifying date for vehicles constructed before 1 January 1980 registered in the historic vehicle class.
+
+
+=== Motorcycles ===
+
+Before August 1975, motorcycles had to display a front plate, colloquially known as the "pedestrian slicer", which was usually, but not always, a double-sided plate on top of the front mudguard, curved to follow the contour of the wheel and visible from the sides. Motorcycles registered after 1 September 2001 may only display a rear number plate, while motorcycles registered before that date can display a number plate at the front if desired.
+
+
+== Great Britain ==
+
+ 
+
+
+=== Current system ===
+
+
+==== Characters ====
+The current system for Great Britain was introduced on 1 September 2001. Each registration index consists of seven characters with a defined format.
+From left to right, the characters consist of:
+
+A local memory tag, or area code, consisting of two letters which together indicate the local registration office. By December 2013, all local offices had been closed, but the letters still represent a region. The letters I, Q and Z are not used as local office identifiers, though O is used for Oxford; Z can be used only as a random letter.
+The first of these two letters is a mnemonic, standing for the name of the broad area where the registration office was located. This is intended to make the registration more memorable than an arbitrary code. For example, A is used as the first character in all registrations issued by the three offices located in the vicinity of East Anglia;
+A two-digit age identifier, which changes twice a year, on 1 March and 1 September. The code is either the last two digits of the year itself, if issued between March and August (e.g. "18" for registrations issued between 1 March and 31 August 2018), or else has fifty added to that value if issued between September and February the following year, (e.g. "68" for registrations issued between 1 September 2018 and 28 February 2019);
+A three-letter sequence which uniquely distinguishes each of the vehicles displaying the same initial four-character area and age sequence. The letters I and Q are excluded from the three-letter sequence, as are combinations that may appear offensive (including those in foreign languages). Due to batch allocation of new registration marks to dealers, it is common for cars with "neighbouring" letter sequences to be of the same manufacturer.
+This scheme has three particular advantages:-
+
+A buyer of a second-hand vehicle can in theory determine the year of first registration of the vehicle without having to look it up. However, a vehicle is permitted to display a number plate where the age identifier is older (but not newer) than the vehicle. The wide awareness of how the "age identifier" works has led to it being used in advertising by used car showrooms instead of simply stating a year.
+In the case of a police investigation of an accident or vehicle-related crime, witnesses usually remember the initial area code letters – it is then quite simple to narrow down suspect vehicles to a much smaller number by checking the authority's database without having to know the full number.
+The scheme should have sufficient numbers to run until 28 February 2051, assuming there are enough three-letter random sequences for every combination of area code and age identifier.
+
+
+==== Local memory tags ====
+
+In addition to the above local memory tags, personalised registrations are also offered with arbitrary "local memory tags" prefixes, except for the letters I, Q and Z but including the letters J, T and U, which are unused as area codes.
+
+
+==== Age identifiers ====
+
+
+==== National identifier and emblems ====
+
+Vehicles registered in Great Britain are authorised by the Driver and Vehicle Licensing Agency to use number plates featuring the national flag of England, Wales, Scotland, or the Union flag, plus lettering. Either the full wording or the abbreviation is used ("ENG" or "ENGLAND" for the English flag, "CYM", "CYMRU", or "WALES" for the Welsh flag, "SCO" or "SCOTLAND" for the Scottish flag, and "GB", "GREAT BRITAIN", "UK" or "UNITED KINGDOM" for the Union flag respectively).
+Only number plates with the distinguishing code "UK" on its own, or together with the Union flag are valid as a distinguishing sign when driving in countries party to the Vienna Convention on Road Traffic, as such number plate displays a distinguishing code for the country of registration incorporated into the vehicle registration plate, and is supplemented with a flag or emblem of the national state, and hence satisfies the requirements set out in the convention. A "UK" black on white sticker must be affixed at the rear of the vehicle when driving abroad if said vehicle has number plates with the national flag of England, Wales, or Scotland.
+From October 2021 if an owner of a vehicle wishes to avoid attaching a separate black on white "UK" sticker, it is necessary for the number plates to display "UK" on the left side together with, optionally, a Union flag (but not a national flag of England, Wales or Scotland). If the vehicle is driven in a country not a party to the Vienna Convention, a separate sign (black on white "UK" sticker) also has to be displayed at the rear of the vehicle. Of the EU countries, a separate identifier is only needed when travelling in Cyprus, Malta and Spain, as they are not party to the convention.
+The specification of plates incorporating the UK code was created by the British Number Plate Manufacturers Association, and is seen as the default design by the Department for Transport:
+
+"UK" in black (matching the main text on the plate) or blue (matching the blue in the Union flag).
+The Union flag in landscape in specific colours (the flag must be positioned to the far-left side of the number plate)
+A background that is the same colour as the number plate (white for front, yellow for rear) except for green flash plates, where the background area behind the flag can be the same as set out on green number plates.
+Up until 28 September 2021 the distinguishing sign was GB. On 30 June 2021, the United Nations published a notification stating that the United Kingdom has given three months' notification that it intended to change its distinguishing sign from GB to UK.
+
+
+===== Flag of Europe =====
+
+When the UK was a member state of the European Union, it was permissible (but never mandatory) to display number plates conforming to the common EU format introduced by Council Regulation (EC) No 2411/98, with a blue strip (in order to construct the background colour of the EU / Council flag) on the left side of the plate with the Flag of Europe (yellow or gold circle of stars) above the international vehicle registration code of the member state (GB). This format cannot be issued after the transition period ended.
+EU member states that require foreign vehicles to display a distinguishing sign of the country of origin (e.g. "UK" for the United Kingdom) are obliged by Article 3 of EU Regulation No. 2411/98 to accept this standard design as a distinguishing sign when displayed on a vehicle registered in another member state, making a separate sign unnecessary for vehicles registered in the EU.
+
+After Brexit, other EU countries are no longer required to accept GB "Europlates", as the regulation only requires member states to accept the standard design as a distinguishing sign when displayed on a vehicle registered in another member state. After this, GB Europlates must be replaced by a number plate that features the UK sign in order to be valid as a national identifier.
+
+
+==== Typography ====
+The standard (79 mm height) typeface is set out in the Road Vehicles (Display of Registration Marks) Regulations 2001. An alternative (64 mm) font is provided for motorcycles (schedule 4 part 2, p. 24).
+The standard font, Mandatory, unofficially known as Charles Wright 2001, is a subtly redrawn version of Charles Wright's original 1935 font. The width of the previous font was condensed from 57 mm to 50 mm to allow space for the extra letter and the optional blue EU strip. The letter O and the digit 0 are intentionally identical, as are the letter I and digit 1. But the typeface accentuates the differences between characters such as 8 and B, or D and 0, with slab serifs to improve the legibility of a plate from a distance. This is especially useful for the automatic number plate recognition software of speed cameras and CCTV. This accentuation also discourages the tampering that is sometimes practised with the use of black insulating tape or paint to change letter forms (such as P to R, or 9 to 8), or with the inclusion of carefully positioned black "fixing screw" dots that alter the appearance of letters on some vanity plates.
+The design has similarities with the FE-Schrift number-plate font which was introduced in Germany in 1994 and which has been mandatory there since 2000. However, the UK design remains more conventional in its character shapes.
+
+
+==== Special plates ====
+Registrations having a combination of characters that are particularly appealing (resembling a name, for example) are auctioned each year. The first of these auctions was in 1989.
+For the 07 registration period, a higher-than-usual number of Scottish 07 codes were retained as Select registrations for sale, and an additional allocation of Tx letter pairs were released for use by the local offices in Scotland with the same allocation as the Sx letter pairs (for example Edinburgh with SK to SN allocated had TK to TN added).
+
+
+==== Green band plates ====
+
+From 8 December 2020, vehicles with a Zero Emission value are allowed to display a green band on the left hand side of the plate, where the country identifier would usually sit. This is optional, and may be blank, or combined with the existing national flag options.
+
+
+==== Older plates ====
+Vehicles registered under previous numbering systems continue to retain their original number plates but the area identifier in the previous number system is not the same area as the post-2001 area identifier, e.g. AA pre-2001 is Bournemouth whereas AA post-2001 is Peterborough. Subject to certain conditions, number plates can be transferred between vehicles by the vehicle owner; some of these transfers involve tens or even hundreds of thousands of pounds changing hands, because of the desirability of a specific letter/number combination.
+
+
+=== History ===
+
+
+==== Before 1932 ====
+
+The first series of number plates was issued in 1903 and ran until 1932, consisting of a one- or two-letter code followed by a sequence number from 1 to 9999. The code indicated the local authority in whose area the vehicle was registered. In England and Wales, these were initially allocated in order of population size (by the 1901 census) – thus A indicated London, B indicated Lancashire, C indicated the West Riding of Yorkshire and so on to Y indicating Somerset, then AA indicated Hampshire, AB indicated Worcestershire and so on to FP indicating Rutland.
+The letters G, S and V were initially restricted to Scotland, and the letters I and Z to the whole of Ireland. In both cases, allocations of codes were made in alphabetical order of counties, followed by county boroughs – thus in Scotland, Aberdeenshire was allocated SA, Argyll received SB and so on, while in Ireland Antrim was allocated IA, Armagh received IB, and so on.
+When a licensing authority reached 9999, it was allocated another two-letter code, but there was no pattern to these subsequent allocations as they were allocated on a first come first served basis. London and Middlesex quickly took most codes with L and M as the first letter respectively, while Surrey, initially allocated P, took many codes beginning with that letter.
+The first mark to be issued in London was A 1. This was registered to Earl Russell. It is often stated he queued all night to obtain the registration, or he made his butler queue all night. However, the registrations were issued by the London County Council, and Russell served on that council as an Alderman from 1895 to 1904, and was the chairman of the council's highways committee.
+It is also often erroneously stated that A 1 was the very first UK registration issued, but London County Council did not start issuing registrations until January 1904, whilst several licensing authorities have records of issuing registrations the previous November –  Buckinghamshire (BH), Roxburghshire (KS), Somerset (Y), and the County Boroughs of Bath (FB) and Hastings (DY)
+A zero has been issued by several issuing authorities for the official car of the council head, in cases where plate number "1" had already been issued by the time the councils decided to give priority to its first citizen. Example include the Lord Mayor of London (LM 0) and the Lord Provosts of Edinburgh (S 0), of Glasgow (G 0) and of Aberdeen (RG 0).
+
+
+==== 1932 to 1963 ====
+
+By 1932, the available codes were running out, and an extended scheme was introduced. This scheme placed a serial letter before an existing two-letter code, and had the sequence number run only to 999, thus restricting the number of characters in a registration to six. The first area to issue such marks was Staffordshire in July 1932 with ARF 1 etc., and all other areas in England and Wales, plus most areas in Scotland, followed suit once they had issued all their two-letter registrations.
+I, Q, and Z were not used as serial letters, as the use of I and Z continued to be restricted to Ireland and Q was reserved for temporary imports, while the single-letter codes were left out of this scheme as a serial letter would have created a duplicate of an existing two-letter code. (The Republic of Ireland and Northern Ireland later adopted this scheme in their own ways, and the latter still uses it.)
+In some areas, the available marks within this scheme started to run out in the 1950s, and in those areas, what became known as "reversed" registrations – the letters coming after the numbers – were introduced. Staffordshire was again the first area to issue such registrations, starting with 1000 E in 1953. In most cases, the three-letter combinations (e.g. 1 AHX for Middlesex) would be issued first, while in later years some areas started with the one- and two-letter combinations and others issued all three at the same time. The ever-increasing prevalence of the car meant that by the beginning of the 1960s, these registrations were also running out.
+Some three-letter combinations were not authorised for licensing use as they were deemed offensive. These included ARS, BUM, GOD, JEW, SEX, and SOD, sod being a mild British profanity derived from "sodomite." DUW was issued in London for several months in 1934 before it was realised it was the Welsh for God, and withdrawn.
+
+
+==== 1963 to 1982 ====
+
+In August 1962, an attempt was made to create a national scheme to alleviate the problem of registrations running out. This used the scheme introduced in 1932, of a three-letter combination followed by a sequence number from 1 to 999, but also added a letter suffix, which initially changed on 1 January each year. An "A" suffix was thus used for 1963, "B" for 1964, etc. Middlesex was the first authority to adopt this scheme when it issued AHX 1A in February 1963. Most other areas followed suit during 1964, but some chose to stick to their own schemes up until 1 January 1965, when the letter suffix was made compulsory.
+As well as yielding many more available numbers, it was a way for vehicle buyers to know the age of the vehicle immediately. However, the year letter changing on 1 January each year meant that car retailers soon started to notice that buyers would tend to wait until the New Year for the new letter to be issued, so that they could get a "newer" car. This led to major peaks and troughs in sales over the year, and to help flatten this out somewhat the industry lobbied to get the scheme changed, so that the change of year letter occurred on 1 August rather than 1 January. This was done in 1967, when "E" suffixes ran only from 1 January to 31 July, before "F" suffixes commenced on 1 August.
+All number plates were originally black with white, grey or silver characters, until retroreflective plates were specified in British Standard BS AU 145 in 1967. These were white on the front and yellow on the rear of the vehicle, with black characters. White/yellow retro-reflective plates became a legal requirement for most newly registered vehicles on 1 January 1973.
+In October 1974, responsibility for issuing registrations was transferred from local and regional authorities to specialist Local Vehicle Licensing Offices (LVLOs) or Vehicle Registration Offices (VROs) run by the DVLA. Most of the two-letter area codes allocated during the first scheme continued in their respective areas, albeit now indicating the nearest LVLO/VRO rather than the local or regional authority. However, the decision to streamline the allocations of these codes meant that some were transferred to new areas. For instance, the former Suffolk code CF was transferred to Reading, while the former Edinburgh code WS was re-allocated to Bristol.
+
+
+==== 1983 to 2001 ====
+By 1982, the year suffixes had reached Y and so from 1983 onwards the sequence was reversed again, so that the year letter – starting again at "A" — preceded the numbers then the letters of the registration. The available range was then A21 AAA to Y999 YYY, the numbers 1–20 being held back for the government's proposed, and later implemented, DVLA select registration sales scheme.
+Towards the mid-1990s there was some discussion about introducing a unified scheme for Europe, which would also incorporate the country code of origin of the vehicle, but after much debate such a scheme was not adopted because of lack of countries willing to participate.
+
+
+===== Q plates =====
+
+The changes in 1983 also brought the letter Q into use – although on a very small and limited scale. It is issued for vehicles of indeterminate age, such as those assembled from kits, substantial rebuilds, or imported vehicles where the documentation is insufficient to determine the age, and this use continues for new registrations under the post-2001 system. There was a marked increase in the use of Q registrations in the late 1980s and early 1990s, fuelled by car crime. Many stolen vehicles had false identities given to them, and when this was discovered and the original identity could not be determined, a Q registration would be issued. It was seen as an aid to consumer protection. Due to the indeterminate age, origin and specification of Q registration vehicles, most motor insurers are reluctant to offer coverage for these 'Q-plate' vehicles.
+
+
+===== End of the prefix system =====
+By the late 1990s, the range of available numbers was once again starting to run out, made worse by a move to biannual changes in registration letters (March and September) in 1999 to smooth out the bulge in registrations every August, so a new scheme needed to be adopted. It was decided to research a system that would be easier for crash or vehicle related crime witnesses to remember and clearer to read, yet still fit within a normal standard plate size.
+
+
+==== Year identifiers ====
+In order to avoid any confusion, the letters I, O, Q, U and Z have never been issued as year identifiers: I because of its similarity to the numeral 1; O and Q because of similarity to a zero; U because of similarity to the letter V; and Z because of similarity to the numeral 2.
+
+
+==== Pre-2001 codes ====
+Normally the last two letters would indicate where the car was initially registered. The letters I and Z are reserved for Ireland. The office code (or council code until 1974) can be seen bold letters next to the examples (ABC 123D; A123 BCD). The first two letters of the post-2001 system are not the same as the last two letters, which indicate the original district of registration for pre-2001 number plates; so, for example, pre-2001 AB is Worcester, whereas post-2001 AB is Peterborough.
+For the list of Northern Ireland codes, see the Northern Ireland section of this article. For a full list of Irish codes, see Vehicle registration plates of the Republic of Ireland.
+
+
+== Northern Ireland ==
+Northern Ireland uses a modified version of the national system initiated for the whole of the United Kingdom of Great Britain and Ireland in 1903, with two-letter county and city codes featuring the letters I or Z representing Ireland.
+As in Great Britain, each code originally ran from 1 to 9999, and when one was completed, another was allocated. All possible codes had been allocated by 1957, following which reversed sequences were introduced, the first county to do so being Antrim in January 1958 with 1 IA. These reversed sequences were completed quickly, leading to the introduction of the current "AXX 1234" format in January 1966, where "XX" is the county code and "A" is a serial letter. This format allowed capacity to be increased. Each county adopted it once they had completed their reversed sequences, the last one to do so being County Londonderry in October 1973 with AIW 1. From November 1985, the first 100 numbers of each series were withheld for use as cherished registrations. From April 1989, the numbers 101-999 were also withheld in this way. Even multiples of 1000 and 1111 ("four-of-a-kind") are deemed cherished by the DVLA and thus withheld. Each series ends at 9998 and follows on to the next letter/number combination in the series.
+When the administrative counties of Northern Ireland were dissolved in 1972, the responsibility for issuing registrations was transferred to the NI Ministry of Home Affairs, and later the Department of the Environment NI. From 21 July 2014, vehicle registration in Northern Ireland became the responsibility of the DVLA in Swansea. The pre-1972 format of Northern Ireland registration plates continues unchanged.
+
+
+== Most expensive plates ==
+As popularity grows, the prices reached for the most expensive plates have increased with many motorists attracted by the investment potential as well as vanity. In the UK, sales of private plates via the Driver & Vehicle Licensing Agency exceeded £100 million per annum for the first time in 2016. Since 1989, the DVLA has made a total of £2 billion from selling private plates. While the wealthy may spend more on a private plate than on their personal vehicle, not all car owners are attracted to private plates. This has not affected number plates from appreciating thousands in value each year.
+On 7 July 2006, the registration M 1 sold for £331,500 by Bonhams at the Goodwood Festival of Speed.
+On 25 January 2008, the registration F 1 sold for £440,625 to Bradford Car design entrepreneur Afzal Kahn. The plate was previously owned and sold by Essex County Council and was sold to raise money for training young drivers. Originally the plate was affixed in 1904 to the Panhard et Levassor of the then County Surveyor.
+In September 2008, the registration S 1, believed to be Edinburgh's first number plate, issued in 1903, sold for £397,500 at an auction to an anonymous buyer. It was originally owned by Sir John MacDonald, the Lord Kingsburgh.
+The registration 1 D sold for £352,000 in March 2009. 
+In November 2014, the registration 25 O broke a new record for most expensive UK registration plate sold at public auction when it was purchased for £518,440 by Ferrari dealer John Collins at a DVLA personalised plate auction.
+Over a decade later, in July 2025, the registration JB 1 then shattered this record, selling for £608,600 to an internet bidder at a Bonhams auction during the Goodwood Festival of Speed.
+VIP 1 (originally a Republic of Ireland plate from Kilkenny (IP)), 51 NGH, K1 NGS and 1 O are also marked as considerably expensive plates that have sold publicly in excess of six figures.
+
+
+== Other formats ==
+
+
+=== Armed forces vehicles ===
+
+In the Second World War, vehicles of the British Army had number plates such as A12104 and those of the Royal Air Force RAF 208343. Since 1949, British military vehicle registration numbers are mostly either in the form of two digits, two letters, two digits (e.g. 07 CE 08), or from 1995 onwards, two letters, two digits, two letters (for example, JW 57 AB). Until the mid-1980s, the central two letters signified the armed service, or the branch or category of vehicle. For example, Chief of Fleet Support's staff car in 1983–85 was 00 RN 04, and First Sea Lord's car 00 RN 01 and Second Sea Lord's 00 RN 02, normal civilian plates replacing them when security required; and, in 1970, one of HMS Albion's Land Rovers was 25 RN 97 and HMS Bulwark's ship's minibus was 04 RN 84. Royal Air Force vehicles had numbers such as 55 AA 89, with the first of the two letters typically being A, and the new-style RAF plates, such as RZ 00 AA and RU 86 AA on fire engines.
+Military number plates are still often in the silver/white on black scheme used for civilian plates before 1973, and can be presented in one, two or three rows of characters.
+From before 1960 until around 1990, in West Germany, private vehicles owned by members of British Forces Germany and their families were issued registration numbers in a unique format (initially two letters followed by two digits followed by a "B" suffix (e.g. SY 47 B), later three digits plus a "B" suffix, e.g. RH 249 B, then from the early 1980s three letters followed by two numbers plus the "B" suffix, e.g. AQQ 89 B). This was discontinued for security reasons, as it made them vulnerable to Provisional IRA attacks. Private vehicles driven by British military personnel are now issued with either standard UK number plates (if right hand drive) or German ones (if left hand drive), although the vehicle is not actually registered with the DVLA.
+
+
+=== Trade plates ===
+
+Trade licences are issued to motor dealers and vehicle testers, and permit the use of untaxed vehicles on the public highway with certain restrictions. Associated with trade licences are "trade plates" which identify the holder of the trade licence rather than the vehicle they are displayed on, and can be attached temporarily to vehicles in their possession.
+Until 1970, two types of trade plate were used. General trade plates had white letters and numbers on a red background and could be used for all purposes, while limited trade plates used red numbers and letters on a white background and were restricted in their use (e.g. a vehicle being driven under limited trade plates was not allowed to carry passengers). Since 1970, all trade plates have used the red-on-white format. According to the traders, the police followed a little rhyme about trade plates:
+
+Red-on-white, stop on sightWhite-on-red, go ahead.
+The format of trade plate numbers consists of either three digits (with leading zeros if necessary) followed by one, two or three letters or four digits, followed by a single letter denoting the area of issue using pre-2001 format codes.
+
+In 2015, a new system was introduced with a number-only format. This is a five-digit number (leading zeroes used below 1000) in red on white, with a DVLA authentication at the right. This is centrally issued, and there is no regional indicator.
+
+Subsequently, due to the number of issued trade plates in the UK, the five-digit numerical only format was replaced before reaching its maximum limit of ‘99999’, with a leading letter in place of the first digit. e.g. A1234. Once the combinations of A0000 to A9999 were issued, it would roll onto the next letter of the alphabet: B0000 to B9999 and so on. Not all number combinations are issued and one cannot request specific numbers. This format is still in use and still issued centrally by the DVLA. The preceding letter does not align with a year of release or region and as a result no age or location identifier is possible. To estimate the age of a trade plate in circulation in this format; C#### plates were being issued in approx 2018 and as of 2023, H#### plates were in use. 
+
+
+=== Trailer registration plates ===
+
+Since 2019, certain trailers that are being used internationally must be registered with the Driver and Vehicle Licensing Agency (DVLA) and display a unique registration number. This applies to:
+
+all commercial use trailers that weigh over 750 kg in gross weight
+all non-commercial use trailers that weigh over 3,500 kg in gross weight
+These trailers only need to be registered if they are travelling through a country abroad that has signed up to the 1968 Vienna Convention on Road Traffic. To date, the Republic of Ireland, Malta, Spain and Cyprus have not yet signed up to this convention. Once a trailer has been registered with the DVLA, it will be allocated a unique registration number that must be displayed on the trailer. These registration numbers are a way of identifying UK-registered trailers that are being driven internationally. This will help to ensure ease of travel while abroad. The format of the trailer registration number is one letter followed by seven numbers, which are set out over two lines.
+Trailer registration numbers must be correctly displayed on number plates as set out in the Trailer Registration Regulations 2018. These regulations govern how trailer registration number plates are designed and displayed. It is an offence for the registration number to be obscured in any way that makes it difficult to read. For example, one should not use fixing bolts to change the letter or any of the numbers. Anyone who has a number plate that does not display the registration number correctly could be fined up to £1,000.
+
+
+=== Diplomatic vehicle registration plates ===
+
+Since 1979, cars operated by foreign embassies, high commissions, consulates and international organisations are issued unique vehicle registration marks. Eligible officials are required to be accredited by the Foreign & Commonwealth Office (FCO) who liaise with Specialist Registrations at the Driver & Vehicle Licensing Agency (DVLA) for issuance. Guidance document: INF267 (4/18) has been produced by the DVLA for accredited officials.
+The distinguishing format is three digits, space, letter D or X, space and three digits. The first three-digit number identifies the country or international organisation. The second three-digit number is a serial number sequence starting at 101 for diplomats, 400 for non-diplomatic staff of international organisations, and 700 upwards for consular or other non-diplomatic staff. For example: 101 D 101 identifies the first registration allocated to the Afghanistan embassy and 900 X 400 is a registration allocated to the Commonwealth Secretariat.
+
+Honorary consuls are not entitled under UK law to diplomatic vehicle registrations and/or diplomatic driving permits.
+A limited number of "flag" registrations, bearing a similar format to earlier civilian registrations, have been issued to embassies and high commissions for use instead of a "D" or "X" registration on its vehicles. For example: United States' embassy is allowed to use the registration USA 1; Zimbabwe's embassy ZIM 1; Jamaica's high commission JAM 1 and South Korea's embassy ROK 1 – 'Republic of Korea'. The North Korean embassy, however, had to buy a vanity plate: PRK 1D.
+Diplomats are exempt from payment of vehicle tax.
+
+
+=== Cherished marks (personal, vanity or private number plates) ===
+By default, a UK registration plate will accompany a vehicle throughout the vehicle's lifetime. There is no requirement to re-register a vehicle when moving to a new part of the country and no requirement that the number be changed when ownership of the vehicle changes. It is, however, possible for another registration number to be transferred, replacing the one originally issued, where owners wish to have a "vanity plate" (sometimes also referred to as a cherished, private or personalised registration/number plate) displaying, for instance, their initials. Registration numbers may also be replaced simply to disguise the actual age of the vehicle.
+According to information on the government DVLA website:
+"Just remember you can make your vehicle look as old as you wish but you can not make it look newer than it is. For example you cannot put a Y registration number on a T registered vehicle but you could choose any prefix range from an A to a T. Each registration has an issue date which is what you must check to ensure you don't make your vehicle appear newer than it is." However, one is able to put 1955 registered private number plates on a 1949 registered vehicle as there is no year indicator to determine the age of release.
+As many vehicles registered before 1963 have been scrapped, some of their "dateless" pre-1963 registration numbers have been transferred to other vehicles and used as personalised number plates. They can be valuable, and can also be used to conceal the age of an older vehicle. Many vintage and classic cars no longer bear their original index marks due to the owners being offered high premiums for the desirable registrations. In addition Northern Irish registrations are also regarded as "dateless" and are often transferred to vehicles outside Northern Ireland. Touring coaches often operate in other parts of the UK with registration numbers originally issued in Northern Ireland.
+The DVLA's Personalised and private Registrations service also allows the purchase and transfer of registration numbers directly from the DVLA. Many private dealers act as agents for DVLA issues (and sell DVLA numbers for more than the DVLA asking price, which many buyers do not realise); however, dealers also hold their own private stock of dateless registrations and other cherished marks which are not available from the DVLA. The DVLA can only offer for sale registrations that have never previously been issued and thus have a limited offering and limited scope. The DVLA do not buy or sell previously issued registrations.
+
+
+=== Banned and withdrawn number plate combinations ===
+Over the years many combinations have been withdrawn from issue by the DVLA to avoid offence. KKK, ASS, GOD, BUM, SEX, and also COVID-19-related number plates such as 'CO22 ONA', 'CO22 RNA', and 'CO22 VD?' were all withdrawn.
+
+
+=== UK personalised and private number plate dealers ===
+There are many dealers that have emerged in the UK, buying and selling personalised/private number plates. In the days before the Internet, dealers would advertise lists of plates in publications such as The Sunday Times, Exchange and Mart and Auto Trader. Obviously space would be limited and costly. Nowadays dealers have websites which of course have huge databases and access to millions of personalised number plates. Some dealers hold their own stock, advertise DVLA stock and sell on behalf of the public via agency basis. There are trade associations/governing bodies such as the CNDA (the Cherished Numbers Dealers Association), MIRAD (Members Institute Registration Agents & Dealers) and the CNG (the Cherished Numbers Guild). Most dealers are members of at least one association with an aim to enhance customer confidence. Members are advised of government and DVLA changes, sometimes members oppose changes.
+A brief definition of labels used: a "private number plate" would generally be one that is not personal to the user, an example would be XX11 or OO 11 (although unlikely initials, they might still be attractive and very different from the standard issue). A "personalised number plate" would be personal to the user or driver, the driver's name or initials, examples being S1 MON or SH 1. The term "cherished number plate" is less used than in previous years.
+
+
+=== State vehicles used by the reigning monarch ===
+Motor cars used by the reigning monarch on official business, which are (as of 2017) all Rolls-Royces or Bentleys built to special specifications, do not carry number plates. The monarch's private vehicles carry number plates.
+
+
+=== Other registration plates ===
+Tax free export in 1970s had red borders around the plate (the yellow/white plates).  The Black and Silver plates had a yellow border (the standard plate had a white border).
+United Kingdom American Exchange plates had the prefix "UKAX".
+Some Republic of Ireland number plates have been registered in various motor tax offices in the UK. These plates dated from 1903 to 1986 and the UK practice of non-reregistration was discontinued in 1990. For example, VIP 1 was originally registered to a Jaguar in Co. Kilkenny (IP) Ireland in 1971 and then was on a Rolls-Royce Corniche owned by former Chelsea Football Club owner Roman Abramovich. Some UK embassy vehicles have I or Z in their number plates e.g. CZE (Dublin) 1, PHI (Tipperary) 1, which have originated in the Irish system. Vehicles registered in Ireland under the new system (87 onwards) and which are exported to the UK must de-register their new Irish county (or in many cases, their Irish export ZZ 5 digit plate) with the DVLA who will issue them with a new UK number.
+
+
+== Fraudulent use ==
+Criminals sometimes use copies of number plates legitimately used on a vehicle of identical type and colour to the one used, known as "cloning", to avoid being identified. A routine police computer check shows the plate matching the type of vehicle and does not appear suspicious.
+The UK Government introduced on 1 August 2008 regulations requiring the production of personal identification and vehicle registration documents when having number plates made by a retailer. The organisation that makes the plate is required to display their name and postcode, usually in small print at bottom centre, to aid in tracing false plates and their purchaser. This requirement was introduced in 2001 when the new character style and two-digit year identifier came into force, and applies to all registration plates made after that date regardless of the year of the vehicle.
+
+
+== Registration plate suppliers ==
+Number plates were initially made by the motor vehicle's original supplier, and replacement plates meeting standards could be made by anybody. Some people had street address numbers made up to motor-vehicle standards for their houses. From 2001, plates sold in England and Wales had to be provided by a supplier on the DVLA's Register of Number Plate Suppliers (RNPS) as specified in British Standard BSAU145d. The supplier needs to confirm that the customer is the registered keeper or other authorised person and verify their identity. The name and postcode of the supplier must be shown at the bottom of the plate. Number plates in the UK are usually flat and made of plastic; embossed aluminium plates are available from some suppliers. These rules are generally described as onerous, particularly to company car drivers who do not hold any of the required paperwork themselves (such items usually being stored by a fleet manager or lease hire company).
+Registered number plate suppliers must keep records including the documents produced by their customers; these can be required to be shown to the police, although that has seldom happened. The Department for Transport holds a full list of suppliers.
+Some companies, particularly those based online, sell number plates described as "show plates" or "not for road use", which may not satisfy the requirements of BSAU145e. However, if so specified, these products can be identical to number plates sold by approved RNPS registered supplier. Many of these companies do not ask customers to prove ownership of the registration they are purchasing, and try to circumvent the law by placing disclaimers on their websites. Despite these disclaimers, it is still not legal to produce any registration plates without seeing proof of identity of the purchaser (such as a driving licence), and proof of their connection to the registration (such as a V5C or retention certificate).
+
+
+== Registration plate styles ==
+The British Standards BSAU145a through to BSAU145d did not necessarily state the type of materials which were needed to manufacture UK registration plates. Some manufacturers opted for metallic materials; however, as technology advanced, most switched to the use of plastics. In the earlier days, the characters of number plates were raised. Manufacturers would produce digits made from metal as well as plastic, and these would be fastened to the flat substrate using methods such as riveting. Metal press technology also improved, meaning that the plate could be made from a single sheet of aluminium, or an aluminium blend, on which dies would be used to press the shape of the characters.
+Material and equipment costs led to the development of the flat plastic plate which had a reflective backing. Transfers would then be lined up on to the reflective material, and then a plastic sheet would be laminated on top, encapsulating the characters in place. This was still a labour-intensive method, and required an artistic eye to ensure the digits were not misaligned.
+Further advances in the field saw modifications being made to thermal printers in order to print the registration mark directly on to the reflective backing sheet.
+
+
+== See also ==
+Vehicle Excise Duty
+Vehicle registration plate
+Vehicle registration plates of the British Overseas Territories
+European vehicle registration plate
+Vehicle registration plates of the Bailiwick of Guernsey
+Vehicle registration plates of Jersey
+Vehicle registration plates of the Isle of Man
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to License plates of the United Kingdom at Wikimedia Commons

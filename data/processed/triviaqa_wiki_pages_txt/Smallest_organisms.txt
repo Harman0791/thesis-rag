@@ -1,0 +1,246 @@
+The smallest organisms found on Earth can be determined according to various aspects of organism size, including volume, mass, height, length, or genome size.
+Given the incomplete nature of scientific knowledge, it is possible that the smallest organism is undiscovered. Furthermore, there is some debate over the definition of life, and what entities qualify as organisms; consequently the smallest known organisms (microrganisms) may be nanobes that can be 20 nanometers long.
+
+
+== Microorganisms ==
+
+
+=== Obligate endosymbiotic bacteria ===
+The genome of Nasuia deltocephalinicola, a symbiont of the European pest leafhopper, Macrosteles quadripunctulatus, consists of a circular chromosome of 112,031 base pairs.
+The genome of Nanoarchaeum equitans is 491 Kbp long.
+
+
+=== Pelagibacter ubique ===
+
+Pelagibacter ubique is one of the smallest known free-living bacteria, with a length of 370 to 890 nm (0.00037 to 0.00089 mm) and an average cell diameter of 120 to 200 nm (0.00012 to 0.00020 mm). They also have the smallest free-living bacterium genome: 1.3 Mbp, 1354 protein genes, 35 RNA genes. They are one of the most common and smallest organisms in the ocean, with their total weight exceeding that of all fish in the sea.
+
+
+=== Mycoplasma genitalium ===
+Mycoplasma genitalium, a parasitic bacterium which lives in the primate bladder, waste disposal organs, genital, and respiratory tracts, is thought to be the smallest known organism capable of independent growth and reproduction. With a size of approximately 200 to 300 nm, M. genitalium is an ultramicrobacterium, smaller than other small bacteria, including rickettsia and chlamydia. However, the vast majority of bacterial strains have not been studied, and the marine ultramicrobacterium Sphingomonas sp. strain RB2256 is reported to have passed through a 220 nm (0.00022 mm) ultrafilter. A complicating factor is nutrient-downsized bacteria, bacteria that become much smaller due to a lack of available nutrients.
+
+
+=== Nanoarchaeum ===
+
+Nanoarchaeum equitans is a species of microbe 200 to 500 nm (0.00020 to 0.00050 mm) in diameter. It was discovered in 2002 in a hydrothermal vent off the coast of Iceland by Karl Stetter.  A thermophile that grows in near-boiling temperatures, Nanoarchaeum appears to be an obligatory symbiont on the archaeon Ignicoccus; it must be in contact with the host organism to survive. Guinness World Records recognizes Nanoarchaeum equitans as the smallest living organism.
+
+
+=== Single-celled eukaryotes (protists) ===
+Prasinophyte algae of the genus Ostreococcus are the smallest free-living eukaryote. The single cell of an Ostreococcus measures 800 nm (0.00080 mm) across.
+
+
+==== Heliozoa ====
+The Erebor lineage of Microheliella maris is the smallest known heliozoan with an average cell body diameter of 2.56 μm.
+
+
+==== Diatoms ====
+The smallest diatoms with diameters as small as 1.9 μm can be found in the genera Mediolabrus and Minidiscus. Mediolabrus comicus is the smallest known marine diatom.
+
+
+=== Viruses ===
+Some biologists consider viruses to be non-living because they lack a cellular structure and cannot metabolize or reproduce by themselves, requiring a host cell to replicate and synthesize new products. Some hold that, because viruses do have genetic material and can employ the metabolism of their host, they can be considered organisms. Also, an emerging concept that is gaining traction among some virologists is that of the virocell, in which the actual phenotype of a virus is the infected cell, and the virus particle (or virion) is merely a reproductive or dispersal stage, much like pollen or a spore.
+The smallest viruses in terms of genome size are single-stranded DNA (ssDNA) viruses. Perhaps the most famous is the bacteriophage Phi-X174 with a genome size of 5,386 nucleotides. However, some ssDNA viruses can be even smaller. For example, Porcine circovirus type 1 has a genome of 1,759 nucleotides and a capsid diameter of 17 nm (1.7×10−5 mm). As a whole, the viral family geminiviridae is about 30 nm (3.0×10−5 mm) in length. However, the two capsids making up the virus are fused; divided, the capsids would be 15 nm (1.5×10−5 mm) in length. Other environmentally characterized ssDNA viruses such as CRESS DNA viruses, among others, can have genomes that are considerably less than 2,000 nucleotides.
+The smallest RNA virus in terms of genome size is phage BZ13 strain T72 at 3,393 nucleotides length.  Viruses using both DNA and RNA in their replication (retroviruses) range in size from 7,040 to 12,195 nucleotides.  The smallest double-stranded DNA viruses are the hepadnaviruses such as hepatitis B, at 3.2 kb and 42 nm (4.2×10−5 mm); parvoviruses have smaller capsids, at 18–26 nm (1.8×10−5–2.6×10−5 mm), but larger genomes, at 5 kb. It is important to consider other self-replicating genetic elements, such as obelisks, ribozymes, satelliviruses and viroids.
+
+
+== Animals (Animalia) ==
+Several species of Myxozoa (obligately parasitic cnidarians) never grow larger than 20 μm (0.020 mm). One of the smallest species (Myxobolus shekel) is no more than 8.5 μm (0.0085 mm) when fully grown, making it the smallest known animal.
+
+
+=== Molluscs (Mollusca) ===
+
+
+==== Bivalvia ====
+The shell of the nut clam Condylonucula maya grows 0.54 mm (0.021 in) long.
+
+
+==== Gastropods (Gastropoda) ====
+
+The smallest water snail (of all snails) is Ammonicera minortalis in North America, originally described from Cuba. It measures 0.32 to 0.46 mm (0.013 to 0.018 in).
+The smallest land snail is Acmella nana. Discovered in Borneo, and described in November 2015, it measures 0.7 mm (0.028 in). The previous record was that of Angustopila dominikae from China, which was reported in September 2015. This snail measures 0.86 mm (0.034 in).
+
+
+==== Cephalopods (Cephalopoda) ====
+
+Maximites was the smallest known ammonoid. Adult specimens reached only 10 mm (0.39 in) in shell diameter.
+
+
+=== Arthropods (Arthropoda) ===
+The smallest arthropods are mites Cochlodispus minimus of the family Microdispidae. The body length of the smallest measured individual was 79 μm (0.079 mm).
+
+
+==== Crustaceans (Crustacea) ====
+The smallest crustaceans belong to the class Tantulocarida. The single smallest species may be Tantulacus dieteri,  with a total body length of only 85 micrometres (0.0033 in). Another candidate is Stygotantulus stocki, with a length of 94 micrometres (0.0037 in).
+
+
+==== Arachnids (Arachnida) ====
+There is a debate about which spider is smallest. According to Guinness World Records, "Two contenders are from the Symphytognathidae genus Patu: males of Patu digua described in Colombia had a body length of 0.37 millimetres (0.015 inches), while the Samoan moss spider (P. marplesi) could be as small as 0.4 millimetres (0.016 inches) long." Other possible smallest spider species are the Frade cave spider known as Anapistula ataecina, and the dwarf orb weaver (Anapistula caecula), the females of which are 0.43 mm (0.017 in) and 0.48 mm (0.019 in) respectively. Males of both species are potentially smaller than the females, but no male A. ataecina or A. caecula have been measured yet.
+Cochlodispus minimus is the smallest mite. An adult individual measured with a body length of 79 μm (0.079 mm).
+
+
+==== Insects (Insecta) ====
+Adult males of the parasitic wasp Dicopomorpha echmepterygis can be as small as 139 μm (0.139 mm) long, smaller than some species of protozoa (single-cell creatures); females are 40% larger. Megaphragma caribea from Guadeloupe, measuring 170 μm (0.17 mm) long, is another contender for smallest known insect in the world.
+Beetles of the tribe Nanosellini are all less than 1 mm (0.039 in) long; the smallest confirmed specimen is of Scydosella musawasensis at 325 μm (0.325 mm) long; a few other nanosellines are reportedly smaller, in historical literature, but none of these records have been confirmed using accurate modern tools. These are among the tiniest non-parasitic insects.
+
+The western pygmy blue (Brephidium exilis) is one of the smallest butterflies in the world, with a wingspan of about 1 cm (0.39 in).
+
+
+=== Echinoderms (Echinodermata) ===
+The smallest sea cucumber, and also the smallest echinoderm, is Psammothuria ganapati, a synaptid that lives between sand grains on the coast of India. Its maximum length is 4 mm (0.16 in).
+
+
+==== Sea urchins ====
+The smallest sea urchin, Echinocyamus scaber, has a test 6 mm (0.24 in) across.
+
+
+==== Starfish ====
+Patiriella parvivipara is the smallest starfish, at 5 mm (0.20 in) across.
+
+
+=== Fish ===
+
+One of the smallest vertebrates and the smallest fish based on the minimum size at maturity is Paedocypris progenetica from Indonesia, with mature females measuring as little as 7.9 mm (0.31 in) in standard length. This fish, a member of the carp family, has a translucent body and a head unprotected by a skeleton.
+One of the smallest fish based on the minimum size at maturity is Schindleria brevipinguis from Australia, their females reach 7 mm (0.28 in) and males 6.5 mm (0.26 in). Males of S. brevipinguis have an average standard length of 7.7 mm (0.30 in); a gravid female was 8.4 mm (0.33 in). This fish, a member of the goby family, differs from similar members of the group in having its first anal fin ray further forward, under dorsal fin 4.
+Male individuals of the anglerfish species Photocorynus spiniceps have been documented to be 6.2–7.3 mm (0.24–0.29 in) at maturity, and thus claimed to be a smaller species. However, these survive only by sexual parasitism and the female individuals reach the significantly larger size of 50.5 mm (1.99 in).
+
+
+=== Amphibians (Amphibia) ===
+
+
+==== Frogs and toads (Anura) ====
+
+The smallest vertebrate (and smallest amphibian) known is Brachycephalus pulex, a Brazilian flea toad, with a minimum adult snout–vent length of 6.45 millimetres (0.254 in). Brachycephalus dacnis is similarly tiny, with a minimum adult length of 6.95 millimetres (0.274 in). Other very small frogs include:
+
+Paedophryne amauensis from Papua New Guinea, ranging in length from 7.0–8.0 mm (0.28–0.31 in), and 7.7 mm (0.30 in) on average.
+Brachycephalus didactylus from Brazil (reported as 9.6–9.8 mm (0.38–0.39 in))
+several species of Eleutherodactylus such as E. iberia (around 10 mm (0.39 in)), E. limbatus (8.5–12 mm (0.33–0.47 in)), and Eleutherodactylus orientalis (12.5 mm (0.49 in)) from Cuba,
+Gardiner's Frog Sechellophryne gardineri from the Seychelles (up to 11 mm (0.43 in)),
+several species of Stumpffia such as S. tridactyla (8.6–12 mm (0.34–0.47 in)) and S. pygmaea (males 10–12.5 mm (0.39–0.49 in); females: 11 mm (0.43 in))
+Wakea madinika (males: 11–13 mm (0.43–0.51 in); females: 15–16 mm (0.59–0.63 in)) from Madagascar.
+The two species Microhyla borneensis (males: 10.6–13 mm (0.42–0.51 in); females: 16–19 mm (0.63–0.75 in)) and Arthroleptella rugosa (males: 11.9–14.1 mm (0.47–0.56 in); females: 15.5 mm (0.61 in)) were once the smallest known frogs from the Old World. In general these extremely small frogs occur in tropical forest and montane environments. There is relatively little data on size variation among individuals, growth from metamorphosis to adulthood or size variation among populations in these species. Additional studies and the discovery of further minute frog species are likely to change the rank order of this list.
+
+
+==== Salamanders, newts and allies (Urodela) ====
+The average snout-to-vent length (SVL) of several specimens of the salamander Thorius arboreus was 17 mm (0.67 in).
+
+
+=== Sauropsids (Sauropsida) ===
+
+
+==== Lizards and snakes (Squamata) ====
+
+The miniature chameleon Brookesia nana, with a snout-vent length of 13.5 mm (0.53 in), may represent the smallest known lizard and smallest reptile.
+The dwarf gecko (Sphaerodactylus ariasae) is also one of the smallest known reptile species, with a snout-vent length of 16 millimetres (0.63 in). S. ariasae was first described in 2001 by the biologists Blair Hedges and Richard Thomas. This dwarf gecko lives in Jaragua National Park in the Dominican Republic and on Beata Island (Isla Beata), off the southern coast of the Dominican Republic. A few Brookesia chameleons from Madagascar are equally small, with a reported snout-vent length of 15–18 mm (0.59–0.71 in) for male dwarf chameleons (B. minima), 14–19 mm (0.55–0.75 in) for male Mount d'Ambre leaf chameleons (B. tuberculata) and 15–16 mm (0.59–0.63 in) for male B. micra, though females are larger.
+
+One of the smallest known snakes  is the recently discovered Barbados threadsnake (Leptotyphlops carlae). Adults average about 10 cm (4 in) long, which is only about twice as long as the hatchlings. The common blind snake (Indotyphlops braminus) measures 5.1–10.2 cm (2–4 in) long, occasionally up to 15 cm (6 in) long.
+
+
+==== Turtles and tortoises (Testudines) ====
+The smallest turtle is the speckled padloper tortoise (Homopus signatus) from South Africa. The males measure 6–8 cm (2.4–3.1 in), while females measure up to almost 10 cm (3.9 in).
+
+
+=== Archosaurs (Archosauria) ===
+
+
+==== Crocodiles and close relatives (Crocodylomorpha) ====
+The smallest extant crocodilian is the Cuvier's dwarf caiman (Paleosuchus palpebrosus) from northern and central South America. It reaches up to 1.6 m (5.2 ft) in length.
+Some extinct crocodylomorphs were even smaller. Fully grown Bernissartia from the Early Cretaceous reached a bit more than 60 cm (24 in) in length.
+The Early Cretaceous terrestrial notosuchian Malawisuchus was no more than 60 cm (24 in) long. Other small notosuchians include Anatosuchus at 70 cm (28 in) and herbivorous Simosuchus at 75 cm (30 in).
+
+
+==== Pterosaurs (Pterosauria) ====
+
+Nemicolopterus was the smallest pterosaur, it reached about 25 cm (9.8 in) in wingspan.
+
+
+==== Non-avian dinosaurs (Dinosauria) ====
+
+Sizes of non-avian dinosaurs are commonly labelled with a level of uncertainty, as the available material often (or even usually) is incomplete. The smallest known extinct non-avian dinosaur is Anchiornis, a genus of feathered dinosaur that lived in what is now China during the Late Jurassic Period 160 to 155 million years ago. Adult specimens range from 34 cm (13 in) long, and the weight has been estimated at up to 110 g (3.9 oz). Parvicursor was initially seen as one of the smallest non-avian dinosaurs known from an adult specimen, at 39 cm (15 in) in length, and 162 g (5.7 oz) in weight. However, in 2022 its holotype was concluded to represent a juvenile individual. Epidexipteryx reached 25–30 cm (9.8–11.8 in) in length and 164–220 g (5.8–7.8 oz) in weight.
+
+
+==== Birds (Aves) ====
+
+With a mass of approximately 1.95 grams (0.069 oz) and a length of 5.5 centimetres (2.2 inches), the bee hummingbird (Mellisuga helenae) is the smallest known dinosaur as well as the smallest bird species, and the smallest warm-blooded vertebrate. Called the zunzuncito in its native habitat on Cuba, it is lighter than a Canadian or U.S. penny. It is said that it is "more apt to be mistaken for a bee than a bird". The bee hummingbird eats half its total body mass and drinks eight times its total body mass each day. Its nest is 3 cm (1.2 in) across.
+The smallest waterfowl is the pygmy goose (Nettapus). African species reaches the average weight of about 285 grams (10.1 oz) for males and 260 grams (9.2 oz) for females and length of single wing between 142 millimetres (5.6 in) and 165 millimetres (6.5 in). The second smallest waterfowl is the extinct Mioquerquedula from the Miocene.
+The smallest penguin species is the little blue penguin (Eudyptula minor), which stands around 30–33 cm (12–13 in) tall and weighs 1.2–1.3 kg (2.6–2.9 lb).
+The smallest bird of prey is the black-thighed falconet (Microhierax fringillarius), with a wingspan of 27–32 centimetres (11–13 in), roughly the size of a sparrow.
+
+
+=== Non-mammalian synapsids (Synapsida) ===
+The smallest Mesozoic mammaliaform was Hadrocodium with a skull of 1.5 cm (0.59 in) in length and a body mass of 2 g (0.071 oz).
+
+
+=== Mammals (Mammalia) ===
+
+
+==== Marsupials (Marsupialia) ====
+
+The smallest marsupial is the long-tailed planigale from Australia. It has a body length of 110–130 millimetres (4.3–5.1 in) (including tail) and weighs 4.3 grams (0.15 oz) on average. The Pilbara ningaui is considered to be of similar size and weight.
+
+
+==== Shrews (Eulipotyphla) ====
+
+The Etruscan shrew (Suncus etruscus), is the smallest mammal by mass, weighing about 1.8 g (0.063 oz) on average. The smallest mammal that ever lived, the shrew-like Batodonoides vanhouteni, weighed 1.3 grams (0.046 oz).
+
+
+==== Bats (Chiroptera) ====
+The Kitti's hog-nosed bat (Craseonycteris thonglongyai), also known as the bumblebee bat, from Thailand and Myanmar is the smallest mammal, at 29–33 millimetres (1.1–1.3 in) in length and 2 grams (0.071 oz) in weight.
+
+
+==== Carnivorans (Carnivora) ====
+The smallest member of the order Carnivora is the least weasel (Mustela nivalis), with an average body length of 114–260 mm (4.5–10.2 in). It weighs between 29.5–250 g (1.04–8.82 oz) with females being lighter.
+
+
+==== Rodents (Rodentia) ====
+The smallest known member of the rodent order is the Baluchistan pygmy jerboa, with an average body length of 3.8 cm (1.5 in).
+
+
+==== Primates (Primates) ====
+The smallest member of the primate order is Madame Berthe's mouse lemur (Microcebus berthae), found in Madagascar, with an average body length of 9.2 cm (3.6 in).
+
+
+==== Cetaceans (Cetacea) ====
+The smallest cetacean, which is also (as of 2006) the most endangered, is the vaquita, a species of porpoise. Male vaquitas grow to an average of around 135 cm (53 in); the females are slightly longer, averaging about 141 cm (56 in) in length.
+
+
+== Embryophytes (Embryophyta) ==
+
+
+=== Gymnosperms (Gymnospermae) ===
+Zamia pygmaea is a cycad found in Cuba, and the smallest known gymnosperm. It grows to a height of 25 cm (10 in).
+
+
+=== Angiosperms (Angiospermae) ===
+
+Duckweeds of the genus Wolffia are the smallest angiosperms. Fully grown, they measure 300 by 600 μm (0.30 by 0.60 mm) and reach a mass of just 150 μg.
+
+
+==== Dicotyledons ====
+The smallest known dicotyledon plant is the Himalayan dwarf mistletoe (Arceuthobium minutissimum). Shoots grow up to 5 mm (0.20 in) in height.
+
+
+== Other ==
+
+
+=== Nanobes ===
+Nanobes are thought by some scientists to be the smallest known organisms, about one tenth the size of the smallest known bacteria. Nanobes, tiny filamental structures first found in some rocks and sediments, were first described in 1996 by Philippa Uwins of the University of Queensland, but it is unclear what they are, and if they are alive.
+
+
+== See also ==
+Largest organisms
+Largest prehistoric organisms
+Candidatus Sukunaarchaeum mirabile
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Other references ==
+Heptner, V. G.; Sludskii, A. A. (2002). Mammals of the Soviet Union. Vol. II, part 1b, Carnivores (Mustelidae and Procyonidae). Washington, D.C. : Smithsonian Institution Libraries and National Science Foundation. ISBN 90-04-08876-8.
+Brownell, Robert L.; Findley, Lloyd T.; Vidal, Omar; Robles, Alejandro; et al. (1987). "External Morphology and Pigmentation of the Vaquita, Phocoena Sinus (cetacea: Mammalia)". Marine Mammal Science. 3 (1): 22–30. Bibcode:1987MMamS...3...22B. doi:10.1111/j.1748-7692.1987.tb00149.x. ISSN 1748-7692.
+
+
+== External links ==
+Featherwing beetles on the UF / IFAS Featured Creatures Web site

@@ -1,0 +1,109 @@
+Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements, but also for functional groups, chemical compounds, and other entities. Element symbols for chemical elements, also known as atomic symbols, normally consist of one or two letters from the Latin alphabet and are written with the first letter capitalised.
+
+
+== History ==
+Earlier symbols for chemical elements stem from classical Latin and Greek words. For some elements, this is because the material was known in ancient times, while for others, the name is a more recent invention. For example, Pb is the symbol for lead (plumbum in Latin); Hg is the symbol for mercury (hydrargyrum in Greek); and He is the symbol for helium (a Neo-Latin name) because helium was not known in ancient Roman times. Some symbols come from other sources, like W for tungsten (Wolfram in German) which was not known in Roman times.
+A three-letter temporary symbol may be assigned to a newly synthesized (or not yet synthesized) element. For example, "Uno" was the temporary symbol for hassium (element 108) which had the temporary name of unniloctium, based on the digits of its atomic number. There are also some historical symbols that are no longer officially used.
+
+
+== Extension of the symbol ==
+
+In addition to the letters for the element itself, additional details may be added to the symbol as superscripts or subscripts a particular isotope, ionization, or oxidation state, or other atomic detail. A few isotopes have their own specific symbols rather than just an isotopic detail added to their element symbol.
+Attached subscripts or superscripts specifying a nuclide or molecule have the following meanings and positions:
+
+The nucleon number (mass number) is shown in the left superscript position (e.g., 14N). This number defines the specific isotope. Various letters, such as "m" and "f" may also be used here to indicate a nuclear isomer (e.g., 99mTc). Alternately, the number here can represent a specific spin state (e.g., 1O2). These details can be omitted if not relevant in a certain context.
+The proton number (atomic number) may be indicated in the left subscript position (e.g., 64Gd). The atomic number is redundant to the chemical element, but is sometimes used to emphasize the change of numbers of nucleons in a nuclear reaction.
+If necessary, a state of ionization or an excited state may be indicated in the right superscript position (e.g., state of ionization Ca2+).
+The number of atoms of an element in a molecule or chemical compound is shown in the right subscript position (e.g., N2 or Fe2O3). If this number is one, it is normally omitted - the number one is implicitly understood if unspecified.
+A radical is indicated by a dot on the right side (e.g., Cl• for a neutral chlorine atom). This is often omitted unless relevant to a certain context because it is already deducible from the charge and atomic number, as generally true for nonbonded valence electrons in skeletal structures.
+Many functional groups also have their own chemical symbol, e.g. Ph for the phenyl group, and Me for the methyl group.
+A list of current, dated, as well as proposed and historical signs and symbols is included here with its signification. Also given is each element's atomic number, atomic weight, or the atomic mass of the most stable isotope, group and period numbers on the periodic table, and etymology of the symbol.
+
+
+== Symbols for chemical elements ==
+
+
+== Symbols and names not currently used ==
+
+The following is a list of symbols and names formerly used or suggested for elements, including symbols for placeholder names and names given by discredited claimants for discovery.
+
+
+=== Systematic chemical symbols ===
+These symbols are based on systematic element names, which are now replaced by trivial (non-systematic) element names and symbols. Data is given in order of: atomic number, systematic symbol, systematic name; trivial symbol, trivial name.
+
+101: Unu, unnilunium; Md, mendelevium.
+102: Unb, unnilbium; No, nobelium.
+103: Unt, unniltrium; Lr, lawrencium.
+104: Unq, unnilquadium; Rf, rutherfordium.
+105: Unp, unnilpentium; Db, dubnium.
+106: Unh, unnilhexium; Sg, seaborgium.
+107: Uns, unnilseptium; Bh, bohrium.
+108: Uno, unniloctium; Hs, hassium.
+109: Une, unnilennium; Mt, meitnerium.
+110: Uun, ununnilium; Ds, darmstadtium.
+111: Uuu, unununium; Rg, roentgenium.
+112: Uub, ununbium; Cn, copernicium.
+113: Uut, ununtrium; Nh, nihonium.
+114: Uuq, ununquadium; Fl, flerovium.
+115: Uup, ununpentium; Mc, moscovium.
+116: Uuh, ununhexium; Lv, livermorium.
+117: Uus, ununseptium; Ts, tennessine.
+118: Uuo, ununoctium; Og, oganesson.
+When elements beyond oganesson (starting with ununennium, Uue, element 119), are discovered; their systematic name and symbol will presumably be superseded by a trivial name and symbol.
+
+
+=== Alchemical symbols ===
+
+The following ideographic symbols were used in alchemy to denote elements known since ancient times. Not included in this list are spurious elements, such as the classical elements fire and water or phlogiston, and substances now known to be compounds. Many more symbols were in at least sporadic use: one early 17th-century alchemical manuscript lists 22 symbols for mercury alone.
+Planetary names and symbols for the metals – the seven planets and seven metals known since Classical times in Europe and the Mideast – was ubiquitous in alchemy. The association of what are anachronistically known as planetary metals started breaking down with the discovery of antimony, bismuth and zinc in the 16th century. Alchemists would typically call the metals by their planetary names, e.g. "Saturn" for lead and "Mars" for iron; compounds of tin, iron and silver continued to be called "jovial", "martial" and "lunar"; or "of Jupiter", "of Mars" and "of the moon", through the 17th century. The tradition remains today with the name of the element mercury, where chemists decided the planetary name was preferable to common names like "quicksilver", and in a few archaic terms such as lunar caustic (silver nitrate) and saturnism (lead poisoning).
+
+
+=== Daltonian symbols ===
+
+The following symbols were employed by John Dalton in the early 1800s as the periodic table of elements was being formulated. Not included in this list are symbols for compounds, such as certain rare-earth mineral blends. Modern alphabetic notation was introduced in 1814 by Jöns Jakob Berzelius; its precursor can be seen in Dalton's circled letters for the metals, especially in his augmented table from 1810.
+A trace of Dalton's conventions also survives in ball-and-stick models of molecules, where balls for carbon are black and for oxygen red.
+
+
+== Symbols for named isotopes ==
+The following is a list of isotopes which have been given unique symbols. This is not a list of current systematic symbols (in the uAtom form); such a list can instead be found in Template:Navbox element isotopes. The symbols for isotopes of hydrogen, deuterium (D) and tritium (T), are still in use today, as is thoron (Tn) for radon-220 (though not actinon; usually instead referring to a generic actinide). Heavy water and other deuterated solvents are commonly used in chemistry, and it is convenient to use a single character rather than a symbol with a subscript in these cases. The practice also continues with tritium compounds. When the name of the solvent is given, a lowercase d is sometimes used. For example, d6-benzene or C6D6 can be used instead of C6[2H6].
+The symbols for isotopes of elements other than hydrogen and radon are no longer used in the scientific community. Many of these symbols were designated during the early years of radiochemistry, and several isotopes (namely those in the decay chains of actinium, radium, and thorium) bear placeholder names using the early naming system devised by Ernest Rutherford.
+
+
+== Other symbols ==
+
+In Chinese, each chemical element has a dedicated character, usually created for the purpose (see Chemical elements in East Asian languages). However, in Chinese Latin symbols are also used, especially in formulas.
+General:
+
+From organic chemistry:
+
+From organometallic chemistry:
+
+Exotic atoms:
+
+Hazard pictographs are another type of symbols used in chemistry.
+
+
+== See also ==
+List of chemical elements naming controversies
+List of elements
+Nuclear notation
+
+
+== Notes ==
+
+
+== References ==
+
+Elementymology & Elements Multidict, element name etymologies. Retrieved July 15, 2005.
+Atomic Weights of the Elements 2001, Pure Appl. Chem. 75(8), 1107–1122, 2003. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers from 1–109 taken from this source.
+IUPAC Standard Atomic Weights Revised Archived 2008-03-05 at the Wayback Machine (2005).
+WebElements Periodic Table. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers 110–116 taken from this source.
+Leighton, Robert B. Principles of Modern Physics. New York: McGraw-Hill. 1959.
+Scerri, E.R. "The Periodic Table, Its Story and Its Significance". New York, Oxford University Press. 2007.
+
+
+== External links ==
+
+Berzelius' List of Elements
+History of IUPAC Atomic Weight Values (1883 to 1997)
+Committee on Nomenclature, Terminology, and Symbols Archived 2020-12-04 at the Wayback Machine, American Chemical Society

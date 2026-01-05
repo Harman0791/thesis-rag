@@ -1,0 +1,137 @@
+The Triumph Bonneville T140 is a standard motorcycle with a 750 cc (46 cu in) capacity engine that was designed and built by Triumph Engineering at Meriden near Coventry.
+The T140 was a continuation of the second generation in the Bonneville series developed from the earlier 650 cc (40 cu in) T120 Bonneville and was produced by Triumph in a number of versions, including limited editions, from 1973 until 1983 when the company was declared bankrupt, and was purchased by John Bloor. Bloor licensed production of the T140 Bonneville to Les Harris between 1985 and 1988 at Newton Abbot in Devon, these machines became known as 'Harris' or 'Devon' Bonnevilles.
+A single carburettor version, the TR7 Tiger was produced between 1973 and 1981.
+
+
+== History ==
+The 650 cc capacity production T120 Bonneville was replaced in the early 1970s by the T140 Bonneville, the same basic machine but with a 750 cc engine. Refined from the later 'oil in frame' version of the T120, the first few T140s, designated T140V, featured a larger-capacity engine of 724 cc, a five-speed gearbox and indicators, but still retaining drum brakes and kick-start. Shortly after, the engine was further bored out to 744 cc and front disc brakes were fitted (using single discs until 1982). While originally intended for 'export only', the 750 Bonneville twin caused so much interest among visitors to the 1973 motorcycle shows, that Triumph decided to put the bike on the home market at the price of 679 UK pounds. In 1975, along with engine modifications, the gearchange lever was moved from right to left to comply with new regulations mandated for the American market and a rear disc brake fitted. Several T140 models followed, featuring various modifications and refinements including electric starting from 1980 until production ceased with the closure of the Meriden works in 1983.
+Although this should have been the end of the Bonneville, as it turned out it was not. Triumph Motorcycles was acquired by businessman John Bloor, who licensed a company called Racing Spares in Devon, run by Les Harris to manufacture the T140 Bonneville. These continuation bikes are known as the 'Devon Bonnevilles', which did not reach the market until 1985, and were not sold in the U.S. Production ended in 1988.
+
+
+=== The Bonneville name ===
+
+The Bonneville name came from the achievements of Texas racer Johnny Allen on the Bonneville Salt Flats in Utah in the 1950s. The model designation of T140 continued the numbering system started by Edward Turner in 1937 with the Triumph Tiger 70, a number that was intended to advertise the machine's top speed in miles per hour.
+
+
+== Design ==
+
+
+=== Engine ===
+
+The T140 uses a 360-degree, air-cooled parallel twin layout. Gear-driven camshafts operate a single inlet and exhaust valve in each cylinder via pushrods. Twin Amal carburettors supply the cylinders with fuel/air mixture through short intake manifolds. The crankshaft drives the clutch through a triplex chain operating in an oil bath. Starting is by kick start with later versions having an electric start.
+The engine oil system is of the dry sump type, a combined pressure and scavenge oil pump is driven by the inlet camshaft gear, later versions of the T140 employed additional integral non-return valves to prevent oil draining into the sump. The frame of the T140 serves as the engine oil reservoir.
+
+
+=== Transmission ===
+The T140 uses a five-speed sequential gearbox, the gear shafts are removable from the right side of the engine without the need to split the crankcases. The clutch is of the wet, multiple-disc coil spring type and is cable operated. The gearbox is splash lubricated by its own oil contents. Early models featured a right mounted gear change lever with all later models (from August 1975) featuring a left mounted gear lever. A shock-absorbing or "cush drive" system for the chain final drive consisting of rubber blocks is unusually mounted in the clutch centre.
+
+
+=== Chassis ===
+The frame of the T140 is manufactured from mild steel tube and uses a 'duplex' layout. Twin rear adjustable shock absorbers provide suspension through a swinging arm. Sprung and oil-damped front telescopic forks are used. The 19 inch diameter front wheel and 18 inch rear wheel were spoked with optional cast alloy wheels available from 1979 onwards. The under-seat area is occupied by the battery and ignition coils.
+From 1976, the T140 had hydraulic disc brakes for both the front and rear wheels. Prior to that date, early versions were equipped with a conical hub rear drum brake. A single leading shoe rear drum brake was specified for the last Bonnevilles proposed by the Meriden factory in 1984 but the factory closed before production. From 1982, twin front brake discs were available as an option.
+
+
+=== Electrical system ===
+The T140 features a standard Lucas 12 volt electrical system, early models were positive earth with a change to negative earth from 1979 onwards. Zener diodes are used for voltage regulation. Early engines used contact breaker point ignition with electronic ignition becoming standard fitment on all Triumph's 750cc twins from 1979-on.
+
+
+== Early models 1973-1980 ==
+Note on country specifications:
+
+
+=== T140V ===
+
+The initial model of the T140 line was the 'V', which stood for five-speed transmission which was a Quaife design. Developed from the Bonneville T120 by Brian Jones, the T140V was launched in 1973 in response to a decline in sales of the T120. The introduction of the Japanese four-cylinder Honda CB750 had been noted by the Triumph management board in the late 1960s, the three-cylinder 750 cc BSA Rocket 3/Triumph Trident was developed to directly compete against it.
+The first model shared many of the T120's cycle parts and largely the same twin-cylinder engine bored out to 724 cc (44.2 cu in), but this was quickly increased to 744 cc (45.4 cu in). The cylinder head required an extra mounting stud to prevent gasket failure due to the decreased distance between the cylinder bores, the gearbox components were strengthened (compared to the T120) and were further modified when gear selection problems became apparent. A hydraulic disc brake replaced the outdated cable-operated drum brake for the front wheel.
+Problems with vibration meant that sales were slow, however, and production was heavily disrupted by the workers' occupation of the Meriden factory in 1973.  Even once this dispute was resolved, the 1974 production T140s suffered from quality control problems, but these were resolved once the workers' co-operative became established.
+
+
+=== T140J Silver Jubilee ===
+
+The 1977 T140J was launched as a limited edition of 1,000 in US and an additional 1,000 in UK specification (plus 400 for Commonwealth export) of the T140V, produced to commemorate the 1977 Silver Jubilee of Queen Elizabeth II. The idea originated with Lord Stokes who was Chairman of British Leyland and working as a consultant to the Meriden Co-operative.
+A silver finish with red and blue lining was used and was matched by a blue saddle with red beading. Primary drive, taillight housing and timing covers were chrome-plated and the wheel rim centres were painted and lined. US-version side panels had "One of a Thousand" written under Union Jack flag stickers, UK-version side panels had "Limited Edition", while the remaining 400 Commonwealth export bikes were badged "International Edition".  Quickly established as a collector's item, each machine was supplied with a unique certificate of ownership.
+
+
+=== T140E ===
+
+Launched in 1978, the letter 'E' stood for emissions compliant. This model featured a new cylinder head, redesigned Amal carburettors to meet emission regulations and shortly after production started, Lucas electronic ignition. Most 'E' models had many design improvements including new Lucas switchgear, new side panel design and passenger grabrails that incorporated a small parcel rack. There was also a 1980 T140E 'Executive' Special Edition with Sigma hard luggage, a Brearley-Smith 'Sabre' cockpit fairing and special two-tone paint.
+
+
+=== T140D Special ===
+
+Launched in 1979 and designed by Triumph's Tom Higham, the Triumph T140D Bonneville Special was a styling exercise inspired by the Yamaha XS 650 Special.  Several T140D features such as the top-mounted rear disc caliper and revised grabrail became standard on the T140E. The Bonneville Specials were finished in gold-pinstriped black with a stepped seat and seven-spoke US-made Lester mag-alloy wheels and a tuned two-into-one exhaust for the US market. The T140D had polished fork sliders and a shortened chrome mudguard fixed in place by its central bracing strip.
+
+
+=== T140ES Electro ===
+The Bonneville T140ES was the electric start or 'Electro' Bonneville. Launched in 1980 and designed at Meriden by Brian Jones, the electric starter was fitted at the rear of the timing chest where the magneto had been located on the original 1959 Bonneville T120. Optional on all Triumph models following its introduction upon the 'Executive', electric starting was however standard on all Royal Wedding, T140AV, TSS and TSX models.
+
+
+== Late models 1981-1983 ==
+
+
+=== T140AV ===
+Designed by Brian Jones and Bernard Hooper Engineering, the Bonneville T140AV, initially for police use featured an anti-vibration system, the swing arm being pivoted and attached to the engine, which was itself isolated on rubber mounts from the chassis. Engine balance was also revised. Also produced in 'Executive', TSS as well as TR7V Tiger forms, the T140AV was built between 1981 and 1983.
+
+
+=== T140LE Royal Wedding ===
+
+The T140LE stood for 'Limited Edition' and each came with an owner's certificate signed by the dealer and chairman of Triumph. Just 250 'Royal Wedding' Bonnevilles (with special finishes for the 125 US and 125 UK models) were built to commemorate the 1981 marriage of Lady Diana Spencer and Charles, Prince of Wales. The UK version had a silver-grey painted frame and black finished engine whilst the export version had grey seat top covers and a highly polished engine with silver painted barrels. Whilst both had electric starting, Bing carburettors, ULO turn indicators and Marzocchi Strada gas-oil rear shock absorbers as standard, the UK version also had American-made 'Morris' alloy wheels and twin front discs. Both versions' petrol tanks were chromed but finished differently: the 4 gallon UK tank featured a plain Triumph badge with black scallops echoing the side panel colour; the 2 gallon export tank had the old 'picture frame' Triumph badge and had gold-lined, 'smoked' blue scallops that matched the side panel colour. The fixing point for both types of tank to the frame was covered by a badge that read "Royal Wedding 1981" whilst both side panels bore the legend, 'Bonneville', 'Royal' and '1981' with stylised Prince of Wales's feathers, symbol of the Prince of Wales .
+There were also Royal Bonnevilles exported to the United States to the specification of Triumph Motorcycles America. These were like UK Royals but with black frames and gold-lined, black tanks. The stylised Prince Of Wales's feathers on their side panel badges were retained next to the word 'Royal' but the '1981' date was deleted. Their engines were finished in black like the UK version but with polished covers like the US version.
+
+
+=== T140W TSS ===
+
+The  electric-starting Triumph T140W TSS was launched in 1982 and featured an eight-valve cylinder head (derived from Weslake Engineering, hence the 'W' suffix) and a revised crankshaft designed to reduce vibration. All T140W had an electric start, the new Italian-made 4-gallon petrol tank, twin front disc brakes and Marzocchi Strada rear shock absorbers as standard with Morris alloy wheels and an anti-vibration frame as options.
+Whilst the UK/Rest of World kept the Amal Mk2 types as found on the standard 4 valve T140E, the US version had German- designed Bing carburettors that Amal made under licence in Spain.
+For 1983/4, it was envisaged, in line with the UK/Rest of World range, that the TSS-AV  would also be fitted with the anti-vibration frame, rear-set footrests, a new seat-tail unit and TSX-style side panels all as standard.
+
+
+=== T140 TSX ===
+
+Designed by Wayne Moulton of Triumph Motorcycles America, the Triumph T140 TSX was a custom-styled T140ES with a 16-inch (41 cm) rear wheel, Morris alloy wheels, stepped seat, special finish and parts. This was the only Bonneville designed by an American and to rely upon decals rather than paint to add colour. The kick starter was an optional extra as were twin front disc brakes. This version of the T140 was one of the last produced, introduced in June 1982.
+
+
+=== T140EX Executive ===
+The EX  Executive Bonneville, available in smoked colours of burgundy or blue and also black, all gold-lined, had a Sabre 'cockpit' fairing by Brearley-Smith and full hard 'Executive' luggage by Sigma. A full fairing similar to that fitted to police models was available as an option. Triumph's electric start system was introduced on this model.
+
+
+== Les Harris Bonneville ==
+
+In 1984 the T140 production rights were licensed by the new owner of Triumph, John Bloor, to Devon-based engineer Les Harris who produced 1,300 complete motorcycles at his Newton Abbot factory between 1985 and 1988 when the licence was not renewed . These machines were distinct from the Meriden product having as standard, German Magura switchgear, Merit spark plug caps  with Italian Paioli front and rear suspension, Brembo brakes and Lafranconi silencers.
+
+
+== TR7 Tiger ==
+A single carburettor version of the T140 known as the TR7 Tiger was produced between 1973 and 1980. The TR7RV (later TR7V) was introduced as the single carburettor version of the T140V. In 1981 an off-road version, the TR7T Tiger Trail was produced.
+
+
+== Media ==
+An early T140E was  Richard Gere's motorcycle in the 1982 romantic drama film An Officer and a Gentleman. The same motorcycle, then the property of Paramount pictures, was used in the Judd Nelson thriller Blue City. A T140 was also disguised as an earlier Bonneville T120 for another of Richard Gere's rides in his later film Mr. Jones. Prior to these movies, Richard Gere himself also bought a Bonneville from Triumph with his pay from the touring production of the musical Grease in the 1970s.[1]
+Australian film Garage Days prominently features a mildly customised late T140E from the early 1980s. 1973 T140V Bonnevilles featured prominently in Hollywood blaxploitation biker film The Black Six and could be seen in Race with the Devil with later models making occasional appearances in contemporary television series such as CHiPS and The Sweeney.
+Film and television appearances of the T140 Bonneville continued even in the late 1980s and 1990s after production ended, such as in Melrose Place, The Kids in the Hall, Sweet Angel Mine, The Fourth Protocol and even the 1999 Swedish movie Tsatsiki, morsan och polisen.
+A 1979 T140E Bonneville also featured in Elton John's 1983 promotional video for his song "Kiss the Bride".
+On his album Euroman Cometh, Jean-Jacques Burnel had his T140 rev its engine during the performance of the song "Triumph (Of the Good City)", something that was repeated at live performances.[2]
+
+
+== See also ==
+Triumph Bonneville
+Related development
+Triumph T140 TSX
+Triumph T140W TSS
+Triumph TR65 Thunderbird
+Triumph Tiger Trail
+Related lists
+List of Triumph motorcycles
+Inspired bike
+Honda CB750 and CR750
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Citations ===
+
+
+=== Bibliography ===

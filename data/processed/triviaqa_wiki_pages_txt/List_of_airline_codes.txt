@@ -1,0 +1,31 @@
+This is a list of all airline codes. The table lists the IATA airline designators, the ICAO airline designators and the airline call signs (telephony designator). Historical assignments are also included for completeness.
+
+
+== Codes ==
+
+
+== IATA Traffic Conference Areas ==
+The International Air Transport Association (IATA) divides the world into three areas called the Traffic Conference Areas (TCAs) for air travel purposes. These areas are used to define geographical boundaries for fare construction and other industry-related practices:
+
+Traffic Conference Area 1 (TC1) – this area includes the Americas, encompassing North America (the Caribbean, Central America, and Northern America) and South America.
+Traffic Conference Area 2 (TC2) – this area includes the EMEA region, encompassing Europe, the Middle East, and Africa (North Africa and Sub-Saharan Africa).
+Traffic Conference Area 3 (TC3) – this area includes the Asia–Pacific region, encompassing the rest of Asia (Central Asia, East Asia, North Asia, South Asia, and Southeast Asia) and Oceania.
+Essentially, TC1 covers the "New World", while TC2 and TC3 together cover the "Old World" (Africa-Eurasia) and the "Land Down Under".
+
+
+== See also ==
+IATA airport code
+ICAO airport code
+
+
+== References ==
+
+
+== External links ==
+International Civil Aviation Organization (official website)
+Designators for Aircraft Operating Agencies, Aeronautical Authorities and Services (Doc8585) Publications Purchasing (official website)
+ICAO Aviation Data Service (official website)
+Airline Designator / Code Database Search  (Airline Codes website)
+Airline Designator / Code Database Search (Aviation Codes Central website – Regular Updates)
+Airline Designator / Code Listing (FAA website)
+European Airline Designator / Code Database Search (Eurocontrol website)

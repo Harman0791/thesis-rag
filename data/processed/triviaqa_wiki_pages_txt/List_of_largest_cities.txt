@@ -1,0 +1,51 @@
+The United Nations uses three definitions for what constitutes a city, as not all cities in all jurisdictions are classified using the same criteria. Cities may be defined as the cities proper, their metropolitan regions, or the extent of their urban area. A complicating factor is that many large cities in the world have not only homeless or the unhoused, but also vast slum communities. This leads to official census data being less accurate in representing the actual number of residents in a given area.
+
+
+== Definitions ==
+
+
+=== City proper (administrative unit) ===
+
+A city can be defined by its administrative boundaries, otherwise known as city proper. UNICEF defines city proper as, "the population living within the administrative boundaries of a city or controlled directly from the city by a single authority." A city proper is a locality defined according to legal or political boundaries and an administratively recognised urban status that is usually characterised by some form of local government. Cities proper and their boundaries and population data may not include suburbs.
+The use of city proper as defined by administrative boundaries may not include suburban areas where an important proportion of the population working or studying in the city lives. Because of this definition, the city proper population figure may differ greatly from the urban area population figure, as many cities are amalgamations of smaller municipalities (Australia), and conversely, many Chinese cities govern territories that extend well beyond the core urban area into suburban and rural areas. The Chinese municipality of Chongqing, which is the largest city proper in the world by population, comprises a huge administrative area of 82,403 km2, around the size of Austria. However, more than 70% of its 30-million population are agricultural workers living in a rural setting.
+
+
+=== Metropolitan area ===
+
+A city can be defined by the inhabitants of its demographic population, as by metropolitan area, or labour market area. UNICEF defines metropolitan area as follows:
+
+A formal local government area comprising the urban area as a whole and its primary commuter areas, typically formed around a city with a large concentration of people (i.e., a population of at least 100,000). In addition to the city proper, a metropolitan area includes both the surrounding territory with urban levels of residential density and some additional lower-density areas that are adjacent to and linked to the city (e.g., through frequent transport, road linkages or commuting facilities).
+In many countries, metropolitan areas are established either as a local administrative organisation or only for statistical purposes. In the United States, metropolitan statistical area (MSA) is defined by the U.S. Office of Management and Budget (OMB). In the Philippines, metropolitan areas have an official agency, such as Metropolitan Manila Development Authority (MMDA), which manages Manila metropolitan area. Similar agencies exist in Indonesia, such as Jabodetabekjur Development Cooperation Agency for Jakarta metropolitan area.
+
+
+=== Urban area ===
+
+A city can be defined as a conditionally contiguous urban area, with relatively less regard to territorial or administrative boundaries. UNICEF defines urban area as follows:
+
+The definition of "urban" varies from country to country, and, with periodic reclassification, can also vary within one country over time, making direct comparisons difficult. An urban area can be defined by one or more of the following: administrative criteria or political boundaries (e.g., area within the jurisdiction of a municipality or town committee), a threshold population size (where the minimum for an urban settlement is typically in the region of 2,000 people, although this varies globally between 200 and 50,000), population density, economic function (e.g., where a significant majority of the population is not primarily engaged in agriculture, or where there is surplus employment) or the presence of urban characteristics (e.g., paved streets, electric lighting, sewerage).
+According to Demographia, an urban area is a continuously built up land mass of urban development that is within a labor market (metropolitan area or metropolitan region) and contains no rural land.
+
+
+== List ==
+
+There are 81 cities in the world with a population exceeding 5 million people, according to 2018 estimates by the United Nations. The UN figures include a mixture of city proper, metropolitan area, and urban area.
+
+
+== See also ==
+
+Historical urban community sizes
+List of largest cities throughout history
+List of cities with over one million inhabitants
+List of towns and cities with 100,000 or more inhabitants
+List of largest cities by area
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+UNSD Demographics Statistics – City population by sex, city and city type
+Nordpil World Database of Large Urban Areas, 1950–2050

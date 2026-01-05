@@ -1,0 +1,1179 @@
+The following is a glossary of poker terms used in the card game of poker.  It supplements the glossary of card game terms.  Besides the terms listed here, there are thousands of common and uncommon poker slang terms. This is not intended to be a formal dictionary; precise usage details and multiple closely related senses are omitted here in favor of concise treatment of the basics.
+
+
+== A ==
+ace in the hole
+One of the hole cards is an ace
+ ace-to-five, ace-to-six
+Methods of evaluating low hands. See lowball.
+ act
+To make a play (check, bet, call, raise, or fold) at the required time, compare to in turn.
+acting out of turn
+A player in poker that either announces their actions or physically plays before their turn (checks, folds etc.). Sometimes players act out of turn intentionally to get a read out of other players. When done intentionally, this is often referred to as "angle shooting." See angle shooting.
+ action
+A player's turn to act; a willingness to gamble; or a bet, along with all the calls of that bet.
+ action button
+A marker similar to a kill button, on which a player places an extra forced bet.  In a seven-card stud high-low game, the action button is awarded to the winner of a scoop pot above a certain size, signifying that in the next pot, that player will be required to post an amount representing a completion of the bring-in to a full bet.
+
+ action card
+In Texas hold 'em, and other community card poker games, a card appearing on the board that causes significant betting action because it helps two or more players.
+ action only
+In many cardrooms, with respect to an all-in bet, only a full (or half) bet can be reraised. Anything less than a full (or half) bet is considered to be action only, that is, other players can call the bet but not raise it. Compare with full bet rule and half bet rule.
+ active players
+Any players still involved in the pot. In hand histories often referred to as hero and villain. In side pots, an all-in player may be active in some pots, but not in others.
+ add-on
+In a live game, to buy more chips before busting. In tournament play, a single rebuy for which all players are eligible regardless of their stack size. This is usually allowed only once, at the end of the rebuy period.  The add-on often offers more chips per dollar invested than the buy-in and rebuys.  Compare with rebuy.
+ advertising
+To make an obvious play or expose cards in such a way as to deliberately convey an impression to opponents about the advertising player's style of play.
+ aggressive, aggression
+The tendency for a player to open betting or raise rather than call or check. See main article: aggression. Compare with loose, tight, passive.
+ aggression factor (AF)
+A measure of a player's aggression, either in a particular betting round or over all betting rounds.
+ air
+A hand that has a very low value against an opponent's such as "9 high." In lowball, giving air is when a player lets an opponent who might otherwise fold know that they intend to draw one or more cards, to induce them to call.
+ all-in
+When a player bets all of their chips in the current hand. See main article: all-in.
+ angle
+A permitted, but borderline unethical, play.
+angle shooting
+Intentionally using an angle to exploit an opponent such as obscuring the size of their chip stack or acting out of turn. See acting out of turn.
+ ante
+A forced bet required, in some types of poker, of all players before the hand begins. See main article: ante.
+ ante off
+In tournament play, to force an absent player to continue paying antes, blinds, bring-ins, and other forced bets so that the contest remains fair to the other players.  Also blind off.
+
+
+== B ==
+ baby
+A prefix for (one of) the lowest-ranking possible of any particular made hand on a particular board. For example, the lowest-ranking full house possible for a paired board in hold 'em (i.e. one that would be beaten by any other possible full house) is the baby full house.
+ backdoor
+A draw requiring two or more rounds to fill; a hand made other than the hand the player intended to make.
+ back in
+To enter a pot by checking and then calling someone else's open on the first betting round. Usually used in games like jackpots, meaning to enter without openers.
+ back into
+To win a pot with a hand that would have folded to any bet.
+ backraise
+A reraise from a player who previously called in the same betting round.
+ bad beat
+To lose a hand where one hand is considerably ahead of the eventual winning hand. See main article: bad beat.
+ balance
+Playing very different hands in the same way, with the aim of making it more difficult for an opponent to gain useful information about the cards a player has.
+ bank
+Also called the house, the person responsible for distributing chips, keeping track of the buy-ins, and paying winners at the end of the game.
+ bankroll
+The amount of money that a player has to wager for the duration of their poker career; to fund someone's participation in a game. Compare with staking.
+ bankroll management
+Choosing the correct stakes and game type to avoid exhausting a bankroll during downswings.
+ barreling
+When the preflop raiser continuation bets the flop, then bets again on the turn. Sometimes called firing a second barrel or a double barrel. Betting the flop, turn and river is referred to as triple barreling.
+ behind
+Not (currently) having the best hand; money on the table but not currently in the pot, which can be bet later in the hand; money in play but not visible as chips in front of a player.
+ belly buster
+A straight draw needing one specific card in the middle.
+ bet
+Any money wagered during the play of a hand.
+The opening bet of a betting round.
+In a fixed limit game, the standard betting amount.
+ betting structure
+The complete set of rules regarding forced bets, limits, raise caps, and such for a particular game. See main article: betting.
+ big bet
+The larger of two bet amounts in a fixed limit game. See main article: big bet.
+ big bet game
+A game played with no limit or a pot limit betting structure.
+ big blind
+The larger of two forced bets in certain types of poker. See main article: blind.
+ big blind special
+A hand won by the big blind playing very weak pocket cards because there was no raise pre-flop.
+ big full
+The best possible full house in community card games.  A stronger hand than the underfull.
+ big stack
+A stack of chips that is relatively large for the stakes being played.  Also called deep stack. Also the biggest stack at the table. Compare with short stack.
+ blank
+A card, frequently a community card, of no apparent value.  Compare with rag, brick, bomb.
+ blaze
+A non-standard poker hand of five face cards that outranks a flush.
+ bleed
+To consistently lose chips through bad play, possibly resulting from tilting.
+ blind
+A type of forced bet. See main article: blind.
+In the dark.
+ blind defense
+To call or raise an opponent's raise when in the big blind, rather than folding an otherwise weak hand, in order to exploit overly aggressive players.
+ blind steal
+A raise from a late position with a weak hand when all other players have folded, with the intention of winning the blinds and antes.
+ blind stud
+A stud poker game in which all cards are dealt face down. Was popular in California before legal rulings made traditional stud legal there.
+ blind off, blinded
+To ante off.
+When a player's stack is reduced by paying ever increasing blinds in tournaments.
+ blocker
+In community card poker, holding one of the opponent's outs, typically when the board threatens a straight or straight draw. A blocker is also having a combination of cards that turn an opponent's outs into one's own. Compare with dry ace.
+ blocking bet
+An abnormally small bet made by a player out of position intended to discourage a larger bet by an opponent.
+ bluff
+A bet made with a hand that is mathematically unlikely to be the best hand, either to make money or to disguise play patterns. See main article: bluff.
+ bluff catcher
+A hand that can only beat a bluff.
+ bluff induce
+To make an action with a strong hand that represents a weak hand with the intention of encouraging an opponent to try to bluff off of the hand with a big bet.
+ board
+The set of community cards in a community card game.
+The set of face-up cards of a particular player in a stud game.
+The set of all face-up cards in a stud game.
+ boat
+Another name for a full house.
+ bomb pot
+A hand where each player agrees to place a predetermined bet amount into the pot before the hand is dealt.
+A hand, usually in a game with a blind structure, which is instead played with antes and which goes straight to the second round of betting.
+ both ways
+Both halves of a split pot, often declared by a player who thinks they will win both low and high.
+ bottom dealing
+Trick or cheating deal where a card or cards are dealt from the bottom of the deck rather than the top. See main article: bottom dealing.
+ bottom end
+The lowest of several possible straights, especially in a community card game.  Also idiot end.
+ bottom pair, bottom set
+In a community card game, a pair (or set) made by matching the lowest-ranking board card with one (or two) in one's private hand. Compare second pair, top pair.
+ bounty
+An aspect of some poker tournaments that rewards players for eliminating other players with a cash prize for each player they eliminate, separate from the tournament payout structure. See main article: bounty.
+ box
+The chip tray in front of a house dealer, and by extension, the house dealer's position at the table.
+ boxed card
+A card encountered face-up in the assembled deck during the deal, as opposed to one overturned in the act of dealing. Most house rules treat a boxed card as if it does not exist; that is, it is placed aside and not used. Different rules cover cards exposed during the deal.
+ break
+In a draw poker game, to discard cards that make a made hand in the hope of making a better one. In a jacks-or-better draw game, a player breaking a high pair must keep the discarded card aside, to prove they had openers.
+To end a session of play.
+ brick
+A blank, though more often used in the derogatory sense of a card that is undesirable rather than merely inconsequential. Also known as a bomb. Compare with rags.
+ brick and mortar
+A brick and mortar  casino is a real casino based in a building, as opposed to an online casino.  This refers to many real world locations as opposed to their Internet counterparts.
+ bridge order
+Poker is neutral about suits, but in determining the dealer at the start of a game, or in determining the bring in bettor in a stud game, bridge rank rules are used: spades beat hearts beat diamonds beat clubs.
+ bring in
+To open a betting round.
+A forced bet in stud games.  In the first betting round, the holder of the worst (lowest or highest, depending) upcard must post a bring-in bet.  The bring-in bet is typically a quarter to a third of a small bet. The bring-in bettor may look at their cards, and place a full bet if they choose.
+ broadway
+A 10 through ace straight. Can also include any group of cards from 10 to ace.
+ brush
+A casino employee whose job it is to greet players entering the poker room, maintain the list of persons waiting to play, announce open seats, and various other duties (including brushing off tables to prepare them for new games, hence the name).
+To recruit players into a game.
+ bubble
+The last finishing position in a poker tournament before entering the payout structure.
+ bubble factor
+The factor by which the odds in chips differ from the odds in dollars. See also main article: expected value.
+ buck
+Marker to indicate which player is dealer (or last to act). See button.
+ bug
+A limited wild card. See main article: bug. Compare with wild card.
+ bully
+A player who raises frequently to force out more cautious players, especially one with a large stack for the size of the game
+ burn card, burn
+A card that is removed from the deal to prevent cheating. See main article: burn card.
+ busted
+An uncompleted hand.
+To lose all of one's chips.
+ button
+Most commonly a marker that indicates the dealer position at the table, but other specialized buttons exist. See main article: button. Also buck or hat.
+ buy-in
+The minimum required amount of chips that must be bought to become involved in a game or tournament.
+ buy short
+To buy into a game for an amount smaller than the normal buy-in.
+ buy the button
+A rule originating in northern California casinos in games played with blinds, in which a new player sitting down with the button to their right (who would normally be required to sit out a hand as the button passed, then post to come in) may choose to pay the amount of both blinds for this one hand (the amount of the large blind playing as a live blind, and the amount of the small blind as dead money), play this hand, and then receive the button on the next hand as if they had been playing all along. See public cardroom rules.
+A tactic most often used by late-position players: a raise to encourage the later and button players to fold, thus giving the raiser last position in subsequent betting rounds.
+ buy the pot
+Making a bet when no one else is betting so as to force the other players to fold, thus winning the pot uncontested. A specialized version of this is buying the blinds by making a large raise in the first round forcing all other players out of the hand.
+
+
+== C ==
+ call
+To match a bet or raise. See main article: call.
+ call the clock
+A method of discouraging players from taking an excessively long time to act. When someone calls the clock, the player has a set amount of time in which to make up their mind; if they fail to do so, their hand is immediately declared dead. In tournament play, any player can call a clock.
+ calling station
+A player who frequently calls bets, but rarely raises them. A calling station is usually a loose passive player. See main article: calling station.
+ cap
+A limit on the number of raises allowed in a betting round. Typically three or four (in addition to the opening bet). In most casinos, the cap is removed if there are only two players remaining either at the beginning of the betting round, or at the time that what would have otherwise been the last raise is made.
+Also, term for the chip, token, or object placed atop one's cards to show continued involvement with a hand
+ cap game
+Similar to cap above, but refers to a no-limit or pot limit game with a cap on the amount that a player can bet during the course of a hand. Once the cap is reached, all players remaining in the hand are considered all-in.
+ card protector
+In games where all of a player's cards are facedown, some players use items like specialty chips or glass figures to place on top of their cards to protect them from being accidentally discarded.
+ cards
+Standard playing cards are used. In home games it is common to have two decks with distinct backs, and to shuffle the unused deck while each hand is in progress. Casinos typically use plastic decks that can handle the added wear and tear, as casino players often read their "hole" cards by peeking at the corner rather than lifting the card. Due to cost, home games tend to use paper cards. It is not unusual for paper cards to become bent quickly. Card quality can be preserved for longer if players agree not to bend cards, and proper shuffling techniques are used.
+ cards speak
+See main article: cards speak
+ case card
+The last available card of a certain description
+ cash game
+A game where each hand is played for real money as opposed to tournament play. See main article: ring game.
+ cash plays
+An announcement, usually by a dealer, that a player who has requested to buy chips and can bet the cash they have on the table in lieu of chips until receiving their chips. In many card rooms, it also refers to the policy that $100 bills may remain on the table and are considered to be in play in cash form, rather than converted to chips.
+ cashing
+Winning a share of the prize money in a tournament
+ cashing out
+Exchanging chips for cash when leaving a game. Removing money from an online poker site.
+ catch
+To receive needed cards on a draw.  Often used with an adjective to further specify, catch perfect, catch inside, catch smooth.
+ catch up
+To successfully complete a draw, thus defeating a player who previously had a better hand
+ catch perfect
+To catch the only two possible cards that will complete a hand and win the pot, often those leading to a straight flush.  Usually used in Texas hold 'em.  Compare with runner-runner.
+ center pot
+The main pot in a table stakes game where one or more players are all in
+ chase
+To call a bet to see the next card when holding a drawing hand when the pot odds do not merit it
+To continue to play a drawing hand over multiple betting rounds, especially one unlikely to succeed
+To continue playing with a hand that is not likely the best because one has already invested money in the pot. See sunk cost fallacy.
+ check
+To bet nothing. See main article: check.
+A casino chip
+ check out
+To fold, in turn, even though there is no bet facing the player. In some games this is considered a breach of the rules equivalent to folding out of turn.
+ check-raise
+Deceptive play whereby a player initially checks with the intention of raising should another player bet. See main article: check-raise.
+ chip
+A small disk or tablet used in place of money. See casino token. Currency is difficult to stack or handle, so most poker games are played with chips, or coin-shaped tokens of uniform size and weight, usually 39mm wide and anywhere from 5 to 16 grams in weight, whose money value is determined by their color. Historically, poker chips were made of bone; however, modern casino chips are often made of clay or a clay composite and are considered the most upscale variety of poker chip; other high-end chips are made of ceramic. Plastic chips are also available, at a wide variety of quality levels.
+ chip declare
+A method of declaring intent to play high or low in a split-pot game with declaration. See declaration.
+ chip dumping
+A strategy whereby one player deliberately loses chips to another player.  Where players have agreed to take such action together, this is a form of collusion.
+ chip leader
+The player currently holding the most chips in a tournament (or occasionally a live no limit game)
+ chip race
+An event in tournament poker where chips of a value lower than the minimum required are removed from play. See main article: chip race.
+ chip up
+To exchange lower-denomination chips for higher-denomination chips. In tournament play, the term means to remove all the small chips from play by rounding up any odd small chips to the nearest large denomination, rather than using a chip race.
+To steadily accumulate chips in tournament play, typically by winning small pots with minimal risk-taking.
+ chop
+To split a pot because of a tie, split-pot game, or player agreement
+To play a game for a short time and cash out. Also hit and run.
+A request made by a player for the dealer to make change
+An agreement by all players remaining in a tournament to distribute the remaining money in the prize pool according to an agreed-upon formula instead of playing the tournament to completion.  Usually occurs at the final table of a large tournament.
+ chopping the blinds
+Ending a hand when all players have folded to the blinds with the blinds being returned to those who paid them. See main article: chopping the blinds.
+ click raise
+Making the minimum raise. Refers to online poker where players click the raise button without specifying the amount of raise.
+ closed
+See main article: closed
+ coffee housing
+Talking in an attempt to mislead other players about the strength of a hand. This is also called speech play.
+ coin flip
+A situation where two players have invested all their money in the pot and have a roughly even chance of winning.  Also race.
+ cold call
+To call an amount that represents a sum of bets or raises by more than one player without previously calling or making a bet in the same round.  Compare with flat call, overcall.
+ cold deck
+A "stacked" deck (a deck arranged in a preset order, to effect a specific outcome once dealt) which is deceptively switched with the original deck of cards in play, to benefit a player or the dealer. So named because when the deck is put into the game, it has not had a chance to warm up from handling by the players and dealer.
+ collusion
+A form of cheating involving cooperation among two or more players. See cheating in poker.
+ color change, color up
+To exchange small-denomination chips for larger ones
+ combo, combination game
+A casino table at which multiple forms of poker are played in rotation
+ combo draw, combination draw
+A hand containing both a flush draw and a straight draw. See draw.
+ come bet, on the come
+A bet or raise made with a drawing hand, building the pot in anticipation of filling the draw
+ community card
+See main article: community card poker
+ complete hand
+See made hand
+ completion
+To raise a small bet up to the amount of what would be a normal-sized bet. See table stakes.
+ connectors
+Two or more cards of consecutive or close to consecutive rank
+ continuation bet
+A bet made after the flop by the player who took the lead in betting before the flop (Texas hold 'em and Omaha hold 'em). Also called a c-bet.  Compare with probe bet.
+ cooler
+A situation in which a player holds the second best hand, so strong considering the circumstances, that they are apt to lose the maximum with it no matter how they play it
+ countdown
+The act of counting the cards that remain in the stub after all cards have been dealt, done by a dealer to ensure that a complete deck is being used
+ counterfeit
+See main article: counterfeit. Also duplicate.
+ cow
+A player with whom one is sharing a buy-in, with the intent to split the result after play.  To go cow is to make such an arrangement.
+ cripple
+In some community card games, to cripple the deck means to have a hand that is virtually impossible for anyone else to catch up to.
+ crying call
+Calling when a player thinks they do not have the best hand
+ cut
+See main article: cut
+ cut card
+A distinctive card, usually stiff solid-colored plastic, held against the bottom of the deck during the deal to prevent observation of the bottom card. While rarely used in home games, the cut card is universal in casino play.
+ cutoff
+The seat immediately to the right of the button. Name derived from its positional strength, obtaining absolute position when the button folds.
+
+
+== D ==
+ dark
+An action taken before receiving information to which the player would normally be entitled. Compare with blind.
+ dead blind
+A blind that is not live, in that the player posting it does not have the option to raise if other players just call. Usually involves a small blind posted by a player entering, or returning to, a game (in a position other than the big blind) that is posted in addition to a live blind equal to the big blind.
+ dead button
+See dead button rule
+ dead hand
+A player's hand that is not entitled to participate in the deal for some reason, such as having been fouled by touching another player's cards, being found to contain the wrong number of cards, being dealt to a player who did not make the appropriate forced bets, etc.
+ dead man's hand
+See main article: dead man's hand
+ dead money
+The amount of money in the pot other than the equal amounts bet by active remaining players in that pot. Examples of dead money include money contributed to the pot by players who have folded, a dead blind posted by a player returning to a game after missing blinds, or an odd chip left in the pot from a previous deal. For example, eight players each ante $1, one player opens for $2, and gets two callers, making the pot total $14. Three players are now in the pot having contributed $3 each, for $9 "live" money; the remaining $5 (representing the antes of the players who folded) is dead money. The amount of dead money in a pot affects the pot odds of plays or rules of thumb that are based on the number of players. The term "dead money" is also used in a derogatory sense to refer to money put in the pot by players who are still legally eligible to win it, but who are unlikely to do so because they are unskilled, increasing the expected return of other players. This can also be applied to the player himself: "Let's invite John every week; he's dead money". The term "dead money" also applies in tournaments, when many casual players enter events with virtually no chance of winning.
+ deal
+To distribute cards to players in accordance with the rules of the game being played
+A single instance of a game of poker, begun by shuffling the cards and ending with the award of a pot. Also called a hand (though both terms are ambiguous).
+An agreement to split tournament prize money differently from the announced payouts
+ deal twice
+In a cash game, when two players are involved in a large pot and one is all-in, they might agree to deal the remaining cards twice. If one player wins both times they win the whole pot, but if both players win one hand they split the pot. Also, play twice, run it twice.
+ dealer
+The person dealing the cards
+The person who assumes that role for the purposes of betting order in a game, even though someone else might be physically dealing. Also button. Compare with buck.
+ dealer's choice
+A version of poker in which the deal passes each game and each dealer can choose, or invent, a new poker game each hand or orbit. See main article: dealer's choice.
+ declare
+To verbally indicate an action or intention. See declaration.
+ deep stack
+A stack of chips that is relatively large for the stakes being played. Also called a big stack. Compare with short stack.
+ defense
+Making a play that defends the player against a bluff by forcing the suspected bluffer to fold or invest further
+ deuce
+A two-spot card (i.e. a two of any suit). Also called a duck, quack, or swan.
+Any of various related uses of the number two, such as a $2 limit game, a $2 chip, etc.
+ deuce-to-seven
+A method of evaluating low hands. See main article: deuce-to-seven low.
+ dirty stack
+A stack of chips apparently of a single denomination, but with one or more chips of another. Usually the result of inattention while stacking a pot, but may also be an intentional deception.
+ discard
+To take a previously dealt card out of play. The set of all discards for a deal is called the muck or the deadwood.
+ dog
+Short for underdog, usually refers to the player with the hand that has the lowest chance of winning at that time.
+ dominated hand
+A hand that is extremely unlikely to win against another specific hand, even though it may not be a poor hand in its own right. Most commonly used in Texas hold 'em. See also domination.
+ donk bet
+A bet made in early position by a player who did not take the initiative in the previous betting round.
+ donkey
+a weak player, also known as fish or donk
+ door card
+In a stud game, a player's first face-up card
+In Texas hold 'em, the door card is the first visible card of the flop.
+In draw poker, the sometimes visible card at the bottom of a player's hand.  Players will sometimes deliberately expose this card.
+ double-ace flush
+Under unconventional rules, a flush with one or more wild cards in which they play as aces, even if an ace is already present
+ double barrel
+See barreling
+ double belly buster straight draw
+a combination of hole cards and exposed cards in hold 'em or stud games which does not include four connected cards, but where there are two different ranks of card that complete a straight
+ double-board, double-flop
+Any of several community card game variants (usually Texas hold 'em) in which two separate boards of community cards are dealt simultaneously, with the pot split between the winning hands using each board.
+ double-draw
+Any of several draw poker games in which the draw phase and subsequent betting round are repeated twice
+ double raise
+The minimum raise in a no-limit or pot-limit game, raising by just the amount of the current bet.
+ double suited
+An Omaha hold 'em starting hand where two pairs of suited cards are held
+ double up, double through
+In a big bet game, to bet all of one's chips on one hand against a single opponent (who has an equal or larger stack) and win, thereby doubling the stack
+ downbet
+Betting a smaller amount than the previous round of betting
+ downcard
+A card that is dealt face-down
+ downswing
+A period during which a player loses more than expected. See also: upswing.
+ drag light
+To pull chips away from the pot to indicate that the player does not have enough money to cover a bet. If their hand wins, the amount is ignored. If not, they must cover the amount out of pocket. This is not allowed at any casino.
+ draw, drawing hand, come hand
+See main article: draw
+A drawing hand is when a player has a chance to improve their hand to something considerably stronger, typically a straight or a flush, through drawing the required cards on the flop, on the turn or on the river.
+ drawing dead
+Playing a drawing hand that will lose even if successful
+Playing a hand that can never improve beyond the opponent's hand
+ drawing live
+Not drawing dead; that is, drawing to a hand that will win if successful
+ drawing thin
+Not drawing completely dead, but chasing a draw in the face of poor odds
+ drop
+To fold
+Money charged by the casino for providing its services, often dropped through a slot in the table into a strong box. See rake.
+To drop one's cards to the felt to indicate that one is in or out of a game
+ dry ace
+In Omaha hold 'em or Texas hold 'em, an ace in one's hand without another card of the same suit. Used especially to denote the situation where the board presents a flush possibility, when the player does not in fact have a flush, but holding the ace presents some bluffing or semi-bluffing opportunity and a redraw in case the flush draw comes on the turn or the river. Compare with blocker.
+ dry board
+See static board
+ dry pot
+A side pot with no money created when a player goes all in and is called by more than one opponent, but not raised. If subsequent betting occurs, the money will go to the dry pot.
+ duplicate
+To counterfeit, especially when the counterfeiting card matches one already present in one's hand
+ dynamic board
+A board where many draws are available. Where hands can easily change value on future streets. Compare with static board.
+
+
+== E ==
+ early position
+See position.
+ effective nuts
+A hand that is not the actual nut hand but strong enough to be played like it.
+ effective stack
+The smallest stack size among two players, in a heads-up pot the effective stack determines the maximum amount either player can lose.
+ eight or better
+A common qualifier in high-low split games that use ace-5 ranking. Only hands where the highest card is an eight or less can win the low portion of the pot.
+ equity
+One's mathematical expected value from the current deal, calculated by multiplying the amount of money in the pot by one's probability of winning. If a split is possible, the equity also includes the probability of winning a split times the size of that split.
+ expectation, expected value, EV
+See main article: expected value. Used in poker to mean profitability in the long run.
+ exposed card
+A card whose face has been deliberately or accidentally revealed to players normally not entitled to that information during the play of the game. Various games have different rules about how to handle this irregularity. Compare with boxed card.
+
+
+== F ==
+ family pot
+A deal in which every (or almost every) seated player calls the first opening bet.
+ fast
+Aggressive play. Compare with speeding.
+ favorite
+A hand which, when matched against another in a showdown, has an advantage odds-wise over the other. A hand can be called a small or a big favorite depending on how much it is dominating the other. Contrast underdog where the situations are reversed. Favorites are usually used to compare how two hole cards do against two other hole cards pre-flop.
+ feeder
+In a casino setting, a second or third table playing the same game as the main table, and from which players move to the main game as players are eliminated. Also called a must-move table.
+ felt
+The cloth covering of a poker table, whatever the actual material. Metonymically, the table itself.
+Showing down a hand while all-in (so there is only felt left in front of the player); either betting all-in and getting called or calling all-in.
+ field
+All players as a collective in a large tournament.
+ fifth street
+The last card dealt to the board in community card games.  Also see river.
+The fifth card dealt to each player in stud poker.
+ fill, fill up
+To successfully draw to a hand that needs one card to complete it, by getting the last card of a straight, flush, or full house.
+ final table
+The last table in a multi-table poker tournament. The final table is set when a sufficient number of people have been eliminated from the tournament leaving an exact number of players to occupy one table (typically no more than ten players).
+ first position
+The playing position to the direct left of the blinds in Texas hold 'em and Omaha hold 'em, also known as under the gun. The player in first position must act first on the first round of betting.
+ fish
+A weak player.  See also donkey.
+To chase draws holding a weak hand.  Especially when facing aggressive play by another player.
+ five of a kind
+A hand possible only in games with wild cards, or a game with more than one deck, defeating all other hands, comprising five cards of equal rank.
+ fixed limit, flat limit
+See main article: fixed limits.
+ flash
+Any card which becomes briefly exposed by accident to at least one player must be shown to all the players by the dealer during dealing. The card is said to be flashed to all players before being discarded to the muck pile. See also exposed.
+Unintentionally showing the bottom of the deck if not using a cut card.
+To show one or more downcards from one's hand.
+ flat call
+A call, in a situation where one might be expected to raise.  Also smooth call. Compare with cold call, overcall. See slow play.
+ float
+Calling a bet with the intention of bluffing on a later betting round.
+ floorman, floorperson, floor
+A casino employee whose duties include adjudicating player disputes, keeping games filled and balanced, and managing dealers and other personnel. Players may shout "floor" to call for a floorperson to resolve a dispute, to ask for a table or seat change, or to ask for some other casino service.
+ flop
+The dealing of the first three face-up cards to the board, refers also to those three cards themselves.  Also see turn and river.
+ flop game
+A community card game.
+ flush
+A hand comprising five cards of the same suit. See List of poker hands.
+ fold
+To discard one's hand and forfeit interest in the current pot. See main article: fold.
+ fold equity
+The portion of the pot one expects to win, on average, by a bet that induces opponents to fold, rather than seeing the showdown.  See also equity.
+ forced bet
+See main article: forced bets.
+ forced-move
+In a casino where more than one table is playing the same game with the same betting structure, one of the tables may be designated the main table, and will be kept full by requiring a player to move from one of the feeder tables to fill any vacancies. Players will generally be informed that their table is a forced-move table to be used in this way before they agree to play there. Also must-move.
+ forward motion
+A house rule of some casinos states that if a player in turn picks up chips from their stack and moves their hand toward the pot (forward motion with chips in hand), this constitutes a commitment to bet (or call), and the player may not withdraw their hand to check or fold. Such a player still has the choice of whether to call or raise. Compare with string bet.
+ fouled hand
+A hand that is ruled unplayable because of an irregularity, such as being found with too many or too few cards, having been mixed with cards of other players or the muck, having fallen off the table. Compare with dead hand.
+ four-flush
+Four cards of the same suit. A non-standard poker hand in some games, an incomplete drawing hand in most. See main article: four flush.
+ four of a kind
+A hand containing four cards of equal rank. Also quads. See list of poker hands.
+ four-straight
+Four cards in rank sequence; either an open-ender or one-ender. A non-standard poker hand in some games, an incomplete drawing hand in most. Sometimes four to a straight.
+ fourth street
+The fourth card dealt to the board in community card games. Also turn.
+The fourth card dealt to each player in stud.
+ free card
+A card dealt to one's hand (or to the board of community cards) after a betting round in which no player opened. One is thereby being given a chance to improve one's hand without having to pay anything.
+ freeroll
+See main article: freeroll.
+ freezeout
+The most common form of tournament. There are no rebuys and play continues until one player has all the chips.
+ full house, full boat, full hand, full
+A hand with three cards of one rank and two of a second rank. Also boat or tight. See list of poker hands.
+ full bet rule
+In some casinos, the rule that a player must wager the full amount required in order for their action to constitute a raise. Compare with half bet rule. See public cardroom rules and all in betting.
+ full ring
+A full ring game is a cash game with more than six players involved, typically nine to eleven. This term is normally used in the context of online poker. Compare with shorthanded.
+
+
+== G ==
+ game flow
+How players' strategies at a table change over time as they adjust to their perceived image.
+ gap hand
+In Texas hold 'em, a gap hand is a starting hand with at least one rank separating the two cards.  Usually referred to in context of one-gap and two-gap hands.
+ get away
+To fold a strong hand against a supposedly superior hand.  Compare with laydown.
+ going north
+To sneak additional chips onto the table so as to have effectively bought in above the table limit
+ going south
+To sneak a portion of chips from the table while the game is underway.  Normally prohibited in public card rooms. Also ratholing.
+ grinder
+A player who earns a living by making small profits over a long period of consistent, conservative play. Compare with rock.
+ guts, guts to open
+A game with no opening hand requirement
+Any of several poker variants where pots accumulate over several hands until a single player wins.
+ gut shot, gutshot, gutter
+See inside straight draw
+ gypsy
+To enter the pot cheaply by just calling the blind rather than raising. Also limp.
+
+
+== H ==
+ half bet rule
+In some casinos, the rule that placing chips equal to or greater than half the normal bet amount beyond the amount required to call constitutes a commitment to raise the normal amount. Compare with full bet rule. See "all in" betting
+ hand
+
+ hand-for-hand
+In tournament play, the act of equalizing the number of hands played at two or more tables by waiting for slower tables to finish each hand before beginning the next hand on every table. This is usually done to ensure an accurate finishing order to distribute prize money.
+ hand history
+The retelling or documentation of a hand played.
+ hanger
+When the bottom card of the deck sticks out beyond the others, an unwanted tell that the dealer is dealing from the bottom of the deck.
+ heads up
+
+Playing against a single opponent
+ heater
+See rush
+ hero
+In hand histories the player from whose perspective the hand is played, as opposed to villain.
+ hero call
+Calling when a player has a relatively weak hand but suspects their opponent may be bluffing
+ high hand, high
+The best hand using traditional poker hand values, as opposed to lowball. Used especially in high-low split games.
+ high card
+A no pair hand, ranked according to its highest-ranking cards
+To defeat another player by virtue of high-ranking cards, especially kickers
+To randomly select a player for some purpose by having each draw one card, the highest of which is selected (for example, to decide who deals first).
+ high-low, high-low split
+See main article: high-low split
+ hijack seat
+The seat to the right of the cutoff seat, or second to the right of the button. Name derived from its positional strength, obtaining absolute position when the button and the cutoff folds.
+ hit and run
+Cashing out of a ring game shortly after winning a large pot. Considered poor etiquette by most players barring extenuating circumstances.
+  hole cards, hole
+Face-down cards. Also pocket cards
+A seat, often preceded by a number relative to the button.
+ hole cam
+A camera that displays a player's face-down cards (hole cards) to television viewers. Also pocket cam or lipstick cam
+ Hollywood
+To "Hollywood" (used as a verb) refers to acting or talking in an exaggerated way so as to encourage a specific reaction from an opponent during a hand.
+ home game
+A game played at a private venue (usually the home of one of the players), as opposed to a casino or public cardroom.
+ horse
+A player financially backed by someone else.  Compare with bankroll and staking
+ H.O.R.S.E.
+See main article: H.O.R.S.E.
+
+
+== I ==
+ ICM
+Independent chip model. The act of assigning a monetary value to a chip stack in tournaments or sit n gos. This value dictates the decision making process especially in push/fold situations.
+ ignorant end, idiot end
+In flop games, a player drawing to, or even flopping, a straight with undercards to the flop has the idiot end of it.  A player with 8–9 betting on a flop of A-10-J puts themself at great risk, because many of the cards that complete their straight give credible opponents higher ones.
+ implied pot odds, implied odds
+See main article: implied pot odds
+ improve
+To achieve a better hand than one currently holds by adding or exchanging cards as provided in the rules of the game being played.
+ in position
+A player is said to be in position, if the player is last to act on the flop, turn and river betting rounds.  Compare with out of position
+ in the middle
+In a game with multiple blinds, an incoming player may sometimes be allowed to post the blinds in the middle (that is, out of their normal order) rather than having to wait for them to pass.
+ in the money
+To finish high enough in a poker tournament to win prize money
+ in turn
+A player is said to be in turn if that player is expected to act next under the rules.
+ inside straight
+See inside straight draw.  Also "belly buster", "gutshot". Compare to outside straight draw
+ insurance
+A deal in which players agree to split or reduce a pot (roughly in proportion to the chances of each of them winning) with more cards to come rather than playing out the hand, or a deal where one player makes a side bet against themself with a third party to hedge against a large loss.
+ irregular declaration
+An action taken by a player in turn that is not a straightforward declaration of intent, but that is reasonably interpreted as an action by other players, such as pointing a thumb up to signify a raise. House rules or dealer discretion may determine when such actions are meaningful and binding.
+ irregularity
+Any of a number of abnormal conditions in play, such as unexpectedly exposed cards, that may call for corrective action. See public cardroom rules
+ isolation
+See main article: isolation
+ ITM
+"In the money," see above.
+
+
+== J ==
+ jackpot
+A game of jackpot poker or jackpots, which is a variant of five-card draw with an ante from each player, no blinds, and an opening requirement of a pair of jacks or better.
+A large pool of money collected by the house and awarded for some rare occurrence, typically a bad beat.
+ joker
+A 53rd card used mostly in draw games. The joker may usually be used as an ace, or a card to complete a straight or flush, in high games, and as the lowest card not already present in a hand at low. See bug
+ juice
+Money collected by the house. Also vig, vigorish. See rake
+ junk
+A hand with little expected value
+
+
+== K ==
+ kicker
+See main article: kicker
+ kill button
+In a kill game, a button that shows which player has the kill action. See main article: kill game
+ kill game, kill pot
+See main article: kill game
+ kill hand
+A hand with different betting rules in a kill game. See main article: kill game
+ kitty
+A pool of money built by collecting small amounts from certain pots, often used to buy refreshments, cards, and so on. The home-game equivalent of a rake.
+
+
+== L ==
+ lag
+A loose aggressive style of play in which a player plays a lot of starting hands and makes many small raises in hopes of out-playing their opponents
+ lammer
+a plastic, chip-shaped tokens with text written on them. Most commonly used is a dealer button with either the word "DEALER" or a "D" written on it; this item (also known as the buck) indicates who shall deal next. In a casino setting, lammers are also used to indicate which variant is being used, whose turn it is to pay the blind, etc., and lammers are also a name for "chips" awarded in satellite tournaments as buy-in chips to larger tournaments.
+ last to act
+A player is last to act if all players between the player and the button have folded.
+ laydown
+The choice to fold a strong hand in anticipation of superior opposition
+ lead
+The player who makes the last bet or raise in a round of betting is said to have the lead at the start of the next round. Can also be used as a verb meaning to bet out into the pot, to lead into the pot.
+ level
+Used in tournament play to refer to the size of the blinds that are periodically increased
+ leg-up, leg-up button
+The button used to signify who has won the previous hand in a kill game
+ light
+A hand that is not likely to be best. Usually used as an action descriptor; call light, three-bet light. See semi-bluff
+ limit
+The minimum or maximum amount of a bet
+See fixed limit
+ limp, limp in
+To enter a pot by simply calling a bet instead of raising
+ limp-reraise
+A reraise from a player that previously limped in the same betting round.  Also backraise
+ live bet
+A bet posted by a player under conditions that give them the option to raise even if no other player raises first; typically because it was posted as a blind or straddle.
+ live cards
+In stud poker games, cards that will improve a hand that have not been seen among anyone's upcards, and are therefore presumably still available. In games such as Texas hold 'em, a player's hand is said to contain live cards if matching either of them on the board would give that player the lead over their opponents. Typically refers to a hand that is weak, but not dominated.
+ live hand
+A hand still eligible to win the pot; one with the correct number of cards that has not been mucked or otherwise invalidated
+ live game
+A game with a lot of action. See also live poker.
+ live poker
+A retronym for poker played at a table with cards, as opposed to video poker or online poker
+ lock up
+To lock up a seat in a cash game means to place a poker chip, player's card, or other personal effect on the table in front of the seat, to signify that the seat is occupied even though the player may not be present.
+ loose
+To play more hands than the average for the game or for the player normally. See loose/tight play. Compare with tight, aggressive, passive.
+ low
+The lowest card by rank
+The low half of the pot in a high-low split
+
+
+== M ==
+ M-ratio
+A measure of the health of a chip stack as a function of the cost to play each round. See main article: M-ratio.
+ made hand
+A hand that does not need improvement to win.  Compare with a drawing hand.
+ maniac
+A very loose and aggressive player, who bets and raises frequently, and often in situations where it is not good strategy to do so.  Opposite of rock.
+ mark
+A person at a poker table that is the focus of attention, often due to their inexperience
+ match the pot
+To bet an amount equal to all the chips in the pot
+ micro-limit
+Internet poker games with stakes so small that real cardrooms could not profit from them, are said to be at the micro-limit level.
+ middle pair
+In a community card game, making a pair with neither the highest nor lowest card of the community cards. See also second pair.
+ middle position
+See position
+ misdeal
+A deal which is ruined for some reason and must be redealt
+ missed blind
+A required bet that is not posted when it is a player's turn to do so, perhaps occurring when a player absents themself from the table. Various rules require the missed bet to be made up upon the player's return.
+ move in
+In a no-limit game, to move in or to go all in means to bet one's entire stake on the hand in play.  See table stakes.
+ multi-table tournament (MTT)
+See Poker tournament
+ muck
+To fold
+To discard one's hand without revealing the cards.  Often done after winning without a showdown or at a showdown when a better hand has already been revealed.
+The discard pile
+ multi-way pot
+A pot where several players compete for it. Also known as a family pot, although family pot sometimes means a pot where all players participate.
+
+
+== N ==
+ negative freeroll
+See main article: negative freeroll.
+ nit
+A player who is unwilling to take risks and plays only premium hands in the top range.
+ no-limit
+Rules designating that players are allowed to wager any or all of their chips in a single bet. See no-limit
+ nosebleed stakes
+also known as nosebleed, is the highest stakes offered in poker, generally where the blinds are at least $200/$400 for cashgames and at least a buy-in of $25,000 for live tournaments.
+ nothing
+When a player only has the possibility of a high card and no other hand that will win.
+ nothing card
+In community card poker, a newly revealed community card that does not affect the value of any player's hand.
+ nut hand (the nuts)
+The nut hand is the best possible hand in a given situation. Players sometimes evaluate hands by ranking them as being the absolute nuts/pure nuts, the second nuts or the effective nuts.
+ nut low
+The best possible low hand in high-low split games
+
+
+== O ==
+ offsuit
+Cards that are not of the same suit.
+ on the button
+Being in the dealer position. As the position whose turn to bet comes last, it is the most advantageous and profitable position in poker.
+ one-chip rule
+A call of a previous bet using a chip of a higher denomination than necessary is considered a call unless it is verbally announced as a raise.
+ one-eyed royals
+See main article: one-eyed royals
+ one-ended straight draw
+Four out of the five cards needed for a straight that can only be completed with one specific rank of card, in cases where the needed card rank is either higher or lower than the cards already held as part of the sequence; as opposed to an inside straight draw or an open-ended straight draw.
+While A-2-3-4 and A-K-Q-J are the only truly one-ended straight draw possibilities, an open-ended straight draw could be considered one-ended if one of the card ranks needed to complete it would also give an opponent a hand of higher rank than a straight.
+ open
+To bet first. See main article: open
+ open-ended straight draw, open-ended
+An outside straight draw. Also two-way straight draw or double-ended straight draw
+ openers
+The cards held by a player in a game of jackpots entitling them to open the pot. Splitting openers refers to holding onto one of the openers after discarding it as proof of having the necessary cards to open.
+ open limp
+Being the first person in the pot preflop by calling the big blind.
+ option
+An optional bet or draw
+The right to raise possessed by the big blind if there have been no raises.
+ orbit
+A full rotation of the blinds at a table, equal to the number of people at the table.
+ outs
+See main article: out
+ out of position
+A player is said to be out of position, if they are either first to act, or are not last to act in a betting round.
+ outside straight draw
+See main article: outside straight draw. Also two-way straight draw or double-ended straight draw
+ overbet
+To make a bet that is more than the size of the pot in a no limit game.
+ overcall
+To call a bet after others have called.  Compare with cold call, flat call, smooth call
+ overcard
+A community card with a higher rank than a player's pocket pair.
+A higher card
+ overpair
+In community card games such as Texas hold 'em and Omaha hold 'em, a pocket pair with a higher rank than the highest community card.
+overs
+An option to increase the stakes in limit games. Players may elect to play or not play overs. Those who choose to play display some sort of token. If, at the beginning of a betting round, only overs players remain in the hand, bets of a predetermined increased limit (or no limit) are allowed. Most often used in lower limit live games as a compromise between aggressive and passive play.
+
+
+== P ==
+ paint
+Any royal card. Used mostly in lowball games, where royal cards are rarely helpful.
+ pair
+Two cards of the same rank. See main article: one pair
+ passive
+A style of play characterized by checking and calling. Compare with aggressive, loose, tight
+ pat
+Already complete. A hand is a pat hand when, for example, a flush comes on the first five cards dealt in draw poker.  Also see made hand
+ pay off
+To call a bet when the player is most likely drawing dead because the pot odds justify the call.
+ penny ante
+Frivolous, low stakes, or for fun only; a game where no significant stake is likely to change hands.
+ perfect
+The best possible cards, in a lowball hand, after those already named.
+ pick-up
+When the house picks up cash from the dealer after a player buys chips
+ play the board
+In games such as Texas hold 'em, where five community cards are dealt, if the player's best hand is on the board and the player goes to the showdown they are said to play the board.
+pocket aces
+Refers to a starting poker hand that contains two Aces. The most common context is a game of Texas hold 'em. Other names for Ace-Ace include American Airlines, bullets, and rockets.
+ pocket cards
+See hole cards
+ pocket pair
+In community card poker or stud poker, when two of a player's private cards make a pair. Also wired pair
+ poker face
+A blank expression that does not reveal anything about the cards being held.
+ poker table
+A typical poker game will have between two and ten players. A padded table top is preferred to facilitate picking up chips and cards.
+ polarized
+when someone's range is split into either very strong hands or bluffs
+ position
+See main article: position
+ position bet
+A bet that is made more due to the strength of the bettor's position than the strength of the bettor's cards.
+ post
+To make the required small or big blind bet in Texas hold 'em or other games played with blinds rather than antes.
+ post dead
+To post a bet amount equal to the small and the big blind combined (the amount of the large blind playing as a live blind, and the amount of the small blind as dead money). In games played with blinds, a player who steps away from the table and misses their turn for the blinds must either post dead or wait for the big blind to re-enter the game. Compare with dead blind
+ post oak bluff
+See main article: post oak bluff
+ pot
+See main article: pot
+ pot-committed
+More often in the context of a no limit game; the situation where one can no longer fold because the size of the pot is so large compared to the size of one's stack.
+ pot-limit
+See main article: pot limit
+ pot odds
+See main article: pot odds
+ pot sweetener
+A small bet not meant to cause an opponent to fold but rather to build up the pot thereby sweetening it.
+ pre-flop
+The time when players already have their pocket cards but no flop has been dealt yet.
+ probe bet
+A bet after the flop by a player who did not take the lead in betting before the flop (and when the player that did take the lead in betting before the flop declined to act). Compare with continuation bet
+ prop, proposition player
+A player who gets paid an hourly rate to start poker games or to help them stay active. Prop players play with their own money, which distinguishes them from shills, who play with the house's money.
+ protected pot
+A pot that seems impossible to bluff to win because too many players are active in it and the chances of another player either calling to the end or raising beyond measure become an assurance.
+ protection, protect
+See main article: protection
+ purse
+The total prize pool in a poker tournament
+ push
+To bet all in
+ put the clock (on someone)
+See main article: call the clock
+ put on
+To put someone on a hand is to deduce what hand or range of hands they have based on their actions and knowledge of their gameplay style. See also tells
+
+
+== Q ==
+ quads
+Four of a kind
+ qualifier, qualifying low
+A qualifying low hand. High-low split games often require a minimum hand value, such as eight-high, in order to award the low half of the pot. In some home games, there are qualifiers for high hands as well.
+ quartered
+To win a quarter of a pot, usually by tying the low or high hand of a high-low split game. Generally, this is an unwanted outcome, as a player is often putting in a third of the pot in the hope of winning a quarter of the pot back.
+
+
+== R ==
+ rabbit hunt
+After a hand is complete, to reveal cards that would have been dealt later in the hand had it continued. This is usually prohibited in casinos because it slows the game and may reveal information about concealed hands. Also fox hunt
+ rack
+A collection of 100 chips of the same denomination, usually arranged in five stacks in a plastic tray.
+A plastic tray used for storing a rack of chips
+ race
+See coin flip
+ rag
+A low-valued (and presumably worthless) card. Hence ragged – having a low value
+ rail
+The rail is the sideline at a poker table—the (often imaginary) rail separates spectators from the field of play. Watching from the rail means watching a poker game as a spectator. Going to the rail usually means losing all one's money.
+ railbird
+A non-participatory spectator of a poker game
+ rainbow
+Three or four cards of different suits, especially said of a flop.
+Betting a rainbow: to make a bet of one chip of each colour currently in play.
+ raise
+To raise is to increase the size of an existing bet in the same betting round. See main article: raise
+ rake
+See main article: rake. Also juice, vig, vigorish
+ rakeback
+Rebate or repayment to a player a portion of the rake paid by that player, normally from a non-cardroom, third-party source such as an affiliate.  Rakeback is paid in many ways by online poker rooms, affiliates or brick and mortar rooms. Many use direct money payments for online poker play. Brick and mortar rooms usually use rate cards to track and pay their rakeback. See main article: rakeback
+ rakeback pro
+A rakeback pro is a poker player who may not be a winning player but uses rakebacks to supplement their losses and turn them into winnings.
+ range of hands
+The list of holdings that a player considers an opponent might have when trying to deduce their holding.  See also put on
+ rathole
+To remove a portion of one's chips from the table while the game is underway. Normally prohibited in public card rooms. Also going south.
+ rebuy
+An amount of chips purchased after the buy-in. In some tournaments, players are allowed to rebuy chips one or more times for a limited period after the start of the game, providing that their stack is at or under its initial level.  Compare with add-on
+ Redbird
+A $5 five dollar chip
+ redeal
+To deal a hand again, possibly after a misdeal
+ redraw
+To make one hand and have a draw for a better hand
+Second or later draws in a draw game with multiple draws
+ represent
+To represent a hand is to play as if it were held (whether it is or not).
+ reraise
+Raise after one has been raised. Also coming over the top
+ ring game
+See main article: ring game
+ river
+The river or river card is the final card dealt in a poker hand, to be followed by a final round of betting and, if necessary, a showdown. In Texas hold 'em and Omaha hold'em, the river is the fifth and last card to be dealt to the community card board, after the flop and turn. A player losing the pot due only to the river card is said to have been rivered.
+ rock
+A very tight player (plays very few hands and only continues with strong hands).
+A bundle of chips held together with a rubber band, or other token signifying an obligatory live straddle.  If the player under the gun has the rock, they must use it to post a live straddle.  The winner of the pot collects the rock and is obligated to use it in turn.
+ roll your own
+In seven-card stud, when the player has some ability to choose which cards are turned face up.
+ rolled-up trips
+In seven-card stud, three of a kind dealt in the first three cards
+ rounder
+An expert player who travels to seek out high-stakes games
+ royal cards
+Royal card are also known as face cards and picture cards. These cards consist of the jack, queen, and king of every suit.
+ royal flush
+A straight flush of the top five cards of any suit. This is generally the highest possible hand.
+ run it twice, running it twice
+A gentleman's agreement (not allowed in some casinos) where the players (usually two or three) agree to draw each remaining card to come in two different occasions instead of just once after all parties have gone all-in (two flops, turns and river for example for a total of 10 community cards in two sets of five).  The winner of one run gets half the pot while the winner of the second run gets the other half. Running it twice is done to minimize bad beats and reduce bankroll swings. Running it twice is a form of insurance.
+ runner-runner
+A hand made by hitting two consecutive cards on the turn and river. Also backdoor. Compare with bad beat and suck out
+ rush
+A prolonged winning streak. A player who has won several big pots recently is said to be on a rush. Also heater
+
+
+== S ==
+ sandbag
+See slow play (poker)
+ satellite
+A tournament in which the prize is a free entrance to another (larger) tournament.
+ scare card
+A card dealt face up (either to a player in a game such as stud or to the board in a community card game) that could create a strong hand for someone.
+ scoop
+In high-low split games, to win both the high and the low halves of the pot.
+ second barrel
+See barreling
+ second pair
+In community card poker games, a pair of cards of the second-top rank on the board. Second pair is a middle pair, but not necessarily vice versa. Compare with bottom pair, top pair
+ sell
+In spread limit poker, to sell a hand is to bet less than the maximum with a strong hand, in the hope that more opponents will call the bet.
+ semi-bluff
+In a game with multiple betting rounds, a bet or raise made with a hand that has decent chance of improving, but with the intention of making a better hand fold on the current betting round.
+See: semi-bluff
+
+ set
+Three of a kind, especially a situation where two of the cards are concealed in the player's hole cards. Compare with trips
+ set-up
+A deck that has been ordered, usually king to ace by suit (spades, hearts, clubs and diamonds). In casinos, it is customary to use a set-up deck when introducing a new deck to the table. The set-up is spread face up for the players to demonstrate that all of the cards are present before the first shuffle. Also called spading the deck
+ sevens rule
+A rule in many A-5 lowball games that requires a player with a seven-low or better after the draw to bet, rather than check or check-raise. In some venues, a violator loses any future interest in the pot; in others they forfeit their interest entirely.
+ shark
+A professional player or someone proficient at the game .  See also card sharp
+ shill
+See main article: shill. Compare with proposition player
+ shoe
+A slanted container used to hold the cards yet to be dealt, usually used by casinos and in professional poker tournaments.  See main article: shoe (cards).
+ shootout
+A poker tournament format where the last remaining player of a table goes on to play the remaining players of other tables.  Each table plays independently of the others; that is, there is no balancing as players are eliminated.
+ short buy
+In no-limit poker, to buy into a game for considerably less money than the stated maximum buy-in, or less than other players at the table have in play.
+ short stack
+A stack of chips that is relatively small for the stakes being played. Compare with deep stack, big stack
+ shorthanded
+A poker game that is played with six players or fewer, as opposed to a full ring game, which is usually nine or ten players. A tournament where all tables are shorthanded at all times is called a short table tournament.
+ shove
+To bet all in
+ showdown
+When, if more than one player remains after the last betting round, remaining players expose and compare their hands to determine the winner or winners. See main article: showdown
+ showdown value
+A poker hand has showdown value, when compared to the opponent's range of hands, it has a realistic chance of winning at showdown.
+ side game
+A ring game running concurrently with a tournament made up of players who have either been eliminated or opted not to play the tournament.
+ side pot
+A separate pot created to deal with the situation of one player going "all in". See Betting in poker
+ sit and go
+A poker tournament with no scheduled starting time that starts whenever the necessary players have put up their money. Single-table sit-and-gos, with nine or ten players, are the norm, but multi-table games are common as well. Also called sit 'n gos
+slow play
+See main article: slow play
+ slow roll
+To delay or avoid showing the winning hand at showdown, it is widely regarded as poor etiquette.
+ small blind
+See main article: blinds
+ smooched
+When someone manages to catch a slightly better hand.
+ smooth call
+See flat call
+ snap call
+When a player makes a swift call without any forethought (usually against an all-in) because of the high strength of their hand.
+ snow
+To play a worthless hand misleadingly in draw poker in order to bluff.
+The worthless hand in question
+ soft-play
+To intentionally go easy on a player.  Soft play is expressly prohibited in most card rooms, and may result in penalties ranging from forced sit-outs to forfeiture of stakes or winnings.
+ soft break
+Exchanging a large bill or chip into both chips and cash, when a player buys in. The cash is returned to the player and thus not in play.
+ splash the pot
+To throw one's chips in the pot in a disorderly fashion. Not typically allowed, because the dealer can not tell how much has been bet.
+ split
+See main article: split and high-low split
+ split two pair
+In community card poker, a two pair hand, with each pair made of one of a player's hole cards, and one community card.
+ spread
+The range between a table's minimum and maximum bets
+ spread-limit
+A form of limit poker where the bets and raises can be between a minimum and maximum value. The spread may change between rounds.
+ squeeze play
+A bluff reraise in no limit hold'em with less-than-premium cards, after another player or players have already called the original raise. The goal is to bluff everyone out of the hand and steal the bets.
+ stack
+The total chips and currency that a player has in play at a given moment
+To be paid off by an opponent for your full stack value, To "stack" an opponent.
+A collection of 20 poker chips of the same denomination, usually arranged in an orderly column
+ stakes
+The amount one buys in for and can bet.
+ staking
+Staking is the act of one person putting up cash for a poker player to play with in hopes that the player wins. Any profits are split on a predetermined percentage between the backer and the player.  A backed player is often known as a horse. Compare with bankroll
+ stand pat
+In draw poker, playing the original hand using no draws, either as a bluff or in the belief it is the best hand.
+ starting hand
+The initial set of cards dealt to a player before any voluntary betting takes place. For example, in seven-card stud this is two downcards and one upcard, in Texas hold 'em it is two downcards, and in five-card draw it is five cards. Additional information: Texas hold 'em starting hands
+ static board
+A board where few draws are available. Where hands are not likely change value on future streets. Compare with dynamic board.
+ steal
+See main article: steal
+ steam
+A state of anger, mental confusion, or frustration in which a player adopts a less than optimal strategy, usually resulting in poor play. Compare with tilt
+ stop and go
+When a player bets into another player who has previously raised or otherwise shown aggression.
+Another version of the stop and go is in tournament poker when a player raises pre-flop with the intention of going all in after the flop regardless of the cards that fall.
+ straddle bet
+See main article: straddle bets
+ straight
+Poker hand: see main article: straight
+When used with an amount, indicates that the speaker is referring to the total bet, versus the amount being raised.  Also altogether or all day
+ straight flush
+See main article: straight flush
+ strategy card
+A wallet sized card that is commonly used to help with poker strategies in online and casino games.
+ street
+A street is another term for a dealt card or betting round.
+ string bet
+A call with one motion and a later raise with another, or a reach for more chips without stating the intended amount. String bets are prohibited in public cardroom rules. Compare with forward motion
+ structured
+A structured betting system is one where the spread of the bets may change from round to round.
+ stub
+The remainder of cards that have not been used during the active play of a particular game.
+ stud
+A variant of poker. See main article: stud poker
+A card dealt face up in stud poker
+ subscription poker
+Subscription poker is a form of online poker wherein users pay a monthly fee to become eligible to play in real-money tournaments.
+ suck out
+A situation when a hand heavily favored to win loses to an inferior hand after all the cards are dealt. The winning hand is said to have sucked out. Compare with bad beat
+ suited
+Having the same suit. See card suits
+ suited connectors
+See main article: suited connectors
+ super satellite
+A multi-table poker tournament in which the prize is a free entrance to a satellite tournament or a tournament in which all the top finishers gain entrance to a larger tournament.
+
+
+== T ==
+ table dynamics
+See game flow
+ table stakes
+A rule that a player may bet no more money than they had on the table at the beginning of that hand. See main article: table stakes.
+ tag
+A tight aggressive style of play in which a player plays a small number of strong starting hands, but when in pots plays aggressively.
+ tainted outs
+Cards that improve a hand so that it is better than the other current hands, but simultaneously improve other hands even more. See also outs
+ tank, in the tank
+To take an excessive amount of time to act.
+ tell
+A tell in poker is a detectable change in a player's behavior or demeanor that gives clues to that player's assessment of their hand.  See main article: tell
+ texture
+How well coordinated the community cards are to one another.  This is used to estimate relative hand strength. See also static board and dynamic board
+ third man walking
+A player who gets up from their seat in a cash game, after two other players are already away from the table, is referred to as the third man walking. In a casino with a third man walking rule, this player may be required to return to their seat within 10 minutes, or one rotation of the deal around the table, or else their seat in the game will be forfeited if there is a waiting list for the game.
+ three bet, three betting
+To be the first player to put in a third unit of betting. Similarly Four betting, Five betting, etc.
+ three of a kind
+See main article: three of a kind. Also trips, set
+ tight
+To play fewer hands than average for the game or for the player normally. See loose/tight play. Compare with loose, aggressive, passive
+ tilt
+Emotional upset, mental confusion, or frustration in which a player adopts a less than optimal strategy, usually resulting in poor play. See main article: tilt. Compare with steam
+ timer
+If playing a poker tournament, a timer is used to count down periods in which the blinds are at certain levels. When the timer reaches 0:00, the blinds go to a higher level.
+ to go
+The amount that a player is required to call in order to stay in the hand.
+ toke
+In a brick and mortar casino, a toke is a tip given to the dealer by the winner of the pot.
+ top kicker
+In community card poker games, top kicker is the best possible kicker to some given hand.
+ top pair
+In community card poker games, top pair is a pair comprising a pocket card and the highest-ranking card on the board. Compare with second pair, bottom pair
+ top two
+A split two pair, matching the highest-ranking two flop cards.
+ tp
+tight passive
+trap
+See slow play
+ trey
+A three-spot card (i.e. a three of any suit).
+ triple barrel
+See barreling
+ trips
+Three of a kind, especially a situation where only one card is from the player's hole cards. Compare with set
+ turbo
+A type of tournament where the blind levels increase much faster than in standard play.
+ turn
+The turn, turn card or fourth street is the fourth of five cards dealt to a community card board, constituting one face-up community card that each of the players in the game can use to make up their final hand.  See also flop and river
+
+
+== U ==
+ under the gun
+The playing position to the direct left of the blinds in Texas hold 'em or Omaha hold 'em. The player who is under the gun must act first on the first round of betting.
+ underdog
+An underdog or dog is a player with a smaller chance to win than another specified player. Frequently used when the exact odds are expressed.
+ underfull
+A full house made where the three of a kind has lower-ranking cards than the pair. Compare with big full
+ up
+When used with a card rank to describe a poker hand, refers to two pair with the named card being the higher pair.
+ upcard
+A card that is played face up. See main article: upcard
+ upswing
+A period during which a player wins more (or loses less) than expected. See also: downswing
+ up the ante
+Increase the stakes
+ upstairs
+See raise
+
+
+== V ==
+ value bet
+A bet made by a player who wants it to be called (as opposed to a bluff or protection bet). See value
+ variance
+The statistical measure of how far actual results differ from expectation. See main article: variance
+ vigorish, vig
+The rake. See main article: vigorish
+ villain
+In hand histories any opponent as seen from hero's perspective.
+ VPIP
+Voluntary put money in pot. Represents the percentage of hands with which a player puts money into the pot pre-flop, without counting any blind postings.  VPIP is an excellent measure of how tight or loose a player is.
+
+
+== W ==
+ wake up
+To "wake up with a hand" means to discover a strong starting hand, often when there has already been action in front of the player.
+ walk
+A situation where all players fold to the big blind.
+ wash
+To mix the deck by spreading the cards face down on the table and mixing them up.
+ weak ace
+An ace with a low kicker. Also small ace, soft ace, ace-rag
+ weak player
+A player who is easily bullied out of a hand post-flop by any sort of action.
+ webcam poker
+A form of online poker which allows players to watch each other during play via a webcam.
+ wet board
+See dynamic board
+ whale
+A particularly weak player with a very large stack or bankroll that can be targeted with minimal risk.
+ wheel
+A five-high straight (A-2-3-4-5), with the ace playing low. See list of poker hands and lowball (poker)
+In deuce-to-seven lowball, the nut low hand (2–3–4–5–7)
+ wild card
+See main article: wild card. Compare with bug
+ window card
+An upcard in stud poker. The first window card in stud is called the door card. In Texas hold'em and Omaha, the window card is the first card shown when the dealer puts out the three cards for the flop.
+ wrap
+In Omaha hold 'em, a wrap is a straight draw with nine or more outs comprising two board cards and three or four cards from a player's hand.
+
+
+== See also ==
+
+Betting in poker
+List of poker playing card nicknames
+
+
+== References ==
+
+
+== Additional references ==
+Acevado, Michael (2019). Modern Poker Theory. D&B Publishing. ISBN 978-190945789 8.
+Angelo, Tommy (2007). Elements of Poker. BookSurge Publishing. ISBN 978-1-4196-8089-2.
+Brokos, Andrew (2020). Play Optimal Poker 2. Independently Published. ISBN 979-8645500658.
+The Official Dictionary of Poker by Michael Wiesenberg
+Dan Kimberg's Poker Dictionary
+Gibson, Walter B. (2013). Hoyle's Modern Encyclopedia of Card Games: Rules of All the Basic Games and Popular Variations. Crown. ISBN 978-0-307-48609-7

@@ -1,0 +1,103 @@
+A country code top-level domain (ccTLD) is an Internet top-level domain generally used or reserved for a country, sovereign state, or dependent territory identified with a country code. All ASCII ccTLD identifiers are two letters long, and all two-letter top-level domains are ccTLDs.
+In 2018, the Internet Assigned Numbers Authority (IANA) began implementing internationalized country code top-level domains, consisting of language-native characters when displayed in an end-user application. Creation and delegation of ccTLDs is described in RFC 1591, corresponding to ISO 3166-1 alpha-2 country codes. While gTLDs have to obey international regulations, ccTLDs are subjected to requirements that are determined by each country's domain name regulation corporation. With over 150 million domain name registrations as of 2022, ccTLDs make up about 40% of the total domain name industry.
+Country code extension applications began in 1985. The registered country code extensions in that year included .us (United States), .uk (United Kingdom) and .il (Israel). The registered country code extensions in 1986 included .au (Australia), .de (Germany), .fi (Finland), .fr (France), .is (Iceland), .jp (Japan), .kr (South Korea), .nl (Netherlands) and .se (Sweden). The registered country code extensions in 1987 included .nz (New Zealand), .ch (Switzerland) and .ca (Canada). The registered country code extensions in 1988 included .ie (Ireland) .it (Italy), .es (Spain) and .pt (Portugal). The registered country code extensions in 1989 included .in (India) and .yu (Yugoslavia). In the 1990s, .cn (People's Republic of China) and .ru (Russian Federation) were first registered.
+There are 308 delegated ccTLDs. The .cn, .tk, .de, .uk, .nl and .ru ccTLDs contain the highest number of domains. The top ten ccTLDs account for more than five-eighths of registered ccTLD domains. There were about 153 million ccTLD domains registered at the end of March 2022.
+
+
+== Delegation and management ==
+IANA is responsible for determining an appropriate trustee for each ccTLD. Administration and control are then delegated to that trustee, which is responsible for the policies and operation of the domain. The delegation can be determined from IANA's list of ccTLDs. Individual ccTLDs may have varying requirements and fees for registering subdomains. There may be a local-presence requirement (for instance, citizenship or other connection to the ccTLD), as, for example, the American (us), Japanese (jp), Canadian (ca), French (fr) and German (de) domains, or registration may be open.
+
+
+== History ==
+The first registered ccTLD was .us, which was registered in 1985. Later ccTLDs registered in that year included .uk and .il. Then, .au, .de, .fi, .fr, .is, .jp, .kr, .nl and .se were also registered in 1986. In 1987, .nz, .ch, .my and .ca were registered. Later on, in 1988, .ie, .it, .es and .pt were also registered.
+
+
+== Lists ==
+As of 20 May 2017, there were 255 country-code top-level domains, purely in the Latin alphabet, using two-character codes. The number was 316 as of June 2020, with the addition of internationalized domains.
+
+
+=== Latin Character ccTLDs ===
+
+Overview of Latin-character country-code TLDs
+After clicking a letter, possibly scroll up to see rows hidden by sticky table headers.
+
+Table Notes
+
+
+=== Internationalized ccTLDs ===
+
+
+=== Proposed internationalized ccTLDs ===
+
+Internationalised domain names have been proposed for Japan and Libya.
+
+
+== Relation to ISO 3166-1 ==
+
+The IANA is not in the business of deciding what is and what is not a country. The selection of the ISO 3166 list as a basis for country code top-level domain names was made with the knowledge that ISO has a procedure for determining which entities should be and should not be on that list.
+
+
+=== Unused ISO 3166-1 codes ===
+Almost all ISO 3166-1 codes have been assigned and do exist in DNS.
+However, some of these are effectively unused. In particular, the ccTLDs for the Norwegian dependency Bouvet Island (bv) and the designation Svalbard and Jan Mayen (sj) do exist in DNS, but no subdomains have been assigned, and it is Norid policy to not assign any at present. Two French territories—bl (Saint Barthélemy) and mf (Saint Martin)—still await local assignment by France's government.
+The code eh, although eligible as ccTLD for Western Sahara, has never been assigned and does not exist in DNS. Only one subdomain is still registered in gb (ISO 3166-1 for the United Kingdom), and no new registrations are being accepted for it. Sites in the United Kingdom generally useuk (see below).
+The former .um ccTLD for the U.S. Minor Outlying Islands was removed in April 2008. Under RFC 1591 rules, .um is eligible as a ccTLD on request by the relevant governmental agency and local Internet user community.
+
+
+=== ASCII ccTLDs not in ISO 3166-1 ===
+Several ASCII ccTLDs are in use that are not ISO 3166-1 two-letter codes. Some of these codes were specified in older versions of the ISO list.
+
+uk (United Kingdom): The ISO 3166-1 code for the United Kingdom is GB (Great Britain). However, the JANET network had already selected uk as a top-level identifier for its pre-existing Name Registration Scheme, and this was incorporated into the DNS root. gb was assigned with the intention of a transition, but this never occurred and the use of uk is now entrenched.
+su This obsolete ISO 3166 code for the Soviet Union was assigned when the Soviet Union still existed; moreover, new su registrations are accepted.
+ac (Ascension Island): This code is a vestige of IANA's decision in 1996 to allow the use of codes reserved in the ISO 3166-1 alpha-2 reserve list for use by the Universal Postal Union. The decision was later reversed, with Ascension Island now the sole outlier. (Three other ccTLDs, gg (Guernsey), im (Isle of Man) and je (Jersey) also fell under this category from 1996 until they received corresponding ISO 3166 codes in March 2006.)
+eu (European Union): On September 25, 2000, ICANN decided to allow the use of any two-letter code in the ISO 3166-1 reserve list that is reserved for all purposes. Only EU meets this criterion. Following a decision by the EU's Council of Telecommunications Ministers in March 2002, progress was slow, but a registry (named EURid) was chosen by the European Commission, and criteria for allocation set: ICANN approved eu as a ccTLD, and it opened for registration on 7 December 2005 for the holders of prior rights. Since 7 April 2006, registration is open to all in the European Economic Area.
+
+
+=== Historical ccTLDs ===
+ccTLDs may be removed if that country ceases to exist. There are three ccTLDs that have been deleted after the corresponding 2-letter code was withdrawn from ISO 3166-1: cs (for Czechoslovakia), zr (for Zaire) and tp (for East Timor). There may be a significant delay between withdrawal from ISO 3166-1 and deletion from the DNS; for example, ZR ceased to be an ISO 3166-1 code in 1997, but the zr ccTLD was not deleted until 2001. Other ccTLDs corresponding to obsolete ISO 3166-1 codes have not yet been deleted. In some cases they may never be deleted due to the amount of disruption this would cause for a heavily used ccTLD. In particular, the Soviet Union's ccTLD su remains in use more than twenty years after SU was removed from ISO 3166-1.
+The historical country codes dd for the German Democratic Republic and yd for South Yemen were eligible for a ccTLD, but not allocated; see also de and ye.
+The temporary reassignment of country code cs (Serbia and Montenegro) until its split into rs and me (Serbia and Montenegro, respectively) led to some controversies about the stability of ISO 3166-1 country codes, resulting in a second edition of ISO 3166-1 in 2007 with a guarantee that retired codes will not be reassigned for at least 50 years, and the replacement of RFC 3066 by RFC 4646 for country codes used in language tags in 2006.
+The previous ISO 3166-1 code for Yugoslavia, YU, was removed by ISO on 23 July 2003, but the yu ccTLD remained in operation. Finally, after a two-year transition to Serbian rs and Montenegrin me, the .yu domain was phased out in March 2010.
+Australia was originally assigned the oz country code, which was later changed to au with the .oz domains moved to .oz.au.
+
+
+== Internationalized ccTLDs ==
+
+An internationalized country code top-level domain (IDN ccTLD) is a top-level domain with a specially encoded domain name that is displayed in an end user application, such as a web browser, in its native language script or a non-alphabetic writing system, such as Latin script (.us, .uk and .br), Indic script (.भारत) and Korean script (.한국), etc. IDN ccTLDs are an application of the internationalized domain name (IDN) system to top-level Internet domains assigned to countries, including the United Kingdom, or independent geographic regions.
+ICANN started to accept applications for IDN ccTLDs in November 2009, and installed the first set into the Domain Names System in May 2010. The first set was a group of Arabic names for the countries of Egypt, Saudi Arabia, and the United Arab Emirates. By May 2010, 21 countries had submitted applications to ICANN, representing 11 languages.
+ICANN requires all potential international TLDs to use at least one letter that does not resemble a Latin letter, or have at least three letters, in an effort to avoid IDN homograph attacks. Nor shall the international domain name look like another domain name, even if they have different alphabets. Between Cyrillic and Greek alphabets, for example, this could happen.
+
+
+== Generic ccTLDs ==
+Generic Country Code Top-Level Domain or gccTLD refers to those TLDs which are technically "non-restricted ccTLDs" but used like traditional generic TLDs (gTLDs) rather than "country"-targeted ones. Most of the gccTLDs are primarily used as domain hacks:
+
+
+== Unconventional usage ==
+
+Lenient registration restrictions on certain ccTLDs have resulted in various domain hacks. Domain names such as I.am, tip.it, start.at and go.to form well-known English phrases, whereas others combine the second-level domain and ccTLD to form one word or one title, creating domains such as blo.gs of South Georgia and the South Sandwich Islands (gs), youtu.be of Belgium (be), del.icio.us of the United States (us), and cr.yp.to of Tonga (to). The .co domain of Colombia has been cited since 2010 as a potential competitor to generic TLDs for commercial use, because it may be an abbreviation for company.
+Several ccTLDs allow the creation of emoji domains.
+Some ccTLDs may also be used for typosquatting. The domain cm of Cameroon has generated interest due to the possibility that people might miss typing the letter o for sites in the com.
+
+
+=== Commercial use ===
+Some of the world's smallest countries and non-sovereign or colonial entities with their own country codes have opened their TLDs for worldwide commercial use, some of them free like .tk.
+
+
+== See also ==
+List of ccTLDs
+Country code top-level domains with commercial licenses
+Country code second-level domain
+ISO 3166-1 alpha-2 assigned codes
+Geographic top-level domain, a type of generic top-level domain
+List of NATO country codes
+
+
+== References ==
+
+
+== External links ==
+Official website
+"World Intellectual Property Organization". Domain name dispute resolution. WIPO.
+"World-Wide Alliance of Top Level Domain-names".
+"Country Code Names Supporting Organisation (ccNSO)". ICANN.
+Baskerville, Robert (Jan 16, 2008). "ccTLD and TLD analysis (of several Zone files)". Archived from the original on 2015-11-03. Retrieved 2008-01-13.

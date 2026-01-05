@@ -1,0 +1,42 @@
+This is a list of the world's countries and their dependencies, ranked by total area, including land and water.
+This list includes entries that are not limited to those in the ISO 3166-1 standard, which covers sovereign states and dependent territories. All 193 member states of the United Nations plus the two observer states are given a rank number. Largely unrecognised states not in ISO 3166-1 are included in the list in ranked order. The areas of such largely unrecognised states are in most cases also included in the areas of the more widely recognised states that claim the same territory; see the notes in the "Notes" column for each country for clarification.
+Not included in the list are individual country claims to parts of the continent of Antarctica or entities such as the European Union that have some degree of sovereignty but do not consider themselves to be sovereign countries or dependent territories.
+This list includes three measurements of area:
+
+Total area: the sum of land and water areas within international boundaries and coastlines.
+Land area: the aggregate of all land within international boundaries and coastlines, excluding water area.
+Water area: the sum of the surface areas of all inland water bodies (lakes, reservoirs, and rivers) within international boundaries and coastlines. Coastal internal waters may be included. Territorial seas are not included unless otherwise noted. Contiguous zones and exclusive economic zones are not included.
+Total area is taken from the United Nations Statistics Division unless otherwise noted. Land and water are taken from the Food and Agriculture Organization unless otherwise noted. The CIA World Factbook is most often used when different UN departments disagree. Other sources and details for each entry may be specified in the relevant footnote.
+
+
+== Countries and dependencies by area ==
+
+
+== See also ==
+
+List of countries and dependencies by population density
+List of countries and dependencies by population
+List of largest cities
+List of largest empires
+Lists of political and geographic subdivisions by total area
+List of sovereign states
+Orders of magnitude (area)
+regional lists:
+List of African countries by area
+List of Asian countries by area
+List of European countries by area
+List of North American countries by area
+List of South American countries by area
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Encyclopaedia Britannica: List of the world's countries, dependencies, and territories by total area
+https://www.sciencefocus.com/planet-earth/largest-countries-in-the-world
+https://www.nationsonline.org/oneworld/countries_by_area.htm
+https://www.cia.gov/the-world-factbook/field/area/country-comparison/

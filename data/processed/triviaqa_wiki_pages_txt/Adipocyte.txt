@@ -1,0 +1,70 @@
+Adipocytes, also known as lipocytes and fat cells, are the cells that primarily compose adipose tissue, specialized in storing energy as fat. Adipocytes are derived from mesenchymal stem cells which give rise to adipocytes through adipogenesis.  In cell culture, adipocyte progenitors can also form osteoblasts, myocytes and other cell types.
+There are two types of adipose tissue, white adipose tissue (WAT) and brown adipose tissue (BAT), which are also known as white and brown fat, respectively, and comprise two types of fat cells.
+
+
+== Structure ==
+
+
+=== White fat cells ===
+
+White fat cells contain a single large lipid droplet surrounded by a layer of
+cytoplasm, and are known as unilocular. The nucleus is flattened and pushed to the periphery. A typical fat cell is 0.1 mm in diameter with some being twice that size, and others half that size. However, these numerical estimates of fat cell size depend largely on the measurement method and the location of the adipose tissue. The fat stored is in a semi-liquid state, and is composed primarily of triglycerides, and cholesteryl ester. White fat cells secrete many proteins acting as adipokines such as resistin, adiponectin, leptin and apelin. An average human adult has 30 billion fat cells with a weight of 30 lbs or 13.5 kg. If a child or adolescent gains sufficient excess weight, fat cells may increase in absolute number until age twenty-four. If an adult (who never was obese as a child or adolescent) gains excess weight, fat cells generally increase in size, not number, though there is some inconclusive evidence suggesting that the number of fat cells might also increase if the existing fat cells become large enough (as in particularly severe levels of obesity). The number of fat cells is difficult to decrease through dietary intervention, though some evidence suggests that the number of fat cells can decrease if weight loss is maintained for a sufficiently long period of time (>1 year; though it is extremely difficult for people with larger and more numerous fat cells to maintain weight loss for that long a time).
+A large meta-analysis has shown that white adipose tissue cell size is dependent on measurement methods, adipose tissue depots, age, and body mass index; for the same degree of obesity, increases in fat cell size were also associated with the dysregulations in glucose and  lipid metabolism.
+
+
+=== Brown fat cells ===
+Brown fat cells are polyhedral in shape. Brown fat is derived from dermatomyocyte cells. Unlike white fat cells, these cells have considerable cytoplasm, with several lipid droplets scattered throughout, and are known as multilocular cells. The nucleus is round and, although eccentrically located, it is not in the periphery of the cell. The brown color comes from the large quantity of mitochondria. Brown fat, also 
+known as "baby fat," is used to generate heat.
+
+
+=== Marrow fat cells ===
+Marrow adipocytes are unilocular like white fat cells.  The marrow adipose tissue depot is poorly understood in terms of its physiologic function and relevance to bone health. Marrow adipose tissue expands in states of low bone density but additionally expands in the setting of obesity. Marrow adipose tissue response to exercise approximates that of white adipose tissue. Exercise reduces both adipocyte size as well as marrow adipose tissue volume, as quantified by MRI or μCT imaging of bone stained with the lipid binder osmium.
+
+
+== Development ==
+
+Pre-adipocytes are undifferentiated fibroblasts that can be stimulated to form adipocytes. Studies have shed light into potential molecular mechanisms in the fate determination of pre-adipocytes although the exact lineage of adipocyte is still unclear. The variation of body fat distribution resulting from normal growth is influenced by nutritional and hormonal status dependent on intrinsic differences in cells found in each adipose depot.
+Mesenchymal stem cells can differentiate into adipocytes, connective tissue, muscle or bone.
+The precursor of the adult cell is termed a lipoblast, and a tumor of this cell type is known as a lipoblastoma.
+
+
+== Function ==
+
+
+=== Cell turnover ===
+Fat cells in some mice have been shown to drop in count due to fasting and other properties were observed when exposed to cold.
+If the adipocytes in the body reach their maximum capacity of fat, they may replicate to allow additional fat storage.
+
+Adult rats of various strains became obese when they were fed a highly palatable diet for several months. Analysis of their adipose tissue morphology revealed increases in both adipocyte size and number in most depots. Reintroduction of an ordinary chow diet to such animals precipitated a period of weight loss during which only mean adipocyte size returned to normal. Adipocyte number remained at the elevated level achieved during the period of weight gain.
+
+According to some reports and textbooks, the number of adipocytes can increase in childhood and adolescence, though the amount is usually constant in adults. Individuals who become obese as adults, rather than as adolescents, have no more adipocytes than they had before.
+
+People who have been fat since childhood generally have an inflated number of fat cells. People who become fat as adults may have no more fat cells than their lean peers, but their fat cells are larger. In general, people with an excess of fat cells find it harder to lose weight and keep it off than the obese who simply have enlarged fat cells.
+
+Body fat cells have regional responses to the overfeeding that was studied in adult subjects. In the upper body, an increase of adipocyte size correlated with upper-body fat gain; however, the number of fat cells was not significantly changed. In contrast to the upper body fat cell response, the number of lower-body adipocytes did significantly increase during the course of experiment. Notably, there was no change in the size of the lower-body adipocytes.
+Approximately 10% of fat cells are renewed annually at all adult ages and levels of body mass index without a significant increase in the overall number of adipocytes in adulthood.
+
+
+=== Adaptation ===
+Obesity is characterized by the expansion of fat mass, through adipocyte size increase (hypertrophy) and, to a lesser extent, cell proliferation (hyperplasia). In the fatty tissue of obese individuals, there is increased production of metabolism modulators, such as glycerol, hormones, macrophage-stimulating chemokines, and pro-inflammatory cytokines, leading to the development of insulin resistance. Production of these modulators and the resulting pathogenesis of insulin resistance are probably caused by adipocytes as well as immune system macrophages that infiltrate the tissue.
+Fat production in adipocytes is strongly stimulated by insulin. By controlling the activity of the pyruvate dehydrogenase and the acetyl-CoA carboxylase enzymes, insulin promotes unsaturated fatty acid synthesis. It also promotes glucose uptake and induces SREBF1, which activates the transcription of genes that stimulate lipogenesis.
+SREBF1 (sterol regulatory element-binding transcription factor 1) is a transcription factor synthesized as an inactive precursor protein inserted into the endoplasmic reticulum (ER) membrane by two membrane-spanning helices. Also anchored in the ER membrane is SCAP (SREBF-cleavage activating protein), which binds SREBF1. The SREBF1-SCAP complex is retained in the ER membrane by INSIG1 (insulin-induced gene 1 protein). When sterol levels are depleted, INSIG1 releases SCAP and the SREBF1-SCAP complex can be sorted into transport vesicles coated by the coatomer COPII that are exported to the Golgi apparatus. In the Golgi apparatus, SREBF1 is cleaved and released as a transcriptionally active mature protein. It is then free to translocate to the nucleus and activate the expression of its target genes.
+
+Clinical studies have repeatedly shown that even though insulin resistance is usually associated with obesity, the membrane phospholipids of the adipocytes of obese patients generally still show an increased degree of fatty acid unsaturation. This seems to point to an adaptive mechanism that allows the adipocyte to maintain its functionality, despite the increased storage demands associated with obesity and insulin resistance.
+A study conducted in 2013 found that, while INSIG1 and SREBF1 mRNA expression was decreased in the adipose tissue of obese mice and humans, the amount of active SREBF1 was increased in comparison with normal mice and non-obese patients. This downregulation of INSIG1 expression combined with the increase of mature SREBF1 was also correlated with the maintenance of SREBF1-target gene expression. Hence, it appears that, by downregulating INSIG1, there is a resetting of the INSIG1/SREBF1 loop, allowing for the maintenance of active SREBF1 levels. This seems to help compensate for the anti-lipogenic effects of insulin resistance and thus preserve adipocyte fat storage abilities and availability of appropriate levels of fatty acid unsaturation in face of the nutritional pressures of obesity.
+
+
+=== Endocrine role ===
+Adipocytes can synthesize estrogens from androgens, potentially being the reason why being underweight or overweight are risk factors for infertility. Additionally, adipocytes are responsible for the production of the hormone leptin. Leptin is important in regulation of appetite and acts as a satiety factor.
+
+
+== See also ==
+List of human cell types derived from the germ layers
+
+
+== References ==
+
+
+== External links ==
+Histology image: 08201loa – Histology Learning System at Boston University – "Connective Tissue: unilocular (white) adipocytes "
+Histology image: 04901lob – Histology Learning System at Boston University – "Connective Tissue: multilocular (brown) adipocytes"

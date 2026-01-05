@@ -1,0 +1,351 @@
+A bridge is a structure that crosses an obstacle such as a river, lake, railroad, road, or ravine. Its primary function  is to transport vehicles, trains, and pedestrians, but bridges may also accommodate pipelines, buildings, wildlife, and canals. Bridge styles include arch, truss, beam, cantilever, suspension, and cable-stayed. Less common types are movable, double-deck, pontoon, and military bridges. They may also be categorized by their materials, which include wood, brick, stone, iron, steel, and concrete.  
+The history of bridges reflects the evolution of humankind's engineering technologies.  The Romans and ancient Chinese built major bridges of stone and timber. During the Renaissance, advances in science and engineering led to wider bridge spans and more elegant designs. Concrete was perfected in the early 1800s, and proved to be superior to stone in many regards.  With the Industrial Revolution came mass-produced steel, which revolutionized bridge design and enabled the creation of  suspension and cable-stayed bridges that spanned wide obstacles.
+The design of a bridge must satisfy many requirements, such as connecting to a transportation network, providing adequate clearances, and safely transporting its users. Additional factors include cost, aesthetics, and longevity.  A bridge must be strong enough to support the weight of the bridge itself, as well as the traffic passing over the bridge. It must also tolerate stresses imposed by the environment, such as  wind, snow, earthquakes, water currents, flooding, and temperature fluctuations. To meet all these goals, bridge engineers use analytical methods such as limit state design and finite element method.
+Many bridges are admired for their beauty, and some serve important roles as iconic landmarks that provide a sense of pride and identity to a community.  Bridges are often used as metaphors in art and literature to represent connection or transition.
+
+
+== History ==
+
+
+=== Antiquity ===
+
+The earliest forms of bridges were simple structures for crossing swamps and creeks, consisting of wooden boardwalks or logs. Pilings – which are critical elements of bridge construction – were used in Switzerland around 4,000 BC to support stilt houses built over water.
+Several corbel arch bridges were built c. 13th century BC by the Mycenaean Greece culture, including the Arkadiko Bridge, which is still in existence. In the 7th century BC, Assyrian king  Sennacherib constructed stone aqueducts to carry water near the city of Ninevah. One of these aqueducts crossed a small valley at Jerwan with five corbelled arches, and was 280 meters (920 ft) long and 20 meters (66 ft) wide. In Babylonia in 626 BC, a bridge across the Euphrates was built with an estimated length of 120 to 200 meters (390 to 660 ft). In India, the Arthashastra treatise by Kautilya mentions the construction of bridges and dams. Ancient China has an extensive history of bridge construction, including cantilever bridges, rope bridges, and bridges built across floating boats.
+The ancient Romans built many durable bridges using advanced engineering techniques. Many Roman aqueducts – some still standing today –  used a semicircular arch style. An example is the Alcántara Bridge, built over the river Tagus, in Spain. The Romans used cement as a construction material, which could be mixed with small rocks to form concrete, or mixed with sand to form mortar to join bricks or stones. Some Roman cements, particularly those containing volcanic ash, could be used in underwater applications. The enormous Trajan's Bridge (105 AD) featured open-spandrel segmental arches made of wood.
+
+
+=== 300 to 1400 ===
+
+The oldest surviving stone bridge in China is the Anji Bridge, built from 595 to 605 AD during the Sui dynasty. This bridge is also historically significant as it is the world's oldest open-spandrel stone segmental arch bridge. Rope bridges, a simple type of suspension bridge, were used by the Inca civilization in the Andes mountains of South America prior to European colonization in the 16th century.
+In Medieval Europe, bridge design capabilities declined after the fall of Rome, but revived in the High Middle Ages in France, England, and Italy with the construction of bridges such as the Pont d'Avignon, bridges of the Durance river, the Old London Bridge, and the Ponte Vecchio in Florence.
+
+
+=== 1400 to 1800 ===
+
+In 15th and 16th century Europe, the Renaissance brought a new emphasis on science and engineering. Figures such as Galileo Galilei, Fausto Veranzio, and Andrea Palladio (author of I quattro libri dell'architettura) wrote treatises that applied a rigorous, analytic approach to architecture and building. Their innovations included truss bridges and stone segmental arches, resulting in bridges such as Florence's Ponte Santa Trinita, Rialto Bridge in Venice, and Paris's Pont Neuf. Military and commercial bridges were constructed in India by the Mughal administration. The Asante Empire in Africa built bridges over streams and rivers using tree trunks and beams.
+In the late 1700s, the design of arch bridges was revolutionized in Europe by Jean-Rodolphe Perronet and John Rennie, who designed arches that were flatter than semi-circular Roman arches. These flatter arches enabled longer spans, fewer piers, and required less material. These designs were used for bridges such as Pont de la Concorde and New London Bridge.
+With the advent of the Industrial Revolution, cast iron became an important construction material for bridges. Although cast iron was strong under compression, it was brittle, so it was supplanted by wrought iron – which was more ductile and better under tension. An early iron bridge was built in Shropshire, England crossing the river Severn.
+The abundance of inexpensive lumber in Canada and the United States caused timber bridges to be the most common type of bridge in those countries from the late 1700s to the late 1800s. Many of these timber bridges were covered bridges. Rail bridges used timber to obtain long spans that utilized strong truss designs, and also tall trestle bridges that spanned deep ravines.
+
+
+=== 1800 to present ===
+
+The mass production of steel in the late 1800s provided a new material for bridges, enabling lighter, stronger truss bridges and cantilever bridges, and producing cables strong enough to make suspension bridges and cable-stayed bridges feasible. 
+Concrete – which was originally used within the Roman Empire – was improved with the invention of Portland cement in the early 1800s, and replaced stone and masonry as the primary material for bridge foundations. When iron or steel is embedded in the concrete, as in reinforced concrete or prestressed concrete, it is a strong, inexpensive material that can be used for horizontal elements of beam bridges and box girder bridges.
+Throughout the 20th century, new bridges by designers such as Othmar Ammann repeatedly broke records for span distances, enabling transportation networks to cross increasingly wider rivers and valleys. Cable-stayed bridges – which use cable-stays as the exclusive means of support – became a popular bridge design following World War II.
+The late 20th century saw several major innovations in bridge design.   Extradosed bridges  were introduced and found widespread use, predominantly in Japan.  In China,  concrete-filled steel tubes  were adopted as a new approach to building arch bridges. Fiber-reinforced polymers – which do not suffer from the rust problems that plague steel – were used in bridges for many applications, such as beams, deck slabs, prestressing cables, wraps on the exterior of concrete elements,  and internal reinforcing within concrete. In the 21st century a bridge span exceeded  2 kilometers (1.2 mi) for the first time, with the construction of the 1915 Çanakkale Bridge.
+
+
+== Uses ==
+
+The purpose of any bridge is to traverse  an obstacle. A bridge can provide support and transport for railways, cars, pedestrians,  pipelines, cables, or any  combination of these. Aqueducts were developed early in human history, and carried water to towns and cities. Canal systems sometimes include navigable aqueducts (also called canal bridges) to carry boats across a valley or ravine.
+Until the 19th century, the most common use of bridges was to carry pedestrians, horses, and horse drawn carriages. Following the invention of railways, many rail bridges were built: in England, the number of bridges doubled during the railway-building boom in the mid 1800s. In the 20th century, the growth of motorway networks required the construction of vast numbers of bridges. 
+Railway bridges have unique requirements because of the heavy loads they carry – a single locomotive can weigh 197 tonnes.  Railway bridges are designed to minimize deflection (bending under load), to maximize robustness (localize the damage caused by accidents), and to tolerate heavy impacts (sudden shocks from, for example, rail wheels striking an imperfection in the track).  These requirements lead railways to avoid curved bridges, suspension bridges, and cable-stayed bridges;  instead,  straight beam or truss bridges are commonly used. 
+Some bridges accommodate uses other than transportation. Pipeline bridges carry oil pipes or water pipes across valleys or rivers. Many historical bridges supported buildings, such as shrines, factories, shops, restaurants, and houses. Notable examples were the Old London Bridge and Ponte Vecchio. In the modern era, bridge-restaurants can be found at some highway rest areas; these support a restaurant or shops directly above the highway and are accessible to drivers moving in both directions. 
+An example is Will Rogers Archway over the Oklahoma Turnpike. The Nový Most bridge in Bratislava features a restaurant set atop its single tower.  Conservationists use wildlife overpasses to reduce habitat fragmentation and animal-vehicle collisions. The first wildlife crossings were built in the 1950s, and these types of bridges are now used worldwide to protect both large and small wildlife.
+
+
+=== Portable military bridge ===
+
+Portable military bridges are an important type of equipment in the field of military engineering. They perform a variety of wartime roles, such as quickly traversing obstacles in the midst of battle, or facilitating resupply behind front lines.
+Military bridges can be categorized as wet bridges that rest on pontoon floats, and dry bridges that rest on piers, river banks, or anchorages. A crude mechanism to cross a small ravine is to place a fascine (a large bundle of pipes or logs) into the ravine to enable vehicles to drive across.
+Some military bridges, referred to as armoured vehicle-launched bridges (AVLB), are carried on purpose-built vehicles. These vehicles typically have the same cross-country performance as a tank, and can carry a bridge to an obstacle and deploy ("launch") the bridge. The UK Chieftain AVLB could launch a 23-meter (75 ft) bridge – capable of supporting 60 ton loads –  in 3 minutes.
+
+
+== Structures ==
+
+
+=== Basic structures ===
+The basic bridge structures are arch, truss, cantilever, suspension, cable-stayed, and beam. The choice of bridge structure to use in a particular situation is based on many factors, including aesthetics, environment, cost, and purpose.
+
+
+==== Arch bridge ====
+
+Arch bridges consist of a curved arch, under compression, which supports the deck either above or below the arch. The shape of the arch can be a semicircle, elliptical, a pointed arch, or a segment of a circle. When the arch is semicircular, as in Roman bridges, the force of the arch is directed vertically downward to the foundation. When the arch is elliptical or a circular segment, the force is directed diagonally, and abutments are often required. Deck arch bridges hold the deck above the arch; tied-arch bridges suspend the deck below the arch; and through-arch bridges position the deck through the middle of the arch.
+
+
+==== Truss bridge ====
+
+A truss bridge is composed of multiple, connected triangular elements. The set of triangles form a rigid whole, which rests on the foundation at both ends, applying a vertical force downward. The deck can be carried on top of the truss ("deck truss") or at the bottom of the truss ("through truss"). Through trusses are useful when more clearance under the bridge is required; deck trusses permit oversized loads and do not interfere with overhead objects, such as electrical lines. The individual bars can be made of iron or wood, but most modern truss bridges are made of steel. The horizontal bars along the top are usually in compression, and the horizontal bars along the bottom are usually in tension. Other bars in the truss may be in tension or compression, depending on the layout of the triangles. Trusses typically have a span-to-depth ratio (the width of a structure divided by its height) ranging from 10 to 16, compared to beam bridges which typically have a ratio ranging from 20 to 30. Trusses tend to be relatively stiff, and are commonly used for rail bridges which are required to carry very heavy loads.
+
+
+==== Cantilever bridge ====
+
+Cantilever bridges consist of beams or trusses that are rigidly attached to a support (pier or anchorage) and extend horizontally from the support without additional supports.  In Asia, cantilever bridges made of large rocks or timber were used to span small obstacles. In the 1880s, some early cantilever bridges were built from wrought iron but modern cantilever bridges are generally built from steel.  A balanced cantilever bridge consists of two connected cantilevers extending outward in opposite directions from a single central support.  Other cantilever bridges have two cantilevers, anchored at each end of the span, extending toward the center, and meeting in the center.   Cantilever construction is a method of building a bridge superstructure, which can be utilized for arch and cable-stayed bridges, as well as cantilever bridges. In this technique, construction begins at a support (such as a pier, abutment, or tower) and extends outwards across the obstacle, with no support from below.
+
+
+==== Suspension bridge ====
+
+Suspension bridges have large, curved cables attached to the tops of tall towers, and suspend the bridge deck from the cables.  In the early 1800s, the first modern suspension bridges – such as the Jacob's Creek Bridge – were chain bridges that used iron bars rather than bundled wires for the cables. After steel wire became widely available, longer cables could be built by stringing hundreds of wires between the towers and bundling them, enabling suspension bridges to achieve spans 2 kilometers (1.2 miles) long.  When the bridge crosses a river, stringing  the wires across the large span is a complex process.  The cable of a suspension bridge assumes the shape of a catenary when initially suspended between the bridge towers; however, once the uniform load of the bridge deck is applied, the cable adopts a parabolic shape. Shorter towers require a smaller sag in the cable, which increases the tension in the cable, and thus requires stronger towers and anchorages.
+
+
+==== Cable-stayed bridge ====
+
+Cable-stayed bridges are similar to suspension bridges, but the cables that support the deck connect directly to the towers. The cables may be arranged in a fan pattern or a harp pattern. Modern cable-stayed bridges became popular after WWII, when the design was used for many new bridges in Germany.  When traversing a wide obstacle, designers have a choice of suspension or cable-stayed structures.  Suspension bridges provide a longer span (for comparable materials), and require shorter towers (for a given span size). Cable-stayed bridges use less cable for a given span size; do not require anchorages; and the deck can be readily built by cantilevering outward from the towers.
+
+
+==== Beam bridge ====
+
+Beam bridges –  including girder bridges –  are simple structures consisting of one or more parallel, horizontal beams that span an obstacle. They are the most common type of bridges for both railways and roadways. Beam bridges are ideal for shorter spans (less than about 50 meters (160 ft)); for longer spans other structures, such as trusses, are generally more efficient. In many applications, beam bridges can be built rapidly and economically, because the individual beams can be produced offsite and transported to the bridge site. Modern beam bridges are generally made of steel or reinforced concrete, although wood may be suitable for small beam bridges intended for light use. Several different cross-sections may be utilized for beams, including I-beam (common for steel) or flat slabs (sometimes used with concrete). Beams can traverse longer spans when they are designed as hollow box girders; bridges made of box girders are termed box girder bridges. The vertical thickness of beam bridges is generally shallower than comparable deck truss bridges, permitting shorter and lower approach roads to cross an obstacle of a given height. Several beam bridges can be chained together, with supports at each juncture, to form elevated highways or causeways.
+
+
+=== Other structures ===
+
+
+==== Movable bridge ====
+
+Movable bridges are designed so that all or part of the bridge deck can be moved, usually to permit tall traffic – that would normally be obstructed by the bridge – to pass by. Early movable bridges include drawbridges that pivoted at one end, and required a large amount of work to raise. Adding counterweights on the pivot side of the drawbridge creates a bascule bridge, and makes moving the bridge easier and safer. Swing bridges pivot horizontally around an anchor point on the bank of a canal, or sometimes from a pier in the middle of the water. Lift bridges are raised vertically between two towers by cables passing over pulleys at the top of the towers. Notable movable bridges include El Ferdan Railway Bridge in Egypt, Erasmusbrug bascule in Rotterdam, and Limehouse Basin footbridge in London. In the modern era, designers sometimes create unusual movable bridges with the intention of establishing signature bridges for a town or locality. Examples include Puente de la Mujer swing bridge in Buenos Aires, Gateshead Millennium – a rare example of a tilt bridge – over the River Tyne, and Hörn Bridge in Germany.
+
+
+==== Long, multi-span bridge ====
+
+There are a variety of terms that describe long, multi-span bridges – including raised bridge, viaduct, trestle, and causeway. The usage of the terms can overlap, but each has a specific focus. Viaducts (carrying vehicles) and aqueducts (carrying water) are bridges crossing a valley, supported by multiple arches or piers. Romans built many aqueducts, some of which are still standing today. Notable viaducts include Penponds Viaduct in England, Garabit Viaduct in France, Tunkhannock Viaduct in Pennsylvania, and Millau Viaduct in France.
+A trestle bridge – commonly used in the 19th century for railway bridges –  consists of multiple short spans supported by closely spaced structural elements. A trestle is similar to a viaduct, but viaducts typically have taller piers and longer spans. A continuous truss bridge is a long, single truss that rests upon multiple supports. A continuous truss bridge may use less material than a series of simple trusses because a continuous truss distributes live loads across all the spans (in contrast to a series of distinct trusses, where each truss must be capable of supporting the entire live load). Visually, a continuous truss looks similar to a cantilever bridge, but a continuous truss experiences hogging stresses at the supports and sagging stresses between the supports. A causeway is a low, raised road, usually crossing   a lake or other body of water.   The 38.4 kilometers (23.9 miles) Lake Pontchartrain Causeway in Louisiana is a bridge, but other causeways are built on earthen embankments.
+
+
+==== Pontoon bridge ====
+
+A pontoon bridge, also known as a floating bridge, uses floats or shallow-draft boats to support a continuous deck for pedestrian or vehicle travel over water. Pontoon bridges are typically used where waters are too deep to build piers, or as a mechanism to implement a movable swing bridge in a canal. Pontoon bridges were used in ancient China. During the Second Persian invasion of Greece, Persian ruler Xerxes built a large pontoon bridge across the Hellespont, consisting of two parallel rows of 360 boats.
+Several pontoon bridges are in use in the modern world. Washington state in the US has several, including Hood Canal Bridge. In Norway, Nordhordland Bridge crosses a deep fjord by resting on floating concrete pontoons. Many armies have pontoon bridges that can be rapidly deployed, including the PMP Floating Bridge, designed by the USSR.
+
+
+==== Extradosed ====
+
+An extradosed bridge combines features of a box girder bridge and a cable-stayed bridge. Visually, extradosed bridges can be distinguished from cable-stayed bridges because the tower height (above the deck) is relatively low: between 7% and 13% of the span width. Extradosed bridges are appropriate for spans ranging from 100 meters (330 ft) to 250 meters (820 ft). Unlike suspension bridges or cable-stayed bridges, the towers of a extradosed bridge rest on the deck, rather than on a footing; and in some implementations, are solidly connected to the deck. Because of the relatively flat angle of the cables, the cables of an extradosed bridge compress the deck horizontally, performing a function comparable to prestressing wires that are used within concrete girders. Extradosed bridges may be appropriate in applications where the deck must have a shallow depth to maximize clearance under the bridge; or where towers must be relatively short to abide by aviation safety constraints.
+
+
+== Design ==
+
+
+=== Design process ===
+
+The process for designing a new bridge typically goes through several iterations, progressively refining the design.  An early step in the design process – sometimes called conceptual design – is to  consider the multiple requirements that a bridge must satisfy. 
+The requirements may be categorized as engineering requirements and non-engineering requirements. Engineering requirements include safety, strength, lifespan, climate, traffic, the size and nature of the obstacle to be traversed, and clearance required for passage underneath. Non-engineering requirements include construction cost, maintenance cost, aesthetics, time available for construction, owner preference, and experience of the builders. Other factors that may be weighed include impact to environment and wildlife; and the bridge's economic, social, and historic relationship to the local community.
+After the requirements of a bridge are established, a bridge designer uses structural analysis methods to identify candidate designs. Several designs may meet the requirements. The value engineering methodology can be used to select a final design from multiple alternatives. This methodology evaluates candidate designs based on weighted scores assigned to several different criteria, such as: cost, service life, durability, availability of resources, ease of construction, construction time, and maintenance cost. After considering all factors, a bridge designer – in consultation with the owner –  will select a particular design.
+
+
+=== Specifications and standards ===
+One of the requirements a new bridge must satisfy is compliance with the local bridge design specifications and codes.  In some cases, these are legally binding requirements.  In many countries, the specifications are developed and published by standards organizations  that define acceptable bridge-building practices and designs.  In Europe, the organization is the European Committee for Standardization, and the standards it publishes are the Eurocodes. In the United States, the American Association of State Highway and Transportation Officials (AASHTO) publishes the AASHTO LRFD Bridge Design Specifications. Canada's bridge standard is the Canadian Highway Bridge Design Code, developed by the non-profit CSA Group.
+
+
+=== Service life ===
+One of the important requirements  established early in the design process is the service life, which is a specific number of years that the bridge is expected to remain in operation with routine maintenance (and without requiring major repairs).  For example, wood bridges typically have a service life of 10 to 50 years.  Concrete highway bridges typically have service lives of 75 to 150 years. A bridge design methodology incorporates the service life into the design process.
+
+
+=== Aesthetics ===
+
+The aesthetics of a new bridge are one of the factors considered when designing a bridge.  Attractive bridges can have a positive impact on a community, and some bridges can even be considered as works of art.  Bridge designers that are known for emphasizing the visual appeal of their bridges include Thomas Telford, Gustave Eiffel, John Roebling, Robert Maillart, and Santiago Calatrava. Qualities that influence the perceived attractiveness of a bridge include proportion, order, refinement, environmental integration, texture, and color.
+The art historian Dan Cruickshank notes that bridges are regarded as manifestations of human imagination and ambition, and that many bridges bridge transcend their original utilitarian role and become a work of art. He writes "[a] great bridge has an emotional impact, it has a sublime quality and a heroic beauty that moves even those who are not accustomed to having their senses inflamed by the visual arts."
+
+
+=== Material ===
+
+A bridge designer can select from a wide variety of materials, including wood, brick, rope, stone, iron, steel, and concrete. A bridge made from two or more distinct materials (such as steel and concrete) is known as a composite bridge. For example, some of the largest arch bridges utilize concrete-filled steel tubes. 
+Wood is an inexpensive material that is rarely used for modern roadway bridges.  Wood is primarily used in beam or truss bridges, and is also used to build large trestle bridges for railways. When wood is used, it is often in the form of glued laminated timber.
+Masonry includes stone and brick, and is suitable only for elements of a bridge that are under compression, since masonry will crack if under tension. Therefore, masonry is limited to structures such as arches or foundations. In the twentieth century, large masonry bridges  – although superseded by concrete in the West – continued to be built in China.
+Iron – including cast iron and wrought iron – was used extensively from the late 1700s to late 1800s, primarily for arch and truss structures. Iron is relatively brittle, and has been replaced by   steel for all but ornamental uses.
+Steel is one of the most common materials used in modern bridges because it is strong in both compression and tension. Steel was made in small quantities in antiquity, but became widely available in the late 1800s following invention of new smelting processes by Henry Bessemer and William Siemens. Truss bridges and beam bridges are often made of steel, and steel wires are an essential component of virtually all suspension bridges and cable-stayed bridges. Concrete bridges make extensive use of steel, because all concrete used in bridges contains steel reinforcing bars or steel prestressed cables. Steel bridges are more expensive than comparable concrete bridges, but they are much lighter (for the same strength), faster to build, and offer more flexibility during construction and repair.
+Concrete is a strong and inexpensive material, but is brittle and can crack when in tension. Concrete is useful for bridge elements that are in compression, such as foundations and arches. Many roadway bridges are built entirely of concrete using a beam structure, often of the box girder variety. Virtually all concrete used in bridges contains steel reinforcing bars, which greatly increase the strength. Reinforcing bars are set inside the concrete form, and the concrete is poured into the form, and cures with the bars inside. If concrete is used in elements that experience tension, prestressed cables must be embedded within the concrete and tightened. The prestressed cables can be pre-tensioned (stretched before – and while – the concrete cures); or post-tensioned (placed within tubes in the concrete, and tightened after the concrete cures). The prestressed cables compress the concrete. When the beam is placed into the bridge and carries a load, the undesirable tension (produced by the tendency of the beam to sag) is counteracted by the compression from the prestressed cables. Concrete beams can be precast offsite and transported to the bridge site, or cast in place.  High-performance concrete is becoming more commonly used in bridges (compared to conventional concrete) because it suffers less damage from heavy traffic and lasts longer.
+
+
+=== Double-deck bridge ===
+
+Designers may choose to use a double-deck design (also known as double-decked or double-decker), which carries two decks on top of each other. This technique may be used to increase the amount of traffic a bridge can carry, or to build in a location where space is limited. Double-deck bridges permit two different kinds of traffic to be safely carried.  For example,  motor vehicles can be separated from pedestrians or railways.
+An early double-deck bridge was Niagara Falls Suspension Bridge, which carried rail on the upper deck, and carriages and pedestrians on the lower deck. George Washington Bridge in New York carries 14 motor vehicle lanes (eight above, six below), and is the world's busiest bridge, carrying over 100 million vehicles annually. Because of their ability to carry large amounts of motor vehicles, double-deck bridges are often found in large cities, such as Tsing Ma Bridge in Hong Kong, San Francisco–Oakland Bay Bridge in California, and Shimotsui-Seto Bridge in Japan.
+
+
+=== Load analysis ===
+
+A bridge design must accommodate all loads and forces that the bridge might reasonably experience. The totality of the forces that the bridge must tolerate is the structural load, which is often divided into three components:  dead load, live load, and environmental load. The dead load is the weight of the bridge itself. The live load is all forces and vibrations caused by traffic passing over the bridge, including braking and acceleration.  The environmental load encompasses all forces applied by the bridge's surroundings, including weather, earthquakes, mudslides, water currents, flooding, soil subsidence, frost heaving, temperature fluctuations, and collisions (such as a ship striking the pier of a bridge).
+
+
+==== Return period ====
+Many load sources vary over time, such as vehicle traffic, wind, and earthquakes. A bridge designer must anticipate the maximum values that those loads are likely to reach during the bridge's lifespan. For sporadic events like floods, earthquakes, collisions, and hurricanes, bridge designers select a maximum severity that the design must accommodate. The severity is based on the return period, which is average time between events of a given magnitude.  Return periods range from 10 to 2,500 years, depending on type of event and the country in which the bridge is located. Longer return periods are used for bridges that are a critical part of the transportation infrastructure. For example, if the bridge is a key lifeline in case of emergencies, the designer may utilize relatively long return period, such as 2,000 years; in this example, the design must endure the strongest storm that is expected to happen once every 2,000 years.
+
+
+==== Stress and strain ====
+
+The load forces acting on a bridge cause the components of the bridge to become stressed. Stress is a measure of the internal force experienced within a material. Strain is a measure of how much a bridge component bends, stretches, or twists in response to stress. Some strain (bending or twisting) may be acceptable in a bridge component if the material is elastic. For example, steel can tolerate some stretching or bending without failing. Other materials, such as concrete, are inelastic, and their change in shape when stressed is negligible (until the stress becomes excessive and the concrete fails).
+A bridge designer must calculate the maximum stress that each bridge component will experience, then select an appropriate design and size for the components to ensure they will safely tolerate the loads on the bridge. Stresses are categorized based on the nature of the force that causes the stress, namely: compression, tension, shear, and torsion. Compression forces compact a component by pushing inward (for example, as felt by a bridge foundation when a heavy tower is resting on it). Tension is a stretching force experienced by a component when pulled (for example by the cables of a suspension bridge). Shear is a sliding force experienced by a component when two offset external forces are applied in opposite directions (for example, during an earthquake when the upper part of a structure is pulled north, and the lower part is pulled south). Torsion is a twisting force.
+
+
+==== Traffic ====
+An important component of the live load carried by a bridge is the vehicle and rail traffic the bridge carries. In addition to the weight of the vehicle, other forces must be considered, including braking, acceleration, centrifugal forces, and resonant vibrations. For roadways, the loads imposed by truck traffic far exceed the loads imposed by passenger cars, and so the bridge design process focuses on trucks.
+The loads created by trains and vehicles can be determined by modelling, or by relying on data and algorithms contained in engineering specifications published by organizations such as Eurocode or AASHTO. Alternatively, weigh-in-motion technology can measure loads on existing bridges with comparable traffic patterns, providing real-world data which can be used to evaluate a proposed bridge design.
+
+
+==== Vibration ====
+
+Many loads imposed on a bridge – such as wind, earthquakes, and vehicular traffic – can cause a bridge to experience irregular or periodic forces, which may cause bridge components to vibrate or oscillate. Some bridge components have inherent resonant frequencies to which they are particularly susceptible, and vibrations near those frequencies can cause very large stresses.
+Winds can produce a variety of vibrational forces on a bridge, including flutter, galloping, and vortex shedding. Considering wind forces during the design process is especially important for long, slender bridges (typically suspension or cable-stayed bridges).  
+The Eurocode guideline for bridge design specifies that vibration stress due to moving vehicles should be accounted for by including an additional 10% to 70% of the vehicles' static load; the exact value depends on the span length, the number of traffic lanes, and the type of stress (bending moment or shear force).
+If resonance issues are identified in the design process, they must be mitigated.  Common techniques to address vibration include  increasing the rigidity of the bridge deck by adding trusses and adding dampers to cables and towers. One mechanism used to combat oscillations is a tuned mass damper,  which was first used in the Pont de Normandie in 1995. The Akashi Kaikyo Bridge has twenty tuned mass dampers, weighing nine tonnes each, inside its steel towers.
+Neglecting to account for vibrations and oscillations can lead to bridge failure. The Angers Bridge collapsed in 1850, killing over 200 people, partly due to soldiers marching on the bridge in a manner that increased resonant oscillations. The Tacoma Narrows Bridge collapsed in the 1940 in winds of 68 km/h (42 mph), even though the bridge was designed to withstand winds up to 206 km/h (128 mph). Investigations revealed that the designer failed to account for wind effects such as flutter and resonant vibrations. The Golden Gate Bridge was damaged in 1951 due to wind forces, and as a result was reinforced with additional stiffening elements.
+Earthquakes can subject bridges to ground motions that cause severe damage.   Following seismic events, earthquake engineers study the seismic data to classify and quantify the motions experienced by bridges. These studies are used by governments to create and revise design standards that specify the types of seismic movements that new bridges must withstand. Earthquakes can cause long-period velocity pulses, shear cracks, large ground motions, vertical accelerations, and soil liquefaction.
+
+
+==== Methodologies and tools ====
+
+The process used to design bridges employs structural analysis methods and techniques. These methods divide the bridge into smaller components, and analyze the components individually, subject to certain constraints. A proposed bridge design is then modeled with formulas or computer applications. The models incorporate the loads and stresses the bridge will experience, as well as the bridge's structure and material. The models calculate the stresses in the bridge and provide data to the designer indicating whether the design meets the required design goals.
+Bridge design models include both mathematical models and numerical models. The mathematical models that assess bridge loads and stresses are complex formulas that typically include differential equations. Solving these formulas directly is virtually impossible, so numerical models are used to provide approximate, but accurate, results. The finite element method is a numerical model commonly used to perform detailed analysis of stresses and loads of a bridge design. The finite element method models a proposed bridge by dividing it into numerous small, interconnected pieces, and applying a computer algorithm to the pieces. The algorithm simulates the stresses on the bridge that are caused by the loads, and can iterate over time to simulate dynamic movements.
+A bridge designer evaluates the output of the models to determine if the design meets the design goals. Many criteria are evaluated when determining if a bridge design is sufficient, including deflection, cracking, fatigue, flexure, shear, torsion, buckling, settlement, bearing, and sliding. The criteria, and their allowable values, are termed limit states. The set of limit states selected for a design are based on the bridge's structure and purpose.
+To ensure that a proposed bridge design is sufficiently strong to endure foreseeable stresses, many bridge designers use methodologies such as limit state design (used in Europe and China) or Load and Resistance Factor Design (LRFD) (used in US). These methodologies add a margin of safety to the bridge design by incorporating safety factors into the design process. The safety factors are applied two ways: (a) increasing the assumed loads and stresses the bridge will experience; and (b) decreasing the assumed strength of the bridge's structure. The magnitude of the safety factors are based on several considerations, including the bridge's own dead weight, vehicle traffic, earthquakes, water or ice flows (from rivers or ocean currents) impacting the bridge foundations, rain or snow on the bridge, wind, settling into the soil, and collisions.
+
+
+== Construction ==
+
+The structural elements of a bridge are generally divided into the  substructure and the superstructure.  The substructure consists of the lower portions of the bridge, including the footings, abutments, piers, pilings, anchorages, and bearings.  The superstructure rests upon the substructure, and consists of the deck,   trusses, arches, towers, cables, beams, and girders.
+
+
+=== Construction process ===
+Construction of a bridge is typically managed by construction engineers, who are responsible for planning and supervising the construction process.   Important aspects of this role include budgeting, scheduling, periodically conducting formal design reviews, and communicating with the bridge designers to interpret and update the design plans.
+The forces experienced by a bridge during construction can be larger or have a different nature than the forces it will experience after completion. The bridge design process typically focuses on the strength of the fully completed bridge, but it should also consider the unusual stresses that individual elements will experience during construction. Special  techniques may be required during construction to avoid excessive stresses, such as temporary supports under the bridge, temporary reinforcement, or bracing of specific elements.
+When an existing bridge is being replaced or refurbished, the impact on traffic flow can have a detrimental effect on residents and services. Accelerated bridge construction processes – that focus on using pre-fabricated components and a rapid timetable – may be used to mitigate the impacts.
+
+
+=== Substructure ===
+ 
+Construction of all bridge types begins by creating the substructure. The first elements built are typically the footings and abutments, which are typically large blocks of reinforced concrete, entirely or partially buried underground.  The footings and abutments support the entire weight of the bridge, and transfer the weight to the subsoil. Based on their height-to-width ratio, footings are categorized as: shallow (height is less than width) or deep (height is greater than width).   If the subsoil cannot support the load placed on the footings, pilings must first be driven below the footings: pilings are long structures – made of wood, steel, or concrete – placed vertically below footings.  Some pilings reach down and rest on bedrock; others rely on friction to prevent the footing from sinking lower.
+Abutments are usually located at the ends of a bridge deck, where it reaches the subsoil. They direct the weight into the subsoil, either vertically or diagonally. Abutments may also act as retaining walls, keeping the subsoil under the approach road from eroding. After footings for the piers have been created, the piers and pier caps are built to complete the substructure. Suspension bridges usually require anchorages, which are large reinforced concrete blocks solidly anchored into the earth – they must be exceptionally heavy and tied into the subsoil because they must withstand the lateral pull of the large cables that hold the entire deck and live load.
+
+
+==== Building supports in water ====
+
+When bridge supports (such as piers or towers) are built in a river, lake, or ocean, special technologies must be utilized. Caissons can be used to provide a workspace while constructing the submerged portion of the supports. A caisson is a large, watertight, hollow structure, open on the bottom. It is usually sunk to the bottom of the water and workers can work inside, preparing the ground for the footings. When excavation is complete, a caisson is typically filled with concrete to create all or part of the footing.  Air pressure inside a sealed caisson must be kept high to prevent water from seeping in. Workers, if they do not properly decompress when exiting the caisson, can get decompression sickness. Early bridge builders did not understand decompression, and deaths were common: thirteen workers died from decompression sickness when building the Eads Bridge (completed in 1874). 
+An alternative to a caisson is a cofferdam, which is a temporary dam surrounding the support location, open on top, where workers may work while constructing the footings. Another approach for constructing foundations in water was employed for the Akashi Kaikyo suspension bridge: the two foundations for its towers are 70 meters (230 ft) tall and 80 meters (260 ft) in diameter. The foundations were partially built on land, then towed by tugboats to the bridge site. They were sunk to the bottom in water 60 meters (200 ft) deep, and each was filled with 355,000 cubic meters of concrete. The foundations rest directly on the ocean bottom, without pilings or footings.
+
+
+==== Bearings ====
+
+Bearings are often placed between the superstructure and the substructure at the points of contact. Bearings are mechanical devices that enable small movements – which may result from 
+thermal expansion and contraction, material creep, or minor seismic events. Without bearings, the bridge structure may be damaged when such movements occur. Bearings can be selected to permit small rotational or slipping movements in a specific direction, without permitting movements in other directions. Types of bearings used on bridges include hinge bearings, roller bearings, rocker bearings, sliding bearings, spring bearings, and elastomeric bearings.
+
+
+=== Superstructure ===
+
+ 
+After the substructure is complete, the superstructure is built, resting on the substructure. Beam bridge superstructures may be fabricated off-site (common for steel beams) or cast-in-place (for many concrete beams). The beams may be laid across the piers by a crane or gantry. If the span crosses a deep ravine, a technique known as launching may be used: the beams and deck are assembled on the approach road, then pushed horizontally across the obstacle.
+Arch bridge superstructure construction methods depend on the material. Concrete or stone arches use a temporary wood structure known as falsework or centering to support the arch while it is built. Some steel arch bridges are constructed without falsework: both sides are built in a cantilever fashion from the abutments, and when they reach the middle, they are jacked slightly apart for the final section to be inserted.
+Cantilever bridge superstructures are usually built incrementally by proceeding outward from anchorages or piers. Most cantilever superstructures can be built without temporary support piers, as the bridge can support itself as it extends outward. A similar process is used for steel or concrete cantilevers: prefabricated sections may be positioned at ground (or water) level and hoisted into place with a gantry, or may be transported horizontally along the previously completed portion of the cantilever. Concrete cantilevers require steel prestressing cables to be passed through tubes within each section and tightened, which will put the concrete into compression.  Truss bridges are built using a variety of methods, including piece-by-piece,  cantilevering, or falsework.
+Cable-stayed bridge superstructures begin with the construction of one or more towers, which rest directly on footings that are part of the substructure. The deck is constructed in pieces beginning at the towers and moving outward. As each piece of the deck is added, it is connected to towers with steel cables, and the cables are tightened to take the load of the deck. The deck proceeds outwards in both directions at the same rate, to ensure the forces applied to the tower are balanced. If the deck is made of concrete, steel prestressing cables are inserted through tubes inside each deck section, and tightened to put the concrete into compression.
+Suspension bridge superstructure construction usually begins with the towers. The towers may be steel or concrete, and rest directly on footings. The large cables are created by hauling a large pulley back and forth across the span, stringing multiple wires between the anchorages in each pass, in a process termed spinning. After the wires are spun, they are bundled together to form the cables. The cables are securely fastened to the anchorages at both ends. Vertical wires called hangers are suspended from the cables, then small sections of the deck are attached to the hangers, and the sections are attached to each other.
+
+
+==== Towers ====
+
+Towers are an important component of the superstructure of cable-stayed bridges and suspension bridges. Towers are made of either concrete or steel. Steel towers are much lighter than concrete towers (of the same height). Concrete is generally suitable only for towers up to about 250 meters (820 ft) tall, whereas steel towers can be much taller.
+Towers support the bridge cables, which – in turn –  hold the weight of the bridge deck and the vehicular traffic. Most of the load imposed on a tower is applied vertically downward on the tower, rather than sideways.  Towers experience a compression stress, in contrast to cables, which experience a tension stress.  There are two mechanisms used to attach a cable to a tower: saddles or anchors. Saddles are curved structures which allow a cable to pass through (or over the top of) a tower. An anchor holds the end of a cable. Saddles are often used in suspension bridges, and anchors are often used in cable-stayed bridges.
+
+
+==== Cables ====
+
+Steel cables are an element of both  cable-stayed bridges and suspension bridges.  Cables are made of one or more strands, and each strand consists of multiple wires. A wire is a thin, flexible piece of solid steel, of higher tensile strength than normal steel, and with a diameter of 3mm to 7mm. 
+Cables are typically constructed at the bridge site by unspooling wires or strands from large reels. Large suspension bridges may use cables that are over 1 meter (3 ft 3 in) in diameter and weigh over 20,000 tonnes.  
+Before building the cables of a suspension bridge, temporary catwalks must be constructed to support the wires while they are drawn across the span and over the tops of the towers. There are two approaches to pulling the wires across the span: the air spinning method where the individual wires are carried across by pulleys; and the prefabricated parallel-wire strand (PPWS) method where entire strands are individually pulled across.
+The air spinning method was used for all suspension bridges until the PPWS method was invented in the 1960s. The air spinning method is slower because it requires the spinning pulley to cross the span thousands of times, pulling a pair of wires each time. After 300 to 500 wires are pulled, aluminum bands are used to bundle them into strands.. The PPWS method permits strands to be built away from the bridge site, but the process of pulling the heavy strands across the full span of the bridge is more difficult.
+The wires within a strand may be parallel, or they may wrap around each other in a twisted (spiral) pattern. Air spinning always produces strands that contain parallel wires. The PPWS method can utilize strands with parallel or twisted wires. 
+After all the wires have been drawn across the full span and are connected to the towers, they are compacted into a tight bundle by an hydraulic device that moves along the cable and compresses the wires together. Then a wire is usually wrapped around the cable in a helical manner, to provide protection against water intrusion. The deck is suspended from the cable with vertical strands called hangers. Each hanger is attached to the main cable by a bracket called a cable band.
+
+
+==== Deck ====
+
+The deck of a bridge is the horizontal, continuous surface that extends across the full span of a bridge, and  upon which vehicles or pedestrians travel.  Decks generally rest on beams or box girders.  When a deck is rigidly attached to its supporting beams or girders they function together as a single structure.
+The two most common types of decks are concrete decks and orthotropic steel decks.   Concrete decks are flat slabs of reinforced concrete.  The slabs may precast  off-site, or cast-in-place by pouring concrete into forms on the bridge superstructure.  Orthotropic steel decks are built of numerous small ribs of steel,  running in the direction of the bridge roadway. On top of the ribs is a flat steel plate, coated with a wearing surface.  Below the ribs are floor beams, placed crosswise to the ribs.  Orthotropic  steel decks are more  expensive than concrete steel decks, but weigh less. They are useful in applications where weight is critical, a thin deck is required, or the environment is subject to earthquakes or extreme cold weather.
+Many decks have a wearing surface on top, which is a layer of material  designed to be periodically replaced after it is worn away by vehicular traffic.  Wearing surfaces are typically made of aggregate (small rocks) mixed with a binder such as asphalt, polyurethane, epoxy resins, or polyester. Railway bridge decks are categorized as open decks (the ties rest directly  on beams or girders, with air gaps between) and ballast decks (the ties rest on ballast rocks, and the ballast rests on a deck slab).
+Constructing the deck (and its supporting beams or girders) can be difficult when the bridge is over water or a deep valley.  A variety of techniques are available, and the choice depends on factors such as  the topography of the site, the deck material (concrete or steel), traffic or obstacles under the bridge, and whether sections can be built off-site and transported to the bridge.  Methods of deck construction include  building atop temporary supports, jacking up from the ground, incremental launching (building the entire deck on the approach road and pushing it horizontally),  lifting from below with a hoist mounted on the bridge, cantilevering (incrementally extending the deck, starting from towers or abutments),   and lifting with a floating crane.
+
+
+=== Protection ===
+
+To achieve a longer lifespan, a bridge is protected from deterioration by incorporating certain features into the design. Bridges can deteriorate due to a variety of causes, including rust, corrosion, chemical actions, and mechanical abrasion. Deterioration is sometimes visible as rust on steel components, or cracks and spalling in concrete.
+Deterioration can be slowed with various measures, primarily aimed at excluding water and oxygen from the bridge elements. Techniques to prevent water-based damage include drainage systems, waterproofing membranes (such as polymer films), and eliminating expansion joints.
+Concrete bridge elements can be protected with waterproof seals and coatings. Reinforcing steel within concrete can be protected by using high-quality concrete and increasing the thickness of the concrete surrounding the steel. Steel elements of a bridge can be protected by paints or by galvanizing with zinc. Paint can be avoided entirely for steel members by using certain steel alloys, such as stainless steel or weathering steel (a steel alloy that eliminates the need for paint, by forming a protective outer layer of rust).
+Bridge scour is a potentially serious problem when bridge footings are located in water. Currents in the water can cause the sand and rocks around and below the footings to wash-away over time. This effect can be mitigated by placing a cofferdam around the footings, or surrounding the footings with rip-rap.
+Suspension bridges and cable-stayed bridges have large cables containing hundreds of steel wires. Several techniques are used to minimize corrosion inside the cables, such as wrapping the cables with galvanized wire, injecting the cables with grout or epoxy, using interlocking S-profile wires, and circulating dry air through the interior of the cable.
+
+
+== Operation ==
+
+
+=== Management ===
+After a bridge is completed and becomes operational, management processes are employed to ensure that it remains open to traffic, avoids safety incidents, and achieves its intended lifespan. These processes – collectively referred to as bridge management –  include technical activities such as maintenance, inspection, monitoring, and testing.  In addition to technical tasks, management encompasses planning, budgeting, and prioritization of maintenance activities. Bridge managers use methodologies such as bridge management systems and  Life-Cycle Cost Analysis to manage a bridge and estimate the maintenance costs of a bridge throughout its lifetime. Annual maintenance costs increase as the bridge ages and degrades.
+
+
+=== Maintenance ===
+
+Maintenance activities seek to prolong the life of the bridge, reduce lifecycle costs, and ensure the safety of the community.   Maintenance tasks can be categorized as corrective tasks and  preventive tasks.   Corrective tasks are implemented in response to unexpected issues that arise, such as repairing structural elements (piers, beams, girders, towers, or cables) and replacing bearings.
+Preventive tasks include washing, painting, lubricating bearings, sealing the deck, filling cracks,  removing snow, filling potholes, and repairing minor issues with  structures and electrical fixtures.   Some preventive tasks are performed on a periodic schedule. Example intervals for periodic bridge maintenance tasks include:  
+washing entire structure (1–2 years);  
+sealing deck surface (4–6 years);
+lubricating bearings (4  years); 
+painting steel bridge components (12–15  years); 
+replacing the deck's wearing surface (12  years); 
+sealing  sidewalks (5  years);  
+filling cracks (4  years); 
+and cleaning drains (2  years).
+
+
+=== Inspection and monitoring ===
+
+An important part of maintenance is inspecting a bridge for damage or degradation, and taking steps to mitigate any issues detected. Degradation can come from a variety of sources: expansion/contraction from freeze/thaw cycles, rain and snow, oxidation of steel, saltwater spray, carbonatation of concrete, vehicular traffic, corrosion, mechanical abrasion, poor bridge design, and improper repair procedures.  Some countries mandate periodic inspection schedules, for example, routine inspections every 24 months, or inspecting underwater foundations for scouring every 60 months.
+Relying solely on visual inspection to assess  degradation of a bridge can be unreliable, so inspectors use a variety of nondestructive testing techqniques.  These techniques include hammer strike tests, ultrasonic pulse velocity tests, seismic tomography, and ground penetrating radar.  Magnetometers can be used to detect the location of reinforcing steel within concrete. Various electrical tests, such as permeability and resistance, can give insight into the condition of surface concrete. X-rays can be passed through concrete to obtain data about concrete density and condition. Videography using slender probes can be used where access is available.
+
+  
+Measurements of the state of a bridge may be made automatically and periodically using structural health monitoring (SHM) technologies. SHM places permanent sensors at critical locations in the bridge, which may be sampled at any time to obtain data about stresses and chemical degradation.  The sensors may be placed in the bridge during construction, or while it is in operation – for example, to monitor the quality of a repair.    Many long-span bridges are routinely monitored with a range of sensors, including strain transducers, sodar, accelerometers, tiltmeters, and GPS.
+To evaluate the condition of large steel cables, electrical coils are moved along the cable, measuring the induction of the cable, which can reveal corrosion issues. Detailed measurements of the external surface of a bridge can be recorded using lidar technology. Comparing measurements taken at multiple points in time can reveal long-term changes.
+A variety of structural tests may be performed to evaluate a bridge's condition. One test involves placing loads in selected locations on the bridge, and measuring the resulting deflections: sensitive instruments measure how much the bridge elements bend or twist, and the results can reveal if the element is not performing within expected limits. Another test involves jacking the bridge deck off its supports slightly, and measuring the force required. Cables can be evaluated by vibrating them and measuring their dynamic response. 
+Some testing – termed destructive testing – requires removing samples from the bridge and taking them to a laboratory for analysis with microscopes, sonic devices, or X-ray diffraction. Destructive testing is performed on samples such as cores drilled from concrete, or a small piece of steel wire cut from a cable.
+
+
+=== Failures ===
+
+Bridge failures are of special importance to structural engineers, because the analyses of the failures provide lessons learned that serve to improve design and construction processes. Bridge failures are caused by a variety of factors, which can be categorized as   natural factors (flood, scour, earthquake, landslide, and wind) and human factors
+(improper design and construction method, collision, overloading, fire, corrosion, and lack of inspection and
+maintenance).  Over time, bridge failures have led to significant improvements in bridge design, construction, and maintenance practices. 
+Before the advent of bridge engineering procedures based on rigorous, scientific principles, bridges frequently failed. Failures were most common in the mid 1800s, when the rapidly expanding railway networks were building hundreds of new bridges every year around the globe.  In the United States, 40 bridges per year failed in the 1870s, amounting to 25% of all bridges built in that decade. 
+In the modern era, in spite of advances in bridge engineering methodologies, bridge failures continue to be a global issue.  In Australia, the King Street Bridge collapsed in 1962, a year after opening, due to improper welding techniques.  In Palau, the Koror–Babeldaob Bridge collapsed in 1996, three months after a repair operation made major changes to the bridge.  In 1998, the Turag-Bhakurta Bridge in Bangladesh collapsed due to river waters scouring away the soil around the bride supports. The Millennium Bridge in London opened in 2000, but closed two days later due to excessive swaying.  It did not open until two years later – after dampers were installed.   The majority of bridge failures in the early 21st century in the US were due to water-related causes, such as flood damage or scouring (water currents undermining the  bridge supports).
+
+
+== Profession and regulation ==
+
+The profession of civil engineering – which includes the discipline of bridge building –  began to be formalized in the 1700s when a school of engineering was created in France within the Corps des Ponts et Chaussées at the École de Paris, under the direction of Jacques Gabriel. In 1747 the first school dedicated to bridge building was founded, also in France: the École Nationale des Ponts et Chaussées led by engineers Daniel-Charles Trudaine and Jean-Rodolphe Perronet. The first professional organization focused on civil engineering was the Institution of Civil Engineers founded in 1818 in the UK, initially led by Thomas Telford.
+In the modern era, bridge engineering is regulated by national organizations, such as the National Council of Examiners for Engineering and Surveying (US), the Canadian Council of Professional Engineers (Canada), and the Engineering Council (UK). In many countries, bridge engineers must be licensed or meet minimal educational requirements. Some countries require engineers to pass qualification examinations, for example, in the US engineers must pass the Fundamentals of Engineering exam followed by the Principles and Practice of Engineering exam.  In Poland, bridge engineers are required to obtain certification by accumulating several years of experience under a senior engineer, and passing an exam administered by the  Polish Chamber of Civil Engineers (pl:Polska_Izba_Inżynierów_Budownictwa).  International cooperation in the field of engineering is facilitated by the World Federation of Engineering Organizations.
+
+
+== Society and culture ==
+
+
+=== Sustainability ===
+Bridges can have a significant impacts – both positive and negative –  on a community's environment, society, and economy.   Positive effects can include shorter transport times, employment opportunities, improvements to social equity, improved productivity, and increases to  the gross domestic product.  Negative impacts of bridges can include contributions to global warming,  increased traffic accidents, workplace injuries, corruption, and increased pollution (during construction, from maintenance work, and from vehicular traffic).  During the bridge design process, these effects may be modeled with sustainability methodologies such as life cycle sustainability assessment or  building information modeling, and the results can be used to improve the bridge's sustainability.
+
+
+=== Metaphor and symbol ===
+
+Bridges occur extensively in art, legend, and literature, often employed in a metaphorical manner. In Norse mythology, the home of the gods – Asgard – is connected to the earth by Bifröst, a rainbow bridge. Many bridges in Europe are named Devil's Bridge, and sometimes have folkloric stories that explain why the bridge is associated with the devil. Christian legend holds that St. Bénézet lifted a huge boulder to begin construction of the Pont Saint-Bénézet bridge, and went on to found the apocryphal Bridge-Building Brotherhood. Stories and poems often employ a bridge as a metaphor of the human lifespan, or human experiences. Bridges are often the setting for pageants, celebrations, and processions.  Some nations have chosen to designate bridges that connect them as friendship bridges or peace bridges. In 1996, the European Commission held a competition to select art for the euro banknotes. Robert Kalina, an Austrian designer, won with a set of illustrations of bridges, chosen because they symbolize links between states in the union and with the future.
+Bridges are often venerated as symbols of humankind's heroism and accomplishments. The inspirational nature of bridges has led them to be featured in the works of poets, painters and writers. Bridges feature prominently in paintings – often in the background – as in the Mona Lisa. Authors have used bridges as the centerpiece of novels, such as The Bridge on the Drina by Ivo Andrić and Thornton Wilder's The Bridge of San Luis Rey.  British poet Philip Larkin, inspired by the construction of the Humber Bridge near his home, wrote "Bridge for the Living" in 1981.
+
+
+=== Signature bridges ===
+
+Many bridges – known as signature bridges – are strongly identified with a particular community. Some visually impressive bridges, such as the Dagu Bridge in China, are designed with the express goal of creating a landmark for the host city. The art historian Dan Cruickshank notes that some bridges have the ability to "transform a place a community and ... can make its mark on the landscape and in men's minds, capture the imagination, engender pride and sense of identity and define a time and place." Large suspension bridges, in particular, are often regarded as iconic landmarks that symbolize the cities in which they are located. Notable examples include the Brooklyn Bridge in New York; the Golden Gate Bridge in San Francisco; the Clifton Suspension Bridge in Bristol; and the Széchenyi Chain Bridge in Budapest.
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+==== Books ====
+
+
+==== Journals and websites ====
+
+
+==== Unknown author ====

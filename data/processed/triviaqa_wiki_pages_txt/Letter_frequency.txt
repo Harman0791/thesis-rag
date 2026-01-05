@@ -1,0 +1,91 @@
+Letter frequency is the number of times letters of the alphabet appear on average in written language. Letter frequency analysis dates back to the Arab mathematician Al-Kindi (c. AD 801–873), who formally developed the method to break ciphers. Letter frequency analysis gained importance in Europe with the development of movable type in AD 1450, wherein one must estimate the amount of type required for each letterform. Linguists use letter frequency analysis as a rudimentary technique for language identification, where it is particularly effective as an indication of whether an unknown writing system is alphabetic, syllabic, or ideographic.
+The use of letter frequencies and frequency analysis plays a fundamental role in cryptograms and several word puzzle games, including hangman, Scrabble, Wordle and the television game show Wheel of Fortune. One of the earliest descriptions in classical literature of applying the knowledge of English letter frequency to solving a cryptogram is found in Edgar Allan Poe's famous story "The Gold-Bug", where the method is successfully applied to decipher a message giving the location of a treasure hidden by Captain Kidd.
+Herbert S. Zim, in his classic introductory cryptography text Codes and Secret Writing, gives the English letter frequency sequence as "ETAON RISHD LFCMU GYPWB VKJXZQ", the most common letter pairs as "TH HE AN RE ER IN ON AT ND ST ES EN OF TE ED OR TI HI AS TO", and the most common doubled letters as "LL EE SS OO TT FF RR NN PP CC". Different ways of counting can produce somewhat different orders.
+Letter frequencies also have a strong effect on the design of some keyboard layouts. The most frequent letters are placed on the home row of the Blickensderfer typewriter, the Dvorak keyboard layout, Colemak and other optimized layouts.
+
+
+== Background ==
+
+The frequency of letters in text has been studied for use in cryptanalysis, and frequency analysis in particular, dating back to the Arab mathematician al-Kindi (c. AD 801–873 ), who formally developed the method (the ciphers breakable by this technique go back at least to the Caesar cipher used by Julius Caesar, so this method could have been explored in classical times). Letter frequency analysis gained additional importance in Europe with the development of movable type in AD 1450, wherein one must estimate the amount of type required for each letterform, as evidenced by the variations in letter compartment size in typographer's type cases.
+No exact letter frequency distribution underlies a given language, since all writers write slightly differently. However, most languages have a characteristic distribution which is strongly apparent in longer texts. Even language changes as extreme as from Old English to modern English (regarded as mutually unintelligible) show strong trends in related letter frequencies: over a small sample of Biblical passages, from most frequent to least frequent, enaid sorhm tgþlwu æcfy ðbpxz of Old English compares to eotha sinrd luymw fgcbp kvjqxz of modern English, with the most extreme differences concerning letterforms not shared.
+Linotype machines for the English language assumed the letter order, from most to least common, to be etaoin shrdlu cmfwyp vbgkqj xz based on the experience and custom of manual compositors. The equivalent for the French language was elaoin sdrétu cmfhyp vbgwqj xz.
+Arranging the alphabet in Morse into groups of letters that require equal amounts of time to transmit, and then sorting these groups in increasing order, yields e it san hurdm wgvlfbk opxcz jyq. Letter frequency was used by other telegraph systems, such as the Murray Code.
+Similar ideas are used in modern data-compression techniques such as Huffman coding.
+Letter frequencies, like word frequencies, tend to vary, both by writer and by subject. For instance, ⟨d⟩ occurs with greater frequency in fiction, as most fiction is written in past tense and thus most verbs will end in the inflectional suffix -ed / -d. One cannot write an essay about x-rays without using ⟨x⟩ frequently. Different authors have habits which can be reflected in their use of letters. Hemingway's writing style, for example, is visibly different from Faulkner's. Letter, bigram, trigram, word frequencies, word length, and sentence length can be calculated for specific authors and used to prove or disprove authorship of texts, even for authors whose styles are not so divergent.
+Accurate average letter frequencies can only be gleaned by analyzing a large amount of representative text. With the availability of modern computing and collections of large text corpora, such calculations are easily made. Examples can be drawn from a variety of sources (press reporting, religious texts, scientific texts and general fiction) and there are differences especially for general fiction with the position of ⟨h⟩ and ⟨i⟩, with ⟨h⟩ becoming more common.
+Different dialects of a language will also affect a letter's frequency. For example, an author in the United States would produce something in which ⟨z⟩ is more common than an author in the United Kingdom writing on the same topic: words like "analyze", "apologize", and "recognize" contain the letter in American English, whereas the same words are spelled "analyse", "apologise", and "recognise" in British English. This would highly affect the frequency of the letter ⟨z⟩, as it is rarely used by British writers in the English language.
+The "top twelve" letters constitute about 80% of the total usage. The "top eight" letters constitute about 65% of the total usage. Letter frequency as a function of rank can be fitted well by several rank functions, with the two-parameter Cocho/Beta rank function being the best. Another rank function with no adjustable free parameter also fits the letter frequency distribution reasonably well (the same function has been used to fit the amino acid frequency in protein sequences.) A spy using the VIC cipher or some other cipher based on a straddling checkerboard typically uses a mnemonic such as "a sin to err" (dropping the second "r") or "at one sir" to remember the top eight characters.
+
+
+== Relative frequencies of letters in the English language ==
+
+There are three ways to count letter frequency that result in very different charts for common letters. The first method, used in the chart below, is to count letter frequency in lemmas of a dictionary. The lemma is the word in its canonical form. The second method is to include all word variants when counting, such as "abstracts", "abstracted" and "abstracting" and not just the lemma of "abstract". This second method results in letters like ⟨s⟩ appearing much more frequently, such as when counting letters from lists of the most used English words on the Internet. ⟨s⟩ is especially common in inflected words (non-lemma forms) because it is added to form plurals and third person singular present tense verbs. A final method is to count letters based on their frequency of use in actual texts, resulting in certain letter combinations like ⟨th⟩ becoming more common due to the frequent use of common words like "the", "then", "both", "this", etc. Absolute usage frequency measures like this are used when creating keyboard layouts or letter frequencies in old fashioned printing presses.
+An analysis of entries in the Concise Oxford dictionary, ignoring frequency of word use, gives an order of "EARIOTNSLCUDPMHGBFYWKVXZJQ".
+The letter-frequency table above is taken from Pavel Mička's website, which cites Robert Lewand's Cryptological Mathematics.
+According to Lewand, arranged from most to least common in appearance, the letters are: etaoinshrdlcumwfgypbvkjxqz. Lewand's ordering differs slightly from others, such as Cornell University Math Explorer's Project, which produced a table after measuring 40,000 words.
+In English, the space character occurs almost twice as frequently as the top letter (⟨e⟩) and the non-alphabetic characters (digits, punctuation, etc.) collectively occupy the fourth position (having already included the space) between ⟨t⟩ and ⟨a⟩.
+
+
+== Relative frequencies of the first letters of a word in English language ==
+
+The frequency of the first letters of words or names is helpful in pre-assigning space in physical files and indexes. Given 26 filing cabinet drawers, rather than a 1:1 assignment of one drawer to one letter of the alphabet, it is often useful to use a more equal-frequency-letter code by assigning several low-frequency letters to the same drawer (often one drawer is labeled VWXYZ), and to split up the most-frequent initial letters (⟨s, a, c⟩) into several drawers (often 6 drawers Aa-An, Ao-Az, Ca-Cj, Ck-Cz, Sa-Si, Sj-Sz). The same system is used in some multi-volume works such as some encyclopedias. Cutter numbers, another mapping of names to a more equal-frequency code, are used in some libraries.
+Both the overall letter distribution and the word-initial letter distribution approximately match the Zipf distribution and even more closely match the Yule distribution.
+Often the frequency distribution of the first digit in each datum is significantly different from the overall frequency of all the digits in a set of numeric data, an observation known as Benford's law.
+
+An analysis by Peter Norvig on words that appear 100,000 times or more in Google Books data transcribed using optical character recognition (OCR) determined the frequency of first letters of English words, among other things.
+
+
+== Relative frequencies of letters in other languages ==
+
+*See İ and dotless I.
+The figure below illustrates the frequency distributions of the 26 most common Latin letters across some languages. All of these languages use a similar 25+ character alphabet.
+
+Based on these tables, the 'etaoin shrdlu' equivalent for each language is as follows:
+
+French: 'esaitn ruoldc'; (Indo-European: Romance; traditionally, 'esartinulop' is used, in part for its ease of pronunciation)
+Spanish: 'eaosrn idltcm'; (Indo-European: Romance)
+Portuguese: 'aeosri dmntcu' (Indo-European: Romance)
+Italian: 'eaionl rtscdu'; (Indo-European: Romance)
+German: 'ensria tdhulg'; (Indo-European: Germanic)
+Swedish: 'eanrts ildomk'; (Indo-European: Germanic)
+Turkish: 'aeinrl ıdkmyt'; (Turkic: Oghuz)
+Dutch: 'enatir odslgv'; (Indo-European: Germanic)
+Polish: 'aioezn rwstcy'; (Indo-European: Slavic)
+Danish: 'erntai dslogk'; (Indo-European: Germanic)
+Icelandic: 'arnies tulðgm'; (Indo-European: Germanic)
+Finnish: 'aintes loukäm'; (Uralic: Finnic)
+Czech: 'aeonit vsrldk'; (Indo-European: Slavic)
+Hungarian: 'eatlsn kizroá'; (Uralic: Ugric)
+Welsh: 'ayneir odwgldd; (Indo-European: Celtic)
+
+
+== See also ==
+Arabic letter frequency
+English word frequency
+Letter frequency effect
+Lipogram
+RSTLNE (Wheel of Fortune)
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+== External links ==
+Letter Frequencies
+Lewand, Robert Edward. "Cryptographical Mathematics". pages.central.edu. Archived from the original on 2007-04-02.
+"Some examples of letter frequency rankings in some common languages". www.bckelk.org.uk.
+"JavaScript Heatmap Visualization showing letter frequencies of texts on different keyboard layouts". www.patrick-wied.at.
+Norvig, Peter. "An updated version of Mayzner's work using Google books Ngrams data set". norvig.com.
+Letter frequency—simia.net
+
+
+=== Useful tables ===
+Useful tables for single letter, digram, trigram, tetragram, and pentagram frequencies based on 20,000 words that take into account word-length and letter-position combinations for words 3 to 7 letters in length:
+
+Mayzner, M.S.; Tresselt, M.E.; Wolin, B.R. (1965). "Tables of single-letter and digram frequency counts for various word-length and letter-position combinations". Psychonomic Monograph Supplements. 1 (2): 13–32. OCLC 639975358.
+Mayzner, M.S.; Tresselt, M.E.; Wolin, B.R. (1965). "Tables of trigram frequency counts for various word-length and letter-position combinations". Psychonomic Monograph Supplements. 1 (3): 33–78.
+Mayzner, M.S.; Tresselt, M.E.; Wolin, B.R. (1965). "Tables of tetragram frequency counts for various word-length and letter-position combinations". Psychonomic Monograph Supplements. 1 (4): 79–143.
+Mayzner, M.S.; Tresselt, M.E.; Wolin, B.R. (1965). "Tables of pentagram frequency counts for various word-length and letter-position combinations". Psychonomic Monograph Supplements. 1 (5): 144–190.

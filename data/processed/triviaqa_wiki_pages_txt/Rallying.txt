@@ -1,0 +1,310 @@
+Rallying is a wide-ranging form of motorsport with various competitive motoring elements such as speed tests (sometimes called "rally racing" in United States), navigation tests, or the ability to reach waypoints or a destination at a prescribed time or average speed. Rallies may be short in the form of trials at a single venue, or several thousand miles long in an extreme endurance rally.
+Depending on the format, rallies may be organised on private or public roads, open or closed to traffic, or off-road in the form of cross country or rally-raid. Competitors can use production vehicles which must be road-legal if being used on open roads or specially built competition vehicles suited to crossing specific terrain.
+In most cases rallying distinguishes itself from other forms of motorsport by not running directly against other competitors over laps of a circuit, but instead in a point-to-point format in which participants leave at regular intervals from one or more start points.
+
+
+== Rally types ==
+Rallies generally fall under two categories, road rallies and cross-country (off-road). Different types of rally are described however a rally may be a mix of types.
+
+
+=== Road rallies ===
+Road rallies are the original form held on public highways open to traffic. In its annually published International Sporting Code, the Fédération Internationale de l'Automobile (FIA) includes the following definition of rally:Rally: Road Competition with an imposed average speed run entirely or partly on roads open to normal traffic. A Rally consists either of a single itinerary..., or of several itineraries converging on a rallying-point fixed beforehand.... The route may include one or several special stages, i.e. events organised on roads closed to normal traffic, and which together determine the general classification of the Rally. The itineraries which are not used for special stages are called road sections. Speed must never constitute a factor determining the classification on these road sections.
+
+
+==== Regularity rally ====
+In an exclusively regularity rally, the aim is to adhere to the itinerary by following the route and arriving and departing at checkpoints at the prescribed time, with penalties applied to entrants who arrive early, late or who deviate from the route. The entrants with the fewest penalties at the end of the rally are the winners. In trying to maintain the set average speed/s, the reliability of the vehicle, and the ability of the crew to drive, navigate and follow the itinerary is tested. Most non-regularity rally itineraries follow this base structure even where driving tests or special stages are used, however these would not then be described as a regularity rally.
+
+
+==== Time-Speed-Distance (TSD rally) ====
+Similar to a regularity rally, the itinerary may advise a time and/or distance, or may only advise a target average speed with no indication where the checkpoints may be.
+
+
+==== Navigational rally ====
+The ability of the crew to follow road signs or directions of varying depth of information is tested.
+
+
+==== Gimmick rallies ====
+Gimmick rallies have less of a concern on timekeeping or driving ability and include other fun and games. Examples include:
+
+Monte-Carlo styles (Monte Carlo, Pan Am, Pan Carlo, Continental)
+logic
+observation
+treasure hunts
+These rallies are primarily amateur events.Stage rallying simply divides the route from the start to the finish of any rally into stages, not necessarily exclusively for speed tests on special stages. Each stage may have different targets or rules attached. In the FIA ecoRally Cup for example, energy performance is measured on regularity stages ran in conformity with the clock. A gimmick rally may have stages with varying difficulty of the puzzle element.
+
+
+==== Speed competitions ====
+Also called rally racing or (special) stage rallying.
+Road rallies must use special stages where speed is used to determine the classification of the rally's competitors; the quickest time to complete the special stages wins the rally. These are sections of road closed to traffic and authorised to be used for speed tests. Special stages are linked by open roads where navigation, timekeeping, and road traffic law rules must be followed. These open road sections are sometimes called transport stages, somewhat complementing special stages in the make-up of a stage rally. These are the most common format of professional and commercial rallies and rally championships. The FIA organises the World Rally Championship, Regional Rally Championships; and many countries' motorsport governing bodies organise domestic rallying championships using speed competitions. The stages may vary from flat asphalt and mountain passes to rough forest tracks, from ice and snow to desert sand, each chosen to provide a challenge for the crew and a test of the car's performance and reliability. A single-venue rally takes place without the need for public road sections though the format and rules remain.
+
+In the wake of the ever more advanced rally cars of the late 20th and 21st century is a trend towards historic rallying (also known as classic rallying), in which older cars can continue to rally. Historic rallies are usually regularity rallies with no speed tests arranged. This discipline attracts some former professional drivers back into the sport. Other drivers started their competition careers in historic rallying.
+
+
+=== Cross-country rallies ===
+
+Also commonly known by its types rally-raid or baja; cross-country rallies take place mostly off-road using similar competitive elements to road and special stage rallying competitions. When off-road, waypoints and markers are set using GPS systems, although competitors cannot use GPS for navigation. Crews must choose how best to cross the terrain to the next waypoint whilst respecting the navigational instructions provided in the roadbook. The challenge is mostly navigational and endurance. The World Rally-Raid Championship was inaugurated in 2022, including the annual Dakar Rally in its calendar, with joint sanctioning by the FIA and FIM.
+
+Cross-Country Rally: Competition with a total distance between 1200 and 3000 km.
+Baja Cross-Country Rally: Cross-Country Rally which must be run over one day (max: 600 km) or two days (max: 1000 km). A Super Special Stage may be run on an extra day.
+
+Marathon Cross-Country Rally: Cross-Country Rally with a total distance of at least 5000 km.
+
+
+==== Hill Rally ====
+Hill rallies are a type of cross-country event found in the United Kingdom and defined and governed by Motorsport UK.
+
+
+=== Touring assembly ===
+Assemblies of car enthusiasts and their vehicles may still colloquially be called rallies, even if they involve merely the task of getting to the location (often on a trailer). However, static assemblies that simply 'meet' (akin to a caravan or steam rally) are not considered a form of motorsport. A touring assembly may have an organised route and simple passage controls but not any form of competition held or prizes given. One example, the Gumball 3000, which calls itself 'a rally not a race', explicitly states in its terms that no form of competition between participants must take place. The FIA defined this activity under 'rally of the touring kind' at least until 2007, though have now separated the term 'Touring Assembly' without using the word rally in its definition.
+
+
+=== Rally derivatives and relatives ===
+
+
+==== Trials ====
+Hillclimbing: Though not a form of rally, hillclimbing could be described in related terms as one special stage that climbs a hill. Cars start at intervals from one start point to one finish point. This discipline allows for many types of vehicles including single-seaters and can be arranged at one venue.
+Autocross: Similar to hillclimbing, cars also start at intervals and are timed to complete a course, usually temporary and marked out with cones with the intent of demanding good car handling rather than speed. Cars can be single-seaters with roll cages used in crosskart racing.
+Rallysprint: Very condensed form of trials-type driving with no particular global definition. Usually run with touring cars at single venues or a single stage without road sections, co-drivers or itineraries, and competitors may even switch cars depending on the agreed rules of competition.
+Gymkhana/Autoslalom: Similar to autocross but with very precise and extravagant handling requirements such as donuts and drifting.
+
+
+==== Racing ====
+Rallycross: Created for ITV's World of Sport in 1967, where rally drivers were allowed to directly compete in groups of four in short sprint races on a circuit. Rallycross has grown to have FIA World and European Championships with specifically developed cars that out-power standard rally cars.
+Formula Rally: Originating as part of the Bologna Motor Show in Italy, in December 1985, was a show race of rally drivers in an arena occupied by around 50,000 spectators, a "Mickey Mouse Course" had been created, on which two players (starting from different starting places) competed for the overall victory in the final through a knock-out system over preliminary rounds, quarter-finals and semi-finals. Formula Rally is practiced mostly in Italy and Germany.
+Ice Racing: The ice races of the Andros Trophy, run in France, have their roots in rallying. As early as the 1970s, car ice races were contested in the French Maritime Alps in the winter sports centres of Chamonix (24h sur Glace de Chamonix) and Serre Chevalier with rally cars that were still relatively tame at the time. Later, the participants developed far more efficient vehicles for this purpose; for the Andros trophy almost exclusively very potent prototypes with all-wheel drive and synchronous steering of the front and rear wheels.
+Enduro: A similar, but not identical sporting form to rally for motorcycles.
+
+
+== History ==
+
+
+=== Etymology ===
+The word 'rally' comes from the French verb 'rallier', meaning to reunite or regroup urgently during a battle. It was in use since at least the seventeenth century and continues to mean to synergise with haste for a purpose. By the time of the invention of the motor car, it was in use as a noun to define the organised mass gathering of people, not to protest or demonstrate, but to promote or celebrate a social, political or religious cause. Motor car rallies were probably being arranged as motor clubs and automobile associations were beginning to form shortly after the first motor cars were being produced.
+"Auto Rallies" were common events in the USA in the early twentieth century for the purpose of political caucusing, however many of these rallies were coincidentally aimed at motorists who could attend in convenient fashion rather than being a motoring rally. One early example of a true motor rally, the 1909 Auto Rally Day in Denison, Iowa, United States, gathered approximately 100 vehicles owned by local residents for no other real reason than to give rides to members of the public, using fuel paid for by local businessmen who hoped the event would help sell cars.
+
+In the case of the 1910 Good Roads Rally held in Charleston, South Carolina, a rally was organised to promote the need for better roads. The rally itself had no competition and most vehicles were expected to be parked for its duration. The programme included a visit to some ongoing roadworks, a vehicle parade, with food, drink, dancing and music also arranged. However, the Automobile Club of Columbia, who had members attending the event, independently organised their own road competition to contest on the journey between the two cities. A prize of $10 was awarded to the motorist "approximating the most ideal schedule" between two secret points along the route and who had "the most nearly correct idea of a pleasant and sensible pleasure tour" between the two cities. Though this format of competition itself would later become known as a regularity 'rally', it wasn't at the time, however the trophy and prize were awarded at the rally.
+The first known use of the word rally to include a road competition was the 1911 Monaco Rally (later Monte Carlo Rally). It was organised by a group of wealthy locals who formed the "Sport Automobile Vélocipédique Monégasque" and bankrolled by the "Société des Bains de Mer" (the "sea bathing company"), the operators of the famous casino who were keen to attract wealthy and adventurous motorists to their 'rallying point'. Competitors could start at various locations but with a speed limit of 25kph imposed, the competitive elements were partly based on cleanliness, condition and elegance of the cars and required a jury to choose a winner. However, getting to Monaco in winter was a challenge in itself. A second event was held in 1912.
+
+
+=== Rallying as road competitions ===
+
+
+==== Origins of motorsport ====
+
+Rallying as a form of road competition can be traced back to the origins of motorsport, including the world's first known motor race; the 1894 Paris–Rouen Horseless Carriage Competition (Concours des Voitures sans Chevaux). Sponsored by a Paris newspaper, Le Petit Journal, it attracted considerable public interest and entries from leading manufacturers. The official winner was Albert Lemaître driving a 3 hp Peugeot, although the Comte de Dion had finished first but his steam-powered vehicle was ineligible for the official competition.
+The event led to a period of city-to-city road races being organised in Europe and the USA, which introduced many of the features found in later rallies: individual start times with cars running against the clock rather than head to head; time controls at the entry and exit points of towns along the way; road books and route notes; and driving over long distances on ordinary, mainly gravel, roads, facing hazards such as dust, traffic, pedestrians and farm animals.
+From 24 September-3 October 1895, the Automobile Club de France sponsored the longest race to date, a 1,710 km (1,060 mi) event from Bordeaux to Agen and back. Because it was held in ten stages, it can be considered the first stage rally. The first three places were taken by a Panhard, a Panhard, and a three-wheeler De Dion-Bouton.
+In the Paris–Madrid race of May 1903, the Mors of Fernand Gabriel took just under five and a quarter hours for the 550 km (340 mi) to Bordeaux, an average of 105 km/h (65.3 mph). Speeds had now exceeded the safe limits of dusty highways thronged with spectators and open to other traffic, people and animals and there were numerous crashes, many injuries and eight deaths. The French government stopped the race and banned this style of event. From then on, racing in Europe (apart from Italy) would be on closed circuits, initially on long loops of public highway and then, in 1907, on the first purpose-built track, England's Brooklands.
+Italy had been running road competitions since 1895, when a reliability trial was run from Turin to Asti and back. The country's first true motor race was held in 1897 along the shore of Lake Maggiore, from Arona to Stresa and back. This led to a long tradition of road racing, including events like Sicily's Targa Florio (from 1906) and Giro di Sicilia (Tour of Sicily, 1914), which went right round the island, both of which continued on and off until after World War II. The first Alpine event was held in 1898, the Austrian Touring Club's three-day Automobile Run through South Tyrol, which included the infamous Stelvio Pass.
+In Britain, the legal maximum speed of 12 mph (19 km/h) precluded road racing, but in April and May 1900, the Automobile Club of Great Britain and Ireland (the forerunner of the Royal Automobile Club) organised the Thousand Mile Trial, a 15-day event linking Britain's major cities in order to promote this novel form of transport. Seventy vehicles took part, the majority of them trade entries. They had to complete thirteen stages of route varying in length from 43 to 123 miles (69 to 198 km) at average speeds of up to the legal limit of 12 mph (19 km/h), and tackle six hillclimb or speed tests. On rest days and at lunch halts, the cars were shown to the public in exhibition halls. This event was followed in 1901 by a five-day trial based in Glasgow The Scottish Automobile Club organised an annual Glasgow–London non-stop trial from 1902 to 1904, then the Scottish Reliability Trial from 1905. The Motor Cycling Club allowed cars to enter its trials and runs from 1904 (London–Edinburgh, London–Land's End, London–Exeter). In 1908 the Royal Automobile Club held its 2,000 mi (3,200 km) International Touring Car Trial, and in 1914 the Light Car Trial for manufacturers of cars up to 1400 cc, to test comparative performances. In 1924, the exercise was repeated as the Small Car Trials.
+In Germany, the Herkomer Trophy was first held in 1905, and again in 1906. This challenging five-day event attracted over 100 entrants to tackle its 1,000 km (620 mi) road section, a hillclimb and a speed trial, but it was marred by poor organisation and confusing regulations. One participant had been Prince Henry of Austria, who with the Imperial Automobile Club of Germany, later created the first Prinz Heinrich Fahrt (Prince Henry Trial) in 1908. Another trial was held in 1910. These were very successful, attracting top drivers and works cars from major teams – several manufacturers added "Prince Henry" models to their ranges. The first Alpine Trial was held in 1909, in Austria, and by 1914 this was the toughest event of its kind, producing a star performance from Britain's James Radley in his Rolls-Royce Alpine Eagle.
+In Estonia and Latvia, The Last Race of the Empire was held in the days prior to the outbreak of World War 1 in 1914. This period was later called the July Crisis. A 706 mile car race of six stages through what is now Estonia and Latvia. The race was the third Baltic Automobile and Aero Club competition for the Grand Duchess Victoria Feodrovna Prize. The participants were mainly of Tsarist Russian and German Nobility.
+Two ultra-long distance challenges took place at this time. The Peking-Paris of 1907 was not officially a competition, but a "raid", the French term for an expedition or collective endeavour whose promoters, the newspaper "Le Matin", rather optimistically expected participants to help each other; it was 'won' by Prince Scipione Borghese, Luigi Barzini, and Ettore Guizzardi in an Itala. The New York–Paris of the following year, which went via Japan and Siberia, was won by George Schuster and others in a Thomas Flyer. Each event attracted only a handful of adventurous souls, but in both cases the successful drivers exhibited characteristics modern rally drivers would recognise: meticulous preparation, mechanical skill, resourcefulness, perseverance and a certain single-minded ruthlessness. Rather gentler (and more akin to modern rallying) was the Glidden Tour, run by the American Automobile Association between 1902 and 1913, which had timed legs between control points and a marking system to determine the winners.
+
+
+==== Interwar years ====
+
+The First World War brought a lull to motorsport. The Monte Carlo Rally was not revived until 1924, but since then, apart from World War II and its aftermath, it has been an annual event and remains a regular round of the World Rally Championship. In the 1930s, helped by the tough winters, it became the premier European rally, attracting 300 or more participants.
+In the 1920s, numerous variations on the Alpine theme sprang up in Austria, Italy, France, Switzerland and Germany. The most important of these were Austria's Alpenfahrt, which continued into its 44th edition in 1973, Italy's Coppa delle Alpi, and the Coupe Internationale des Alpes (International Alpine Trial), organised jointly by the automobile clubs of Italy, Germany, Austria, Switzerland and, latterly, France. This last event, run from 1928 to 1936, attracted strong international fields vying for an individual Glacier Cup or a team Alpine Cup, including successful Talbot, Riley, MG and Triumph teams from Britain and increasingly strong and well funded works representation from Adolf Hitler's Germany, keen to prove its engineering and sporting prowess with successful marques like Adler, Wanderer and Trumpf.
+The French started their own Rallye des Alpes Françaises in 1932, which continued after World War II as the Rallye International des Alpes, the name often shortened to Coupe des Alpes. Other rallies started between the wars included Britain's RAC Rally (1932) and Belgium's Liège-Rome-Liège or just Liège, officially called "Le Marathon de la Route" (1931), two events of radically different character; the former a gentle tour between cities from various start points, "rallying" at a seaside resort with a series of manoeuvrability and car control tests; the latter a thinly disguised road race over some of Europe's toughest mountain roads.
+In Ireland, the first Ulster Motor Rally (1931) was run from multiple starting points. After several years in this format, it transitioned into the 1,000-mile (1,600 km) Circuit of Ireland Rally. In Italy, Benito Mussolini's government encouraged motorsport of all kinds and facilitated road racing, so the sport quickly restarted after World War I. In 1927 the Mille Miglia (Thousand Mile) was founded, run over a 1,000-mile (1,600 km) loop of highways from Brescia to Rome and back. It continued in this form until 1938.
+The Liège of August 1939 was the last major event before World War II. Belgium's Jean Trasenster (Bugatti) and France's Jean Trévoux (Hotchkiss) tied for first place, denying the German works teams shortly before their countries were overrun. This was one of five Liège wins for Trasenster; Trevoux won four Montes between 1934 and 1951.
+
+
+==== Post-World War II years ====
+
+
+===== Europe =====
+Rallying was again slow to get under way after a major war, but by the 1950s there were many long-distance road rallies. In Europe, the Monte Carlo Rally, the French and Austrian Alpines, and the Liège were joined by a host of new events that quickly established themselves as classics: the Lisbon Rally (Portugal, 1947), the Tulip Rally (the Netherlands, 1949), the Rally to the Midnight Sun (Sweden, 1951, now the Swedish Rally), the Rally of the 1000 Lakes (Finland, 1951 – now the Rally Finland), and the Acropolis Rally (Greece, 1956). The RAC Rally gained International status on its return in 1951, but for 10 years its emphasis on map-reading navigation and short manoeuvrability tests made it unpopular with foreign crews. The FIA created in 1953 a European Rally Championship (at first called the "Touring Championship") of eleven events; it was first won by Helmut Polensky of Germany. This was the premier international rallying championship until 1973, when the FIA created the World Rally Championship for Manufacturers.
+Initially, most of the major post-war rallies were fairly gentlemanly, but the organisers of the French Alpine and the Liège (which moved its turning point from Rome into Yugoslavia in 1956) straight away set difficult time schedules: the Automobile Club de Marseille et Provence laid on a long tough route over a succession of rugged passes, stated that cars would have to be driven flat out from start to finish, and gave a coveted Coupe des Alpes ("Alpine Cup") to anyone achieving an unpenalised run; while Belgium's Royal Motor Union made clear no car was expected to finish the Liège unpenalised – when one did (1951 winner Johnny Claes in a Jaguar XK120) they tightened the timing to make sure it never happened again. These two events became the ones for "the men" to do. The Monte, because of its glamour, got the media coverage and the biggest entries (and in snowy years was also a genuine challenge); while the Acropolis took advantage of Greece's appalling roads to become a truly tough event. In 1956 came Corsica's Tour de Corse, 24 hours of virtually non-stop flat out driving on some of the narrowest and twistiest mountain roads on the planet – the first major rally to be won by a woman, Belgium's Gilberte Thirion, in a Renault Dauphine.
+These events were road races in all but name, but in Italy such races were still allowed, and the Mille Miglia continued until a serious accident in 1957 caused it to be banned. Meanwhile, in 1981, the Tour de France was revived by the Automobile-Club de Nice as a different kind of rally, based primarily on a series of races at circuits and hillclimbs around the country. It was successful for a while and continued until 1986. It spawned similar events in a few other countries, but none survive.
+
+
+===== South America =====
+In countries where there was no shortage of demanding roads across remote terrain, other events sprang up. In South America, the biggest of these took the form of long distance city to city races, each around 5,000 to 6,000 miles (8,000 to 9,700 km), divided into daily legs. The first was the Gran Premio del Norte of 1940, run from Buenos Aires to Lima and back; it was won by Juan Manuel Fangio in a much modified Chevrolet coupé. This event was repeated in 1947, and in 1948 an even more ambitious one was held, the Gran Premio de la América del Sur from Buenos Aires to Caracas, Venezuela—Fangio had an accident in which his co-driver was killed. Then in 1950 came the fast and dangerous Carrera Panamericana, a 1,911-mile (3,075 km) road race in stages across Mexico to celebrate the opening of the asphalt highway between the Guatemala and United States borders, which ran until 1954. All these events fell victim to the cost – financial, social and environmental – of putting them on in an increasingly complex and developed world, although smaller road races continued long after, and a few still do in countries like Bolivia.
+
+
+===== Africa =====
+In Africa, 1950 saw the first French-run Algiers-Cape Town Rally, a 10,000-mile (16,000 km) rally from the Mediterranean to South Africa; it was run on and off until 1961, when the new political situation hastened its demise. In 1953 East Africa saw the demanding Coronation Safari, which went on to become the Safari Rally and a World Championship round, to be followed in due course by the Rallye du Maroc and the Rallye Côte d'Ivoire. Australia's Redex Round Australia Trial also dates from 1953, although this remained isolated from the rest of the rallying world.
+
+
+===== North America =====
+Canada hosted one of the world's longest and most gruelling rallies in the 1960s, the Shell 4000 Rally. It was the only one sanctioned by the FIA in North America.
+
+
+==== Intercontinental rallying ====
+The quest for longer and tougher events saw the re-establishment of the intercontinental rallies beginning with the London–Sydney Marathon held in 1968. The rally trekked across Europe, the Middle-East and the sub-continent before boarding a ship in Bombay to arrive in Fremantle eight days later before the final push across Australia to Sydney. It attracted over 100 crews including a number of works teams and top drivers; it was won by the Hillman Hunter of Andrew Cowan/Brian Coyle/Colin Malkin. The huge success of this event saw the creation of the World Cup Rallies, linked to Association Football's FIFA World Cup. The first was the 1970 London to Mexico World Cup Rally which saw competitors travel from London eastwards across to Bulgaria before turning westwards on a more southerly route before boarding a ship in Lisbon. Disembarking in Rio de Janeiro the route travelled southward into Argentina before turning northwards along the western coast of South America before arriving in Mexico City. The Ford Escort of Hannu Mikkola and Gunnar Palm won. These were followed in 1974 by the London-Sahara-Munich World Cup Rally, and in 1977 by the Singapore Airlines London-Sydney Rally.
+
+
+==== Introduction of special stages ====
+
+Rallying became very popular in Sweden and Finland in the 1950s, thanks in part to the invention there of the specialsträcka (Swedish) or erikoiskoe (Finnish), or special stage. These were shorter sections of route, usually on minor or private roads—predominantly gravel in these countries—away from habitation and traffic, which were separately timed. These provided the solution to the conflict inherent in the notion of driving as fast as possible on ordinary roads. The idea spread to other countries, albeit more slowly to the most demanding events.
+The RAC Rally had formally become an International event in 1951, but Britain's laws precluded the closure of public highways for special stages. This meant it had to rely on short manoeuvrability tests, regularity sections and night map-reading navigation to find a winner, which made it unattractive to foreign crews. In 1961, Jack Kemsley was able to persuade the Forestry Commission to open their many hundreds of miles of well surfaced and sinuous gravel roads, and the event was transformed into one of the most demanding and popular in the calendar, by 1983 having over 600 miles (970 km) of stage. It was later renamed Rally GB.
+
+
+=== Off road (cross country) rallying ===
+In 1967, a group of American off-roaders created the Mexican 1000 rally, a tough 1,000-mile race for cars and motorcycles which ran the length of the Baja California peninsula, much of it initially over roadless desert. Which quickly gained fame as the Baja 1000, today run by the SCORE International. "Baja" events, relatively short cross-country rallies, now take place in a number of other countries worldwide.
+In 1979, a young Frenchman, Thierry Sabine, founded an institution when he organized the first "rallye-raid" from Paris to Dakar, in Senegal, the event now called the Dakar Rally. From amateur beginnings it quickly became a massive commercial circus catering for cars, motorcycles and trucks, and spawned other similar events. From 2008 to 2019, it was held in South America before moving to Saudi Arabia exclusively in 2020.
+
+
+== Characteristics of a rally ==
+
+
+=== Itinerary ===
+
+All rallies follow at least one itinerary, essentially a schedule of the points along the route that define the rally. A common (single) itinerary may begin and end with a ceremonial start and finish that confirm the bounds of the competition. Many rallies’ itineraries are divided into legs, usually corresponding with days on multi-day rallies dividing overnight rest periods; sections, usually between services or regroups; and stages, individual point-to-point lengths of road. A loop is often used to describe a section that begins and ends in the same place, for example from a central service park.
+A time control is usually found at each point on the itinerary, a timecard is carried by the crews and handed to an official at each control point to be filled in as proof of following the itinerary correctly. As crews start each leg, section and stage at intervals (for example of two minutes), each crew will have a different due or target time to arrive at each control, with penalties applied for being too early or late. A crew can be excluded from a rally if they are found to be over time limit or outside total lateness (OTL). This is a maximum permitted lateness set, often 30 minutes, to prevent rally officials having to wait too long for the last car.
+Long rallies may include one or more service, a window of time where mechanics are permitted to repair or prepare the car. Outside these services only the driver and co-driver can work on the car, although they must still respect the timing requirements of the rally. A flexi-service allows teams to use the same group of mechanics with flexibility in the timing, for example if two cars are due to arrive at two minute intervals, the second cars' 45 minute service can be delayed whilst the first car is serviced. During overnight halts between legs cars are held in a quarantine environment called parc fermé where it is not permitted to work on the cars.
+Other examples of features of an itinerary include passage controls, which ensure competitors are following the correct route but have no due time window, the timecard may be stamped or the cars may be observed by officials. Refuel, light fitting and tyre zones allow competitors to refuel, fit lights for night stages run in darkness, or exchange used tyres for new. Regroups act to gather competitors in one location and reset the time intervals which may have grown or shrunk.
+A road book may be published and distributed to competitors detailing the itinerary, the route they must follow and any supplementary regulations they must follow. The route can be marked out in tulip diagrams, a form of illustrating the navigational requirements or other standard icons.
+
+
+=== Special stage ===
+
+Special stages (SS) must be used when using timing for classifying competitors in speed competitions. These stages are preceded by a time control marking the boundary of a road section and the special stage. The competitors proceed to the start line from where they begin the special stage at a prescribed time, and are timed until they cross the flying finish in motion before safely coming to a stop at the stop control which acts as a time control for the following road section and the place for the crews to find out their time of completing the stage. To avoid interruptions and hindering other competitors the road between the time control and the end of the start line zone, and between the flying finish and stop control are both considered as under parc fermé conditions, crews are not allowed to get out of their car.
+A Super Special Stage runs contrary to the ordinary running of a special stage, the reasons for which should be explained in the supplementary regulations. This may be where head-to-head stages are run in a crossover loop style, or if a short asphalt city stage with donuts around hay bails is run on a gravel rally for example.
+A Power Stage is used in the WRC and European Rally Championship, it is simply a nominated special stage that alone awards championship points to the fastest crews.
+A Shakedown is often included in an itinerary but does not form part of the competition. Crews can do multiple passes of a special stage to practice or trial different set ups. In some championships, a Qualifying Stage may also run alongside a shakedown to determine road order, the order in which competitors will compete.
+
+
+=== Recce and pacenotes ===
+
+Pacenotes are a unique and major tool in modern special stage rallying. They provide a detailed description of the course and conditions ahead and allow the driver to form a mental image beyond the visible to be able to drive as fast as possible.
+In many rallies, including those of the World Rally Championship (WRC), drivers are allowed to run on the special stages of the course before the competition begins and create their own pacenotes. This process is called reconnaissance or recce and a low maximum speed is imposed. During reconnaissance, the co-driver writes down shorthand notes on how to best drive the stage. Usually, the drivers call out the turns and road conditions for the co-drivers to write down. These pacenotes are then read aloud through an internal intercom system during the actual rally, allowing the driver to anticipate the upcoming terrain and thus take the course as fast as possible.
+Other rallies provide organizer-created "route notes" also referred to as "stage notes" and disallow reconnaissance and use of custom pacenotes. These notes are usually created using a predetermined format, from which a co-driver can optionally add comments or transpose into other pacenote notations. Many North American rallies do not conduct reconnaissance but provide stage notes due to time and budget constraints.
+
+
+=== Service park or bivouac ===
+
+Though not necessary for all rallies, many road rallies have a central service park that acts as a base for servicing, scrutineering, parc fermé and playing host to Rally Headquarters, where the rally officials assemble. Service parks can also be a spectator attraction in their own right, with opportunities to meet and greet the crews and commercial outlets providing goods and services. If the rally is of the touring A to B kind there may be multiple service parks that may be very small and only used once each meaning teams carry as little as possible for simple logistics purposes. A remote service is a small service used once when there are stages far away from a central service park.
+In off-road cross countries the service area and support teams may travel with the competitors along the route in a Bivouac. The word means 'camp' and many participants indeed sleep in tents overnight.
+
+
+== Participants ==
+
+
+=== Driver ===
+The driver is the person who drives the car during the rally. Regardless of the type of rally, a driver needs a driver's license issued by a competent authority. No prior experience of rallying is necessary and a debutant can hypothetically compete with a world champion on unfamiliar roads even in speed competitions.
+Unless the car is in a scheduled service, only the driver and co-driver can repair or work on the car during the rally with no external assistance allowed. Spectators assisting a crashed car is technically a breach of the rules but is usually overlooked. Driver's and co-drivers often have to make running-repairs and have to change punctured wheels themselves.
+
+Often, a distinction is made between so called 'works' drivers and privateer drivers. The first is one who competes for a team, usually that of a manufacturer, who provides the car, parts, repairs, logistics and the support personnel. Most of the works drivers of the 1950s were amateurs, paid little or nothing, reimbursed their expenses and given bonuses for winning. Then in 1960 came arguably the first rallying superstar (and one of the first to be paid to rally full-time), Sweden's Erik Carlsson, driving for Saab. Contrarily a privateer has to meet all the organization requirements and expenses involved in competing and usually competes for the enjoyment rather than using the sport as a means of promotion or contesting a full championship.
+A specialist driver is used to describe a driver who may have the skills and aptitude to win a rally of a certain surface but not on another. In the World Rally Championship which consists of different surfaces, a tarmac specialist driver may be employed by a team for example, on only the tarmac rounds. A privateer snow specialist may only enter the snow rounds. Some examples of specialist drivers are Gilles Panizzi, who obtained several victories on asphalt in the WRC while on gravel never passed fifth place; Shekhar Mehta won five editions of the Safari Rally however he never aspired to win the world championship and the Swede Mats Jonsson achieved his only two victories in the world, in the Rally Sweden. Historically, manufacturers always used local drivers due to their experience which ensured a certain result.
+Unlike in many other sports, rally has no gender barriers and everybody can compete on equal terms in this regard, although historically there were cups and trophies only for women. One of the first prominent names was that of the Brit Pat Moss, sister of F1 driver Stirling Moss, who won several rallies in her time. Later, Italy's Antonella Mandello, Germany's Isolde Holderies, Britain's Louise Aitken Walker and Sweden's Pernilla Walfridson stood out. The most notable was France's Michèle Mouton who with co-driver, Fabrizia Pons, became the first women to achieve victories in the world championship, in addition to the championship runner-up slots in 1982. As co-pilots in addition to the aforementioned Pons, the French Michèle Espinos "Biche" stood out, the Swedish Tina Thörner, the Venezuelan Ana Goñi or the Austrian Ilka Minor.
+
+
+=== Co-driver ===
+
+The co-driver accompanies the driver inside the car during a rally stage and is sometimes called a navigator. The co-driver and driver may swap roles although this is uncommon. On all rallies their responsibilities are mostly organizational, assisting to ensure the route is adhered to, the correct timing of the itinerary is met, ensuring completion of the timecard and avoiding penalties for being early or late when arriving at time controls. Usually the co-driver maintains communication with the team as the rally progresses.
+On special stages, the co-driver's role is to notate pace notes during reconnaissance and recite them at the correct point the driver demands when competing. This is a skill in itself as it requires reading the notes of the unseen road ahead from a page whilst keeping track of the current location. Theoretically, the more pacenotes a co-driver can deliver gives the driver more detail of the road ahead. Incorrect pace notes called at very high speeds on blind corners or crests can easily lead to accidents.
+The co-driver often exercises an important role in strategy, monitoring the state of rivals and in many cases acting as a psychologist, since they also encourage and advise the driver. The rapport between driver and co-driver must therefore be essential and it is common for a driver to change partners throughout their career if they do not feel comfortable. Perhaps for this reason it is very common to find relatives competing. Examples of this are the Panizzi brothers, who raced in France and the world championship, the Vallejo brothers in Spain or the world champion Marcus Grönholm who took his brother-in-law as co-driver during his career.
+
+
+=== Team ===
+A rally team is not required and can exist in various forms but is usually only found in professional or commercial speed competition rallying such as is found in the WRC where manufacturer teams are required to enter multiple cars. Commercial teams exist to provide a service to privateers. A driver, co-driver and friends volunteering to help can also be called a team.
+
+Team principal: The team principal/boss/manager is the authoritative organizer and decision maker. They are ultimately responsible for recruitment of all positions, which rallies or championships to enter, technical development and maintenance of cars, and competitive aims or targets. They are generally a position found in manufacturer teams where they will also be responsible for promotional and commercial activities. In all cases a team principal will also be responsible for the financial management.
+Engineer: The engineer helps develop the car away from a rally, tuning it to be in best form for competition. During a rally, the engineer will assist the driver with the set-up of the car such as fine-tuning the suspension, differentials, gear ratios or deciding on correct tyres. The engineer may also be a mechanic.
+Mechanic: A mechanic repairs and services the car before, after and in scheduled services during the rally. It helps to be multiskilled covering things from panel-beating to electrical diagnostics to changing oil.
+Gravel crew or Route Note Crew: Despite the name, gravel crews are only found on asphalt rallies. These crews drive the stages as late as possible before the zero car to make last minute embellishments to the pace notes on the topic of traction. This is usually from weather conditions such as ice or snow or where gravel has been brought onto the road where cars have cut corners on a previous running of the stage. The gravel crews must work fast as they often run whilst their rally crews are competing other stages making the window for communication narrow.
+
+
+=== Officials ===
+Rally director: Chief organiser and assumes overall responsibility of all competitors and officials.
+Stewards: Ensure the adherence to rules and regulations and decide penalties where breaches are found.
+Clerk of the course: Administration position responsible for compiling timings, results and penalties; compiling documents and communicating notices.
+Scrutineers: Technical position ensuring cars are safe and within regulations.
+Marshals: Usually volunteer positions overseeing the route of the rally, reporting and reacting to incidents.
+Timekeeper: Found at time controls on road sections and the start and finish line of special stages.
+
+
+== Vehicles ==
+
+Auto manufacturers had entered cars in rallies, and in their forerunner and cousin events, from the very beginning. The 1894 Paris-Rouen race was mainly a competition between them, while the Thousand Mile Trial of 1900 had more trade than private entries. From the time that speed limits were introduced to the various nation's roads, rallies became mostly about reliability than speed. As a result rallies and trials became a great proving ground for any standard production vehicle, with no real need to purposely build a rally competition car until the special stage was introduced in the 1950s.
+Although there had been exceptions like the outlandish Ford V8 specials created for the 1936 Monte Carlo Rally, rallies before World War II had tended to be for standard or near-standard production cars. After the war, most competing cars were production saloons or sports cars, with only minor modifications to improve performance, handling, braking and suspension. This naturally kept costs down and allowed many more people to afford the sport using ordinary cars, compared to the rally specials used today.
+
+
+=== Groups 1–4 ===
+In 1954 the FIA introduced Appendix J of the International Sporting Code, classifying touring and sports production cars for use in its competitions, including the new European Rally Championship, and cars had to be homologated in order to compete. The Groups 1–9 within Appendix J changed frequently though Group 1, Group 2, Group 3 and Group 4 generally held the forms of unmodified or modified, series production touring and grand touring cars used in rallying.
+
+As rallying grew in popularity, car companies started to introduce special models or variants for rallying, such as the British Motor Corporation's Mini Cooper, introduced in Group 2 in 1962, and its successor the Mini Cooper S (1963), developed by the Cooper Car Company. Shortly after, Ford of Britain first hired Lotus to create a high-performance version of their Cortina family car, then in 1968 launched the Escort Twin Cam, one of the most successful rally cars of its era. Similarly, Abarth developed high performance versions of Fiats 124 roadster and 131 saloon.
+Other manufacturers were not content with modifying their 'bread-and-butter' cars. Renault bankrolled the small volume sports-car maker Alpine to transform their little A110 Berlinette coupé into a world-beating rally car, and hired a skilled team of drivers to pilot it. In 1974 the Lancia Stratos became the first car designed from scratch to win rallies. These makers overcame the rules of FISA (as the FIA was called at the time) by building the requisite number of these models for the road, somewhat inventing the 'homologation special'.
+
+
+=== Four-wheel-drive ===
+
+In 1980, a German car maker, Audi, at that time not noted for their interest in rallying, introduced a rather large and heavy coupé version of their family saloon, installed a turbocharged 2.1 litre five-cylinder engine, and fitted it with four-wheel drive, giving birth to the Audi Quattro. International regulations had prohibited four-wheel drive in rallying, but FISA accepted that this was a genuine production car and changed the rules. The Quattro quickly became the car to beat on snow, ice or gravel; and in 1983 took Hannu Mikkola to the World Rally Championship title.
+
+
+=== Groups N/A/B ===
+In 1982 the FIA replaced the structure of groups in Appendix J. Rallying, with the young World Rally Championship, now allowed Group N for unmodified touring cars, Group A for modified touring cars and Group B for Grand Touring cars. The low production requirement and loose restrictions of Group B led many manufacturers to develop cars much further removed from production models, and so was created a generation of rallying supercars, of which the most radical and successful were the Peugeot 205 T16, Renault 5 Turbo and the Lancia Delta S4, with lightweight fibreglass bodies roughly the shape of the standard car tacked onto spaceframe chassis, four-wheel drive, and power outputs higher than 500 hp (370 kW). This particular era was not to last. On the 1986 Rallye de Portugal, four spectators were killed then two months later on the Tour de Corse, Henri Toivonen and Sergio Cresto went over the edge of a mountain road and were incinerated in the fireball that followed. FISA immediately changed the rules again: rallying after 1987 would be in Groups A and N cars, closer to the production model. One notably successful car during this period was the Group A Lancia Delta Integrale, dominating world rallying during 1987, 1988, 1989, 1990, 1991 and 1992 – winning six consecutive manufacturer's world rally championship titles, a feat unbeaten as of 2022. In the 1990s Japanese manufacturers Toyota, Subaru and Mitsubishi also dominated the world rally championships.
+
+
+=== Cross-country ===
+Groups T1 and T2 codify cars used in FIA cross-country rallies. Group T5 (T4 prior to 2020) was introduced to allow support trucks to enter the rally raids in their own class. Groups T3 and T4 are reserved for side-by-side vehicles and lightweight vehicles, these differ from cars by not having notable parts such as windscreens or doors. Group T6 and Trophy truck.
+
+
+=== Alternative energy ===
+The car manufacturer Opel, WRC driver Hayden Paddon and a collaboration of rally team Baumschlager, Kreisel and Škoda have each built electric cars for special stage rallies in the 2020s.
+
+
+=== Historic ===
+
+The minimum age and inclusion of a vehicle in a historic rally is at the decision of the organiser. The FIA organises two international competitions for historic rallying: the European Historic Rally Championship, composed of special stage rallies; and the Trophy for Historic Regularity Rallies. In both cases, cars must comply with their Appendix K of the International Sporting Code, which classifies historic vehicles. Many nation's ASNs and independent organisations also arrange historic rallies and championships.
+
+
+=== Any vehicle ===
+As regularity rallies and touring assemblies take place on open roads without a performance requirement, a rally organiser can hypothetically allow any street legal vehicle to enter. The Wacky Rally will permit campervans, fire appliances, busses or the Batmobile for example. Banger rallies generally permit any car purchased below a given value. The Gumball 3000 is known for permitting luxury and performance cars alongside ordinary cars, vans and some unconventional vehicles.
+
+
+== In popular culture ==
+The saying "Trata de arrancarlo, Carlos" ("try to start it, Carlos") has become a well known phrase in Spain following the failure of Carlos Sainz and Luis Moya's Toyota Corrola at the 1998 RAC Rally. The crew were close to the finish of the rally, and potential championship titles, when their engine caught fire. Moya's repeated shouts were caught by TV cameras and have entered common speech and fiction even away from a motorsport context.
+
+
+=== Film ===
+In February 2015, The National Film & Television School in England premiered one of their graduating films called Group B directed by ex-rally driver Nick Rowland. The film, set during the last year of the Group B class of rally tells the story of a young driver having to face a difficult comeback after a "long and troubled absence". The young driver is played by Scottish actor Richard Madden, and his co-driver played by Northern Irish actor Michael Smiley. The film features Group B class cars such as Ford RS200, Opel Manta and Tony Pond's MG Metro 6R4. The stunt driving in the film has been attributed to Rally America champion David Higgins.
+A documentary revolving around the life and career of World Rally Championship driver Ott Tänak entitled Ott Tänak: The Movie was released in Estonian cinemas on April 11, 2019, and on video-on-demand on October 1, 2019. The documentary consisted of interviews with Tänak, his family, friends and colleagues within the sport interspersed with filmed and archive footage of Tänak's previous rallies along with behind-the-scenes footage from the 2018 WRC season viewed from the Estonian driver's perspective.
+Queen of Speed, a 2021 documentary about rally driver Michèle Mouton's battle to rise to the top of the male-dominated world of rallying in the 70s and 80s.
+Race for Glory: Audi vs. Lancia (2024)
+Legends of the Winding Roads (2023)
+The Gumball Rally (1976)
+Monte Carlo or Bust! (1969)
+
+
+=== Video games ===
+Rally Trophy
+Colin McRae Rally, Dirt Rally series
+Richard Burns Rally
+Sébastien Loeb Rally Evo
+Tommi Makinen Rally
+Network Q RAC Rally
+V-Rally series
+World Rally Championship series
+My Summer Car
+Sega Rally Championship
+
+
+=== Music ===
+The Donegal Rally has inspired several songs by Irish bands; Can't Wait For June by Ella & Off The Kuff Rally Band, The Donegal Rally Song by The Rally Band, and Give It To Her Now by The Rhythm Sticks.
+The track Every Second Counts from Chris Rea's album Auberge, was named after the autobiography of WRC champion and Dakar Rally winner Ari Vatanen. Rea and Vatanen have been friends since sharing a house in the UK together in the 1980s.
+The Heizer Monkeys track The TF Song (Pineapple King), features WRC figures Olaf Manthey, Štefan Rosina, Walter Röhrl and Misha Charoudin.
+
+
+== See also ==
+
+
+=== Rally driving techniques ===
+
+
+=== Rally events ===
+
+
+=== Related ===
+
+
+== References ==
+
+
+== External links ==
+
+FIA – Sanctioning body for the WRC
+World Rally Championship – WRC official website

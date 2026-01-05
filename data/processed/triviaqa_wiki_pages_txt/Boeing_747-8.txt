@@ -1,0 +1,176 @@
+The Boeing 747-8 is the final series of the large, long-range wide-body airliners in the Boeing 747 family from Boeing Commercial Airplanes. It is the largest model of the 747 and Boeing's largest aircraft overall.
+Following the introduction of the 747-400, Boeing explored larger 747 versions as potential competitors to the proposed double-deck Airbus A3XX, later developed as the Airbus A380. 
+The stretched aircraft, initially called the 747 Advanced, was officially launched as the 747-8 on November 14, 2005, with the designation reflecting its technological ties to the 787 Dreamliner. At the time, Boeing forecast a market of 300 aircraft.
+The 747-8's maiden flight was made by the freighter version, the 747-8F, on February 8, 2010, followed by the passenger version, the 747-8I Intercontinental, on March 20, 2011. The freighter version was delivered in October 2011, and the passenger variant entered commercial service in June 2012.
+The aircraft's fuselage was stretched by 18 feet (5.5 m), reaching a total length of 250 feet (76 m), making it the longest airliner in service until the debut of the 777X in 2020. While retaining the basic structural design and wing sweep of its predecessors, the 747-8 has a deeper and thicker wing, allowing for greater fuel capacity, and larger raked wingtips for improved aerodynamics. It is powered by a more efficient, smaller version of the General Electric GEnx turbofan engine from the 787 Dreamliner (recognizable by chevron edges on the engine nacelles). As a result, its maximum takeoff weight (MTOW) increases to 975,000 pounds (442 t), making the 747-8 the heaviest Boeing airliner.
+The freighter version, with a shorter upper deck, can haul 308,000 pounds (140 t) over 4,120 nautical miles [nmi] (7,630 km; 4,740 mi).
+The intercontinental version can carry 467 passengers in a typical three-class configuration with a range of 7,790 nautical miles (14,430 km; 8,960 mi).
+A total of 155 aircraft were built including 107 freighters and 48 passenger airliners. The final aircraft, a 747-8F, was delivered to Atlas Air on January 31, 2023.
+
+
+== Development ==
+
+
+=== Background ===
+
+Boeing had considered larger-capacity versions of the 747 several times during the 1990s (such as the Boeing New Large Airplane) and 2000s. The 747-500X and -600X, announced at the 1996 Farnborough Airshow, would have stretched the 747, but they did not attract enough interest to enter development. At the same air show, a hypothetical wider-bodied 747-700X was described by a Boeing spokesperson as being possible, but inconsistent with the future requirements identified by the company.
+In 2000, Boeing offered the 747X and 747X Stretch derivatives as alternatives to the Airbus A3XX. This was a more modest proposal than the previous −500X and −600X. The 747X would increase the 747's wingspan to 229 ft (69.8 m) by adding a segment at the root. The 747X was to carry 430 passengers up to 8,700 nmi (16,100 km; 10,000 mi). The 747X Stretch would be extended to 263 ft (80.2 m) long, allowing it to carry 500 passengers up to 7,800 nmi (14,400 km; 9,000 mi). However, the 747X family was unable to attract enough interest to enter production. Some of the ideas developed for the 747X were used on the 747-400ER.
+After the 747X program, Boeing continued to study improvements to the 747. The 747-400XQLR (Quiet Long Range) was meant to have an increased range of 8,056 nmi (14,920 km; 9,271 mi), with better fuel efficiency and reduced noise. Changes studied included raked wingtips similar to those used on the 767-400ER and a 'sawtooth' engine nacelle for noise reduction. Although the 747-400XQLR did not move to production, many of its features were used for the proposed 747 Advanced.
+In early 2004, Boeing announced tentative plans for the 747 Advanced that were eventually adopted. Boeing selected the designation 747-8 for the aircraft to show the technology connection between the Boeing 787 Dreamliner and the new 747. The 747-8 used technology and the General Electric GEnx engines from the 787 to modernize the design and its systems. In 2005, Boeing forecast a market for 300 aircraft, split evenly between freighters and passenger variants.
+
+
+=== Design effort ===
+
+On November 14, 2005, Boeing announced the launching of the 747 Advanced as the "Boeing 747-8". The 747-8 was the first lengthened 747 to go into production and the second 747 version with a fuselage of modified length after the shortened 747SP. The 747-8 was intended to use the same engine and cockpit technology as that of the 787, including the General Electric GEnx turbofan and fly-by-wire ailerons and spoilers. In 2006, Boeing said that the new design would be quieter, more economical and more environmentally friendly than previous versions of the 747. As a derivative of the already-common 747-400, the 747-8 has the economic benefit of similar training and interchangeable parts. Boeing firmed the 747-8 Freighter's configuration in October 2006.
+The 747-8, as a new development of Boeing's largest airliner, is notably in direct competition on long-haul routes with the Airbus A380, a full-length double-deck aircraft introduced in 2007. For airlines seeking very large passenger airliners, the two have been pitched as competitors on various occasions. Boeing states that the 747-8 is more than 10 percent lighter per seat and consumes 11 percent less fuel per passenger than the A380, translating into a trip-cost reduction of 21 percent and a seat-mile cost reduction of over 6 percent.
+Production of the first 747-8 Freighter began in Everett in early August 2008. On November 14, 2008, Boeing announced a delay to the 747-8 program, citing limited availability of engineering resources within Boeing, design changes and the recent strike by factory workers. In February 2009, only one airline customer (Lufthansa) had ordered the 747-8I passenger model, and Boeing announced that it was reassessing the 747-8 project. Chief executive Jim McNerney stated that continuation of the project was not a foregone conclusion, and that the company was assessing various options.
+
+On July 21, 2009, Boeing released a photograph of the first cargo airplane, its fuselage and main wing assembled. In October 2009, Boeing announced that it had delayed the first flight on the 747-8 until the first quarter of 2010 and delayed 747-8I delivery. The company took a US$1-billion charge against its earnings for this delay. In response, launch customer Cargolux stated it still intended to take delivery of the thirteen freighters it had ordered; Lufthansa confirmed its commitment to the passenger version. On November 12, 2009, Boeing announced that Cargolux's first airplane was fully assembled and entering the Everett plant's paint shop. It was to undergo flight testing prior to delivery.
+On December 4, 2009, Korean Air became the second airline customer for the −8I passenger model, with an order for five airliners. On January 8, 2010, Guggenheim Aviation Partners (GAP) announced the reduction of its −8F order from four to two aircraft.  In March 2011, Korean Air converted options into a firm order for two additional −8 freighters.  It received its first -8i in late August 2015.
+
+
+=== Flight testing and certification ===
+
+The 747-8's first engine runs were completed in December 2009. Boeing announced the new model had successfully completed high-speed taxi tests on February 7, 2010. On February 8, 2010, after a 2.5-hour weather delay, the 747-8 Freighter made its maiden flight, taking off from Paine Field, Washington at 12:39 PST, and landed at 4:18 pm PST. Boeing estimated that more than 1,600 flight hours would be needed in order to certify the 747-8.  The second test flight in late February, a ferry flight to Moses Lake, Washington, tested new navigation equipment.  Further flight testing was to take place in Moses Lake, conducting initial airworthiness and flutter tests, before moving to Palmdale, California, for the majority of flight tests so as to not interfere with 787 flight tests based out of Boeing Field in Seattle.
+By March 11, 2010, the 747-8F had flown thirteen flights covering a total of 33 hours.  On March 15, 2010, the second 747-8F first flew from Paine Field to Boeing Field, where it was briefly based before moving to Palmdale to continue flight testing with the first −8F. On March 17 the third −8F made its first flight and joined the test program.
+During the flight tests, Boeing discovered a buffet problem with the aircraft, involving turbulence coming off the landing gear doors interfering with the inboard flaps. Boeing undertook an evaluation of the issue, which included devoting the third test aircraft to investigating the problem. The issue was resolved by a design change to the outboard main landing gear doors. In early April 2010, Boeing identified a possible defect in one of the upper longerons, a main component of the fuselage. According to Boeing, the parts, manufactured by subcontractor Vought Aircraft Industries, were, under certain loads, susceptible to cracking. Boeing said that the issue would not affect flight testing, but other sources stated that the problem could impact the operating envelope of the aircraft until it was fully repaired. Two other issues found during testing were oscillation in the inboard aileron and a structural flutter, which had not been resolved as of 2010.  Combined, these problems slowed flight testing and used up almost all the margin in Boeing's development schedule.
+
+On April 19, 2010, the second flight-test aircraft was moved from Moses Lake to Palmdale to conduct tests on the aircraft's engines in preparation for obtaining a type certification for the aircraft. The remaining aircraft in the test fleet were scheduled to move to Palmdale during May.  It was reported on June 3, 2010, that an engine on the second 747-8F was struck by a tug during a ground move. The engine cowling was damaged, but there was no damage to the engine itself. After repairs, the aircraft moved into fuel-efficiency testing. It was announced on June 14, 2010, that the 747-8 had completed the initial phase of flight-worthiness testing and that the Federal Aviation Administration had given Boeing an expanded type-inspection authorization for the aircraft.
+By the end of June 2010, the three 747-8Fs that composed the flight-test program had flown a total of over 500 hours and had completed hot-weather testing in Arizona.  In June 2010, Boeing determined that a fourth −8F aircraft was needed to help complete flight testing. It was decided to use the second production aircraft, RC503, to conduct the non-instrumented or minimally-instrumented tests, such as HIRF and Water Spray Certifications. The aircraft, painted in delivery customer Cargolux's new livery, first flew on July 23, 2010.
+On August 21, 2010, a 747-8F proved the variant's capability by taking off from the runway at Victorville, California weighing 1,005,000 pounds (455,860 kg). Its design maximum take-off weight (MTOW) is 975,000 pounds (442,253 kg). The fifth 747-8F joined the flight-test effort with its first flight on February 3, 2011. On September 30, 2010, Boeing announced a further postponement, with the delivery of the first freighter to Cargolux planned for mid-2011.
+The 747-8 passenger version took to the skies over Everett, Washington, for the first time on March 20, 2011. The second 747-8I flew on April 26, 2011. Three 747-8 Intercontinentals had taken part in flight testing by December 2011.
+
+The 747-8F received its amended type certificate jointly from the Federal Aviation Administration (FAA) and European Aviation Safety Agency (EASA) on August 19, 2011. Freighter deliveries were to begin on September 19, 2011. Then, on September 17, 2011, Cargolux announced that it would not accept the first two 747-8Fs scheduled for delivery on September 19 and 21, 2011, due to "unresolved contractual issues between Boeing and Cargolux" with the aircraft. It entered service in October 2011.
+On October 25, 2011, a 747-8 flew to Grantley Adams International Airport in Barbados to begin flight testing in the tropical climate of the Caribbean, to determine its effects on the aircraft. One test −8i was used for an evaluation by Lufthansa in early December, 2011 before first delivery in early 2012. On December 14, 2011, the 747-8I received its type certificate from the FAA.  The aircraft noise from the 747-8 has earned it a Quota Count of 2 for takeoff and 1 for landing at London's three major airports, a significant improvement over the 747-400.
+In February 2015, the Boeing 747-8 Intercontinental was given 330-minute ETOPS approval, the first time that ETOPS-330 approval was given to a four-engined aircraft.
+
+
+=== Into service and further development ===
+On April 21, 2010, Boeing chief executive officer Jim McNerney announced that the company would be accelerating the production of both the Boeing 747 and 777 to support increasing customer demand.
+Boeing handed over the first 747-8F to Cargolux in Everett, Washington, on October 12, 2011.  The first 747-8 Intercontinental was delivered to Lufthansa on May 5, 2012, which began operating the version on flights from Frankfurt to Washington, D.C., on June 1, 2012.
+In 2014, Boeing embarked on an improvement program for the 747-8 named "Project Ozark", with the goal of improved range and lower fuel burn. With all improvements implemented, the resulting aircraft would have a maximum takeoff weight of greater than 1,000,000 lb (450 t).  The company slowly introduced aspects of Ozark over time. An engine Performance Improvement Package resulted in a 2% lower fuel burn. Boeing also improved the tail fuel tank's function and improved the flight management software.  Aircraft produced beginning in 2014 weigh 9,000 lb (4.1 t) less than the first 747-8 coming off the production line and burn 3.5% less fuel.
+Other improvements include revised fairings next to the tail and wing-to-body-fairings. The chevrons on the trailing edge of the GEnx-2B nacelle were made thinner.  Boeing hoped that these improvements, which benefit both the passenger and freighter version, would help improve sales. Boeing has since updated the incremental improvements planned for the 747-8, which include increasing the maximum takeoff weight to 472 t (1,041,000 lb), strengthening the main landing gear and increasing the aircraft's full-payload range to 8,200 nmi (15,200 km; 9,400 mi).
+
+
+==== Sales prospects ====
+
+In early 2014, the director-general of the International Air Transport Association noted that slower economic growth, following the Great Recession of 2008, had led to lower demand for air freighters. The world's air cargo fleet in 2012 was smaller than it was in 2003. However, the proportion of very large freighters in that fleet has increased, and Boeing's dominant position in large, fuel-efficient freighters has offered the company an opportunity to protect its market share and its product line despite the market weakness.
+Demand has been chiefly for the 747-8F, which accounts for the majority of 747-8 aircraft ordered. The larger capacity of the 747-8 is of particular advantage for the freighter version, because the freighter has no direct competitor, as Airbus' competing A380 freighter version was canceled during development.
+Airlines including Emirates and British Airways considered ordering the passenger version, but opted to purchase the Airbus A380 instead.  In 2013, Arik Air converted its order for two 747-8s to two 777-300ERs.  At the 2013 Paris Air Show, Korean Air agreed to order five 747-8 passenger versions, in addition to five ordered in 2009.  Korean Air and Boeing finalized the new -8 order in October 2013.
+The overall demand for the 747-8 turned out to be well below Boeing's initial projections as well, which led to several reductions in production rate. Production was initially decreased from 2 to 1.75 aircraft per month in April 2013 and then reduced further to 1.5 aircraft per month in October 2013.  On June 25, 2015, The Wall Street Journal reported that the order backlog was down to 32 and Boeing had decided to reduce production to one aircraft per month in 2016.  In January 2016, Boeing confirmed that it was reducing 747-8 production to 0.5 per month beginning in September 2016, incurring a $569 million post-tax charge against its fourth-quarter 2015 profits. The chief reason given was that the recovery of the air cargo market had stalled, resulting in slowed demand for the 747 freighter. In April 2016, Boeing took a $70 million pre-tax charge for the program against its first-quarter's result.
+Boeing cited the 747-8F as the main driver behind potential future 747-8 orders. To help reduce production costs in the meantime and maintain the 747 production line's viability, the company plans to integrate the 747 and 767 production lines more closely with each other. Boeing expected the cargo market to improve by mid-2019 and were planning to increase the 747's production rate back to 1/month from then on. However, in July 2016, this production rate increase was cancelled, i.e. 747 production remained at 0.5 per month. At the same time, the company announced another after-tax charge of $814 million, reflecting a lower estimation of airframes to be produced and revenue realized. In an SEC filing submitted at the same time, Boeing stated that if it was "unable to obtain sufficient orders and/or market, production and other risks cannot be mitigated, [...] it is reasonably possible that we could decide to end production of the 747."
+
+The Boeing 747-8I was intended to fill a niche between the Airbus A380 and the Boeing 777-300ER.  The future for the 747-8 passenger version appears limited. Airlines bought the original 747 primarily for its range, not its capacity. The advent of long-range twin-engine jets, notably Boeing's own 777, took away the 747's range advantage. Compared to the 747-8I, the upcoming 777-9X "mini-jumbo jet" is projected to have a lower fuel cost per seat mile and greater cargo capacity, though it has a lower passenger capacity and higher list price; consequently, the 777-9X has totaled more orders than the 747-8I due to airlines placing a high value on fuel efficiency.
+For operators that require high capacity on routes, such as Emirates Airlines, most have preferred the Airbus A380 as it is an all-new design, while the 747-8's lineage is 40 years old, although some have criticized the A380's looks and complimented the 747-8I's appearance. Analysts do not see bright prospects for very large aircraft—those with more than 400 seats—whose orders have slowed in the mid-2010s, since there are widebody twinjets with similar range and greater fuel efficiency, giving airlines more flexibility at a lower upfront cost.
+Volga-Dnepr Airlines signed a memorandum of understanding (MoU) with Boeing for the purchase of 20 more 747-8Fs at the 2015 Paris Air Show. This acquisition was finalized at the 2016 Farnborough Airshow.
+On October 27, 2016, UPS Airlines announced an order for 14 747-8Fs with options for an additional 14. The 14 options were then converted to official orders on February 1, 2018. Deliveries are scheduled from 2017 through 2022.  On September 7, 2017, it was reported that Turkish Airlines was in negotiations with Boeing to purchase 8 747-8Is.
+In 2019, list-price unit cost of a 747-8I was US$418.4M and a 747-8F US$419.2M. By early 2019, the backlog and production rates were sufficient to sustain production until late 2022.
+
+
+==== End of production ====
+
+On July 2, 2020, media reports stated that Boeing intended to end 747 production in 2022 after the 16 outstanding orders had been built and delivered. The demand for four-engine airliners had been flat for several years, with most orders going to the freighter version. On January 12, 2021, Atlas Air ordered four additional 747-8Fs. These were to be the final four 747-8s built.
+The last aircraft built, a 747-8F freighter for Atlas Air, rolled off the production line #1574 (1,574th 747 built) on December 6, 2022, and was delivered on January 31, 2023.
+
+
+== Design ==
+
+The 747-8 is a development of the Boeing 747 that takes advantage of improvements in technology and aerodynamics. The two 747-8 variants feature a fuselage stretch of 18.3 ft (5.6 m) over the 747-400, bringing the total length to 250 ft 2 in (76.25 m). The 747-8 is the world's longest currently-operational passenger airliner, surpassing the Airbus A340-600 by 3.1 ft (0.95 m).  With a maximum take-off weight of 975,000 lb (442 t), the 747-8 is the heaviest aircraft, commercial or military, manufactured in the U.S.
+Compared to the preceding 747-400, the wing design was overhauled. The sweep and basic structure were retained, avoiding additional costs, but the revised airfoil is thicker and deeper. The new wing features single-slotted outboard flaps and double-slotted inboard flaps. The wing's trailing edge and raked tip are made of carbon-fiber composites. The increased wingspan makes the 747-8 a Category F size airplane rather than Category E size, similar to the Airbus A380.
+
+Raked wingtips, similar to the ones used on the 777-200LR, 777-300ER, and 787 aircraft, are used on the 747-8 instead of winglets used on the 747-400. These wingtip structures help reduce the wingtip vortices at the lateral edges of the wings, decreasing wake turbulence and drag and thereby improving fuel efficiency. Another effort to increase efficiency (through weight savings) was the introduction of fly-by-wire technology for the majority of the lateral controls.
+The wing of the passenger version holds 64,225 US gal (243 m3) of jet fuel, and that of the cargo aircraft 60,925 US gal (231 m3). Compared to the 747-400 and an intermediate 747 Advanced concept, the extra fuel capacity in the redesigned wing allowed Boeing to avoid adding costly new tanks to the horizontal tail. The 747-8's vertical tail unit is largely unchanged, with a height of 63 ft 6 in (19.35 m).
+The General Electric GEnx is the only engine available for the 747-8. Unlike the GEnx introduced on the 787, the 747 engine variant provides bleed air and features a smaller diameter to fit on the 747 wing.
+
+
+== Variants ==
+
+
+=== 747-8 Freighter ===
+
+The 747-400 and earlier versions had proven to be a very popular freighter, carrying around half of the world's air freight. To maintain this position, Boeing designed a freight variant of the 747-8, named the 747-8 Freighter or 747-8F. The company launched the freighter version on November 14, 2005. The 747-8F is the initial model to enter service. As on the 747-400F, the upper deck is shorter than passenger models; the 18-foot-3+1⁄2-inch (5.575 m) stretch is just before and just aft of the wing. The 747-8 Freighter was designed with a 975,000 lb (442 t) maximum take-off weight with a payload capability of 308,000 lb (140 t) and a range of 4,390 nmi (8,130 km; 5,050 mi). Four extra pallet spaces were created on the main deck, with either two extra containers and two extra pallets, or three extra pallets, on the lower deck. The 747-8F is expected to have a 16% lower ton-mile operating cost than the 747-400F and offer a slightly greater range.
+Cargolux and Nippon Cargo Airlines were the first customers for the 747-8, placing orders for the freighter variant in November 2005.  The firm configuration of the aircraft was finalized in October 2006.  Major assembly of the aircraft began on August 8, 2008, and the aircraft first left Boeing's Everett factory on November 12, 2009. The first aircraft was delivered on October 12, 2011, to Cargolux. At its six-month service mark, Boeing announced that initial 747-8F operators had achieved a 1-percent reduction in fuel burn over projections.
+In June 2015, Boeing predicted new orders for the 747-8F based on its projections of a 4.7% annual increase in air cargo demand.
+
+
+=== 747-8 Intercontinental ===
+
+The passenger version, named 747-8 Intercontinental or 747-8I was formally launched on November 14, 2005, by Boeing. It can carry up to 467 passengers in a typical three-class configuration over a range of 8,000 nmi (15,000 km; 9,200 mi) at Mach 0.855. The 747-8I can carry 51 more passengers and two more freight pallets with 26% more cargo volume than the 747-400. Initial plans were for a shorter stretch of 140 in (3.6 m), compared to 220 in (5.6 m) on the freighter model, but the two variants were eventually offered with the same length to increase passenger capacity, while decreasing range. British Airways supported this change, while Emirates was disappointed as only the shorter concept would have allowed them to fill all seats when flying long non-stop routes like Dubai to Los Angeles.
+The GEnx engine and redesigned wing are more efficient: Boeing stated that compared to the 747-400, the -8I was to be 16% more fuel-efficient, have 13% lower seat-mile costs with nearly the same cost per trip, and have a 30% smaller noise footprint area. Boeing stated that the 747-8I was the world's fastest commercial jet.
+For the 747-8, Boeing proposed some changes to the interior layout of the aircraft.  The -8I's upper deck is lengthened compared to the 747-400. Most noticeable are the curved stairway to the upper deck and a more spacious main passenger entrance. The 747-8's main cabin uses an interior similar to that of the 787. Overhead bins are curved, and the center row is designed to look as though it is attached to the curved ceiling, rather than integrated into the ceiling's curve like on the 777. The windows are also of similar size to the type used on the 777, which are 8% larger than those on the current 747-400s. The 747-8 features a new solid-state light-emitting diode (LED) lighting system, which can create mood lighting.
+
+During the initial 747-8 marketing phase, Boeing also proposed creating a revenue-generating "SkyLoft" passenger facility in the crown space above the cabin. This facility would include "SkySuites", small individual compartments with sliding doors or curtains, featuring beds, seating, and entertainment or business equipment. A common lounge area could also be provided. Boeing also proposed smaller, more modest "SkyBunks". Access to the crown area would be via a separate stairway at the rear of the aircraft. Passengers using the SkySuites, sold at a premium price, would sit in regular economy class seats for take-off and landing, and move to the crown area during flight. However, pricing feasibility studies found the SkyLoft concept difficult to justify. In 2007, Boeing dropped the SkyLoft concept in favor of upper-deck galley storage options, which were favored by the airlines. Outfitting the crown space for sleeping remains an option on VIP aircraft, and the first 747-8 BBJ with AeroLoft was produced in 2012.
+The first order for the 747-8 Intercontinental was placed by an undisclosed VIP customer in May 2006. Lufthansa became the first airline to order the 747-8 Intercontinental on December 6, 2006. In December 2009, Korean Air announced the order of five 747-8Is.  Boeing stated firm configuration for the −8 was reached in November 2007.
+
+Major assembly of the first 747-8 Intercontinental began on May 8, 2010.  Assembly of first 747-8I was completed in February 2011, before being unveiled at a rollout ceremony in Everett, Washington, on February 13, 2011.  At the time, deliveries were planned to begin in late 2011.
+Following gauntlet ground testing the 747-8 Intercontinental's first flight occurred on March 20, 2011, from Paine Field in Everett, Washington.  The second 747-8I first flew the following month. After the flight test program the 747-8I was FAA certified on December 14, 2011.  At that time, −8I deliveries were planned to begin in early 2012.
+During development testing, aeroelastic flutter was observed during a test that measured how the aircraft performed if its wing-to-strut join fitting fails at the same time the fuel tanks in the horizontal stabilizer were filled at over 15% of their capacity.  To meet FAA regulations, Boeing reported in January 2012 that the 747-8's fuel tanks in the horizontal stabilizers would be closed off to prevent their use until the flutter condition can be resolved; this reduced range by 550–930 km (300–500 nmi; 340–580 mi). On December 18, 2013, Boeing announced that a series of new performance packages will allow for the reactivation of the tail fuel tanks by early 2014. Earlier 747-8s can also be retrofitted with them.
+The first 747-8 Intercontinental was delivered to a VIP customer on February 28, 2012. It was to be outfitted with a VIP interior before beginning service in 2014. The first 747-8I was delivered in May and began commercial service on June 1, 2012, with Lufthansa.
+
+
+=== VC-25B ===
+
+In 2007, the United States Air Force was seeking to upgrade Air Force One by replacing the VC-25A (two heavily modified Boeing 747-200Bs acquired in the late 1980s). In January 2015, the Air Force announced the selection of the 747-8 to replace the aging VC-25A for presidential transport. By 2025 the delivery date had slipped to 2029 and the Air Force was considering changes to the requirements to bring the delivery date back to 2027.
+
+
+=== Survivable Airborne Operations Center ===
+
+In April 2024, Sierra Nevada Corporation was awarded a contract to develop and build the Survivable Airborne Operations Center (SAOC) aircraft to replace the Boeing E-4 NAOC. Five 747-8Is were purchased from Korean Air for conversion, with the contract calling for nine in total.
+
+
+== Operators ==
+
+In July 2018, there were 110 Boeing 747-8 aircraft in airline service with Lufthansa (19), Korean Air (17), Cargolux (14), Cathay Pacific Cargo (14), AirBridgeCargo Airlines (11), UPS Airlines (7), Polar Air Cargo (7), Air China (7), Silk Way West Airlines (5), Atlas Air (3), Nippon Cargo Airlines (1), and CargoLogicAir (1). Previous operators include Global Supply Systems, a contractor of British Airways, as well as Saudia Cargo.
+Boeing 747-8I aircraft in special VIP configuration for state leaders have also been ordered. The Qatar Amiri Flight received three VIP Boeing 747-8Is. The State of Kuwait received one VIP 747-8 in 2012. The Royal Flight of Oman received one VIP 747-8 in 2012. The Brunei Government received a VIP 747-8I in 2016. The Morocco Government received one VIP 747-8I in 2017. Worldwide Aircraft Holding operated one VIP 747-8 that was sold to the Government of Turkey. One VIP 747-8I was received by the government of Saudi Arabia, and is used by Crown Prince Mohammed bin Salman. On September 10, 2021, it was announced that the Egyptian Government had acquired a 747-8I for use as a VIP transport aircraft; the airframe, which had originally been manufactured for Lufthansa as D-ABYE, had not been accepted by the airline and spent several years in storage in the Mojave Desert as N828BA before being re-registered as SU-EGY.
+The final 747, a 747-8F destined for Atlas Air, was rolled out on December 6, 2022, marking the end to over 50 years of 747 production.
+
+
+=== Orders and deliveries ===
+
+Boeing 747-8 orders and deliveries (cumulative, by year):
+
+  Orders   Deliveries
+
+
+== Incidents ==
+
+On September 11, 2012, an AirBridgeCargo 747-8F experienced a major engine malfunction that spread a significant amount of metallic debris on the runway. Like in a similar event with the GEnx Engine during pre-flight taxi tests on a Boeing 787, the low-pressure turbine shaft separated and shifted backwards, damaging the low pressure turbine blades and vanes. The NTSB issued urgent safety recommendations to the FAA to require ultrasonic scans for midshaft fractures before use of GEnx engines and require repetitive on-wing inspections of the engine to detect cracks.
+On July 31, 2013, an AirBridgeCargo 747-8F experienced core engine icing that caused engine malfunctions and damage to three engines near Chengdu, China, while en route to Hong Kong; the aircraft landed safely at its destination. Boeing and General Electric announced software changes to mitigate the effects of core engine icing.
+
+
+== Specifications ==
+
+
+== See also ==
+
+Competition between Airbus and Boeing
+Related development
+
+Boeing 747, the series of aircraft
+Boeing 747-400, the aircraft's predecessor in the series
+Boeing Business Jet, including the 747-8
+Boeing VC-25B
+Aircraft of comparable role, configuration, and era
+
+Airbus A380
+Boeing 777X
+Boeing NLA (proposed)
+McDonnell Douglas MD-12 (proposed)
+Sukhoi KR-860 (proposed)
+
+Related lists
+
+List of civil aircraft
+
+
+== References ==
+Footnotes
+
+Citations
+
+
+== External links ==
+
+Boeing 747-8 on Boeing.com
+Boeing 747-8, The Shape of the Future on NewAirplane.com Archived December 9, 2010, at the Wayback Machine
+"747-8 Offers Operational Improvements and Cross-Model Commonality". AERO magazine. Boeing. July–September 2010.

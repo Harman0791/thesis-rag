@@ -1,0 +1,426 @@
+This is a list of herbivorous animals, organized in a roughly taxonomic manner. In general, entries consist of animal species known with good certainty to be overwhelmingly herbivorous, as well as genera and families which contain a preponderance of such species.
+Herbivorous animals are heterotrophs, meaning that they consume other organisms for sustenance. The organisms which herbivores consume are primary producers, predominantly plants (including algae). Herbivores which consume land plants may eat any or all of the fruit, leaves, sap, nectar, pollen, flowers, bark, cambium, underground storage organs like roots, tubers, and rhizomes, nuts, seeds, shoots, and other parts of plants; they frequently specialize in one or a few of these parts, though many herbivores also have quite diverse diets.
+
+
+== List criteria ==
+Animal diets are not inflexible, and most animals will stray from their typical diet on occasion; for instance, cattle will eat chicks, and crocodiles will consume fruit. Though it can be hard to determine what is a true aberration, as opposed to being a normal, but minor component of the diet, animals are still regarded as herbivores, carnivores, or otherwise as long as the vast majority of their diet reflects such a categorization. Thus, several of the animals which appear on this list are commonly described as omnivores, but, where consumption of animal matter is marginal, they meet the criteria for inclusion. These cases are elaborated upon within the article.
+Where quantifiable data to support such an evaluation exist, this list generally includes animals whose diets are at least ~90% herbivorous, as a simple and arbitrary minimum, though a great many listees are far more herbivorous than this; perhaps the majority are closer to 95%, and a large number are nearly purely herbivorous. However, a small selection of taxa which are not usually this herbivorous also receive mention; typically, this is done when the animal is much more herbivorous than the vast majority of close relatives. For example, the maned wolf receives mention; its diet varies from mostly carnivorous to overwhelmingly frugivorous, being mostly a fairly balanced omnivore overall, but they are still listed because no other living Canid is nearly so herbivorous. Other animals may receive mention if at least some populations of the species regularly consume very plant-heavy diets.
+The issue is further complicated by variation based on region, sex, age, season, and other factors, as well as differing techniques for measuring dietary proportions and a lack of data on many species. A number of listed taxa also consume a significant quantity of fungi. On the whole, however, this list consists almost entirely of animals which are known with good certainty to be overwhelmingly herbivorous, with exceptions being noted.
+
+
+== Invertebrates ==
+
+
+=== Insects ===
+Herbivory is of extreme ecological importance and prevalence among insects. Perhaps one third (or 500,000) of all described species are herbivores. Herbivorous insects are by far the most important animal pollinators, and constitute significant prey items for predatory animals, as well as acting as major parasites and predators of plants; parasitic species often induce the formation of galls. Herbivorous insects also form symbioses with numerous plants, animals, and fungi, including complex relationships with various species of ant, and have greatly impacted the evolution of plants.
+
+Larval mayflies are generally herbivorous; adults have short lifespans and do not eat at all.
+Most members of the order Orthoptera; for instance, most grasshoppers and katydids are herbivores
+Butterflies
+Many beetles of the Scarabaeoidea, including many scarabs, like the goliath and rhinoceros beetles (e.g., the hercules beetle), and all of the stag beetles
+The jewel beetles (family Buprestidae)
+Certain ladybugs (family Coccinellidae): The subfamily Epilachninae, comprising 1/6 of all ladybug species, is entirely herbivorous, including members such as the Mexican bean beetle and the bryony ladybird.
+The leaf beetles (family Chrysomelidae)
+The weevils (family Curculionidae)
+Almost all adult bees (clade Anthophila), including mason bees, honeybees, bumblebees, sweat bees, and carpenter bees
+All true bugs (order Hemiptera) outside of Heteroptera are herbivores, including cicadas, leafhoppers, treehoppers, planthoppers, aphids, scale insects, and whiteflies
+Most Heteropterans are also herbivorous, including most of the leaf-footed bugs, seed bugs and their relatives, plant bugs, and shield, stink, and burrowing bugs and their relatives
+
+
+=== Other invertebrates ===
+Most terrestrial isopods (woodlice) are detritivores of plant matter
+Millipedes, with scarce exceptions, are also detritivores of plant matter
+Bagheera kiplingi, a jumping spider
+Garden snails and slugs
+
+
+== Vertebrates ==
+
+
+=== Fish ===
+Herbivorous fish play a key role in maintaining healthy ecosystems, especially in tropical reefs, where they promote a balance between corals and macroalgae. Herbivorous fish include:
+
+Acanthurus lineatus or lined surgeonfish (also known as blue-banded surgeonfish, blue-lined surgeonfish, clown surgeonfish, pajama tang, striped surgeonfish, and zebra surgeonfish)
+Acanthurus nigrofuscus, known as the lavender tang, brown tang, or spot-cheeked surgeonfish
+Zebrasoma scopas, known as the brown tang, two-tone tang, scopas tang or brush-tail tang.
+The unicornfishes (Nasinae) genus is primarily herbivorous.
+Most of the nearly 100 species of the parrotfish family are herbivores.
+Grass carp, so named for its diet of aquatic plants.
+The various genera of pacu are mostly herbivorous.
+The majority of Loricariidae, including most pleco and Otocinclus species, are predominantly or exclusively herbivorous.
+
+
+=== Amphibians ===
+Unusually for tetrapods, herbivory is rare among extant adult lissamphibians. There are, however, many larval and a few adult amphibians which take significant plant matter:
+
+At least two species of siren (and possibly the entire family) will consume algae, though they are still primarily carnivorous or omnivorous
+The Indian green frog is mostly herbivorous
+Xenohyla truncata, the Izecksohn's Brazilian treefrog, is significantly frugivorous
+The majority of frog tadpoles are primarily herbivorous
+
+
+=== Reptiles ===
+
+
+==== Squamates (lizards, snakes, and worm lizards) ====
+All snakes and the majority of non-snake squamates (lizards) are carnivorous. However, some degree of herbivory is relatively common among lizards. Perhaps 12% of lizards have diets which are >10% herbivorous. Dedicated herbivory, with plants constituting >90% of the diet, occurs in perhaps ~1% of lizards, though estimates vary.
+
+Iguanas (family Iguanidae) are overwhelmingly herbivores; members such as the rhinoceros iguana, marine iguana, green iguana, Lesser Antillean iguana, chuckwallas, desert iguana, and Galápagos land iguana are virtually exclusively herbivorous
+Members of the family Liolaemidae are herbivores
+The Panay, Northern Sierra Madre forest, and Gray's monitor lizards are the only three species of herbivorous Varanid
+Species of the Agamid genus Uromastyx, the spiny-tailed lizards, are herbivores
+Certain skinks; the Solomon Islands skink is exclusively herbivorous. King's skink is also primarily a herbivore. The extinct Cape Verde giant skink was herbivorous.
+
+
+==== Chelonians (turtles/tortoises) ====
+Tortoises, consisting of the family Testudinidae, are all almost exclusively herbivorous
+Adult green sea turtles are herbivorous, uniquely among sea turtles
+
+
+==== Dinosaurs (non-avian) ====
+Sauropods
+Ornithischians
+Marginocephalia
+Ceratopsians
+Pachycephalosaurs
+Thyreophora
+Stegosaurs
+Ankylosaurs
+Ornithopods
+Hadrosaurs
+Theropods
+Therizinosaurs
+
+
+=== Birds ===
+Although, by some counts, only 2-3% of extant bird species are primarily herbivorous, herbivorous birds are nonetheless incredibly diverse, having evolved independently within at least nine distinct lineages. Herbivorous birds include important pollinators and seed dispersers, as well as both the smallest and largest living birds (the bee hummingbird and the common ostrich, respectively). On islands with little to no mammalian colonization, large herbivorous birds frequently evolved to assume niches typically held by mammals, sometimes attaining enormous sizes; on the Hawaiian Islands, New Zealand, Madagascar, Mauritius, New Caledonia, and Fiji, birds were nearly if not the largest terrestrial herbivores, though the vast majority are now extinct. Birds which are mostly herbivorous as adults will frequently feed their young a far more insectivorous diet, though there are many exceptions.
+
+
+==== Palaeognathae ====
+Ratites, excluding the kiwis, are often described as omnivorous, and will eat varying quantities of small animals and insects. However, the typical wild diet for non-kiwi ratites is overwhelmingly and sometimes exclusively herbivorous:
+Ostrich diets can be over 99% herbivorous, though this may vary, but not significantly
+Rheas: the lesser rhea and greater rhea are essentially 100% herbivorous (though this can drop to 97% for greater rheas in some cases)
+Emus may be nearly 100% herbivorous in wild habitats, but can also engage in significant insectivory at times
+The three species of cassowary are virtually exclusively frugivorous, though the dwarf cassowary's diet can be up to 3% insect at times; cassowaries will also consume significant volumes of mushrooms
+The (recently extinct) moas (order Dinornithiformes) and elephant birds (order Aepyornithiformes) were herbivores
+Tinamous: although data are scarce, many tinamous are quite omnivorous, and some are primarily insectivores. However, the vast majority of tinamous are primarily herbivorous, sometimes nearly exclusively:
+Crypturellus species, such as the yellow-legged and Tataupa tinamous, are predominantly frugivorous, with some (largely seasonal) insect consumption
+Nothura and Nothoprocta species are predominantly granivorous or seed-eating; the Andean tinamou is over 90% herbivorous, while Darwin's nothura is ~95% herbivorous or more, and the ornate tinamou averages nearly 99%
+Many Tinamus species are overwhelmingly frugivorous, such as the solitary tinamou; the black tinamou has only been observed eating fruits and seeds, but is assumed to consume some insects
+
+
+==== Galloanserae ====
+Anseriformes: the ducks and their relatives are predominantly herbivorous; although a few species consume primarily animal matter and several are heavily omnivorous, at least a quarter of the 99 species included in one study were 70% herbivorous or more. Herbivorous taxa are varied, including:
+The screamers, such as the southern screamer and the horned screamer, are totally herbivorous
+Magpie geese are essentially purely herbivorous
+The majority of Anatids range from largely to almost exclusively herbivorous (notably excluding the Mergini):
+Whistling ducks are all nearly 100% herbivorous, including the fulvous, white-faced, and black-bellied whistling ducks
+Almost all of the Anserinae, including both young and adults:
+Cape Barren geese are strict herbivores
+Swans (genus Cygnus) are all 100% herbivorous or very nearly so, including the mute, black, black-necked, tundra, trumpeter, and whooper swans
+Black geese (genus Branta) are all exclusively herbivorous; examples include the Canada goose, brant, barnacle goose, and nene
+True geese (genus Anser) are all essentially pure herbivores, such as the greylag, snow, bar-headed, pink-footed, and swan geese
+Certain Tadornines are virtually purely herbivorous (note that the circumscription of Tadorninae varies):
+Egyptian geese
+Orinoco geese
+All Chloephaga species, such as the kelp, ruddy-headed, and ashy-headed geese
+The spur-winged goose diet contains no more than 5% insects, and is usually close to 100% herbivorous
+The knob-billed and comb ducks are nearly 100% herbivorous
+Australian wood duck diets are >99% herbivorous
+The southern, red-crested, and rosy-billed pochard are all almost exclusively herbivorous
+The Brazilian teal is seasonally 83-98% herbivorous, or ~93% overall
+The masked duck is heavily herbivorous, but its diet is poorly known
+Certain Mareca species are seemingly nearly wholly herbivorous, such as the wigeons
+The four species of moa-nalo were herbivorous; they were large, flightless Anatids native to Hawaii and became extinct in historic times
+Many other Anatid species have diets which vary seasonally; near-exclusive herbivory or carnivory are both possible at different times of year. Many are predominantly herbivorous overall, but they are not typically as herbivorous as most of the taxa listed above
+Galliformes, or the landfowl, are virtually all predominantly herbivorous, including:
+Although the diets of megapodes are very poorly known, at least some species are quite herbivorous; the malleefowl's diet may range from 93-99% plants
+The cracids are nearly all highly frugivorous herbivores; the typical guans, piping guans, chachalacas, black guan, highland guan, horned guan, great curassow, and black curassow all have diets which typically contain <10% animal matter, and frequently almost none
+Many New World quails; the mountain quail's annual diet is 95-97% herbivorous, while the California quail is almost entirely herbivorous year-round, and Gambel's quail is ~95% herbivorous annually (though this can drop to 85% in summer). Juveniles also tend to be exceptionally herbivorous
+A very large selection of Phasianids (though at least some insectivory is typical, especially seasonally and among females):
+Snow partridges and blood pheasants
+All of the tragopans; the satyr tragopan's diet is ~93% herbivorous during the post-monsoon, and otherwise nearly exclusively herbivorous; Temminck's tragopan is overwhelmingly herbivorous year-round
+The monal-partridges
+Monals
+The turkeys:
+Wild turkeys are overwhelmingly herbivorous; although a few studies on annual dietary composition yield values of around 85% herbivorous, most find values at least somewhat above 90%, and values close to 100% are also common
+Ocellated turkeys are nearly 100% herbivorous
+Most grouse are highly herbivorous:
+The ruffed grouse has an annual diet that is ~99% herbivorous, with minor seasonal insectivory
+Male Chinese grouse are purely herbivorous and females are >90% herbivorous; hazel grouse males are purely herbivorous, but some females will consume large quantities of insects in spring (although others are nearly purely herbivorous as well); both are herbivorous in winter
+The sage grouse can be ~90% herbivorous in summer and around 97% herbivorous overall
+The blue grouse: dusky grouse are 98% herbivorous overall and a little less than 90% at lowest, in summer, while sooty grouse are 98-100% herbivorous year-round
+Sharp-tailed grouse are 96% herbivorous in spring and summer, and most studies find them to be nearly wholly herbivorous in fall, although grasshoppers can account for 1/3 of the diet in some cases; they are by far the most herbivorous member of their genus
+All three species of ptarmigan are almost exclusively herbivorous year-round; though they will take insects opportunistically, they are not a major component of the overall diet, even seasonally
+Spruce grouse are >99% herbivorous year-round; Siberian grouse are ~98% herbivorous but may eat some insects seasonally
+Western capercaillies are virtually exclusively herbivorous
+Caucasian and black grouse are 98% herbivorous or more
+Many of the true pheasants:
+Several long-tailed pheasants are almost exclusively herbivorous, such as the Elliot's, Hume's, and copper pheasants; the Hume's pheasant's diet is >97% herbivorous
+Common pheasants have an annual diet found variously to be ~85%, 95%, or 97% herbivorous, though it is overwhelmingly herbivorous overall and more so in its native habitat; green pheasants are also overwhelmingly herbivorous
+Cheer pheasants may be totally herbivorous
+The eared pheasants are predominantly herbivorous
+The peafowls can be quite omnivorous, and their diets are poorly studied; however, one study finds Indian peafowl diets to be 91% herbivorous overall, and another finds green peafowl diets to be ~96% herbivorous
+The Gallini are largely omnivores which lean moderately to very herbivorous, though a few are predominantly carnivores; their wild diets are poorly studied. Some, however, are known to be overwhelmingly herbivorous; the grey-winged francolin has a diet which is 93% plants
+Several of the Coturnicini are heavily herbivorous:
+All five species of snowcock are almost totally herbivorous, including as chicks
+The sand partridge can be 100% herbivorous, though they may also consume some insects
+The Alectoris partridges are predominantly herbivorous, some nearly exclusively; the chukar partridge has a diet which is 96-98% herbivorous overall, though this may drop to 85-93% seasonally due to insect consumption. The red-legged partridge is about 97% herbivorous overall and 90% seasonally
+Many African spurfowls; the yellow-necked spurfowl can range from ~80% to nearly 100% herbivorous, while the Swainson's spurfowl is ~88-96% herbivorous throughout the year
+The extinct families of Sylviornithidae, Gastornithidae, and Dromornithidae were very likely all herbivores. They were giant, flightless Galloanserae and included genera such as Gastornis, Dromornis, and the relatively recently extinct Genyornis, Sylviornis, and Megavitiornis
+
+
+==== Neoaves ====
+
+
+===== Mirandornithes =====
+The lesser flamingo and James's flamingo feed nearly exclusively on cyanobacteria and algae (e.g. diatoms); they are the only herbivorous flamingo species and a rare example of terrestrial, filter-feeding herbivores. Their young consume mainly crop milk
+
+
+===== Columbaves =====
+The vast majority of the >300 species of pigeon (order Columbiformes) are almost entirely herbivorous, including young, which consume crop milk along with adult foods. Herbivorous pigeons include:
+Most of tribe Zenaidini:
+The quail-doves and some relatives are especially insectivorous for pigeons, but most species are still overwhelmingly frugivorous/granivorous, such as the ruddy quail-dove and the white-tipped dove (which is nearly 100% herbivorous)
+Almost all of the zenaida doves (but not the Galapagos dove) are at least ~95% herbivorous and usually close to 100%, including the mourning dove, eared dove, and white-winged dove
+Virtually all of tribe Columbini:
+Virtually every species of Patagioenas is close to totally herbivorous, including the white-crowned pigeon, band-tailed pigeon, and red-billed pigeon
+Every species of cuckoo-dove (genera Reinwardtoena, Turacoena, and Macropygia) is essentially completely herbivorous, such as the brown cuckoo-dove
+The collared and turtle doves are overwhelmingly to totally herbivorous, such as the European turtle dove and the Eurasian collared dove
+The rock dove, including the feral pigeon and domestic pigeon, is almost entirely herbivorous in both native and introduced wild habitats, though urban birds will consume human food
+All of the other Columba species are also overwhelmingly to totally herbivorous, such as the speckled pigeon, Nilgiri wood pigeon, silvery pigeon, trocaz pigeon, white-headed pigeon, black wood pigeon, and common wood pigeon
+Spilopelia and Nesoenas species, such as the spotted dove, laughing dove, and Malagasy turtle dove
+American ground doves, such as the blue ground dove and Columbina species such as the Inca dove, common ground dove, scaled dove, and ruddy ground dove; the latter 3 are known to be >99% herbivorous annually
+Most of the Phabini are nearly totally herbivorous (though some are quite insectivorous); the white-throated ground dove, bronzewings like the common bronzewing and flock bronzewing, the crested pigeon, the chestnut-quilled and white-quilled rock pigeons, all of the Geopelia doves, such as the diamond dove and zebra dove, and the spinifex pigeon and partridge pigeon are all typically exclusively herbivorous, or nearly so (>99% where data are available, though occasionally slightly less for certain species)
+The tribe Raphini: the thick-billed ground pigeon, pheasant pigeon, tooth-billed pigeon, nicobar pigeon, and crowned pigeons, such as the Victoria crowned pigeon, are all overwhelmingly herbivorous, though several may consume invertebrates in appreciable amounts
+Most members of tribe Turturini, including the brown doves, the namaqua dove, and most Turtur doves, such as the emerald-spotted wood dove, are either wholly herbivorous or consume marginal quantities of invertebrates
+All of the green pigeons (genus Treron) are virtually exclusively herbivorous, including species such as the pink-necked, orange-breasted, African, Madagascar, and thick-billed green pigeons; they are frugivorous, with minor deviations
+Virtually all of Ptilinopini:
+All of the imperial pigeons (Ducula) are usually 100% herbivorous furgivores; they include species such as the collared, mountain, green, white-bellied, goliath, Marquesan, and Torresian imperial pigeons. Opportunistic insectivory is very rare, but reported at least once
+The fruit doves (Ptilinopus) are also frugivores, and are all close to 100% herbivorous, including the rose-crowned, wompoo, superb, orange-bellied, ornate, beautiful, pink-spotted, coroneted, and black-naped fruit doves. Female orange fruit doves have been observed eating caterpillars, but the species is nearly totally herbivorous overall
+The cloven-feathered dove and the blue pigeons are seemingly totally herbivorous
+The New Zealand pigeon, topknot pigeon, sombre pigeon, Papuan mountain pigeon and their relatives are all virtually totally herbivorous
+All of the recently extinct species of pigeon, such as the dodo, the Rodrigues solitaire, the passenger pigeon, the Viti Levu giant pigeon, and the Choiseul pigeon; though their diets are generally poorly known, they were all predominantly to totally herbivorous
+All 16 species of sandgrouse (order Pterocliformes) are almost exclusively herbivorous, eating primarily small seeds. The pin-tailed sandgrouse and black-bellied sandgrouse may be 98% and 99% herbivorous, respectively, while the Pallas's sandgrouse and Namaqua sandgrouse are both apparently 100% herbivorous. The painted sandgrouse is herbivorous apart from minor, seasonal insect consumption
+Cuckoos (order Cuculiformes) are largely insectivorous or omnivorous. A small number, however, are primarily frugivores, including the Asian koel and the channel-billed cuckoo, though both also consume a small but significant quantity of animal matter. The dwarf koel may be entirely frugivorous. Young of the former two species (which are brood parasites) will eat partially or wholly fruit diets if they are reared by frugivorous species
+All 23 species of turaco (order Musophagiformes) are either exclusively herbivorous or consume very small amounts of invertebrates; they are largely fruit-eaters, though leaves and other plant parts can be important. Fruits and leaves make up 98-100% of the diets of the great blue, Rwenzori, and black-billed turacos; the western plantain-eater and violet turaco are virtually wholly frugivorous
+The bustards (order Otidiformes) are quite omnivorous, and their diets are variable; several consume mostly animal matter, either seasonally or year-round. However, it has been suggested that the majority of bustards are predominantly herbivorous; such species for which data are available include:
+The diet of the great bustard can be as low as 60% or 70% herbivorous seasonally, but is 87.5%, 93%, or nearly 100% herbivorous annually, with some populations consuming 4% animal matter at most
+One study finds the little bustard to be 26% insectivorous in winter and ~40% otherwise; however, other studies find that the winter diet is 100% herbivorous, or that the diet is 97-100% herbivorous year round
+The food part of the karoo korhaan's diet is 86-87% plant matter
+
+
+===== Elementaves =====
+Two lineages of Strisores:
+The oilbird (the only species in order Steatornithiformes) has a diet consisting almost entirely of fruit. It is the only herbivorous Strisore apart from the hummingbirds, as well as the only nocturnal, frugivorous flying bird in the world; their young are also frugivores
+Virtually all of the >300 species of hummingbird (family Trochilidae) are overwhelmingly nectarivorous. Insectivory is widespread and nutritionally important, but the typical diet is probably about 90% nectar and 10% arthropod by mass, with time budget records yielding similar ratios (~5-15% of feeding time devoted to insectivory). Exceptional (including exclusive) and sustained insectivory has been documented, although these accounts have also been met with skepticism. On the opposite extreme, overwhelmingly nectarivorous diets have also been documented for several species:
+Populations of shining sunbeam have been recorded spending 93-97% of total feeding time on nectar
+Purple-throated caribs have had nectar feeding time budgets of >99% recorded (although extremely low figures are also recorded for this species, but they are likely erroneous)
+In fiery-throated hummingbirds, insectivory accounts for a little over 1% of total feeding time in males, and ~8% in breeding females
+The hoatzin, the sole living member of Opisthocomiformes, is 100% herbivorous; they are largely folivorous, including young, and have unique gastrointestinal adaptations to this diet
+A selection of gruiforms are predominantly herbivorous, including:
+All three of the trumpeters (family Psophiidae) are ~90% frugivorous, with the remainder of their diets consisting of small animals
+Although the cranes (family Gruidae) are omnivorous to varying degrees, most are primarily herbivorous:
+The Siberian crane is predominantly and sometimes exclusively herbivorous, though precise data are scarce
+The sandhill crane's diet varies, but has been found to be 80%, 85%, or over 95% herbivorous across various seasons and locales; much lower figures (~11%) have also been recorded, but are less typical
+Though precise data are lacking, the white-naped crane, brolga, and sarus crane are also heavily herbivorous
+Most (but not all) other cranes are overwhelmingly herbivorous, including the blue crane and wattled crane. The common crane is >90% herbivorous in winter, while the winter diet of black-necked cranes is 86% herbivorous. The demoiselle crane is 80-97% herbivorous during spring and autumn migration
+Although exact data are lacking, the rails (family Rallidae) are mostly omnivores. However, several species lean herbivorous, and a few are overwhelmingly herbivorous:
+The Tasmanian native-hen feeds overwhelmingly on plants, with some minor insect consumption
+The coots (genus Fulica) are all overwhelmingly herbivorous; the American coot may be 90% or 97% herbivorous, while the Eurasian coot has been found to be 97% herbivorous. The red-knobbed coot may be nearly 100% herbivorous
+Most of the swamphens (genus Porphyrio) are extremely herbivorous; the takahē, grey-headed swamphen, and Australasian swamphen are all nearly 100% herbivorous
+Two lineages of Charadriiformes contain a few overwhelmingly herbivorous species:
+The buttonquails are largely omnivores, but a few species are especially herbivorous, such as the little buttonquail and the yellow-legged buttonquail
+All four species of seedsnipe (family Thinocoridae) are virtually purely herbivorous
+
+
+===== Telluraves =====
+The palm-nut vulture is the only primarily herbivorous accipitriform in the world; its diet may be 45-65% herbivorous, and young may be fed diets which are >90% herbivorous. They specialize in the fruits of palms, but will also consume fish and other animal matter. Many other accipitriforms will consume some plant matter, but far less regularly
+All six species of mousebird are almost entirely herbivorous, with insect consumption being rarely documented; they are largely frugivorous, including the white-backed mousebird and speckled mousebird
+All five of the quetzals in genus Pharomachrus are specialized frugivores; species such as the resplendent quetzal are almost entirely herbivorous as adults. Quetzals are the most herbivorous of the trogons, but several other species are also quite herbivorous, especially in genus Trogon
+A large number of hornbill species (family Bucerotidae) are overwhelmingly herbivorous; these species are important seed dispersers and mostly frugivorous, although they will take animals, particularly while rearing young. They include such birds as:
+The black-casqued and yellow-casqued hornbills are overwhelmingly frugivorous; the former has been recorded as 94% herbivorous during nesting season
+All the Bycanistes hornbills: the black-and-white casqued, brown-cheeked, piping, and silvery-cheeked hornbills all have nesting season diets which are 90-94% herbivorous
+Every Rhyticeros hornbill: the Narcondam hornbill and Sumba hornbill have no animal food recorded in their diets (but likely consume a small amount), while the wreathed hornbill is over 95% herbivorous. The red-knobbed hornbill and plain-pouched hornbill both have nesting diets which are 1% insectivorous
+The rufous-necked hornbill is primarily frugivorous, taking small amounts of animal matter, while the Sulawesi hornbill is 85% frugivorous during nesting season. The related Penelopides species are also very herbivorous
+The helmeted hornbill is frugivorous with very minor animal consumption, perhaps ~1% of the diet, even during nesting. However, extended time dedicated to hunting has also been reported
+The hornbills of genus Buceros are extremely herbivorous: the breeding season diet of the rhinoceros hornbill is ~96% herbivorous, whereas that of the great hornbill is 95-99% herbivorous
+The Anthracoceros hornbills are overwhelmingly herbivorous, such as the Malabar pied hornbill. The oriental pied hornbill may be 93% herbivorous during breeding season or nearly totally herbivorous overall
+The Ocyceros hornbills: the non-breeding diet of the Indian grey hornbill is ~92% herbivorous, while the breeding diet of the Malabar grey hornbill is 86% herbivorous
+Ramphastides as a whole is composed largely of herbivores, including birds such as:
+The various birds called barbets, consisting of four closely related families, are generally frugivores with some animal consumption, and include many especially herbivorous species:
+Certain Asian barbets (family Megalaimidae):
+Especially herbivorous nestling diets have been reported for the crimson-fronted barbet and red-throated barbet, at 2% and 5% animal items respectively. The gold-whiskered barbet has a nestling diet which is 82% herbivorous, while that of the blue-eared barbet is 85% plant matter; adult diets are likely even more herbivorous
+The black-browed barbet is 90% frugivorous, while the golden-throated barbet is a frugivore which infrequently takes arthropods
+Certain African barbets (family Lybiidae): the yellow-rumped tinkerbird and black-collared barbet are both described as overwhelmingly frugivorous
+The two species of toucan-barbet (family Semnornithidae):
+The prong-billed barbet is almost exclusively herbivorous, only taking insects to feed young, and even that rarely
+Ten toucan-barbets were found to have only eaten plants, while 73% of all items they feed to nestlings are plants (treating a single insect as one item, and so likely underestimating plant consumption)
+Many Capito species, New World barbets in the family Capitonidae, are exceptionally herbivorous; 80% of 41 black-spotted barbets had only plants in their stomachs, while related species had similar or higher numbers, but smaller sample sizes
+Virtually every species of toucan (family Ramphastidae) is overwhelmingly frugivorous. Toucans are well-documented as taking diverse animal prey items, especially to feed young, but the occurrence of animals in adult diets is likely overemphasized; in one study of 32 species and 326 individual stomachs, only 5.5% contained arthropods, while only 1.2% contained vertebrates. Toucans comprise five genera:
+The green toucanets (genus Aulacorhynchus), such as the emerald toucanet, whose nestling diet is 85-97% herbivorous; in one study, <1% of foraging attempts by adults entailed successful insect capture, most being fed to nestlings
+The aracaris (genus Pteroglossus): 30 total stomachs belonging to red-necked aracari and lettered aracari only contained plants, while the collared aracari and fiery-billed aracari are almost exclusively frugivorous, with only occasional adult consumption of animal matter. The pale-mandibled aracari is only 5.6% insectivorous outside breeding season, and the saffron toucanet is 7% insectivorous year-round
+The dichromatic toucanets (genus Selenidera): 90% of 28 golden-collared toucanet stomachs contained only fruit, while the spot-billed toucanet is 97% herbivorous annually
+The mountain toucans (genus Andigena): the plate-billed mountain toucan is 98% frugivorous, mainly taking insects only for young
+The toucans of genus Ramphastos: the toco toucan is 95% to 97% herbivorous overall, while the channel-billed and red-breasted toucans may be 96% or 100% herbivorous, respectively
+Two genera of Melanerpine woodpeckers contain species which can be exceptionally herbivorous, in certain locations and seasons (but not, generally, overall):
+The genus Melanerpes:
+The red-headed woodpecker may devote nearly all foraging time to acorns in October, while wintering birds in Illinois took 95.5% plants
+The diet of adult acorn woodpeckers in the breeding season in California has been estimated to be 90% acorn, on the basis of isotope analysis, but birds in Mexico are about 50% herbivorous year-round
+The red-bellied woodpecker can be ~65% herbivorous across fall and winter or 94-96% herbivorous in winter
+The white-fronted woodpecker ranges from ~45% herbivorous in late spring to >90% in winter
+The sapsuckers (genus Sphyrapicus): the yellow-bellied sapsucker can spend 77% of feeding time on sap in winter, but is 50% herbivorous across the year
+The nearly 400 species of parrot (order Psittaciformes) are overwhelmingly herbivorous; consumption of animal matter is minor or nonexistent, with few (usually seasonal) notable exceptions. Parrots include:
+The New Zealand parrots (Strigopidae):
+The kea is among the most omnivorous of parrots, famously taking invertebrates, small vertebrates, carrion, and even feeding from living sheep. However, the overall diet is exceptionally herbivorous, with estimates ranging from 70% to 95%; during the fruiting season, they may be close to 100% herbivorous
+The New Zealand kākā is similarly omnivorous, eating many plant foods and probably consuming insects only when other foods are scarce; since it is an energetically inefficient process, much time is dedicated to foraging for insects, but not to eating them. Honeydew can also be important. Precise data are lacking
+The kākāpō is exclusively herbivorous, even as a nestling. They consume an enormous variety of plant foods, including the fruits, seeds, leaves, and tubers of many different species
+The cockatoos (Cacatuidae) are heavily herbivorous (though several species will take insects, especially while nesting):
+The cockatiel is largely granivorous in the wild, apparently consuming no animal matter at all
+The red-tailed black and glossy black cockatoos are virtually purely herbivorous, including as nestlings, with insect conumption being extremely rare and possibly only incidental
+Members of genus Zanda, such as the Carnaby's black cockatoo, which is heavily reliant on seeds; grub extraction ranges from 6% of total feeding records to near 0% (but higher for certain seed species, and seasonally)
+The palm cockatoo is seemingly totally herbivorous, or nearly so
+The gang-gang cockatoo is extremely herbivorous; only 1% of feeding events in one study involved insects
+The galah is essentially completely herbivorous
+Birds of the genus Cacatua are very herbivorous: the sulphur-crested cockatoo is rarely seen to take insects, while a small percentage of pink cockatoo feeding observations involve grubs. About 15% of western corella crops contained insects in one study, while the long-billed corella's annual diet is less than 3% animal matter; the Tanimbar corella is infrequently observed consuming insects
+The true parrots:
+The African grey parrot is overwhelmingly herbivorous; the Rüppell's, Meyer's, Cape, and brown-headed parrots, along with their relatives, are also exceptionally herbivorous, though some species may consume significant quantities of arthropods during a few months of the year
+The neotropical parrots are extremely, and often exclusively, herbivorous:
+The mountain and rufous-fronted parakeets, as well as related parrotlets such as the Manu, brown-backed, and sapphire-rumped parrotlets, are almost wholly herbivorous, though Psilopsiagon species may take insects
+The monk parakeet and cliff parakeet are almost 100% herbivorous, with minor exceptions; dietary studies on the related Brotogeris species, such as the plain, yellow-chevroned, and white-winged parakeets, find nearly 100% herbivorous diets, though very minor insectivory has been suggested
+The rusty-faced parrot, Fuertes's parrot, and relatives are nearly wholly herbivorous
+The pileated parrot, blue-bellied parrot, and Pyrilia species such as the caica, orange-cheeked, and brown-hooded parrots are virtually purely herbivorous, though minor insectivory is likely
+
+
+=== Mammals ===
+Herbivory is quite common among mammals, with herbivores occurring across diverse lineages and in a large variety of sizes, bodyplans, and niches. Both large and small herbivorous mammals are often important prey species for various predators, though the largest, such as the so-called "pachyderms", are generally safe from predation as healthy adults. Large, herbivorous mammals came to dominate global ecosystems in the Cenozoic, and, though vastly reduced in number, they continue to be key features of certain modern ecosystems, such as the Maasai Mara and Kaziranga National Park.
+
+
+==== Marsupials ====
+Most of the extant Diprotodonts, including:
+The extant Vombatiformes (wombats and koalas), as well as many extinct members such as Diprotodon, Zygomaturus, and Palorchestes
+Almost all extant Macropodiformes, such as:
+Kangaroos, wallabies, and wallaroos (the terrestrial Macropods)
+Tree kangaroos, arboreal Macropods
+Potoroids, though this group also consumes large amounts of fungi and generally some insects
+Most Phalangeriformes are mostly or wholly herbivorous, including:
+Greater gliders
+Honey possums
+Cuscuses, such as the common spotted cuscus
+A relatively small number of Didelphimorphs are primarily herbivorous, such as the woolly opossums
+The recently extinct entire family of pig-footed bandicoots (Chaeropodidae, with one genus, Chaeropus) was probably herbivorous
+
+
+==== Placental mammals ====
+
+
+===== Xenarthrans =====
+Certain extinct Cingulates, such as the Pampatheres and Glyptodonts
+All living and extinct sloths (Folivora), including the so-called ground sloths
+
+
+===== Afrotheres =====
+All living and extinct Proboscideans: the African forest, African bush, and Asian elephants, as well as the extinct mammoths, mastodons, Deinotherium, and more
+Sirenians are the only living herbivorous marine mammals; they include the manatees, dugong, and the recently extinct Steller's sea cow
+Hyraxes
+
+
+===== Euarchontoglires =====
+Both species of colugo (Dermoptera) are herbivores
+The great majority of primates:
+The vast majority of lemurs are largely or exclusively herbivorous, including the ring-tailed lemur, the sifakas, the indri, and the bamboo lemurs
+The three species of potto have diets which are ~90% herbivorous
+Slow lorises are majority (and possibly even nearly exclusively) herbivorous, though study findings differ
+Some bushbabies; needle-clawed bushbabies are gum specialists, and the Bioko Allen's bushbaby is primarily frugivorous
+The vast majority of ape and monkey species (the Simiiformes) are wholly or primarily herbivorous, including:
+The majority of the New World monkeys (though several taxa consume insects, some as a primary food source); predominantly or wholly herbivorous New World monkeys include the spider monkeys, muriquis, woolly monkeys, howler monkeys, sakis, and uakaris, among others
+Virtually all Old World monkeys (sensu stricto, excluding apes)
+Vervet monkeys
+Several macaques are overwhelmingly herbivorous, such as the Tibetan, Japanese, Barbary, and Assam macaques
+Although baboons are famously regarded as omnivores and will occasionally consume animals, studies consistently find species, including the yellow, olive, chacma, and hamadryas baboons, to have diets which are ~99% herbivorous
+Mandrill and drill diets are both >95% herbivorous
+Geladas
+All of the Colobines are (or are nearly) purely herbivorous, including the black-and-white colobuses, gray langurs, snub-nosed monkeys, and the proboscis monkey
+All wild apes:
+Gibbon (family Hylobatidae) diets are ~90% herbivorous, on average
+Orangutan diets are typically close to 99% herbivorous, but can range down to 90%, depending on various factors
+The two species of gorilla: western gorillas are ~95% herbivorous overall, while mountain gorillas are closer to 100%
+The two species of chimpanzee (genus Pan):
+Although chimpanzees are well-known for both their insectivory and their hunting, and though diet varies according to several factors, most studies find their diets to be at least ~95% herbivorous and typically more, up to nearly 100%, though a few populations may consume up to >10% animal matter
+Bonobos are perhaps even more herbivorous, though they will consume small amounts of animal matter
+Humans are typically omnivorous, but certain populations are herbivorous or nearly so. These include members of ideological or health movements such as veganism and vegetarianism, cultural or religious traditions such as Rastafari and many sects of the Dharmic faiths, and certain traditional tribal populations, such as the Tarahumara
+A large majority of rodents (Rodentia) are overwhelmingly or exclusively herbivorous, including:
+Naked mole rats and mole-rats
+Old World porcupines (family Hystricidae), such as the Cape porcupine
+New World porcupines (family Erethizontidae) are almost all pure herbivores, such as the North American and Brazilian porcupines
+Chinchillas and viscachas (family Chinchillidae)
+Pacaranas and extinct relatives, such as the giant rodent Josephoartigasia
+Cavies (family Caviidae), such as the guinea pigs, maras, and capybaras
+Agoutis and acouchis
+Pacas
+Degus
+Most Echimyids, including the nutria, hutias, and Atlantic bamboo rat
+Springhares
+The large majority of Sciuromorphs, including:
+Mountain beavers
+Ground squirrels (excluding chipmunks), such as the marmots (e.g., the groundhog), prairie dogs, and golden-mantled ground squirrel
+Chipmunks, though somewhat omnivorous, are still predominantly and often nearly exclusively herbivorous/mycophagous, including the eastern and least chipmunks (though some chipmunks may eat significant quantities of invertebrates, depending on season, age, and sex)
+Sciurus squirrel species, such as the eastern gray and Eurasian red squirrels, are famously somewhat omnivorous, but in their native habitats, their diets are close to 100% herbivorous
+Flying squirrels, such as the northern, red giant, and Japanese dwarf flying squirrels
+Most Sciurids in general, such as the Indian giant, Prevost's, and Indian palm squirrels
+Most Castorimorphs:
+Beavers
+Most of the Heteromyids, including most of the kangaroo rats, kangaroo mice, and pocket mice
+Gophers
+All Lagomorphs; rabbits, hares, and pikas
+
+
+===== Laurasiatheres =====
+A significant number of bats (order Chiroptera) are frugivorous/nectarivorous:
+Virtually all "megabats", such as the long-tongued fruit bat, eastern tube-nosed bat, hammer-headed bat, flying foxes, common blossom bat, and Egyptian fruit bat
+Though the family is extremely dietarily diverse, more than three quarters of leaf-nosed bat species (family Phyllostomidae) are primarily herbivorous, including:
+Cuban fruit-eating bats
+Dwarf little fruit bats
+Lonchophyllines, like the long-snouted and orange nectar bats
+Many Glossophagines, such as the Pallas's long-tongued bat and the Mexican long-tongued bat
+Virtually all of Stenodermatinae are frugivores, including the great stripe-faced, big-eyed, tent-making, wrinkle-faced, Honduran white, and Neotropical fruit bats
+Herbivory among the Carnivora is quite rare; nonetheless, it occurs among diverse taxa:
+Maned wolves are omnivores whose diet is typically nearly equally split between animals and plants. However, fruits can account for 60% or more of total consumed biomass in some cases (though animals predominate in other cases), making them among the most herbivorous of living Canids
+A few bears:
+Giant pandas are almost exclusively herbivorous
+Spectacled bears are typically >95% herbivorous
+American black bears, Asiatic black bears, brown bears, and sun bears are all generally omnivorous with plants making up slightly more than half of their diets, but can range from mostly carnivorous to almost entirely herbivorous, depending on many factors
+A few raccoon relatives (family Procyonidae): kinkajous and olingos are both almost entirely herbivorous
+Red pandas are essentially purely herbivorous
+African palm civets are ~80% herbivorous
+Many Viverrids are omnivorous, and a few are primarily herbivorous:
+Binturongs are primarily a frugivore
+Golden, Asian, and brown palm civets are also largely or wholly frugivores
+All odd-toed ungulates (order Perissodactyla), including:
+Horses, asses, and zebras (family Equidae)
+Rhinoceroses (family Rhinocerotidae)
+Tapirs (family Tapiridae)
+All the non-whale even-toed ungulates (order Artiodactyla), including:
+Ruminants, such as deer, Bovids, the pronghorn, musk deers, the giraffes and okapi, and chevrotains (though this last group includes some members that consume a degree of animal matter)
+Many Suina will consume small amounts of animal matter, but they are overwhelmingly herbivorous overall:
+Wild boars, though popularly regarded as omnivores, are always predominantly herbivorous; typically over 90% of the diet is plant matter. In extreme cases, 1/3 of the diet may be animal matter, but in the native range, plants constitute 85% of the diet as a bare minimum, and very often much more, up to nearly 100%
+Other Sus species, such as the Bornean bearded pig
+Babirusas are predominantly herbivorous
+Bushpigs and red river hogs are predominantly herbivorous
+Giant forest hogs are overwhelmingly herbivorous
+Warthogs are virtually purely herbivorous
+The three peccary species are nearly totally herbivorous
+Camelids, such as the dromedary, wild Bactrian, and Bactrian camels, the llama and alpaca, and the guanaco and vicuña
+Hippos will occasionally consume carrion, but are essentially purely herbivorous overall
+
+
+== See also ==
+Mesocarnivore
+Hypercarnivore
+Herbivore
+Omnivore
+Piscivore
+Veganism
+Vegetarianism
+
+
+== References ==

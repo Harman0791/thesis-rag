@@ -1,0 +1,59 @@
+In formal language theory, the empty string, also known as the empty word or null string, is the unique string of length zero.
+
+
+== Formal theory ==
+Formally, a string is a finite, ordered sequence of characters such as letters, digits or spaces. The empty string is the special case where the sequence has length zero, so there are no symbols in the string.
+There is only one empty string, because two strings are only different if they have different lengths or a different sequence of symbols.
+In formal treatments, the empty string is denoted with ε or sometimes Λ or λ.
+The empty string should not be confused with the empty language ∅, which is a formal language (i.e. a set of strings) that contains no strings, not even the empty string.
+The empty string has several properties:
+
+|ε| = 0. Its string length is zero.
+ε ⋅ s = s ⋅ ε = s. The empty string is the identity element of the concatenation operation. The set of all strings forms a free monoid with respect to ⋅ and ε.
+εR = ε. Reversal of the empty string produces the empty string, so the empty string is a palindrome.
+
+  
+    
+      
+        ∀
+        c
+        ∈
+        s
+        :
+        P
+        (
+        c
+        )
+      
+    
+    {\displaystyle \forall c\in s:P(c)}
+  
+. Statements that are about all characters in a string are vacuously true.
+The empty string precedes any other string under lexicographical order, because it is the shortest of all strings.
+In context-free grammars, a production rule that allows a symbol to produce the empty string is known as an ε-production, and the symbol is said to be "nullable".
+
+
+== Use in programming languages ==
+In most programming languages, strings are a data type. Strings are typically stored at distinct memory addresses (locations). Thus, the same string (e.g., the empty string) may be stored in two or more places in memory. 
+In this way, there could be multiple empty strings in memory, in contrast with the formal theory definition, for which there is only one possible empty string. However, a string comparison function would indicate that all of these empty strings are equal to each other.
+Even a string of length zero can require memory to store it, depending on the format being used. In most programming languages, the empty string is distinct from a null reference (or null pointer) because a null reference points to no string at all, not even the empty string.
+The empty string is a legitimate string, upon which most string operations should work. Some languages treat some or all of the following in similar ways: empty strings, null references, the integer 0, the floating point number 0, the Boolean value false, the ASCII character NUL, or other such values.
+The empty string is usually represented similarly to other strings. In implementations with string terminating character (null-terminated strings or plain text lines), the empty string is indicated by the immediate use of this terminating character.
+Different functions, methods, macros, or idioms exist for checking if a string is empty in different languages.
+
+
+=== Representations of the empty string ===
+
+The empty string is a syntactically valid representation of zero in positional notation (in any base), which does not contain leading zeros. Since the empty string does not have a standard visual representation outside of formal language theory, the number zero is traditionally represented by a single decimal digit 0 instead.
+Zero-filled memory area, interpreted as a null-terminated string, is an empty string.
+Empty lines of text show the empty string. This can occur from two consecutive EOLs, as often occur in text files. This is sometimes used in text processing to separate paragraphs, e.g. in MediaWiki.
+
+
+== See also ==
+Empty set
+Null-terminated string
+Concatenation theory
+String literal
+
+
+== References ==
