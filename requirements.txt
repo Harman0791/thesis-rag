@@ -1,0 +1,17 @@
+   faiss-cpu
+   sentence-transformers
+   datasets
+   numpy
+   pandas
+   pyarrow
+   scikit-learn
+   tqdm
+   psutil
+   matplotlib
+   beautifulsoup4
+   llama-cpp-python
+   huggingface_hub
+   evaluate
+   nltk
+   jupyter
+   ipywidgets
