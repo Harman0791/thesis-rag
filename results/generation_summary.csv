@@ -1,0 +1,4 @@
+timestamp,retriever,generator,chunk_size,overlap_ratio,n_questions,EM,F1
+2026-11-11T18:08:28,BM25,Qwen2.5-3B-Instruct-Q4_K_M,512,0.25,50,0.4,0.4686666666666667
+2026-11-11T18:08:28,Dense,Qwen2.5-3B-Instruct-Q4_K_M,512,0.25,50,0.42,0.4983333333333333
+2026-11-11T18:08:28,Hybrid,Qwen2.5-3B-Instruct-Q4_K_M,512,0.25,50,0.36,0.4453333333333333
